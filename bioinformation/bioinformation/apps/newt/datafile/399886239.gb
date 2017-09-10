@@ -1,0 +1,58 @@
+LOCUS       JQ598071                 635 bp    DNA     linear   VRT 13-AUG-2012
+DEFINITION  Triturus carnifex haplotype N1 NADH dehydrogenase subunit 2 (ND2)
+            gene, partial cds; mitochondrial.
+ACCESSION   JQ598071
+VERSION     JQ598071.1  GI:399886239
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Canestrelli,D., Salvi,D., Maura,M., Bologna,M.A. and Nascetti,G.
+  TITLE     One Species, Three Pleistocene Evolutionary Histories:
+            Phylogeography of the Italian Crested Newt, Triturus carnifex
+  JOURNAL   PLoS ONE 7 (7), E41754 (2012)
+   PUBMED   22848590
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Canestrelli,D. and Maura,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JAN-2012) Ecology and Biology, Tuscia University,
+            Largo dell'Universita s.n.c., Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8326"
+                     /haplotype="N1"
+                     /country="Slovenia"
+     gene            <1..>635
+                     /gene="ND2"
+     CDS             <1..>635
+                     /gene="ND2"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AFP52512.1"
+                     /db_xref="GI:399886240"
+                     /translation="HHPRATESATKYFLTQATASALLLFSAAMNAWMTGEWTIMNMNS
+                     YTPTTILTVALAIKLGIAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLILTSHQL
+                     NTNLLTLMALASAIMGGWGALNQTQMRKIMAYSSIAHLGWMALVISFAPGLALLNLMI
+                     YLLMTSSMFMMLMTLNATNVNKLSISWLKTPTLAASMMAGLLSLGGLPPLS"
+ORIGIN      
+        1 tacaccaccc acgagccaca gaatctgcaa caaaatattt cttaacacag gccacagctt
+       61 ctgctttact tctattttct gccgctataa acgcatggat aacaggagaa tgaactatta
+      121 taaacataaa tagctatact cctacaacaa tcttaacggt tgccttagcg attaaactag
+      181 gaattgcccc atttcacctc tgactaccag acgtcctaca agggctcgac ataataacct
+      241 gcctaatcct ctcaacatga caaaaacttg ccccaatagc cctattaatt ttaacaagcc
+      301 accagctaaa taccaactta ttaaccctaa tagccctcgc atccgcaatc atgggggggt
+      361 ggggggccct aaatcaaact caaatacgga aaatcatggc atactcatct attgcacacc
+      421 ttggctgaat agcgctggtt atctcatttg ccccaggcct ggcgctgttg aatttaataa
+      481 tctaccttct aataacctca tctatattta taatactaat aaccctaaac gccacaaacg
+      541 taaataaact gtcaatctcc tgactaaaaa caccaaccct ggcagcctca ataatagccg
+      601 gcctcctctc cctcggaggc ctgccccctc tctca
+//
+

@@ -1,0 +1,65 @@
+LOCUS       DQ821218                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Lissotriton boscai isolate 124_2 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821218
+VERSION     DQ821218.1  GI:110704092
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="124_2"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:323757"
+                     /country="Spain"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87966.1"
+                     /db_xref="GI:110704093"
+                     /translation="MAHTMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDA
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPMGITSDQDK
+                     ISFHPYFSYKDILGFLMMLLALVLISLLTPNLLGDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aacacaccca ctccttaaaa ttatcaacaa ctcattcatt
+       61 gacctcccaa caccatcaaa catctcatac tgatgaaact ttggctccct tcttggaatc
+      121 tgtttaatta cacaaattat tacaggcctc ttccttgcca tacactatac agcagataca
+      181 caatcagcct tctcatcagt agcccatatc tgtcgagacg tcaactacgg atgattggtt
+      241 cgaaacatcc acgccaatgg tgcttctttc ttctttatct gcatctatat acacattgga
+      301 cgaggccttt attacggctc ttacatattt aaagagacat gaaacatcgg tgtaatcctc
+      361 ttacttctag ttatagcaac tgctttcgta ggatatgtct taccatgagg acaaatatct
+      421 ttctgagggg ccacagtaat taccaacctt ctctcagcta ttccatacat gggggacgct
+      481 ctagtacaat gaatttgagg cggattctca gttgacaaag cgaccctaac gcgattcttt
+      541 gcattccact ttttattccc ttttcttatt gctggagcaa gcattgtaca cttattgttc
+      601 ctacaccaaa ccggatcaaa caaccccata ggaattacat cggaccaaga caaaatttcc
+      661 tttcacccat acttctcgta taaagacatt cttggcttct taataatact cctcgcccta
+      721 gtactaattt cccttttaac accaaacttg ctcggagacc cagaaaactt taccccagct
+      781 aactcactag taacccctcc acatattcaa ccagaatga
+//
+

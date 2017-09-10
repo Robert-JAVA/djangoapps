@@ -1,0 +1,51 @@
+LOCUS       S76886                   571 bp    mRNA    linear   VRT 27-JUL-1995
+DEFINITION  fibronectin [Notophthalmus viridescens=newts, mid-bud blastema,
+            mRNA Partial, 571 nt].
+ACCESSION   S76886
+VERSION     S76886.1  GI:914305
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 571)
+  AUTHORS   Nace,J.D. and Tassava,R.A.
+  TITLE     Examination of fibronectin distribution and its sources in the
+            regenerating newt limb by immunocytochemistry and in situ
+            hybridization
+  JOURNAL   Dev. Dyn. 202 (2), 153-164 (1995)
+   PUBMED   7734733
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 163800] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..571
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..571
+                     /gene="fibronectin, matrix 4 antigen, MT4 antigen"
+     CDS             1..571
+                     /gene="fibronectin, matrix 4 antigen, MT4 antigen"
+                     /note="matrix 4 antigen; MT4 antigen"
+                     /codon_start=2
+                     /product="fibronectin"
+                     /protein_id="AAB34250.1"
+                     /db_xref="GI:914306"
+                     /translation="NSNGASCHFPFLYNNRNYTDCTSEGRRDSMKWCGTTLNLYADQK
+                     FGFCPMAAHEEICTTNEGVMYRVGVQVDKQHDQGHMMRCTCVGNGRGEWNCVAYSQLR
+                     DQCIVDGITYDVNHTFTKRHEEGHMMNCTCYGQGRGWWKCDAIDQCQDSETRQFYQIG
+                     DSWEKHVQGVRYQCYSIGRGIGEWHCQPLQ"
+ORIGIN      
+        1 gaattctaat ggtgcctcgt gccacttccc attcttgtat aacaaccgca attacactga
+       61 ctgcacatcg gaagggagaa gggacagtat gaaatggtgc ggtaccactc ttaacctata
+      121 tgcagatcag aagtttggct tctgccctat ggctgcccat gaagagattt gcaccaccaa
+      181 tgaaggggtc atgtatcgtg ttggagtcca agtggacaag caacatgacc aggggcacat
+      241 gatgagatgc acctgtgttg ggaacggccg aggagaatgg aactgcgttg catactccca
+      301 gctccgtgat caatgtatcg tagatgggat cacctatgac gtcaaccaca ccttcacaaa
+      361 gcgtcacgag gagggccaca tgatgaactg cacgtgctac ggacagggtc ggggctggtg
+      421 gaagtgtgat gcaattgacc agtgccaaga ttctgaaacc cgccagttct accaaattgg
+      481 tgactcatgg gagaagcatg tgcaaggagt gcgctaccag tgctactcta ttggccgggg
+      541 gattggggaa tggcactgcc agcctctgca g
+//
+

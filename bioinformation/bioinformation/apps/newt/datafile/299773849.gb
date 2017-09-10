@@ -1,0 +1,58 @@
+LOCUS       GU982405                 658 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus karelinii haplotype TkarA15 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   GU982405
+VERSION     GU982405.1  GI:299773849
+KEYWORDS    .
+SOURCE      mitochondrion Triturus karelinii (Balkan newt)
+  ORGANISM  Triturus karelinii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus karelinii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8325"
+                     /haplotype="TkarA15"
+     CDS             <1..>658
+                     /note="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADJ38995.1"
+                     /db_xref="GI:299773850"
+                     /translation="ILAAVLLKLGGYGIIRITMILTPMTKEMAYPFMILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLIRGAQAVLPLMTTWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTILITGLGALITASYTLYMFLMTQRGPTPLHLGQINPSHTREHFLLVMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctagcag cagtattgct caagcttgga ggatatggca ttattcgaat cactataatt
+       61 cttactccaa taacaaaaga aatagcgtat ccgtttataa ttttagcctt atggggagtt
+      121 gtaataacga gcctaatttg catacgacaa acagacctta aatcgctgat tgcatattca
+      181 tctgtaagcc atataggcct agtcatcgcc gctattataa tccaaacacc atgaagccta
+      241 acaggagcta ttattttaat aatctcacat ggacttatct catcagccct attttgcctg
+      301 gcaaacctaa attatgaacg aacacacagt cgaaccctat tattaattcg gggggcccag
+      361 gcagtcctac ccctaatgac aacctgatgg ctcattgcaa atttatcaaa tatagcactt
+      421 cccccaacaa taaatttatg aggagagctg acaattatgg tctcgctatt taactggtcc
+      481 ccttgaacta tcctaatcac aggcttaggc gccttgatca ctgcctctta taccctatac
+      541 atgttcctaa taacacagcg aggcccaact cccctacatc ttggccaaat taacccatct
+      601 cacactcgag agcacttctt acttgtaata cacttagccc ccatattact actaatcc
+//
+

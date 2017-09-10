@@ -1,0 +1,66 @@
+LOCUS       KJ715286                1146 bp    DNA     linear   VRT 01-OCT-2014
+DEFINITION  Cynops orientalis SLIT and NTRK-like protein 1-like protein
+            (SLITRK1) gene, partial cds.
+ACCESSION   KJ715286
+VERSION     KJ715286.1  GI:689434613
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1146)
+  AUTHORS   Mao,R.L., Chen,M.Y. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2014) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1146
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>1146
+                     /gene="SLITRK1"
+     mRNA            <1..>1146
+                     /gene="SLITRK1"
+                     /product="SLIT and NTRK-like protein 1-like protein"
+     CDS             <1..>1146
+                     /gene="SLITRK1"
+                     /codon_start=1
+                     /product="SLIT and NTRK-like protein 1-like protein"
+                     /protein_id="AIR07947.1"
+                     /db_xref="GI:689434614"
+                     /translation="FRDLNKLEVLILNDNLISTLPNNIFQYVPITHLDLRGNRLKTLP
+                     YEGVLEQIPGIAEILLEDNPWDCSCDLFSLKEWLENIPKNALIGRVVCEAPTRLQGKD
+                     LNETKERDLCPLKNGVDSSLAAPPAQEETCDPGPVPTSFKVSGQQEAATPGSGPAGGT
+                     KVPGNWQIKTRPTPSVVRHNARNRLLHHIPCPLVCSCGQQNVGSGLKVDCSSRNVKSL
+                     ADLEPKALNVQELFLRENKIHTIRRAHFLDYRNLSLLDLGNNNIGIVENNTFQNLTDL
+                     RWLYMDKNCLDTLMPEKFSGLQSLEYLNLEFNFIQLILPNTFNPVPNLRILILNNNLL
+                     KALPVDVFAGISLSKLSLHNNYFMYLPVAGVLDQLTSIIQIDLHGNQW"
+ORIGIN      
+        1 ttcagggacc tgaacaaact ggaggtgctg attctgaacg acaatctgat cagcaccctg
+       61 cccaacaaca tctttcagta cgttcccatc acccacctgg acttgagggg caaccgcctg
+      121 aagacgctcc cctacgaggg ggtcctggag cagatacccg gcatcgccga gatcttgctg
+      181 gaggataacc cctgggactg cagctgtgac ctcttctcgc tgaaggaatg gctcgagaac
+      241 attccgaaga atgccctcat cggccgggtc gtctgcgagg cgcccacccg gctgcagggc
+      301 aaggacctga acgagaccaa ggagcgcgac ctgtgccccc tgaagaacgg ggtggactcc
+      361 agcctcgctg cccctccagc ccaggaggag acatgtgacc ctggcccggt ccccacctcc
+      421 tttaaagtca gtggtcagca agaggctgcc accccagggt cagggcccgc tggtgggacc
+      481 aaggtgccag gcaactggca gatcaagacc aggcccaccc cttccgtggt caggcacaat
+      541 gccaggaaca gactgctgca ccacatcccc tgccccttgg tgtgtagctg tggtcagcag
+      601 aacgtgggtt cgggcttgaa ggtggactgc agcagcagga acgtcaagag cctggccgac
+      661 ctcgagccca aggcactgaa tgtgcaggag ctctttttaa gagagaacaa aatccacacc
+      721 attcgcaggg cccacttcct ggactaccga aatctgagcc tgctcgacct gggcaacaac
+      781 aacatcggca tagtggagaa caacacgttc cagaacctca ccgacctaag atggctgtac
+      841 atggacaaga actgcctgga caccctcatg cccgagaaat tcagcggcct gcagagcctg
+      901 gaatatttga acctggagtt taactttatc cagctcatcc tgcccaacac cttcaaccct
+      961 gtgcccaacc tgaggattct gatcctcaac aacaacctgc tgaaagcctt gcccgtggat
+     1021 gtgtttgctg gcatctccct gtccaagctc agcctgcata ataattactt catgtacttg
+     1081 ccagtggctg gggtgctaga ccaactcacc tccatcatcc agatcgacct ccatggcaac
+     1141 cagtgg
+//
+

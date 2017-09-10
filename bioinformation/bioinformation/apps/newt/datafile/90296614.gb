@@ -1,0 +1,82 @@
+LOCUS       DQ283445                2397 bp    DNA     linear   VRT 12-MAR-2010
+DEFINITION  Pleurodeles waltl voucher AMNH A168418 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   DQ283445
+VERSION     DQ283445.1  GI:90296614
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2397)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     The Amphibian Tree of Life
+  JOURNAL   Bull. Am. Mus. Nat. Hist. 297, 1-291 (2006)
+REFERENCE   2  (bases 1 to 2397)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2005) Herpetology, Division of Vertebrate
+            Zoology, American Museum of Natural History, Central Park West at
+            79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..2397
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH A168418"
+                     /db_xref="taxon:8319"
+                     /note="pet trade"
+     misc_feature    <1..>2397
+                     /note="contains 12S ribosomal RNA, tRNA-Val, and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 gtttggtcct agcccttgct attaatttta gctatactta cacatgcgag tatcagcaca
+       61 cccgtgaaaa tgccccctat tgcccataag cgaatgagga gcggatatca ggcacaatct
+      121 acgcccaaga catcttgtta agccacaccc ccaagggaac tcagcagtga taaactttga
+      181 caaataagcg aaacaaagct tgaatcagta atagccaaca gagccggtta atctcgtgcc
+      241 agccaccgcg gttatacgag aggctcaaat taataaaatc ggcccaaagg gtggttaaag
+      301 aacacatgtg atagaattaa aaattaactc cgctgtcgta cgcaatagtt aaaaccaaaa
+      361 cacaacatcg aaagaaattc tacaaaaata acttaaaccc acgacagtta ggacacaaac
+      421 tgggattaga taccccacta tgcctaaccg taaactttga cttatccgcc agagtactac
+      481 gagcaacagc ttaaaactca aaggacttgg cggtgctcta caccccccta gaggagcctg
+      541 ttctgtaatc gataatcccc gataaacctc accatctatt gccaatacag cctatatacc
+      601 accgtccagc ccgcccttta aaggttaaaa agcaggcaca actataacca taaaaacgtc
+      661 aggtcaaggt gtagctaata agatgggaag aaatgggcta cattttctaa cctagaatac
+      721 acgaaaaagt ttttgaaaca aaacttcgaa ggaggattta gcagtaaaaa gaaagaagag
+      781 tgttcttttt aagccggcaa tggagcgcgc acacaccgcc cgtcaccctc ttcaaatact
+      841 ataaaacccc tatattaaac agaagtaaaa aaaagaagag gcaagtcgta acatggtaag
+      901 tctaccggaa ggtgaacttg gaatatcagc ccatagctta acataaagca tcttgcttac
+      961 accaagaaca tacccgttaa atccgagttg ggctgagtga taattctagc caacacagcc
+     1021 aacacatcat aacaaaataa ataaaccatt taattaaata gtatgggcga cagaaacttt
+     1081 aacatgagcg atagaaaaag tactgcaaag gaaagatgaa ataaaaatga aataaataac
+     1141 aaaaacagga gaaagaaaag attaaacctt gtaccttttg cataatggtc tagtaagtaa
+     1201 aacttaacaa aaagaaataa agttaacccc cccgaaacta gacgagctac ttaaaagcag
+     1261 cactaacaag agccaacccg tctctgtagc aaaagagtgg gaagactttt aagtagaggt
+     1321 gatagaccta acgagcctgg tgatagctgg ttgcttaaga aatggatttt agttcagctt
+     1381 aaaacgcttt ttaattacca aaaaataaaa atagcacttt aaagttaatt aataaaggta
+     1441 cagctttatt aataaaggac acaacctaaa acatgaataa ggattatatt aatttaagta
+     1501 tttaaccatg taggcctaaa agcagccacc ataagaaagc gtcaaagccc agtttacaca
+     1561 acacttgtta tcccaataaa taatctaaat tcacacaaca tattaagcct atctattaaa
+     1621 tagatgagtt tatactagaa taagtaataa gaacatattc tctacatgca tgtgtaaatc
+     1681 agaacgaaca aatcactgat aattaacgac caaatatatt aaaaatcaag aaaaacatat
+     1741 taaaccaacc gttaacccga cacaggagca tcaaagaaag attaaaagac taaaaaggaa
+     1801 ctcggcaaac atgaacttcg cctgtttacc aaaaacatcg cctcttgcta ataagtaagt
+     1861 ataagaggtc ccgcctgccc agtgagcaat ttcaacggcc gcggtatcat gaccgtgcaa
+     1921 aggtagcgta atcacttgtc ttttaaataa agacctgtat gaatggcaaa acgaaagttc
+     1981 aactgtctct ttagtccaat caattaaatt tatctctccg tgcagaagcg gagataaaca
+     2041 tataagacga gaagacccta tggagcttta aacacactat taactatgcc cccctacaac
+     2101 aacccgacag gcaaaaatta tagaccgcat agatgtaata caagttttgg gttggggcga
+     2161 ccacggaaga aaaatcatcc tccgagataa acagtttaga acaacatttc aaaaattaaa
+     2221 acatttatta aaaatgatcc actaagtgat caacgaacca agttacccta gggataacag
+     2281 cgcaatcctt tctaagagtt catatcgacg aacgggttta cgacctcgat gttggatcag
+     2341 gacacccaaa cggtgcagcc gctgttaatg gttcgtttgt tcaacgatta aagtcct
+//
+

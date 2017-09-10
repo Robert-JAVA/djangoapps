@@ -1,0 +1,40 @@
+LOCUS       AY225443                 123 bp    DNA     linear   VRT 25-SEP-2003
+DEFINITION  Cynops pyrrhogaster HES1 gene, partial cds.
+ACCESSION   AY225443
+VERSION     AY225443.1  GI:35397114
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 123)
+  AUTHORS   Vasiliauskas,D., Laufer,E. and Stern,C.D.
+  TITLE     A role for hairy1 in regulating chick limb bud growth
+  JOURNAL   Dev. Biol. 262 (1), 94-106 (2003)
+   PUBMED   14512021
+REFERENCE   2  (bases 1 to 123)
+  AUTHORS   Vasiliauskas,D. and Stern,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2003) Department of Genetics and Development,
+            College of Physicians and Surgeons of Columbia University, 701 West
+            168th Street, New York, NY 10032, USA
+FEATURES             Location/Qualifiers
+     source          1..123
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+     mRNA            <1..>69
+                     /product="HES1"
+     CDS             <1..>69
+                     /codon_start=1
+                     /product="HES1"
+                     /protein_id="AAP44733.1"
+                     /db_xref="GI:35397115"
+                     /translation="MAGAPACGTQTPDKPKSASEHRK"
+ORIGIN      
+        1 atggcaggag cccccgcttg cggcacccag accccggaca agcccaagag tgccagcgag
+       61 caccgcaagg tgagttgtgt cataacgcat gtgggtcggg gcaggtgcaa gtagaacacg
+      121 cat
+//
+

@@ -1,0 +1,56 @@
+LOCUS       KC295222                 669 bp    mRNA    linear   VRT 11-MAR-2014
+DEFINITION  Pachytriton brevipes anterior gradient protein 2 (ag2) mRNA,
+            complete cds.
+ACCESSION   KC295222
+VERSION     KC295222.1  GI:461179948
+KEYWORDS    .
+SOURCE      Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 669)
+  AUTHORS   Jiang,D., Zhu,X.L., Zhao,J.F., Zhou,Y.K., Zhong,C., Zhang,J. and
+            Huang,X.
+  TITLE     Subtractive screen of potential limb regeneration related genes
+            from Pachytriton brevipes
+  JOURNAL   Mol. Biol. Rep. 41 (2), 1015-1026 (2014)
+   PUBMED   24390235
+REFERENCE   2  (bases 1 to 669)
+  AUTHORS   Zhu,X. and Huang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) College of Life Science in Zhejiang
+            University, Institute of Cellular and Developmental Biology, Yu
+            Hang Tang Road 388#, Hangzhou, Zhejiang 310058, China
+FEATURES             Location/Qualifiers
+     source          1..669
+                     /organism="Pachytriton brevipes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:377299"
+     gene            1..669
+                     /gene="ag2"
+     CDS             20..520
+                     /gene="ag2"
+                     /codon_start=1
+                     /product="anterior gradient protein 2"
+                     /protein_id="AGH15795.1"
+                     /db_xref="GI:461179949"
+                     /translation="MVKGYLSALLLLVLSSYSLAKESAKKPEVKKVQTLSRGWGDSLE
+                     WVQTYEEGLFKAKSSNKPLLVINHRDDCPHSQALKKAFAEHKGIQKLAEKFILLNVVH
+                     DPTDKNLLLDGQYVPKLVFVDPSLVVRADLPGKYSNHRYTYEPTDTELLMGNMQKALK
+                     LLKTEL"
+ORIGIN      
+        1 gaccaagcca tcgctcaaca tggtgaaagg ttacctgtcg gctcttctgc tcctggtgct
+       61 ttcttcatac agcctagcca aggagagcgc caagaaaccg gaagtgaaga aggtccagac
+      121 tctttccagg gggtggggcg acagtctcga atgggttcag acgtatgagg aaggcctatt
+      181 caaagccaag agcagcaaca aaccactgct cgttattaac cacagagatg actgcccaca
+      241 ctctcaagct ttgaagaaag cttttgctga gcacaaaggc atccagaagc tagctgagaa
+      301 gttcattctt ctgaacgttg ttcatgatcc aactgacaag aaccttttac ttgatggcca
+      361 gtatgtaccc aagcttgttt ttgtagatcc atctctggta gtgagagctg accttcctgg
+      421 aaaatactct aaccatcggt acacgtacga gcctacagac actgagctgt tgatgggtaa
+      481 catgcagaaa gcactcaaac ttctgaaaac tgaactgtga gtgatgaatg cctagacacg
+      541 tgacccccgc atcctgtttc gtcatgagac tttccaacca gaaagtttac ttcagttgat
+      601 ttgaaattca tgaagacact gtaaaagcat aactgggatt atgattcatc tggctgtaaa
+      661 cacttcctg
+//
+

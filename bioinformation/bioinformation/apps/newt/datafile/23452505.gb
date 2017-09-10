@@ -1,0 +1,82 @@
+LOCUS       AF537187                2054 bp    mRNA    linear   VRT 25-OCT-2002
+DEFINITION  Notophthalmus viridescens T-domain transcription factor Tbx4 (Tbx4)
+            mRNA, partial cds.
+ACCESSION   AF537187
+VERSION     AF537187.1  GI:23452505
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2054)
+  AUTHORS   Khan,P., Linkhart,B. and Simon,H.G.
+  TITLE     Different regulation of T-box genes Tbx4 and Tbx5 during limb
+            development and limb regeneration
+  JOURNAL   Dev. Biol. 250 (2), 383-392 (2002)
+   PUBMED   12376111
+REFERENCE   2  (bases 1 to 2054)
+  AUTHORS   Simon,H.-G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2002) Pediatrics, Northwestern University Medical
+            School and CMIER, 2430 N. Halsted Street, Chicago, IL 60614, USA
+FEATURES             Location/Qualifiers
+     source          1..2054
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..2054
+                     /gene="Tbx4"
+     CDS             <1..1272
+                     /gene="Tbx4"
+                     /note="NvTbx4"
+                     /codon_start=1
+                     /product="T-domain transcription factor Tbx4"
+                     /protein_id="AAN33052.1"
+                     /db_xref="GI:23452506"
+                     /translation="DNKWMVAGKAEPAMPGRLYVHPDSPATGAHWMRQLVSFQKLKLT
+                     NNHLDPFGHIILNSMHKYQPRLHIVKADENNAFGSKNTAFCTHVFPETSFISVTSYQN
+                     HKITQLKIENNPFAKGFRGSDDSDLRVARLQSKEYPVISKSIMRQRLVSSHHGQLSGK
+                     ADLNSLHGSHQGLQHYQYENGAHMQFAASDGQDLPLNSFAAQRDSGLFYHCLKRRESA
+                     RHLDLSCKRSYLEAASSVGDDHYFRSPPPYEQQMLSPSYRSEVAQREACMFSSSGPDI
+                     AGVSTVEDLPPPPPPPLSCNMWTSVAPYTSYSVQTMEAVPYQHFPTHFTAATMMPRLP
+                     TITGQSSQPPGDSPYSVYNQLPHSQGRERVPPSSFARERVHPSLCERKAPSPHLNATN
+                     EFLYAQSFSLSREPSLQYHSGMGTVENWPDG"
+ORIGIN      
+        1 gacaacaaat ggatggttgc cgggaaggcc gagcctgcca tgcccggaag gctctacgtc
+       61 cacccagact cacctgcaac aggcgctcac tggatgcggc agcttgtctc ctttcagaag
+      121 ctgaaactga ccaacaacca cctggatccc ttcggacata tcattctaaa ttcgatgcac
+      181 aaataccagc cccggctcca catcgtcaaa gcagatgaaa acaatgcttt tggctctaaa
+      241 aacactgcct tctgtacaca tgtgtttcca gaaacttctt tcatctctgt gacatcatat
+      301 cagaaccata agattacaca gctgaaaatt gaaaacaacc catttgccaa aggtttcagg
+      361 gggagcgatg acagtgacct gcgcgtggca cgtctgcaaa gcaaggagta tccagtgatt
+      421 tccaaaagca tcatgaggca gcggctggtg tccagccatc atgggcagct atcgggcaaa
+      481 gccgacctga actcactgca tggaagccac cagggcctgc agcattacca gtatgagaat
+      541 ggagcccaca tgcagtttgc cgcctcagat ggccaggacc tgccactcaa cagctttgct
+      601 gcccaacgag attcaggact attttaccat tgcctgaaaa gaagggagag tgctcggcac
+      661 ctggatctct cttgcaagcg gtcctacctg gaggctgcat cctcggtggg tgatgatcac
+      721 tacttccgat ccccgcctcc gtatgagcag cagatgctga gcccatccta ccgcagcgag
+      781 gtggctcaaa gggaagcctg catgttctcc agctcaggac cagacatcgc aggcgtctcc
+      841 accgtggaag acttgccrcc tcctccacca cctcctttga gctgtaacat gtggacctcc
+      901 gtggcacctt acaccagcta tagcgttcag acaatggaag cagtgcccta ccagcacttc
+      961 cccacccact tcactgctgc caccatgatg ccrcgtctcc ccaccatcac gggccagagc
+     1021 tcgcagcccc caggtgattc cccctacagc gtctacaacc agctccccca ctctcaaggt
+     1081 cgagagagrg ttccgccatc ctccttcgct agggaaagag ttcatccttc cctctgcgag
+     1141 aggaaagcac cttcccccca cttaaacgcc accaatgaat ttctttatgc acagagcttt
+     1201 tccttgtcca gggaaccctc gttgcagtat cattccggaa tgggaactgt ggaaaactgg
+     1261 ccggacggat gatttcccct ccatgaacwc actgccgttt atcaccttta acttcgcaac
+     1321 ttttactgtg ccttttcgcc cgtgggtagc ctgtgagcya gtgaaatttg ccataaagtg
+     1381 ccctggagaa actattgttt gttaacaaag tatttcgccc cacagttttt gggtgaggtg
+     1441 gycgtccatc cacattctaa ctctaaatcc ccagatcata tttatacaac gatctgtgtc
+     1501 ttgtttcaat ccgattttgg aaattttaca atgtgatatt ctgaaccatg tccccatttt
+     1561 cagttgtttt tagagagata gttgcccaca tgcgcagggc agccaactgt acaacacagg
+     1621 atagaaacag accgagtttt acatagcagc tttcntatgt cttggtttga tgaatccaaa
+     1681 tccaaacata cacaacatcg atatttctta aaacgtagta tgtagtaagt gtcaacagtt
+     1741 acacaatgat aagatatttg ctattctctc caaaatgact tttgcttctc gantgcgagg
+     1801 ccagcagcat ntcccaggtg cattcgggat ttgcaatgaa tggacgtata gttgtgaatc
+     1861 tccttaagca gtatgtgaca agaccagtga gatcattgaa actgattntg cgaaaaactc
+     1921 agtcttgcca aaatgaacat attaaaaaag tttttttaag cccactgaag gagaggctca
+     1981 tccagcctga tgcagttaac ataaaatcag cagaccataa aaaaaaaaaa aaaaaaaaaa
+     2041 aaaaaaaaaa aaaa
+//
+

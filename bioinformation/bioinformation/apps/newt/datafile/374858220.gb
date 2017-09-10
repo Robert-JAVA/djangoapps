@@ -1,0 +1,64 @@
+LOCUS       JN788223                 759 bp    DNA     linear   VRT 13-FEB-2012
+DEFINITION  Lissotriton italicus haplotype CI7 NADH dehydrogenase subunit 4
+            gene, partial cds; tRNA-His gene, complete sequence; and tRNA-Ser
+            gene, partial sequence; mitochondrial.
+ACCESSION   JN788223
+VERSION     JN788223.1  GI:374858220
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 759)
+  AUTHORS   Canestrelli,D., Sacco,F. and Nascetti,G.
+  TITLE     On glacial refugia, genetic diversity, and microevolutionary
+            processes: deep phylogeographical structure in the endemic newt
+            Lissotriton italicus
+  JOURNAL   Biol. J. Linn. Soc. Lond. 105 (1), 42-55 (2012)
+REFERENCE   2  (bases 1 to 759)
+  AUTHORS   Canestrelli,D., Sacco,F. and Nascetti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2011) Dept. of Ecology and Biology, Tuscia
+            University, Largo dell'Universita' s.n.c., Viterbo, Italy 01100,
+            Italy
+FEATURES             Location/Qualifiers
+     source          1..759
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323755"
+                     /haplotype="CI7"
+     CDS             <1..648
+                     /note="ND4; TAA stop codon is completed by the addition of
+                     3' A residues to the mRNA"
+                     /codon_start=3
+                     /transl_except=(pos:648,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AEZ78856.1"
+                     /db_xref="GI:374858221"
+                     /translation="RISIILTPLTKEMSYPFMILALWGIVMTSLICMRQTDLKSLIAY
+                     SSVSHMGLVIAAILIQTPWSLTGAIILMISHGLISSALFCLANLNYERTHSRTLLLVR
+                     GTQAALPLMATWWLFANLSNMALPPSTNLWGELTIMVSLFNWSPWTIMITGIGTLITA
+                     SYTLYMFLMTQRGPVPNHLLTLNPSYTREHFLVVMHLMPMLLLIFKPALISGMFS"
+     tRNA            649..719
+                     /product="tRNA-His"
+     tRNA            720..>759
+                     /product="tRNA-Ser"
+ORIGIN      
+        1 tccgaatttc tattatcctc acccccttaa ccaaagaaat atcataccca tttatgatcc
+       61 tagccttatg aggaattgta ataacgagct taatctgcat acgacagaca gacctgaaat
+      121 ctcttattgc atactcctct gttagccaca taggactagt aattgctgct attttaattc
+      181 aaacaccatg aagccttacg ggagccatta ttttaataat ctcacacgga cttatctcat
+      241 cagccctatt ctgcctggca aatctaaact atgaacgaac ccacagccga accctattac
+      301 tagttcgggg gacacaagca gccctccccc ttatggcaac ctggtgacta tttgcaaatc
+      361 tctcaaacat agccctccct ccatcaacaa acctttgagg agaattaacg attatagtct
+      421 ccctatttaa ctggtcccct tgaacaatta taattacagg aattgggact ttaattacgg
+      481 cctcctatac actttatata ttcttaataa cacaacgggg cccagtccca aaccatctcc
+      541 tcacgctaaa cccgtcttat actcgcgaac acttccttgt ggtgatacat ttaataccta
+      601 tacttttatt aatctttaaa cctgctctta tctcagggat attctcatgt gcgtataatt
+      661 taaaaaaata ttagattgtg attctaaaaa tgaaagttaa accctctcta ctcaccaaga
+      721 agaattatga aatacagaga ctgctaatta tctgaccct
+//
+

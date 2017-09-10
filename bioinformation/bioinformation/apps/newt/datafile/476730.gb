@@ -1,0 +1,108 @@
+LOCUS       NVIKGFR                 2681 bp    mRNA    linear   VRT 02-MAY-1994
+DEFINITION  Notophthalmus viridescens keratinocyte growth factor receptor
+            (KGFR) mRNA, complete cds.
+ACCESSION   L19870
+VERSION     L19870.1  GI:476730
+KEYWORDS    keratinocyte growth factor receptor.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2681)
+  AUTHORS   Poulin,M.L., Patrie,K.M., Botelho,M.J., Tassava,R.A. and Chiu,I.M.
+  TITLE     Heterogeneity in the expression of fibroblast growth factor
+            receptors during limb regeneration in newts (Notophthalmus
+            viridescens)
+  JOURNAL   Development 119 (2), 353-361 (1993)
+   PUBMED   8287792
+REFERENCE   2  (sites)
+  AUTHORS   Poulin,M.L. and Chiu,I.M.
+  TITLE     Nucleotide sequences of two newt (Notophthalmus viridescens)
+            fibroblast growth factor receptor-2 variants
+  JOURNAL   Biochim. Biophys. Acta 1220 (2), 209-211 (1994)
+   PUBMED   8312364
+COMMENT     Original source text: Notophthalmus viridescens (library: lambda
+            gt11) adult regenerating forelimb blastema cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..2681
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /cell_type="mesenchyme and Epithelium"
+                     /tissue_type="regenerating forelimb blastema"
+                     /dev_stage="adult"
+                     /tissue_lib="lambda gt11"
+     gene            1..2681
+                     /gene="KGFR"
+     5'UTR           1..324
+                     /gene="KGFR"
+     CDS             325..2520
+                     /gene="KGFR"
+                     /codon_start=1
+                     /product="keratinocyte growth factor receptor"
+                     /protein_id="AAA49398.1"
+                     /db_xref="GI:476731"
+                     /translation="MFSWSYLMGLVMVATATLSLARPSYNIAEDTTLEPEDANSSGDD
+                     EDDNDGSEDFTNDNNHMRAPYWTNTEKLEKKLHAVPAANTVKFRCPAGGNPTPSMRWL
+                     KNGKEFKQEHRIGGFKVRSQHFSLIMESVVPSDEGNYTCIMENEYGSINHTYHLDVVE
+                     RSPHRPILQAGLPANTTTKVGGDAEFVCKVYSDAQPHIQWIRHFELNGSKIGPDGHPY
+                     LKVLKRSGINSSNAEVLTLHNVTEADRGQYTCKVSNYIGEANQSAWLTVLPASEKDEE
+                     RELDSSSEYTEIAIYCVGGFLITCMIGTIMVCHMKGRGKKSDFSSPPAVHKLSKSLPL
+                     RRQVTVSADSSSSMNSNTPLVRITTRLSSNNDTHLLAGVSEYELPEDPKWEYPREKLT
+                     LGKPLGEGCFGQVVMAEAVGIDKDRPKDAATVAVKMLKDDATEKDLSDLVSEMEMMKM
+                     IGKHKNIINLLGACTQDGPLYVIVEYASKGNLREYLRTRRPPGMEYSFDINRIPEEQM
+                     TFKDLVSCTYQLARGMEYLASQKCIHRDLAARNVLVTETNVMKIADFGLARDINNIDY
+                     YKKTTNGRLPVKWMAPEALFDRVYTHQSDVWSFGVLMWEIFTLGGSPYPGIPVEELFK
+                     LLKEGHRMDKPGNCTNELYTMMTDCWRAVPSQRPTFKQLVEDLDRILTQTTNEEYLDL
+                     NNPLEQYSPSYPDTRSSCSSGDDSVFSPDAMPYDPCLPKSQHTNGTIKT"
+     3'UTR           2518..2681
+                     /gene="KGFR"
+ORIGIN      
+        1 gaattcccga ctgtttccca cggaataggc tcttggatta gcagtatttt cccttcctac
+       61 cagttttggg gggtgtcggt cgcacccccc acctagctct ggatagaagc acgtcctgta
+      121 cctcggccgc cccagagctg ggggcctgcg ccggtcttcg cccccctggc ttctctccac
+      181 gccagaggtg gtgcacgctt cagaaggtct ctgatttgtg gcggtgaaga ccctggttgc
+      241 agctcatgct ggcgcagagg ccttctgatg ggaagaaagt ccacatggcg atgcagggca
+      301 ggaccggggc gtggcattga gaggatgttc agctggagtt atcttatggg cctggtcatg
+      361 gttgccacgg caacactttc tctagcaagg ccatcgtaca acattgcaga agatactaca
+      421 ctggaaccag aagatgcaaa ctcatcaggg gatgatgaag acgacaacga cggctcggaa
+      481 gatttcacaa atgacaacaa ccacatgagg gctccgtact ggacgaatac agaaaaattg
+      541 gaaaagaaac tccatgctgt gcccgctgcc aacactgtga agttccgctg tccagccggt
+      601 ggcaacccta cgccctccat gaggtggctg aagaacggca aggagttcaa gcaggagcac
+      661 cgcattggcg gcttcaaggt acgtagtcaa cacttcagcc tgatcatgga gagcgtggtt
+      721 ccctctgacg agggcaacta cacctgtatc atggagaacg agtatggatc catcaatcac
+      781 acctaccacc tggatgttgt cgagcggtca ccccaccggc caatactcca agctgggctt
+      841 ccggcaaaca caaccacaaa agttgggggc gatgcagagt ttgtttgcaa agtctacagt
+      901 gacgcacagc cacatatcca atggattcga cattttgagc tgaatggcag taaaattgga
+      961 cctgacgggc atccctatct gaaagtgcta aagcgctctg gaattaatag ctccaatgcc
+     1021 gaagttctga ccctgcataa cgtgactgag gcggaccggg gccagtacac atgcaaagtc
+     1081 tccaattata ttggggaggc caaccagtct gcctggctca cggtgctgcc tgcatcagag
+     1141 aaagatgaag aacgggaact ggattcatca tcggagtata cggaaatcgc catctactgt
+     1201 gtgggaggct tcctgatcac ctgcatgatt ggcacaatca tggtgtgcca catgaagggc
+     1261 agaggcaaga agtctgactt cagcagccca cccgctgtgc acaagctgag caagagtctc
+     1321 cccctgcgca gacaggtaac agtgtctgct gactccagct cttctatgaa ctccaacact
+     1381 ccactggtcc ggatcaccac tcgcctgtct tccaacaatg acacccactt gctggccggg
+     1441 gtctccgagt atgagctgcc agaggacccc aagtgggagt atccaaggga aaagctcacg
+     1501 ctggggaagc ccctgggcga aggctgcttc gggcaggtgg tgatggcaga ggcggtgggc
+     1561 atcgacaagg accggcccaa agatgcagcg accgtggcag tgaagatgct gaaagacgat
+     1621 gcaaccgaga aggatctttc tgatctggtg tctgagatgg aaatgatgaa gatgattggg
+     1681 aagcataaaa atatcatcaa tcttctagga gcgtgcaccc aagatggccc actctacgtg
+     1741 atagtcgaat atgcctccaa ggggaacttg cgtgaatact tgcgcacccg ccgcccacct
+     1801 ggcatggagt actcctttga catcaacaga attcctgaag agcagatgac cttcaaggac
+     1861 ctagtgtctt gcacgtacca actggccagg ggaatggagt acctggcatc acagaagtgc
+     1921 atccatcggg acttggcagc tcggaatgtc ttggtgacgg aaaccaacgt catgaaaatt
+     1981 gcagattttg gtttggcccg agacatcaac aacatcgact actacaaaaa aacaaccaat
+     2041 ggccggctcc ccgtgaagtg gatggctccc gaggcgctgt ttgacagagt ctacacacat
+     2101 cagagtgacg tctggtcttt cggtgtgctt atgtgggaga tcttcacact ggggggttcc
+     2161 ccataccctg gaattccagt tgaagaactt ttcaagctcc ttaaggaagg ccaccgaatg
+     2221 gacaagcctg gcaactgcac caatgagctg tatacaatga tgacggactg ctggcgtgct
+     2281 gtgccctcgc aaagacccac tttcaagcag cttgttgagg atctagaccg aatcctcacg
+     2341 caaacgacca atgaggagta cctggacctc aacaaccctc tggagcagta ctcgccgagc
+     2401 tatccggata ccaggagttc ctgctcttct ggggatgact ctgtcttctc cccggacgca
+     2461 atgccctacg acccctgtct tcccaaatcc caacacacaa acggcaccat taaaacatga
+     2521 ggccacacaa ccagcataga ctccccgttc caccaagaac tgtatatata tatatttttt
+     2581 ttttaagaaa agtataaaac agcagaaaac tagcttggca cttcttactt cctgcggagc
+     2641 ctccagcagc cagggagtgt gggagtctct gccacggatc c
+//
+

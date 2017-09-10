@@ -1,0 +1,42 @@
+LOCUS       FJ447992                 200 bp    DNA     linear   VRT 25-FEB-2009
+DEFINITION  Triturus cristatus MHC class II antigen (Trcr-ps) pseudogene,
+            Trcr-ps*07 allele, complete sequence.
+ACCESSION   FJ447992
+VERSION     FJ447992.1  GI:215959471
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 200)
+  AUTHORS   Babik,W., Pabijan,M., Arntzen,J.W., Cogalniceanu,D., Durka,W. and
+            Radwan,J.
+  TITLE     Long-term survival of a urodele amphibian despite depleted major
+            histocompatibility complex variation
+  JOURNAL   Mol. Ecol. (2009) In press
+   PUBMED   19207255
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 200)
+  AUTHORS   Babik,W., Pabijan,M., Arntzen,J.W., Cogalniceanu,D., Durka,W. and
+            Radwan,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..200
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+     gene            1..200
+                     /gene="Trcr-ps"
+                     /allele="Trcr-ps*07"
+                     /note="MHC class II antigen"
+                     /pseudo
+ORIGIN      
+        1 cgggttcgat tcctggaccg ctactcctac aaccggcagc agttcatgca cttcgacagc
+       61 gacgtggggt actttgtggc tgacaccgag ttcggggagc tggacgccca gtactggaac
+      121 agcaacgatg agctcatgga gcagacgcgg cccgaggtgg acagattctg cagatacaac
+      181 tacgggatca ccgagggctt
+//
+

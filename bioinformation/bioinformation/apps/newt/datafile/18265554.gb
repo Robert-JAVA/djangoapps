@@ -1,0 +1,49 @@
+LOCUS       AF380361                 784 bp    DNA     linear   VRT 06-DEC-2006
+DEFINITION  Notophthalmus viridescens cytochrome b (cytb) gene, partial
+            sequence; mitochondrial.
+ACCESSION   AF380361
+VERSION     AF380361.1  GI:18265554
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 784)
+  AUTHORS   Johnson,S.A.
+  TITLE     Conservation genetics and phylogeography of the striped newt
+            (Notophthalmus perstriatus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 784)
+  AUTHORS   Johnson,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2001) Wildlife Ecology and Conservation,
+            University of Florida, PO Box 110430, Gainesville, FL 32611, USA
+COMMENT     NCBI staff are still waiting for submitters to provide appropriate
+            CDS information.
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>784
+                     /gene="cytb"
+                     /note="cytochrome b"
+ORIGIN      
+        1 cgcaccccct actaaaaatc attaataatt catttattga cctaccaaca ccatcaaata
+       61 tctcatactg atgaaatttt ggctctcttc ttggagtttg tttaattaca caaattatta
+      121 caggcctatt ccttgcaata cactacacag cagacacaca gtcagcattc tcatcagtag
+      181 cccacatttg ccgagacgta aattatggct gattagtacg aaacatccac gccaacggag
+      241 cttcattttt ctttatctgt atttacctac acatcggacg aggcttgtac tacggatcct
+      301 atatatttaa agaaacctga aacatcggtg ttattctact tttcctagtt atagccaccg
+      361 cttttgtagg atacgtcctc ccatgaggac aaatatcatt ctgaggggct acagtcatta
+      421 caaacctatt atcagcaatc ccgtatatag gagatgcact agtacaatga atttgaggcg
+      481 gattttcagt agacaaagct accttaaccc gatttttcgc atttcacttc ttatttccat
+      541 ttataattgc aggggcaagt attgtccact tactttttct tcatgaaacc ggatcaaaca
+      601 atccaacagg aatatcatca aatccggaca aaattgcatt tcacccatac ttctcataca
+      661 taaaannact tgggacatng gtgttcaggg aggattgtgg ccttntaagg gcttcctgta
+      721 gtcaccacng taccgggccn cacgttattn ccatnnttta aacaaanntg nnancncgnn
+      781 gttc
+//
+

@@ -1,0 +1,69 @@
+LOCUS       KF564202                 985 bp    DNA     linear   VRT 24-AUG-2014
+DEFINITION  Neurergus crocatus isolate Nc_43_Se SACS gene, partial cds.
+ACCESSION   KF564202
+VERSION     KF564202.1  GI:673459438
+KEYWORDS    .
+SOURCE      Neurergus crocatus (Lake Urmia newt)
+  ORGANISM  Neurergus crocatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 985)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     First comprehensive insights into nuclear and mitochondrial DNA
+            based population structure of Near East mountain brook newts
+            (Salamandridae: genus Neurergus) suggest the resurrection of
+            Neurergus derjugini
+  JOURNAL   Amphib-reptil. 35 (2), 173-187 (2014)
+REFERENCE   2  (bases 1 to 985)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2013) Animal Behaviour, University of Bielefeld,
+            Morgenbreede 45, Bielefeld, NRW 33619, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..985
+                     /organism="Neurergus crocatus"
+                     /mol_type="genomic DNA"
+                     /isolate="Nc_43_Se"
+                     /db_xref="taxon:213851"
+                     /haplotype="Ib"
+                     /country="Turkey: Semdinli"
+     mRNA            1..985
+                     /product="SACS"
+     CDS             <1..>985
+                     /note="spastic ataxia of Charlevoix-Saguenay"
+                     /codon_start=3
+                     /product="SACS"
+                     /protein_id="AIK27474.1"
+                     /db_xref="GI:673459439"
+                     /translation="KRHKALERYASNIHFTTLGTEFGQKEKLTSRIKSILNAYPSEKE
+                     MLKELLQNADDAKATEICFVFDPRYHPVDRIFDEKWAPLQGPALCVYNNQPFTEDDIR
+                     GIQNLGRGTKEANPCKTGQYGIGFNSVYHITDCPSFISCNDILCIFDPHARYAPGATT
+                     VSPGRMFRDLDADFKTQFSDVLDLYLGKYFKLGKTTMFRFPLRNSEMAKQSEISTVPA
+                     SDRMVQNLLDKLRTDGAELLMFLNHMEKISICEIEKTTGVLNVLYSVRAKITDGDRLK
+                     RKQFHASVIESVTKKKMLKDIPVQQITYTMDIEDSEGNLTTWLICNRSGFS"
+ORIGIN      
+        1 ctaagcgaca caaggcgttg gaacgatacg catcaaacat tcattttacc acgcttggga
+       61 cagaatttgg tcaaaaagaa aaattgacca gtagaataaa aagtattctt aatgcgtatc
+      121 catcagaaaa ggagatgtta aaagagcttc ttcaaaatgc agatgatgcc aaagctactg
+      181 aaatctgttt tgtgtttgat ccaagatacc atccagttga ccgaatcttt gatgaaaagt
+      241 gggccccact tcaagggcct gcgctttgtg tgtacaacaa ccagccattc acagaagatg
+      301 atattagagg cattcaaaac ctagggaggg gcaccaaaga agcaaatcct tgcaaaaccg
+      361 ggcagtacgg tataggattt aattctgttt accacattac ggactgtccg tcttttattt
+      421 cctgcaatga tatcctctgt atatttgatc ctcatgcaag atacgcacca ggtgcaacaa
+      481 cagtaagtcc tggccgcatg tttagggatt tagatgcaga ttttaaaaca cagttctctg
+      541 atgtccttga tctctatcta ggaaaatatt tcaaacttgg gaaaacaact atgttcaggt
+      601 ttcctctgcg taattcagaa atggcaaaac aatctgaaat ttcaacagtt cctgcttccg
+      661 acagaatggt gcaaaatttg ctggataaac tgcgtacaga tggagcagaa ctgttaatgt
+      721 ttttaaatca tatggagaaa atttcaatat gtgaaattga gaaaacgaca ggggttctta
+      781 atgtactgta ttctgtgagg gctaaaatca cagatggtga tcgtctcaaa cgtaagcaat
+      841 tccatgcctc tgtcattgaa agtgtaacta aaaagaaaat gttgaaggat attccggttc
+      901 agcagattac atacacgatg gacattgaag actctgaggg taatcttaca acatggctga
+      961 tttgtaacag atcaggcttt tctaa
+//
+

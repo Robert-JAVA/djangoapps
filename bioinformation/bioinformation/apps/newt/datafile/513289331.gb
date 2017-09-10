@@ -1,0 +1,58 @@
+LOCUS       JX570777                 575 bp    DNA     linear   VRT 12-AUG-2013
+DEFINITION  Notophthalmus viridescens isolate SSW208 cytochrome b (cyt b) gene,
+            partial cds; mitochondrial.
+ACCESSION   JX570777
+VERSION     JX570777.1  GI:513289331
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Whitmore,S.S., Losee,S., Meyer,L. and Spradling,T.A.
+  TITLE     Conservation genetics of the central newt (Notophthalmus
+            viridescens) in Iowa: the importance of a biogeographic framework
+  JOURNAL   Conserv. Genet. 14 (4), 771-781 (2013)
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Whitmore,S.S., Meyer,L. and Spradling,T.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-SEP-2012) Biology, University of Northern Iowa, Cedar
+            Falls, IA 50614, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SSW208"
+                     /db_xref="taxon:8316"
+                     /haplotype="3"
+     gene            <1..>575
+                     /gene="cyt b"
+     CDS             <1..>575
+                     /gene="cyt b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGO21485.1"
+                     /db_xref="GI:513289332"
+                     /translation="FLAMHYTADTQSAFSSVAHICRDVNYGWLVRNMHANGASFFFIC
+                     IYLHIGRGLYYGSYMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLS
+                     AIPYMGDALVQWIWGGFSVDKATLTRFFAFHFLFPFMIAGASIVHLLFLHETGSNNPT
+                     GMASNPDKIAFHPYFSYKDILGFLLMLLILLL"
+ORIGIN      
+        1 ttccttgcaa tacactacac agcagacaca caatcagcat tctcatcagt agcccacatt
+       61 tgccgagacg taaattacgg ctgattagta cgaaatatac acgccaatgg agcgtcattt
+      121 ttctttatct gtatttacct gcacatcgga cgaggcttgt actacggatc ctacatattt
+      181 aaagaaacct gaaatatcgg tgttattctt ctattcctag tcatagccac cgcttttgta
+      241 ggatacgtcc tcccatgagg ccaaatatca ttttgaggcg ctacagtcat tacaaaccta
+      301 ttatcagcaa tcccatatat aggagatgca ctagtacaat gaatttgagg cggattttca
+      361 gtagacaaag ctaccctaac ccgatttttc gcatttcact tcttattccc atttataatt
+      421 gcaggggcaa gtattgtcca cttacttttt cttcatgaaa ccggatcaaa caatcccaca
+      481 ggaatagcat caaatccgga caagattgca tttcacccat acttctcata caaagatatt
+      541 ttaggttttc tattaatact tttaatttta ctact
+//
+

@@ -1,0 +1,107 @@
+LOCUS       NVU64433                2219 bp    mRNA    linear   VRT 07-OCT-2002
+DEFINITION  Notophthalmus viridescens regeneration blastema forelimb-specific
+            Tbx (Tbx5) mRNA, complete cds.
+ACCESSION   U64433
+VERSION     U64433.2  GI:23507735
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2219)
+  AUTHORS   Simon,H.G., Kittappa,R., Khan,P.A., Tsilfidis,C., Liversage,R.A.
+            and Oppenheimer,S.
+  TITLE     A novel family of T-box genes in urodele amphibian limb development
+            and regeneration: candidate genes involved in vertebrate
+            forelimb/hindlimb patterning
+  JOURNAL   Development 124 (7), 1355-1366 (1997)
+   PUBMED   9118806
+REFERENCE   2  (bases 1 to 2219)
+  AUTHORS   Khan,P.A., Linkhart,B. and Simon,H.G.
+  TITLE     Different regulation of T-box genes Tbx4 and Tbx5 during limb
+            development and limb regeneration
+  JOURNAL   Dev. Biol. (NY) (2002) In press
+REFERENCE   3  (bases 1 to 2219)
+  AUTHORS   Simon,H.-G., Kittappa,R. and Oppenheimer,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-1996) Molecular Genetics and Cell Biology,
+            Bristol-Myers Squibb PRI, PO Box 4000, Princeton, NJ 08543-4000,
+            USA
+REFERENCE   4  (bases 1 to 2219)
+  AUTHORS   Simon,H.-G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2002) Pediatrics, Northwestern Medical School and
+            CMIER, 2430 N. Halsted Street, Chicago, IL 60614, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Oct 7, 2002 this sequence version replaced gi:2252656.
+FEATURES             Location/Qualifiers
+     source          1..2219
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..2219
+                     /gene="Tbx5"
+                     /note="NvTbox1"
+     CDS             169..1725
+                     /gene="Tbx5"
+                     /note="NvTbox1; T-domain transcription factor; contains
+                     T-box domain; expressed exclusively in forelimb;
+                     upregulated in blastema"
+                     /codon_start=1
+                     /product="regeneration blastema forelimb-specific Tbx"
+                     /protein_id="AAB62743.2"
+                     /db_xref="GI:23507736"
+                     /translation="MADSDEGFGMPDTPVDPESKELQSDSKQDSQLGAGSKPPSSPQA
+                     AFTQQGMEGIKVFLHERELWLKFHDVGTEMIITKAGRRMFPSYKVKVSGLNPKTKYIL
+                     LMDIVPADDHRYKFADNKWSVTGKAEPAMPGRLYVHPDSPATGAHWMRQLVSFQKLKL
+                     TNNHLDPFGHIILNSMHKYQPRLHIVKADENNGFGSKNTAFCTHVFSETAFIAVTSYQ
+                     NHKITQLKIENNPFAKGFRGSDDMELHRMSRMQSKEYPVVPRSTVRQKVVSTHSPFSA
+                     EATRSSSSNLSSQYQCENGVSSTSQDLLPTTNPYQPLNQEHGQIYHCTKRKGDEECSP
+                     TEHTYKKSYMETSPTEEDPFYRSGYPQSQGVSSSYRAESAQRQACMYASSTSATDTVP
+                     SLEDISCNSWSSVPSYSSCTVTAMQPMDRLPYQHFSAHFTSGSLMPRLAGVATHSSSQ
+                     IGDSHSMFQHQPPAAHQPIIRHCGPQTSVQSPNSLQAGEFGLWSTKNPFSTPVSYCSR
+                     CYYGTRVERE"
+     regulatory      2193..2198
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tbx5"
+ORIGIN      
+        1 tgatgggtct cagccagcaa gataagggtc cccagagccg gctgccaccg tgctgttgaa
+       61 gggtctccat tctcccctac ggaggaagtg ccggggcctg tggattctcg ccagacagat
+      121 ctgcaccgga ctcagcagtg aagaccgagt ggggggggag tcggcgccat ggcagactcg
+      181 gacgagggct ttgggatgcc ggacacccca gtggacccag agtccaagga gttgcagtcg
+      241 gactccaagc aggacagcca gctgggcgcg ggaagcaagc ctccctcctc tccccaggct
+      301 gccttcaccc agcagggcat ggaggggatt aaagtgttct tacatgagcg agaactgtgg
+      361 ttaaaattcc atgacgtggg gacagagatg atcatcacaa aggctggaag gcgcatgttt
+      421 ccaagctaca aagtgaaggt cagtgggctc aatccaaaga ccaagtacat cttgttgatg
+      481 gatattgtac cagctgatga tcacagatac aaattcgcag ataacaaatg gtctgttaca
+      541 gggaaagcag agcctgccat gccagggcgg ttgtatgttc atccggattc accagctact
+      601 ggggctcact ggatgcgaca acttgtatct ttccaaaaat taaaactgac caacaaccac
+      661 ctggacccat ttgggcatat tatcctgaac tccatgcata aatatcagcc aagactccac
+      721 attgtgaaag cagatgaaaa taacggattt ggatccaaaa atacagcctt ctgcactcac
+      781 gtcttttctg agactgcatt catcgctgtg acatcctatc agaaccacaa gatcacacaa
+      841 ctgaagattg agaacaatcc atttgcaaaa ggttttcgtg gcagtgatga tatggagctc
+      901 cacaggatgt ccaggatgca gagcaaggag tacccggtgg taccaaggag cacagtcaga
+      961 cagaaagtgg tttctactca cagccccttc agtgcagaag ccacacggag ctcgtcatcg
+     1021 aacctgagct cacaatatca gtgtgaaaat ggtgtgtcga gcacctcaca ggacctcctg
+     1081 cccacgacca acccatatca acctctcaat caggaacatg gccagatcta ccactgtacc
+     1141 aagaggaaag gggatgaaga gtgttcccct actgaacata cgtacaagaa atcctacatg
+     1201 gaaacatctc ctactgagga agaccctttc tatcgatctg gctatccaca gtctcaggga
+     1261 gtgagctcct cctacagagc tgaatctgcc cagagacaag cctgcatgta cgcttcatcc
+     1321 acatctgcca ctgacacggt gccaagtctg gaggacataa gttgcaacag ctggtcaagt
+     1381 gtgccttcat acagtagctg cactgtcact gccatgcaac ctatggaccg actgccttat
+     1441 cagcatttct ctgcgcattt cacttcgggg tccctcatgc caagactagc tggtgtggca
+     1501 actcactcat cctcacaaat tggcgattct catagcatgt tccagcacca gcctcctgct
+     1561 gcacatcagc ctatcatcag gcattgtggt cctcagacta gtgtccagtc acccaattcc
+     1621 ttacaggcag gtgaatttgg tctatggagt accaagaacc ctttctccac accagtatca
+     1681 tactgttcac ggtgttacta tggtaccaga gtggaacgag aatagctaac atgctcgaga
+     1741 agtgacagac tgcaggacaa gagcagagaa ataaataaac ataacaacat gattgacgct
+     1801 atcagcaaga agaaatgctg agttccagta cctgggcttc tttaacacag tggagtttat
+     1861 ttaaaacata tcataacacc tacgtgacag tctatttgag tttggtcagc ctacttctga
+     1921 ttgtggaaga ggaaaacatg gcgtagcctg acacatttgt tacaggtgat tgcgtntctg
+     1981 gatgttcttc tgttctatcc atctccccaa aaactgctag tcaaaggcag aattgttttc
+     2041 tttgtgacta ttgcttcgtt ttatgccgat aatcctcctt ctgcctattc cttgctcaaa
+     2101 gccccaaact ttccccttgt ttccccaacc ctacacaagc ggcgtgtggc aaagtacagt
+     2161 tggatattaa catcggtgtt aacagtgttt aaaataaaat ataatcaagc cagcacaat
+//
+

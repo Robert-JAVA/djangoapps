@@ -1,0 +1,60 @@
+LOCUS       AB244672                 788 bp    mRNA    linear   VRT 09-SEP-2006
+DEFINITION  Cynops pyrrhogaster HN1 mRNA for hematopoietic- and
+            neurologic-expressed sequence 1, complete cds.
+ACCESSION   AB244672
+VERSION     AB244672.1  GI:90991360
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Goto,T., Hisatomi,O., Kotoura,M. and Tokunaga,F.
+  TITLE     Induced expression of hematopoietic- and neurologic-expressed
+            sequence 1 in retinal pigment epithelial cells during newt retina
+            regeneration
+  JOURNAL   Exp. Eye Res. 83 (4), 972-980 (2006)
+   PUBMED   16797532
+REFERENCE   2  (bases 1 to 788)
+  AUTHORS   Goto,T. and Hisatomi,O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2005) Tatsushi Goto, Osaka University, Graduate
+            School of Science; Machikaneyamacho 1-1, Toyonaka, Osaka 560-0043,
+            Japan (E-mail:tgoto@gabriel.ess.sci.osaka-u.ac.jp,
+            Tel:81-6-6850-5501, Fax:81-6-6850-5480)
+FEATURES             Location/Qualifiers
+     source          1..788
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="retina"
+     gene            1..788
+                     /gene="HN1"
+     CDS             101..538
+                     /gene="HN1"
+                     /codon_start=1
+                     /product="hematopoietic- and neurologic-expressed sequence
+                     1"
+                     /protein_id="BAE93062.1"
+                     /db_xref="GI:90991361"
+                     /translation="MTTTTTYSGVDPSGRSSSRVLRPPGGASNFSLGFGEQQDQPVRK
+                     HKMASNIFDPPDDLPAHKPGRESEAEPTVPQRRPLPGGECGDSAEQTGDSEEYENVEA
+                     DQVIPSDSEVPSEPAPTDSAPAVPAPVPSRRNPPGGRSTLILG"
+ORIGIN      
+        1 tgctgcttgt gtttagacgc attgtagtga ctctgcccag tatctgttct tacggcttgt
+       61 atcgtgtaat tttttgccgg ttactacatt caacaacact atgacaacca ccaccaccta
+      121 ctccggtgtg gatcccagcg gcaggagcag ttccagggtt ttgcggccac ctggaggagc
+      181 ttccaacttc tctcttggct ttggtgagca gcaagatcaa ccagtaagaa agcacaagat
+      241 ggcatccaat atattcgacc ctcccgatga cctcccagct cataagccag ggcgagagag
+      301 cgaagcagag ccaacagtac cgcagagaag accgctgcct ggtggagagt gtggtgactc
+      361 ggctgaacaa acgggcgact ccgaagagta tgaaaacgtt gaggcagatc aagttatccc
+      421 gtctgacagt gaagtgcctt ctgaaccagc tcctacagac tctgcccctg cagtgccagc
+      481 accagtgcca agcagaagaa accctcctgg tggcaggtcc acccttatac ttggttaatt
+      541 gtgttgcttt ttgctgactc tcaatgttag tcttgtttct gtgtttgtga actgacgttg
+      601 cgcctggact gccctttttc atttctttta tgaagcactt tatgtatctg tcctttttaa
+      661 aaatattaca tttttcactg tctgtcagaa tggcatgtaa gttgtaggga tttctgtgga
+      721 aacctacagt tttcatggtg tattacataa tgaaataaag tgattctggt caattaagac
+      781 tattgagg
+//
+

@@ -1,0 +1,45 @@
+LOCUS       FJ622934                 308 bp    mRNA    linear   VRT 26-MAY-2009
+DEFINITION  Notophthalmus viridescens homeobox transcription factor nanog mRNA,
+            partial cds.
+ACCESSION   FJ622934
+VERSION     FJ622934.1  GI:223414537
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 308)
+  AUTHORS   Maki,N., Suetsugu-Maki,R., Tarui,H., Agata,K., Del Rio-Tsonis,K.
+            and Tsonis,P.A.
+  TITLE     Expression of stem cell pluripotency factors during regeneration in
+            newts
+  JOURNAL   Dev. Dyn. 238 (6), 1613-1616 (2009)
+   PUBMED   19384853
+REFERENCE   2  (bases 1 to 308)
+  AUTHORS   Maki,N., Maki,R.S. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2009) University of Dayton, Department of
+            Biology, 300 College Park, SC46, Dayton, OH 45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..308
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             <1..>308
+                     /codon_start=1
+                     /product="homeobox transcription factor nanog"
+                     /protein_id="ACM89425.1"
+                     /db_xref="GI:223414538"
+                     /translation="FALLLKEQLQVMHERFQRQKYLSPLQIQDMATSLGLTYKQVKTW
+                     FQNRRMKIKKFNKETTFKNENSILQCDSLTPTCSEPSPGFYPDHFIHAKKSAVGPVVN
+                     "
+ORIGIN      
+        1 ttcgcccttc ttctcaagga gcagctccaa gtcatgcacg agagattcca gcggcagaag
+       61 tatctgagtc ccctgcagat ccaggacatg gccacatccc tagggcttac ctacaaacag
+      121 gttaaaacct ggttccagaa tcgtagaatg aagataaaga agtttaataa ggagaccacc
+      181 tttaagaatg agaacagcat cttgcagtgt gattcactaa caccaacatg cagtgaacca
+      241 tcaccaggat tctacccaga ccatttcatc catgccaaaa aaagtgctgt tgggccagtg
+      301 gttaatca
+//
+

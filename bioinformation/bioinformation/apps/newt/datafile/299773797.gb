@@ -1,0 +1,58 @@
+LOCUS       GU982379                 658 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus marmoratus haplotype Tmar01 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   GU982379
+VERSION     GU982379.1  GI:299773797
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8328"
+                     /haplotype="Tmar01"
+     CDS             <1..>658
+                     /note="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADJ38969.1"
+                     /db_xref="GI:299773798"
+                     /translation="ILAAVLLKLGGYGIIRVTMLLTPLTKEMSYPFVILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPSMNLWGELTIMVSLFNWS
+                     PWTILITGLGTLITASYTLYMFLMTQRGPTPLHLGQITPSHTREHFLIMMHLMPMLLL
+                     I"
+ORIGIN      
+        1 atcttagcag cagtattact aaaattaggc ggatatggca tcattcgggt caccatgctc
+       61 ctcacccccc taacaaaaga aatatcatac ccgtttgtaa tcctggccct atggggagtg
+      121 gtaataacaa gcctaatctg catacgacag acagacctta aatcactaat tgcatactca
+      181 tctgtaagcc atataggtct agtcatcgcc gccattataa ttcaaacacc atgaagccta
+      241 acaggggcaa ttattttaat aatctcacac gggcttattt catcagccct cttttgtctg
+      301 gcaaacttaa actacgaacg aacccacagt cggaccttgc ttctagtccg gggggctcaa
+      361 gcagtattac ccctaatggc cacctgatga ctcattgcaa acctctcaaa catagcactt
+      421 cccccctcaa taaacctgtg aggagaacta actattatag tctcactatt caactggtcc
+      481 ccgtggacaa ttttaatcac cggcctcggt accctaatca cggcctctta cacgctctac
+      541 atatttctaa taacacaacg aggcccaacc cccctacatc ttggccaaat taccccgtcc
+      601 cacactcgag aacacttcct tattataata cacctgatac ccatactatt actgattc
+//
+

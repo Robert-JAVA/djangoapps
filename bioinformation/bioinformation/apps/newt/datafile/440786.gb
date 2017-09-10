@@ -1,0 +1,39 @@
+LOCUS       PWU04700                 369 bp    DNA     linear   VRT 26-APR-1996
+DEFINITION  Pleurodeles waltl mitochondrion 12S rRNA gene, partial sequence.
+ACCESSION   U04700
+VERSION     U04700.1  GI:440786
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 369)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Molecular Biogeography: using the Corsica-Sardinia microplate
+            disjunction to calibrate mitochondrial rDNA evolutionary rates in
+            mountain newts (Euproctus)
+  JOURNAL   J. Evol. Biol. 7, 227-245 (1994)
+REFERENCE   2  (bases 1 to 369)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1993) Adalgisa Caccone, Biology, Yale University,
+            165 Prospect St., New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..369
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     rRNA            <1..>369
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctaaccgt aaactttgac ttatccgcca gagtactacg agcaacagct taaaactcaa
+       61 aggacttggc ggtgctctat acccccctag aggagcctgt tctgtaatcg ataatccccg
+      121 ataaacctca ccatctattg ccaatacagc ctatatacca ccgtccagcc cgccctttga
+      181 aggctaaaaa gcaggcataa ctataaccat aaaaacgtca ggtcaaggtg tagctaataa
+      241 gatgggaaga aatgggctac attttctaac ctagaataca cgaaaaagtt tttgaaacaa
+      301 aacttcgaag gaggatttag cagtaaaaag aaagaagagt gttcttttta agccggcaat
+      361 ggagcgcgc
+//
+

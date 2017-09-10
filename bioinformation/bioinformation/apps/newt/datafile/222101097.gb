@@ -1,0 +1,54 @@
+LOCUS       FJ589001                 587 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 13 orthodenticle-like
+            protein 2 gene, partial cds; and intron 2.
+ACCESSION   FJ589001
+VERSION     FJ589001.1  GI:222101097
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 587)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 587)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..587
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="13"
+     mRNA            <1..>47
+                     /product="orthodenticle-like protein 2"
+     CDS             <1..>47
+                     /codon_start=2
+                     /product="orthodenticle-like protein 2"
+                     /protein_id="ACM43803.1"
+                     /db_xref="GI:222101098"
+                     /translation="GRGGSEDQPPGVQSA"
+     exon            <1..47
+                     /number=2
+     intron          48..>587
+                     /number=2
+ORIGIN      
+        1 gggaagaggt ggctctgaag atcaacctcc cggagtccag agtgcaggtg agtgagagct
+       61 tggtgctgcc cagcctgtgc acgctgcagt attacataca acccacctgt ccatcctcga
+      121 ggacttacat acattccctg aggtactaca aacagtccac cgggtcctct cccggtatag
+      181 gttggcaatc cctgtagtaa tacgacgagc ccacttatcc gttttaagga tttacagacc
+      241 aatcctgtgt cactgaaaat agtccccttg tacagtttga gctcctacag actatctagc
+      301 tggtttcaca aaaatccacc caccaatgag ggagttaggg cagtcttgaa ttcccgaaac
+      361 ttggatctca ctataggttg gacagacgtt agatctcatt ataggttgga cagcgggaag
+      421 tgcaatatta ctactccaca acaaaacaaa aaaagtgacc tctcatcacg gacagacaaa
+      481 atcagacagg atgagcaggc gcttgtcagt agatcacagc actctgtgct cgtcagccca
+      541 tcttcatgtt gttgttgtta caagaccacc tgtccaataa ttggcta
+//
+

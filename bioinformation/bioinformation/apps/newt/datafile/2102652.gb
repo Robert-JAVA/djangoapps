@@ -1,0 +1,59 @@
+LOCUS       NEWNP2B                  360 bp    mRNA    linear   VRT 06-FEB-1999
+DEFINITION  Cynops pyrrhogaster protamine 2 (NP2) mRNA, complete cds.
+ACCESSION   D85427
+VERSION     D85427.1  GI:2102652
+KEYWORDS    NP2; protamine 2.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yoshinobu,K., Kondo,T., Takai,M., Katagiri,C., Tou,H., Abe,S.I. and
+            Takamune,K.
+  TITLE     Primary structures of sperm-specific basic nuclear proteins and
+            gene expression in Japanese newt, Cynops pyrrhogaster
+  JOURNAL   Mol. Reprod. Dev. 46 (3), 243-251 (1997)
+   PUBMED   9041126
+REFERENCE   2  (bases 1 to 360)
+  AUTHORS   Yoshinobu,K.
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 360)
+  AUTHORS   Yoshinobu,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-1996) Kumiko Yoshinobu, Kumamoto University, Gene
+            Technology Center; Kuhonji 4-24-1, Kumamoto, Kumamoto 862, Japan
+            (E-mail:yosinobu@gpo.kumamoto-u.ac.jp, Tel:096-373-5437,
+            Fax:096-373-5438)
+COMMENT     On May 15, 1997 this sequence version replaced gi:1339943.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /sex="male"
+                     /cell_type="sperm"
+                     /tissue_type="testis"
+     gene            1..360
+                     /gene="NP2"
+     CDS             22..171
+                     /gene="NP2"
+                     /note="sperm-specific"
+                     /codon_start=1
+                     /product="protamine 2"
+                     /protein_id="BAA19947.1"
+                     /db_xref="GI:2102653"
+                     /translation="MARGRSRSRSVRRRRRGGSPRRRRRAGRRSQRAGAGGLRRRRHR
+                     RADQE"
+     polyA_site      360
+                     /gene="NP2"
+                     /note="16 A nucleotides"
+ORIGIN      
+        1 ctgaaagcac aataacaagc tatggcaaga ggaagaagcc ggagcagaag tgtacggaga
+       61 cggagacgag gagggtctcc gcgcaggcgc aggagagccg gcaggaggag ccaaagagca
+      121 ggagcaggag gtttacgccg tcgccgccac agacgggcag accaggagta ggttccgtgt
+      181 caactcttcc tgttgcgtgc tgtctgggtc ccatcgctcc ctgcggccag tcttgaactc
+      241 tccaacggtg atattacaag cacaaacttt ttaatgagat ccagtataac agcaaacggc
+      301 attaaatcac cagcttacgg caggaaaaaa atgactaaat aaacgtcctg gcaaaacttt
+//
+

@@ -1,0 +1,58 @@
+LOCUS       FM877014                 511 bp    DNA     linear   VRT 18-MAY-2009
+DEFINITION  Pleurodeles waltl partial ighvVI.c gene for immunoglobulin heavy
+            chain variable domain, exon 1.
+ACCESSION   FM877014
+VERSION     FM877014.1  GI:215414282
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Bascove,M., Huin-Schohn,C., Gueguinou,N., Tschirhart,E. and
+            Frippiat,J.P.
+  TITLE     Spaceflight-associated changes in immunoglobulin VH gene expression
+            in the amphibian Pleurodeles waltl
+  JOURNAL   FASEB J. 23 (5), 1607-1615 (2009)
+   PUBMED   19141535
+REFERENCE   2  (bases 1 to 511)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2008) Frippiat J.P., Lab of Experimental Biology
+            and Immunology, Nancy-University, Bvd des Aiguillettes BP239,
+            Vandoeuvre-les-Nancy, F-54506, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /germline
+     gene            <114..>511
+                     /gene="ighvVI.c"
+     CDS             <114..>511
+                     /gene="ighvVI.c"
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain variable domain"
+                     /protein_id="CAT00558.1"
+                     /db_xref="GI:215414283"
+                     /translation="VLCQVTLQESGPGTVKPSETLKLTCKVTGYSISSGYCWYWIRQP
+                     PGKGLEWLGGICASGSTYYSEPLKSRLSATRDTSLNEFYLQMSNMRAEDTATFYCARD
+                     SQCEEGSQSSYKNYTGASQGICVYDTSPGSG"
+     exon            114..511
+                     /gene="ighvVI.c"
+                     /number=1
+ORIGIN      
+        1 ttgtgcctgt gtgttcttct tcttgcatca ggtacggagt tcatcgagat tgcagaacat
+       61 atattcctga gttattttgc gtatttaatg ttactcattt taaatctcca ggtgttctgt
+      121 gccaggtgac actgcaggag tccggtcctg ggactgtgaa gccctcggag acccttaaac
+      181 tgacctgtaa agtcaccggt tattccatca gcagcggcta ctgttggtac tggatccggc
+      241 agcctcccgg gaaggggctg gagtggttgg gaggaatctg cgcttctggc agcacatact
+      301 actccgagcc tctcaagagt cggctgtcag ccaccagaga tacatcttta aatgaattct
+      361 atctgcagat gagtaacatg agagcagagg acacggccac gttttactgt gctcgagact
+      421 cacagtgtga ggaaggaagt cagagctctt acaaaaacta cactggagca tctcagggga
+      481 tttgcgttta tgataccagc ccgggcagtg g
+//
+

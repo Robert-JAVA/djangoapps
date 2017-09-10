@@ -1,0 +1,63 @@
+LOCUS       JQ653349                 658 bp    DNA     linear   VRT 03-MAY-2013
+DEFINITION  Triturus dobrogicus haplotype Tdob14 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   JQ653349
+VERSION     JQ653349.1  GI:401622913
+KEYWORDS    .
+SOURCE      mitochondrion Triturus dobrogicus (Danube newt)
+  ORGANISM  Triturus dobrogicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Crnobrnja-Isailovic,J., Litvinchuk,S.N., Reijnen,B.T.,
+            Skidmore,A.K., Sotiropoulos,K., Toxopeus,A.G., Tzankov,N., Vukov,T.
+            and Arntzen,J.W.
+  TITLE     Tracing glacial refugia of Triturus newts based on mitochondrial
+            DNA phylogeography and species distribution modeling
+  JOURNAL   Front. Zool. 10 (1), 13 (2013)
+   PUBMED   23514662
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Arntzen,J.W., Wallis,G.P. and Wielstra,B.
+  TITLE     Spatial patterns of nuclear, mitochondrial and morphological
+            transition in Triturus newts
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 658)
+  AUTHORS   Arntzen,J.W., Wallis,G.P. and Wielstra,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2012) Netherlands Centre for Biodiversity -
+            Naturalis, P.O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus dobrogicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8327"
+                     /haplotype="Tdob14"
+     CDS             <1..>658
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AFP95637.1"
+                     /db_xref="GI:401622914"
+                     /translation="ILAAVLLKLGGYGIIRITMILTPLTKEMAYPFMVLALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMVSHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTILITGLGALITASYTLYMFLMTQRGPTPLHLGQINPSYTREHFLLVMHLTPMLLL
+                     I"
+ORIGIN      
+        1 atcctagcag cagtactgct caagcttgga gggtatggca ttattcgaat tactataatc
+       61 cttaccccac taacaaaaga aatagcatat ccctttatag tcctggcttt atgaggggtc
+      121 gtgataacta gcctgatttg catacgacaa acagacctta aatcactaat tgcatactcg
+      181 tctgtaagcc acataggcct agtcatcgcc gctattataa tccagacacc gtgaagccta
+      241 acaggggcta ttattttaat agtctcacat gggcttattt catcagccct attttgcctg
+      301 gcaaacctaa actatgaacg aacacacagt cgaactctat tattagttcg gggggcccag
+      361 gcagtcctgc cactaatggc aacctggtga cttattgcaa atttatcaaa tatagcactt
+      421 cccccaacaa taaatctatg aggagaattg acaatcatgg tctcgctgtt taactggtcc
+      481 ccctgaacaa tcctaatcac aggcttgggg gccttaatta ccgcctctta tactttatac
+      541 atgttcctaa taacacaacg gggcccaacc cccctacatc ttggccaaat taacccatct
+      601 tacactcgag aacacttctt acttgtaata cacttaaccc ctatattact actaattc
+//
+

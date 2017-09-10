@@ -1,0 +1,50 @@
+LOCUS       AB238685                 600 bp    DNA     linear   VRT 02-NOV-2005
+DEFINITION  Cynops pyrrhogaster gene for gamma crystallin, partial cds.
+ACCESSION   AB238685
+VERSION     AB238685.1  GI:78675144
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Cynops pyrrhogaster: gamma crystalline gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+                     /clone_lib="Lambda fixII newt genome library"
+                     /country="Japan:Okayama"
+     CDS             <1..159
+                     /codon_start=1
+                     /product="gamma crystallin"
+                     /protein_id="BAE47573.1"
+                     /db_xref="GI:78675145"
+                     /translation="SCNVQDGHWVFYEEPNYRGRQYYLRPGEYRRYSDWGASSPKVGS
+                     FRRVRDLY"
+ORIGIN      
+        1 tcctgtaatg tgcaggatgg gcactgggtc ttctatgagg agcccaacta cagagggcgt
+       61 cagtactact taagacctgg agaatacagg cggtacagtg actggggagc ctcaagcccc
+      121 aaggttggat ccttcaggag agttcgggat ctttactgag atacttttga tgttctgcct
+      181 caacaatcca tgtaacacaa ataaatattg catacattac attgttttgc ttttttaata
+      241 ataattaata aatgaacatg cgggagttga attcacagag taccaaacta acaagggatt
+      301 ttaacgtctt ccagccctaa aaagtaagct aaccaagtag attcacaaga tgcaagcacc
+      361 cacataatca ccttggtgcc agaggtatcg caaacaatta cttgacctga aggtctagct
+      421 gagggccaag gacatgtcag tttcttggca gcaggctaga gaaacacccc taagatctgg
+      481 acattagccc tattgcacct gcgaccccca ccaactcgtg ccttgagaaa atacaccccc
+      541 tgataagcct ctcaatgagc ctatgagaca gagaaccttc tgtgatattt actagggaag
+//
+

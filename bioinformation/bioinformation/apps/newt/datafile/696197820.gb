@@ -1,0 +1,53 @@
+LOCUS       KM253634                 688 bp    DNA     linear   VRT 15-OCT-2014
+DEFINITION  Ichthyosaura alpestris isolate MAB300a platelet-derived growth
+            factor receptor chain alpha (PDGFR) gene, intron 11.
+ACCESSION   KM253634
+VERSION     KM253634.1  GI:696197820
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 688)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Evolutionary history of Ichthyosaura alpestris (Caudata,
+            Salamandridae) inferred from the combined analysis of nuclear and
+            mitochondrial markers
+  JOURNAL   Mol. Phylogenet. Evol. 81C, 207-220 (2014)
+   PUBMED   25263421
+REFERENCE   2  (bases 1 to 688)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2014) Ecologia de la Biodiversidad, Instituto de
+            Ecologia, UNAM, Mexico D. F., Distrito Federal 70-275, Mexico
+FEATURES             Location/Qualifiers
+     source          1..688
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="genomic DNA"
+                     /isolate="MAB300a"
+                     /db_xref="taxon:54263"
+     gene            <1..>688
+                     /gene="PDGFR"
+                     /note="platelet-derived growth factor receptor chain
+                     alpha"
+     intron          <1..>688
+                     /gene="PDGFR"
+                     /number=11
+ORIGIN      
+        1 gatgggaatt tccacgggat ggactagtgc ttggtaagta aatatttggg gctctgtgtg
+       61 cggcaaatgc taagtgggtt gccatttacc atcttgcttt ccaaacagta cgcgctctgc
+      121 tacctttttg gtaggtttgc gccatagaaa taccatatca acacatacat acataaaata
+      181 acactactag aaaaaataat cagctttata gattgttaaa aagtatcatt aaccacgtcc
+      241 tttaaacagc aatgcattaa gttccaatct ctaagcctat ttagggcttt ccgataccat
+      301 cctaggcatg ctgctttctg aagcagcatt tgcagcacat gatgttgtgg atcacatgct
+      361 gtgccctctg acaccatcta atgttcttca atctaatgtt ctgctttgaa tagttaaact
+      421 tggtcaactg ataagccttt gttttggtcc tattccgttc cctaccattt atactcacac
+      481 agtttgtcaa aacattcaag ttcggttgca ttatacttga gtgatccctg tcttcacttt
+      541 acatcctctt gtctacctaa agggggattg atcgtatttg gatttgtaca cagtattcat
+      601 tatcacagcg cgtcatgtgg aaaaaaacct aaacaaatga tactatctcc actacaggaa
+      661 gaatcctcgg ctctggcgca ttcggcaa
+//
+

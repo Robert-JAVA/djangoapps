@@ -1,0 +1,46 @@
+LOCUS       DQ490070                 358 bp    mRNA    linear   VRT 13-MAY-2006
+DEFINITION  Notophthalmus viridescens Sox2 transcription factor mRNA, partial
+            cds.
+ACCESSION   DQ490070
+VERSION     DQ490070.1  GI:94957953
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 358)
+  AUTHORS   Makarev,E.O. and Tsonis,P.A.
+  TITLE     Expression analysis of Newt homologies (Notophthalmus viridescens)
+            of dorsal-ventral polarity Drosophila genes (Snail, Tolloid (BMP1)
+            and Sox2)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 358)
+  AUTHORS   Makarev,E.O. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2006) Biology, University of Dayton, 300 College
+            Park, Dayton, OH 45469, USA
+FEATURES             Location/Qualifiers
+     source          1..358
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /PCR_primers="fwd_seq: gcccaggagaaccccaagat, rev_seq:
+                     ccagctgctcctgcatcatgc"
+     CDS             <1..>358
+                     /codon_start=1
+                     /product="Sox2 transcription factor"
+                     /protein_id="ABF47212.1"
+                     /db_xref="GI:94957954"
+                     /translation="AQENPKMHNSEISKRLGAEWKLLSEAEKRPFIDEAKRLRALHMK
+                     EHPDYKYRPRRKTKTLMKKDKYTLPGGLLGPPGGNGMGSGGGVGGGMNSSQRMDSYAV
+                     HMNGWANGGYGMMQEQL"
+ORIGIN      
+        1 gcccaggaga accccaagat gcataactcg gagatcagca agcggctggg cgccgagtgg
+       61 aagctgctat ccgaggccga gaaacggccc ttcatcgacg aggccaagcg cctgcgagcg
+      121 ctgcacatga aggagcaccc ggattacaag taccgaccgc ggcgcaagac caagactctg
+      181 atgaagaagg acaagtacac gctgcccgga gggctgctcg gaccgcccgg cggcaacggc
+      241 atgggctccg ggggcggcgt aggcggcggc atgaactcca gccagcgcat ggacagctac
+      301 gctgtgcaca tgaacggctg ggccaacggc ggctacggca tgatgcagga gcagctgg
+//
+

@@ -1,0 +1,33 @@
+LOCUS       X60273                    32 bp    DNA     linear   VRT 19-NOV-1992
+DEFINITION  T.karelini HAEIII satellite (type 2) DNA.
+ACCESSION   X60273
+VERSION     X60273.1  GI:64410
+KEYWORDS    centromeric repeat.
+SOURCE      Triturus karelinii (Balkan newt)
+  ORGANISM  Triturus karelinii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 32)
+  AUTHORS   Varley,J.M., Macgregor,H.C. and Barnett,L.
+  TITLE     Characterisation of a short, highly repeated and centromerically
+            localised DNA sequence in crested and marbled newts of the genus
+            Triturus
+  JOURNAL   Chromosoma 100 (1), 15-31 (1990)
+   PUBMED   2101348
+REFERENCE   2  (bases 1 to 32)
+  AUTHORS   Varley,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-1991) J.M. Varley, University of Leicester,
+            ICI/University Joint Laboratory, Leicester LE1 7RH, UK
+FEATURES             Location/Qualifiers
+     source          1..32
+                     /organism="Triturus karelinii"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8325"
+                     /chromosome="centomeric all chromosomes"
+                     /germline
+ORIGIN      
+        1 ccagagtaag agttaagacc ttaaccagta gg
+//
+

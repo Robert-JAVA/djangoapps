@@ -1,0 +1,76 @@
+LOCUS       AB117093                1755 bp    mRNA    linear   VRT 15-AUG-2003
+DEFINITION  Cynops ensicauda b-actin mRNA for beta actin, complete cds.
+ACCESSION   AB117093
+VERSION     AB117093.1  GI:34014712
+KEYWORDS    .
+SOURCE      Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Iwata,T. and Kikuyama,S.
+  TITLE     newt actin
+  JOURNAL   Published Only in Database (2003)
+REFERENCE   2  (bases 1 to 1755)
+  AUTHORS   Iwata,T. and Kikuyama,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2003) Takeo Iwata, Waseda University, Department
+            of Biology, School of Education; Nishiwaseda 1-6-1, Shinjuku-ku,
+            Tokyo 169-8050, Japan (E-mail:takeo@aoni.waseda.jp,
+            Tel:81-3-3208-8449, Fax:81-3-3207-9694)
+FEATURES             Location/Qualifiers
+     source          1..1755
+                     /organism="Cynops ensicauda"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:102207"
+                     /clone="SIL-B"
+                     /country="Japan: Okinawa"
+     gene            1..1755
+                     /gene="b-actin"
+     CDS             58..1182
+                     /gene="b-actin"
+                     /codon_start=1
+                     /product="beta actin"
+                     /protein_id="BAC81772.1"
+                     /db_xref="GI:34014713"
+                     /translation="MDDDIAALVVDNGSGMCKAGFADDAPRAVFPSIVGRPRHQGVMV
+                     GMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEHPV
+                     LLTEAPLNPKANREKMTQIMFETFNTPAMYVAIQAVLSLYASGRTTGIVMDSGDGVTH
+                     TVPIYEGYALPHAILRLDLAGRDLTDYLMKILTERGYSFTTTAEREIVRDIKEKLCYV
+                     ALDFEQEMATAASSSSLEKSYELPDGQVITIGNERFRCPEALFQPSFLGMESCGIHET
+                     TYNSIMKCDVDIRKDLYANTVLSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPER
+                     KYSVWIGGSILASLSTFQQMWISKQEYDESGPSIVHRKCF"
+ORIGIN      
+        1 tctcgtgcct aaggacctgt cgcacatctc cccgaaaccg cccacctaaa gatcaaaatg
+       61 gacgatgata ttgccgcact cgttgttgac aatggatccg gtatgtgcaa ggccggcttc
+      121 gcggatgatg ctccacgtgc tgtcttccca tccatcgtgg ggcgcccaag acatcagggt
+      181 gtgatggttg gcatgggcca gaaagacagc tacgttggtg atgaagctca gagcaagcgt
+      241 ggtatcctga ccctgaagta ccccattgaa cacggtattg tcaccaactg ggatgatatg
+      301 gaaaagatct ggcaccacac cttctacaac gagctgcgtg ttgccccaga ggaacatcct
+      361 gtacttctaa ctgaagctcc actcaacccc aaggccaaca gagaaaagat gacacagatc
+      421 atgtttgaga ccttcaacac cccagccatg tatgtggcta tccaggctgt gctgtccctg
+      481 tatgcctctg gtcgtaccac aggtattgtg atggattccg gtgatggtgt cacccacact
+      541 gtgcccatct atgaaggtta tgccctgcct catgccatcc tgcgtcttga cttggctggt
+      601 cgtgacctga cagactacct catgaagatc ctgactgaga ggggctacag cttcacaact
+      661 acagctgaaa gagaaattgt gcgtgacatc aaggagaagc tctgctatgt tgccctggac
+      721 tttgagcagg aaatggccac tgctgcttct tcatcttctc tggagaagag ctatgaattg
+      781 ccagacggtc aggtgatcac cattggcaat gagaggttca ggtgtccaga ggcgctcttc
+      841 cagccatcct tccttggtat ggaatcgtgt ggtattcatg aaaccacata caactctatt
+      901 atgaagtgtg atgttgatat ccgaaaagac ttgtatgcca acacagtgtt gtctggtggt
+      961 accacaatgt accctggtat tgcagacaga atgcagaagg aaatcacagc tctggcacca
+     1021 agcacaatga aaattaagat cattgcccca ccagaacgca agtactctgt ctggatcggt
+     1081 ggctctatcc tggcctccct gtccaccttc cagcagatgt ggatcagcaa gcaggagtat
+     1141 gatgaatctg ggccttcaat tgtccaccgt aaatgcttct aaatgactgt agcacaatgc
+     1201 aacttgacaa atgtaacttc gctaaaagaa ccaagacgag gcatggcttt tttactttgt
+     1261 ttttggcgct tgacgcagga ttgaaaactg gaacagagga gaatggcagt attgtggagc
+     1321 aaacattccc atgttctaca atgcatggag gacttgattg tacttggtca ttccaaattg
+     1381 ttcaaatgca tcgttacagg acgttacttg cctctgtgaa ggctgcccag ttacatgggg
+     1441 attgtatgta aatcatatat tggtgatagt attgcttgta tgtggagttg ttacctgaca
+     1501 agtcttttgt atctttcgcc ttaaacactt ggccgtatct tcaattttgt tcctctagtc
+     1561 ctttatggac gatccccaat tagctgtttg aaggtttaca aactttcttc tgacatcagt
+     1621 aagatgtggt gccattatgt ggggagggag ggcttacctg tacacttaat tgaagacgtt
+     1681 caaataaagt gcacatgtta aaggagaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     1741 aaaaaaaaaa aaaaa
+//
+

@@ -1,0 +1,80 @@
+LOCUS       PWU88715                2025 bp    mRNA    linear   VRT 19-OCT-2001
+DEFINITION  Pleurodeles waltl homeodomain protein Nkx-3.3 (PwNkx-3.b) mRNA,
+            complete cds.
+ACCESSION   U88715
+VERSION     U88715.1  GI:2062671
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2025)
+  AUTHORS   Nicolas,S., Caubit,X., Massacrier,A., Cau,P. and Le Parco,Y.
+  TITLE     Two Nkx-3-related genes are expressed in the adult and regenerating
+            central nervous system of the urodele Pleurodeles waltl
+  JOURNAL   Dev. Genet. 24 (3-4), 319-328 (1999)
+   PUBMED   10322640
+REFERENCE   2  (bases 1 to 2025)
+  AUTHORS   Nicolas,S. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-FEB-1997) Laboratoire de Genetique et Physiologie du
+            Developpement, Institut de Biologie du Developpement de Marseille,
+            Parc Scientifique de Luminy - Case 907, Marseille cedex 09 13288,
+            France
+FEATURES             Location/Qualifiers
+     source          1..2025
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..2025
+                     /gene="PwNkx-3.3"
+     CDS             238..1026
+                     /gene="PwNkx-3.3"
+                     /note="homeobox gene; homeodomain protein"
+                     /codon_start=1
+                     /product="Nkx-3.3"
+                     /protein_id="AAC08705.1"
+                     /db_xref="GI:2062672"
+                     /translation="MSHRAACITSFRIQDILSRGSEGDAPAKRRGRDPRDQLPTESRE
+                     ERGVALRRLPPRTTEDTSDSPEKPSHGEGKNAWLLSPESPERWKKKSSDSGADEPPWD
+                     PPEGDPDTGSCLDPGDGQDGSCPPGLPRPAKKRSRAAFSHAQVYELERRFSLQRYLSG
+                     PERAALAASLKLTETQVKIWFQNRRYKTKRKQKAAQLCPGPSPARRVAIRVLVRDDQL
+                     QSGPEEAPRPSPPGLSLYQACHYYPYMYCLPGWPSPLGLSGAPH"
+ORIGIN      
+        1 taggaatcca gcccctgaga ataaggacgc ctcacgcagg ccatgggtgc caccgcccgg
+       61 actagcacct tctgagcccc ccaggacagg aaatggagcc ctcctccctc cgcacatgac
+      121 tccacggcac ataccaggag ggtgacgggc tcccacctcg ctcctggagg aggccgggtc
+      181 cctgcgctca ctcgggtctg ggacagggct caggggctgt gcgagggatg cggtaacatg
+      241 tcccatcgcg ccgcctgcat cacgtctttc cgcatccagg acatcctgag caggggctcg
+      301 gagggggatg cccccgccaa acggagaggc agggacccgc gggaccagct gcctacagag
+      361 agcagggagg aaagaggggt cgccctgcgg aggctgccgc cgaggaccac agaggatacc
+      421 tcggactccc ctgagaaacc ctcacacggt gaggggaaga atgcctggct gctgagcccc
+      481 gagagcccgg agcgctggaa gaagaagagc tcagattccg gagcagacga gcccccttgg
+      541 gaccctcccg agggcgatcc ggacacaggg agctgcctgg atcccgggga cggacaggac
+      601 ggcagctgcc ccccagggct ccccaggcct gccaagaagc gctccagggc cgccttttca
+      661 cacgcgcaag tctacgagct ggagcgcagg ttcagccttc agcgctacct gtccgggccc
+      721 gagagggccg ccctggcggc cagcctgaag ctcaccgaaa cgcaggtcaa gatctggttc
+      781 cagaaccggc gctacaagac caagcgcaag cagaaggcag cgcagctctg cccggggccc
+      841 agccctgcgc gcagggtggc catccgggtg ctggtgcgcg acgaccagct gcagagcggc
+      901 cccgaggagg cgccccggcc cagcccgccc ggcctctcgc tctaccaggc ctgccactac
+      961 tacccctaca tgtactgcct gcccggctgg ccgtcgcccc tcggcctatc cggagcgccc
+     1021 cactgactgg aagagcggac cgcgggtgag gcgagagggc gcgccatgga ccgtgagtgg
+     1081 cggcccggag acgtggcctg ggtcggtcac gccctccaag ggactgctgc gagctctatc
+     1141 caggaaagga ctgcatgggc aggcaatgaa gtcatgggat acaaacaccc agagggagta
+     1201 ctgaacggtg gcacaaaagc cctcttctaa aaactcatta cctccccaca tcagctgtgg
+     1261 tttttttaat tgaaattgcg tttatgtggc gcttactacc cctgacgagg cgtcatgtgc
+     1321 attcaccccg gtgtttacaa ctacctacac ccgtcagctg cgtctgtaaa cttgcatcac
+     1381 ccctgggtgt ttacacgtat gagaagtttg ggtttggacc agaatctgat gcagcgaaca
+     1441 tttctacact ttgtgcagct acgagatgtg cctcgacaga ccagtgcatg gaccatctac
+     1501 agatatcagc tgggaggaca ggcctgcatt aagcactggt gtccacgtct gccagactta
+     1561 tggaacattg tgggcatccc ccacaggtgc ccacgagtgt gagcggatat ctacagctta
+     1621 agcaccaacc acccctcgaa aaaaaactgc aactgtcctc ggaagcgctc tgactagtgt
+     1681 tcaccacttc agcatgacgc acgtgacgcc tctctgtcca cgctgcgtcc gccgtgacaa
+     1741 aacaacaccc cacagacaag agggtgcctc caagtcaccc acaggcacca gggtatgtgg
+     1801 aaagacaggg gctgcctgca ttgtgaatag aatacactga tactaggggc gcataaaatc
+     1861 atttgccact atcagcggag taccgagtaa tctgccgaaa ttacaggagt gctaatttca
+     1921 tttaaagatg caaggtgtct gaagaattat gcccaggtac cagccgtttt cgcaatcctg
+     1981 ttcagatagc tagagtgtac agaattaaat gcaagttcca gagat
+//
+

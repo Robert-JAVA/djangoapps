@@ -1,0 +1,57 @@
+LOCUS       EU030790                 483 bp    DNA     linear   VRT 31-OCT-2007
+DEFINITION  Triturus cristatus isolate cri_SU_3 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   EU030790
+VERSION     EU030790.1  GI:158024883
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 483)
+  AUTHORS   Horak,A. and Maletzky,A.
+  TITLE     Hybridization and introgression between two species of crested
+            newts (Triturus cristatus and T. carnifex) along contact zones in
+            Germany and Austria: morphological and molecular data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 483)
+  AUTHORS   Maletzky,A., Mikulicek,P., Franzen,M., Goldschmid,A., Gruber,H.-J.
+            Jr., Horak,A. and Kyek,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2007) Department of Organismic Biology,
+            University of Salzburg, Hellbrunnerstr. 34, Salzburg A-5020,
+            Austria
+FEATURES             Location/Qualifiers
+     source          1..483
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="cri_SU_3"
+                     /db_xref="taxon:8323"
+                     /country="Germany"
+     gene            <1..>483
+                     /gene="cytb"
+     CDS             <1..>483
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABW08255.1"
+                     /db_xref="GI:158024884"
+                     /translation="NYGWLVRNIHANGASLFFVCIYMHIGRGLYYGSYMFKETWNIGV
+                     VLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDSLVQWIWGGFSVDKATL
+                     TRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDKITFHPYFSYKDALGFL
+                     L"
+ORIGIN      
+        1 aactacggct gactagtacg aaacatccac gctaacggag cctcgctatt ttttgtttgc
+       61 atctacatac acatcggacg cggcctgtat tacggctcat acatatttaa agagacttga
+      121 aacattggcg tagtcttact atttctggtc atagccactg ccttcgttgg gtatgtcctg
+      181 ccatgaggac aaatatcatt ttggggcgcc acagttatta ctaaccttct ttcagctgtt
+      241 ccatatttag gagattctct tgtccagtga atctgggggg gcttctcagt agataaggca
+      301 acactcaccc gattttttgc attccacttc ctgttcccat tcttaattgc agggactagc
+      361 attgttcacc tactcttctt acaccaaacg gggtcaaaca atccaacagg catctcctct
+      421 aaccaggaca agatcacctt tcatccatac ttttcctata aagacgcatt aggatttcta
+      481 ctc
+//
+

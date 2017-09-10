@@ -1,0 +1,51 @@
+LOCUS       DQ093822                 499 bp    DNA     linear   VRT 28-AUG-2006
+DEFINITION  Triturus alpestris haplotype h2 cytochrome b gene, partial cds;
+            mitochondrial.
+ACCESSION   DQ093822
+VERSION     DQ093822.1  GI:72537599
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 499)
+  AUTHORS   Canestrelli,D., Caputo,F.P., Bagnoli,C. and Nascetti,G.
+  TITLE     Integrating genetic, demographic and ecological issues for the
+            conservation of the Alpine newt in central Italy
+  JOURNAL   Ann. Zool. Fenn. 43 (4), 322-334 (2006)
+REFERENCE   2  (bases 1 to 499)
+  AUTHORS   Canestrelli,D. and Nascetti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2005) Ecology and Sustainable Economic
+            Development, Tuscia University, Via San Giovanni Decollato 1,
+            Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..499
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54263"
+                     /haplotype="h2"
+     CDS             <1..>499
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAZ73724.1"
+                     /db_xref="GI:72537600"
+                     /translation="FFFICIYLHIGRGLRYGSYMFKETWNIGVILLLLVMATAFVGYV
+                     LPWGQMSFWGATVITNLLSAIPYLGESLVQWIWGGFAVDNPTLTRFFTFHFMLPFFIA
+                     GMSIIHLLFLHKTGSNNPTGIPSNQDKVSFHPFFTYKDIVGFLLVLFILMLISLLTPN
+                     ILGDPE"
+ORIGIN      
+        1 attctttttt atttgcattt atcttcacat tggacggggc ttgcgctacg gctcctatat
+       61 atttaaagaa acatggaaca ttggggtaat tctactactt ttagtaatag ccaccgcctt
+      121 tgtagggtat gttctaccat gagggcaaat atcgttttgg ggggctacag taattaccaa
+      181 tctactctca gccatcccgt acctaggaga gtccctagta caatgaatct ggggggggtt
+      241 cgcagtagat aaccccaccc ttacacgatt ttttacattt cacttcatac tcccattctt
+      301 tattgcagga ataagcatta tccatctgct atttttacat aaaacagggt caaataaccc
+      361 taccggaatt ccttcaaacc aagacaaagt ctcctttcac ccctttttta cctacaaaga
+      421 catcgtagga tttctacttg tcctttttat cttaatacta atttcccttt taactccaaa
+      481 cattcttggg gacccagaa
+//
+

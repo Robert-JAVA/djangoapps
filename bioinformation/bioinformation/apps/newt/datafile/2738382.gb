@@ -1,0 +1,71 @@
+LOCUS       AF003532                1549 bp    mRNA    linear   VRT 02-JAN-1998
+DEFINITION  Pleurodeles waltl sonic hedgehog-related protein (Pw-shh) mRNA,
+            complete cds.
+ACCESSION   AF003532
+VERSION     AF003532.1  GI:2738382
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1549)
+  AUTHORS   Caubit,X., Nicolas,S. and Le Parco,Y.
+  TITLE     Pleurodeles sonic hedgehog
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1549)
+  AUTHORS   Caubit,X., Nicolas,S. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-1997) LGPD, IBDM, Luminy, Marseille, 13 13288,
+            France
+FEATURES             Location/Qualifiers
+     source          1..1549
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..1549
+                     /gene="Pw-shh"
+     CDS             202..1506
+                     /gene="Pw-shh"
+                     /function="secreted signalling protein"
+                     /codon_start=1
+                     /product="sonic hedgehog-related protein"
+                     /protein_id="AAB94412.1"
+                     /db_xref="GI:2738383"
+                     /translation="MGEMILLRRDLLGGFISTLLVPLGLGCGPGRGIGQRRRPQKLTP
+                     LAYKQFIPNVSEKTLGASGRYEVKITRNSERFQELTPNYNPDIIFKVEENTGADRLMT
+                     QRCKDKLNSLAISVMNQWPGVKLRVTEGWDEDGHHSEESLHYEGRAVDITTSDRDRSK
+                     YGMLARLAVEAGFDWVYFESKAHIHCSVKAENSVAVKSGGCFPGSATVTLEQGVRIPV
+                     KGLKPGNRVLAVDVEGRLIYSDFLLFMDEEETARKVFYVIETSLPRERLRLTAAHLLF
+                     VAQEHPGNASAGNFRSKFGHRRFRSMFASSVRPGHRVLTEDREGRGLREATVDRVYLE
+                     EATGAYAPVTAHGTVVIDRVLASCYAVIEEHSWAHWAFAPLRVGFGILSFFSPQDYSS
+                     HSPPAPSQAEGVHWYSEILYRIGTWVLQADTIHPLGMAAKSS"
+ORIGIN      
+        1 ttttgtcccc tgttgctgtc ttgactactc aaactccgat gtgtttggct gtcagcgccc
+       61 agagagcttg tcttttagca cctctcggat agggaccggc gaatggtgcg cactgaaacg
+      121 ggcagcagat acggaccagt tggcgcgcga gggccagcag cacaagtacg cgacgaggtg
+      181 gggggtgttc tcgacccctg tatgggcgag atgattcttc tgcggcgaga cctactgggg
+      241 ggcttcatct ccaccctcct agtacccttg gggctgggct gcggtccggg cagaggcatt
+      301 ggccagagga gacgccccca gaagcttact ccgttggcat acaaacagtt catccccaac
+      361 gtgtccgaga agaccctggg ggccagtgga cgttatgagg tcaagataac gcgcaactcg
+      421 gagcgcttcc aggagctaac tcctaattac aaccctgaca ttatatttaa ggtcgaggag
+      481 aacacgggag cggataggct gatgacccag aggtgtaagg ataagctgaa ttccctggca
+      541 atatcggtga tgaaccagtg gcctggagtc aaactccggg tcaccgaagg atgggatgag
+      601 gatggacatc actctgagga gtccctgcac tatgagggtc gggcagtgga catcaccacc
+      661 tcagaccggg accgcagcaa gtatggcatg ctggcccgcc tggctgtgga ggctggcttc
+      721 gactgggtct actttgagtc caaggcccac atccactgct cagtgaaagc agagaactca
+      781 gtagctgtaa aatcgggagg ttgcttccca ggttctgcca cggtgaccct ggagcaaggg
+      841 gtgaggattc ccgtgaaggg cttgaagccg gggaacaggg tgctcgccgt ggacgttgag
+      901 ggcaggctga tttacagcga ctttctcttg ttcatggacg aggaagagac ggccagaaaa
+      961 gtcttctacg tgatagagac ctccctgcct cgggagaggc tccgcctgac cgccgcccac
+     1021 ctcctctttg tagcccaaga gcacccagga aacgccagtg cgggcaactt ccggtccaag
+     1081 tttgggcacc gccgtttccg gtccatgttc gccagcagcg tgcggcctgg acaccgggtg
+     1141 ctcacggagg accgggaagg ccgggggtta agggaagcca cggtggatcg agtgtacctg
+     1201 gaggaggcca caggggccta cgctcccgtc actgcgcacg ggaccgtggt catagacagg
+     1261 gtgctggcct cttgttacgc ggtcatagag gaacacagct gggcgcactg ggccttcgcc
+     1321 cctctgagag tgggcttcgg tattttgtca ttcttctctc cccaagacta ttccagccat
+     1381 tccccgccag cgccctctca ggcagaggga gtccactggt actcagagat cctctaccgg
+     1441 atagggacat gggtgttaca ggcggacacg atccacccat tgggaatggc agcgaagtcc
+     1501 agctgaaaac cagtctggga gccagtataa agacttaagt gaaatttaa
+//
+

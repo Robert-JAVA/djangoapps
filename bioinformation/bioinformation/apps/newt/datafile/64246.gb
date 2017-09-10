@@ -1,0 +1,36 @@
+LOCUS       X51918                   182 bp    DNA     linear   VRT 06-JUN-2003
+DEFINITION  Pleurodeles waltii large-subunit ribosomal RNA D3 domain.
+ACCESSION   X51918
+VERSION     X51918.1  GI:64246
+KEYWORDS    28S ribosomal RNA; ribosomal RNA.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 182)
+  AUTHORS   Michot,B., Qu,L.H. and Bachellerie,J.P.
+  TITLE     Evolution of large-subunit rRNA structure. The diversification of
+            divergent D3 domain among major phylogenetic groups
+  JOURNAL   Eur. J. Biochem. 188 (2), 219-229 (1990)
+   PUBMED   2138538
+REFERENCE   2  (bases 1 to 182)
+  AUTHORS   Bachellerie,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-1990) Bachellerie J.-P., Centre de Recherches de
+            Biochemie et de Genetique, Cellulaire du CNRS, 118 Route de
+            Narbonne, 31062 Toulouse Cedex, France
+FEATURES             Location/Qualifiers
+     source          1..182
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     rRNA            <1..>182
+                     /product="28S ribosomal RNA"
+ORIGIN      
+        1 acggaccaag gagtctaaca cgtgcgcgag tcggagggcc cagcgaaacc ctgtggcgca
+       61 atgaaggtga gggccggcgc gcgccggctg aggtgggatc ccgcgaaccc agcggcgggc
+      121 gcaccaccgg cccgtctcgc ccgctctgtc ggggaggtgg agcatgagcg cgcgtgagag
+      181 ga
+//
+

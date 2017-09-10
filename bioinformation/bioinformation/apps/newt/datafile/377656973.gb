@@ -1,0 +1,67 @@
+LOCUS       JN831555                1065 bp    DNA     linear   VRT 27-FEB-2012
+DEFINITION  Triturus dobrogicus isolate Td103 tRNA-Met gene, partial sequence;
+            and NADH dehydrogenase subunit 2 (ND2) gene, partial cds;
+            mitochondrial.
+ACCESSION   JN831555
+VERSION     JN831555.1  GI:377656973
+KEYWORDS    .
+SOURCE      mitochondrion Triturus dobrogicus (Danube newt)
+  ORGANISM  Triturus dobrogicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 1065)
+  AUTHORS   Voros,J., Major,A., Mikulicek,P., Recuero-Gil,E. and Arntzen,J.W.
+  TITLE     Phylogeography of the Danube crested newt, Triturus dobrogicus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1065)
+  AUTHORS   Voros,J., Major,A., Mikulicek,P., Recuero-Gil,E. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2011) Department of Zoology, Hungarian Natural
+            History Museum, Baross u. 13., Budapest 1088, Hungary
+FEATURES             Location/Qualifiers
+     source          1..1065
+                     /organism="Triturus dobrogicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Td103"
+                     /db_xref="taxon:8327"
+     tRNA            <1..44
+                     /product="tRNA-Met"
+     gene            45..>1065
+                     /gene="ND2"
+     CDS             45..>1065
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AFB74040.1"
+                     /db_xref="GI:377656974"
+                     /translation="MSPYALSMLMSSLAMGTIITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALLLFSATMNAWMTGEWTIMNMNSYTPTTILTIAL
+                     AIKLGIAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLILTSHQLNTTLLTLMALA
+                     SAIIGGWGALNQTQMRKIMAYSSIAHLGWMTLVISFAPNLALLNLMIYLMMTSSMFMV
+                     LMALNATNMNKLSVSWLKTPTLAASMMAGLLSLGGLPPLSGFLPKWLILQEMTKHHLG
+                     ALSAVMALSALLSLFFYLRLSYMISMTSPPNISNANLAWRKKNNMSLINPILIVLSSM
+                     LMPITP"
+ORIGIN      
+        1 gggcccatac cccaaatatg ttggtgaaaa cccttctttt actaatgagc ccctatgcac
+       61 tatcgatatt aatatcaagc ctagctatag gaacgattat tacactgtct agctcccact
+      121 ggttcttggc ttgaatgggg ctagaaatta atacactggc cattatccca cttatgacta
+      181 aaatacatca cccacgagcc acagaatctg caacaaaata cttcctaaca caagccacag
+      241 cttctgcttt acttctattc tctgccacta taaacgcatg gataacagga gaatgaacta
+      301 ttataaacat aaatagttat acccctacaa caatcttaac aattgcccta gcaattaaat
+      361 taggaattgc cccatttcac ctctgattac cagacgtcct acaagggctc gacatgataa
+      421 catgcctaat cctctcaaca tgacaaaaac ttgccccaat agccctatta attttaacaa
+      481 gccaccaact aaataccacc ttattaaccc taatggccct cgcatccgca atcatcgggg
+      541 gatgaggggc cctaaatcaa actcaaatac ggaaaattat agcatactcg tctatcgcac
+      601 acctgggctg gataacactg gttatctcat ttgcccccaa cctggcactg ttgaatttaa
+      661 taatttacct tataataacc tcatctatat ttatagtact aatagcccta aacgccacaa
+      721 atataaataa actatcagtt tcctgactaa aaacaccaac actagcagcc tcaataatag
+      781 ccggcctcct ctccctcgga ggcctccccc ctctctcagg gtttctacca aagtggctaa
+      841 tcctacaaga aataactaag catcacctag gggccctctc tgccgtaata gccttatcgg
+      901 ccctacttag tctttttttt tacctccgac tctcgtatat aatctcaata acctccccac
+      961 ccaacatctc aaacgctaac ttggcctggc gaaagaaaaa taacatatcg cttattaacc
+     1021 caatcttgat tgtgttatcc tctatactaa tgccaatcac accca
+//
+

@@ -1,0 +1,39 @@
+LOCUS       AB731696                 234 bp    DNA     linear   VRT 16-JAN-2013
+DEFINITION  Cynops ensicauda DNA, microsatellite:PCE4.
+ACCESSION   AB731696
+VERSION     AB731696.1  GI:442564729
+KEYWORDS    .
+SOURCE      Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mochida,K., Inoue,E., Kurita,K., Hayano,A. and Murayama,M.I.
+  TITLE     Development of microsatellite markers for Cynops ensicauda
+            (Amphibia: Caudata) by using next-generation sequencing technology
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 234)
+  AUTHORS   Mochida,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2012) Contact:Koji Mochida University of Ryukyus,
+            Tropical Biosphere Research Center; Senbaru 1, Nishihara 903-0213,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..234
+                     /organism="Cynops ensicauda"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:102207"
+                     /country="Japan: Okinawa, Onna Village"
+                     /collection_date="2008"
+     repeat_region   22..51
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ac"
+                     /satellite="microsatellite:PCE4"
+ORIGIN      
+        1 gggaggtggt ttgaaggttt cacacacaca cacacgcaca cacacacaca cttcacatat
+       61 gagtgttgtg acaagtttaa agcactttac caaacacctt agaataataa aaaaagtgaa
+      121 aaagaatgat gatgggaaat cacctaccag tcccaaggac tttgaagaaa ataggattca
+      181 cttctgcagt agtgcaggct atttctatat ctttattgtt gggcgttcac tagg
+//
+

@@ -1,0 +1,39 @@
+LOCUS       AY147248                 355 bp    DNA     linear   VRT 02-JAN-2003
+DEFINITION  Neurergus microspilotus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY147248
+VERSION     AY147248.1  GI:27464938
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus derjugini (Kurdistan newt)
+  ORGANISM  Neurergus derjugini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   Steinfartz,S., Hwang,U.W., Tautz,D., Oez,M. and Veith,M.
+  TITLE     Molecular phylogeny of the salamandrid genus Neurergus: evidence
+            for an intrageneric switch of reproductive biology
+  JOURNAL   Amphib-reptil. 23, 419-431 (2002)
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-SEP-2002) Evolutionary Genetics, Institute of
+            Genetics, University of Cologne, Weyertal 121, Cologne 50931,
+            Germany
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /organism="Neurergus derjugini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1536848"
+     rRNA            <1..>355
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagccat aaactttgat taatccgccc gagtactacg agcaacagct taaaactcaa
+       61 aggacttggc ggtgctctac acccacctag aggagcctgt tctataatcg ataatccacg
+      121 ataaacctca ccatctattg ccaatacagc ctatatacca ccgtccagcc caccctctaa
+      181 gggcataaca gtaggcacaa ctacaaacat aaaaacgtca ggtcaaggtg cagcaaataa
+      241 gacgggaaga aatgggctac attttctaac ctagaaaaac acggaaaagt ctatgaaaca
+      301 agactacaaa ggaggattta gcagtaaaaa gaaaaaagag agttcttttt aagac
+//
+

@@ -1,0 +1,48 @@
+LOCUS       KF647654                 548 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Pleurodeles waltl clone Pleu2.21 microsatellite sequence.
+ACCESSION   KF647654
+VERSION     KF647654.1  GI:558485213
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 548)
+  AUTHORS   Gutierrez-Rodriguez,J., Gonzalez,E.G. and Martinez-Solano,I.
+  TITLE     Development and characterization of twelve new polymorphic
+            microsatellite loci in the Iberian Ribbed newt, Pleurodeles waltl
+            (Caudata: Salamandridae), with data on cross-amplification in P.
+            nebulosus. Amphibia-Reptilia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 548)
+  AUTHORS   Gutierrez-Rodriguez,J., Gonzalez,E.G. and Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2013) Departamento de Biodiversidad y Biologia
+            Evolutiva, Museo Nacional de Ciencias Naturales, C/Jose Gutierrez
+            Abascal 2, Madrid, Madrid 28006, Spain
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+                     /clone="Pleu2.21"
+     repeat_region   1..548
+                     /rpt_type=tandem
+                     /satellite="microsatellite"
+ORIGIN      
+        1 aagcaagctt tttgtggcaa tggggttaaa gcaatggtgt tatctgttgt ggaacagttc
+       61 tggtgaaaac ctgtctgttg gaatgcagct atgttggctt gtgccaccca ttttttgtag
+      121 atgggccaac ccattttgca atggttttcc catctgcctc taacactact atcagcctgt
+      181 agctgtgtgt gtgtgtgtgt gtgtgtgtgg gggggggggg gatctcttgg gcctccttct
+      241 tagattggct gaataataga gcctttccaa gatggtaata gacagactga ctcagttgct
+      301 gacctgatta ttacagttag tgtatcccag tttgttagaa tcagtttcat gagggccatt
+      361 cgggccctgt gccctggagt tgttggtgtt taataagagt ttctgtttcc actgtggaac
+      421 tngtgccaat ggacacacct tttattccat ctcgaatctg agaattatag gtgtcccttt
+      481 gtacaactct gccaatattc ttttcatgtt tgacattaaa tgtggtaata ttaccctgtt
+      541 ctgtatga
+//
+

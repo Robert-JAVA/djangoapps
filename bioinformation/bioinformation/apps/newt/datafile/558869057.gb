@@ -1,0 +1,59 @@
+LOCUS       KF550359                 422 bp    DNA     linear   VRT 04-MAR-2015
+DEFINITION  Taricha rivularis voucher MVZ:Herp:217834 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   KF550359
+VERSION     KF550359.1  GI:558869057
+KEYWORDS    .
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 422)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Discovery of a New, Disjunct Population of a Narrowly Distributed
+            Salamander (Taricha rivularis) in California Presents Conservation
+            Challenges
+  JOURNAL   J Herpetol 48 (3), 371-379 (2014)
+REFERENCE   2  (bases 1 to 422)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2013) Department of Integrative Biology, Museum
+            of Vertebrate Zoology, UC Berkeley, 3101 Valley Life Sciences
+            Building, Berkeley, CA 94720-3160, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..422
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:217834"
+                     /db_xref="taxon:36313"
+                     /PCR_primers="fwd_name: mvz15, fwd_seq:
+                     gaactaatggcccacacwwtacgnaa, rev_name: cytb2, rev_seq:
+                     aaactgcagcccctcagaatgatatttgtcctca"
+     gene            <1..>422
+                     /gene="cytb"
+     CDS             <1..>422
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AHA93844.1"
+                     /db_xref="GI:558869058"
+                     /translation="KTHPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGL
+                     FLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSY
+                     MFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGAAV"
+ORIGIN      
+        1 aaaacccacc cacttataaa aatcattaac aactcattca ttgacctccc aacaccgtca
+       61 aatatctcct actgatgaaa cttcggatcc cttctagggg tgtgccttat tacacagatc
+      121 ctcacaggcc tatttttagc aatacactac acagcagaca ctcaatcagc attctcatca
+      181 gtagctcaca tttgccgaga tgtaaactac ggctgactag tacggaatat tcacgccaac
+      241 ggggcctcac tattcttcat ctgcatctat ctacacatcg gacgtggcct atactacgga
+      301 tcctacatat ttaaagaaac ctgaaacatt ggcgtcattc tgctcttcct agtaatagcc
+      361 accgcctttg taggatacgt cctcccatga ggacaaatat cattctgagg ggctgcagtt
+      421 ta
+//
+

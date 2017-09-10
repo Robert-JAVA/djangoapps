@@ -1,0 +1,57 @@
+LOCUS       PWU55950                 666 bp    DNA     linear   VRT 06-JUN-2002
+DEFINITION  Pleurodeles waltl cytochrome b (CYT-b) gene, mitochondrial gene
+            encoding mitochondrial protein, partial cds.
+ACCESSION   U55950
+VERSION     U55950.1  GI:1326198
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 666)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Mitochondrial DNA rates and biogeography in European newts (genus
+            Euproctus)
+  JOURNAL   Syst. Biol. 46 (1), 126-144 (1997)
+   PUBMED   11975350
+REFERENCE   2  (bases 1 to 666)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-1996) A. Caccone, Biology, Yale University, PO
+            Box 208104, New Haven, CT 06520-8104, USA
+FEATURES             Location/Qualifiers
+     source          1..666
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     gene            1..666
+                     /gene="CYT-b"
+     CDS             1..>666
+                     /gene="CYT-b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB00563.1"
+                     /db_xref="GI:1326199"
+                     /translation="MAHIMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIVTGLFLAMHYTADTYSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYMGDT
+                     LVQWIWGGFSIDKATLTRFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGIISNGDK
+                     IPFH"
+ORIGIN      
+        1 atggcccaca tcatacgaaa aacccacccc ctactaaaaa ttattaataa ttcattcatc
+       61 gacctcccaa cgccgtcaaa catctcctac tgatgaaatt tcggctccct gctcggcatc
+      121 tgccttatta cacaaatcgt aacaggatta ttcctcgcca tacactacac agcagacaca
+      181 tactcagcat tttcatcagt tgcccatatt tgccgagacg taaactacgg ctgactagta
+      241 cgaaacatcc atgcaaacgg tgcctcattc ttcttcattt gtatctacat acatatcgga
+      301 cgaggtttgt attatggctc ctatatattt aaagaaacat gaaatattgg agtaatcctg
+      361 ctatttttag ttatagcaac agcattcgtt ggatatgtcc tcccatgagg acaaatatca
+      421 ttctgaggcg ccacagtcat tacaaatcta ctctcagctg tcccatatat aggcgacact
+      481 ctcgtacaat gaatctgggg aggattttca attgacaaag ccacccttac ccgattcttc
+      541 gcattccact tcctatttcc atttctaatc gccggagcca gcatcgttca cctcctcttc
+      601 ctccacgaaa caggctcaaa taacccaacc gggattattt ctaacgggga caaaattcca
+      661 ttccac
+//
+

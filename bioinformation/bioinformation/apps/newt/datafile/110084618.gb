@@ -1,0 +1,45 @@
+LOCUS       DQ823396                 575 bp    DNA     linear   VRT 21-SEP-2007
+DEFINITION  Triturus pygmaeus voucher tp1689 beta-fibrinogen gene, intron 7.
+ACCESSION   DQ823396
+VERSION     DQ823396.1  GI:110084618
+KEYWORDS    .
+SOURCE      Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Assessing the phylogenetic signal of the nuclear beta-fibrinogen
+            intron 7 in salamandrids (Amphibia: Salamandridae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) CIBIO/UP, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            Vairao, Vila do Conde 4485-661, Portugal
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Triturus pygmaeus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="tp1689"
+                     /db_xref="taxon:171367"
+     gene            <1..>575
+                     /gene="beta-fibrinogen"
+     intron          1..575
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 gtatgtagtg ctccagcctt catcagttaa ttggtttaat gcaaggagca gccagggcac
+       61 attaaatacc taagaatgag agcattggct gcactgacat cccccttcca tgtttgatca
+      121 gagatagatt ctcgcttctc agcatttctt tcgagttgtg gcattctttt agactgatag
+      181 ccacttcaag acagacacat cgttytagtg ttcctttccg cataattcca ctgctggtgt
+      241 tcgttttctg caaaggacta cagatacaga tgcgttatat atattttttt taaaacagtt
+      301 yttagaccta aagaagacta ttagagaaaa ccgtcacacg ttcccaattt atactttaat
+      361 atactgaagt aaactatttt attaattact acgttaaact gtactgtaca acaggaatca
+      421 gtattataag ttatgctatg ttatgatttg ctattttgtc catgaacaca aatgcatgca
+      481 cacatgcata cacaggattg cttcgagtct tggaaatgca ggggcaggag gatgaacaca
+      541 gtgtgcttgc taaatttcaa tgtctctgtt tttag
+//
+

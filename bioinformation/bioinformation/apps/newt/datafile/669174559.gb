@@ -1,0 +1,63 @@
+LOCUS       AB904166                 434 bp    mRNA    linear   VRT 09-OCT-2014
+DEFINITION  Cynops pyrrhogaster MITF mRNA for microphthalmia-associated
+            transcription factor, partial cds.
+ACCESSION   AB904166
+VERSION     AB904166.1  GI:669174559
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Islam,M.R., Nakamura,K., Casco-Robles,M.M., Kunahong,A., Inami,W.,
+            Toyama,F., Maruo,F. and Chiba,C.
+  TITLE     The newt reprograms mature RPE cells into a unique multipotent
+            state for retinal regeneration
+  JOURNAL   Sci Rep 4, 6043 (2014)
+   PUBMED   25116407
+  REMARK    DOI:10.1038/srep06043
+            Publication Status: Online-Only
+REFERENCE   2
+  AUTHORS   Nakamura,K., Islam,M.R., Takayanagi,M., Yasumuro,H., Inami,W.,
+            Kunahong,A., Casco-Robles,R.M., Toyama,F. and Chiba,C.
+  TITLE     A Transcriptome for the Study of Early Processes of Retinal
+            Regeneration in the Adult Newt, Cynops pyrrhogaster
+  JOURNAL   PLoS ONE 9 (10), E109831 (2014)
+   PUBMED   25290450
+  REMARK    DOI:10.1371/journal.pone.0109831
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 434)
+  AUTHORS   Chiba,C. and Nakamura,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2014) Contact:Chikafumi Chiba University of
+            Tsukuba, Faculty of life and Environmental Sciences; Tennodai
+            1-1-1, Tsukuba, Ibaraki 305-8572, Japan URL
+            :http://www.life.tsukuba.ac.jp/index.html
+FEATURES             Location/Qualifiers
+     source          1..434
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..>434
+                     /gene="MITF"
+     CDS             <1..>434
+                     /gene="MITF"
+                     /codon_start=1
+                     /product="microphthalmia-associated transcription factor"
+                     /protein_id="BAP18981.1"
+                     /db_xref="GI:669174560"
+                     /translation="VNDEFHEEPKTYYELKSQPIKCSSSSEHPGAAKPPLSSSSMTSR
+                     ILLRQQLMREQMQQQERREQQQKQQAAQFMQQRVPVGQTPAINVSVPSSLPPSAQVPM
+                     EVLKVQTHLENPTKYHIQQAQRQQVKQYLSTTLGSKHANQVL"
+ORIGIN      
+        1 gtcaatgacg aattccatga ggagcccaag acgtactacg agctgaaaag ccagcccatc
+       61 aaatgcagca gttcatccga gcatcctggc gctgccaagc cgccgctaag ctcctccagt
+      121 atgacatcac ggatcttgct acggcagcag ctcatgcgtg aacagatgca gcagcaggag
+      181 cggcgcgagc agcaacagaa gcagcaagcg gctcagttca tgcaacagag agtaccagtc
+      241 ggtcagactc cagccatcaa cgttagcgtc ccgtctagcc tccccccttc cgctcaggta
+      301 ccaatggagg ttctcaaggt gcagactcac cttgaaaatc cgaccaagta ccacattcag
+      361 caagcccagc ggcagcaggt aaagcagtac ctctctacta ctttaggaag taaacatgcc
+      421 aaccaagtgc tgag
+//
+

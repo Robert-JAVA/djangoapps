@@ -1,0 +1,43 @@
+LOCUS       FJ490443                 342 bp    mRNA    linear   VRT 17-JAN-2009
+DEFINITION  Pleurodeles waltl PR domain containing 1 mRNA, partial cds.
+ACCESSION   FJ490443
+VERSION     FJ490443.1  GI:219986882
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 342)
+  AUTHORS   Wallacides,A., Kleinclauss,A., Flament,S. and Dumond,H.
+  TITLE     Germ cell differentiation in the urodele amphibian Pleurodeles
+            waltl
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 342)
+  AUTHORS   Wallacides,A., Kleinclauss,A., Flament,S. and Dumond,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-2008) EA3442, Faculte des Sciences, Boulevard des
+            Aiguillettes, Vandoeuvre 54505, France
+FEATURES             Location/Qualifiers
+     source          1..342
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..>342
+                     /note="with ZNF domain; Prdm1/Blimp1"
+                     /codon_start=2
+                     /product="PR domain containing 1"
+                     /protein_id="ACL68657.1"
+                     /db_xref="GI:219986883"
+                     /translation="VNDHARDSLADATTATQAEASLPRNLTIKYTDGFKEVAGVVSKE
+                     YIPKGTRFGPLVGEIYTPDTVPKDANRKYFWRIYASGNFHHFVDGFNEDKSNWMRYVN
+                     PAHSVQEQNLAA"
+ORIGIN      
+        1 cgtgaacgac cacgccaggg actccctggc cgatgcgacc actgccaccc aggccgaggc
+       61 ctccctgccc aggaatctga ccatcaagta cacagacggc ttcaaggagg tggcaggagt
+      121 tgttagcaag gagtacattc caaaaggcac gaggtttggg cccctggttg gtgagatcta
+      181 cacgcccgac accgttccca aggatgcaaa cagaaaatac ttctggcgga tctatgccag
+      241 cggcaacttc caccatttcg tcgacggctt caacgaagac aagagcaact ggatgcgcta
+      301 tgtcaatccc gcgcactccg tgcaggagca gaacctggcc gc
+//
+

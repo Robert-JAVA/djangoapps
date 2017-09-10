@@ -1,0 +1,72 @@
+LOCUS       KM262158                 643 bp    DNA     linear   VRT 04-NOV-2014
+DEFINITION  Lissotriton vulgaris meridionalis haplotype M6c NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; and tRNA-His (tRNA-His) gene,
+            partial sequence; mitochondrial.
+ACCESSION   KM262158
+VERSION     KM262158.1  GI:700745280
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris meridionalis (Italian smooth
+            newt)
+  ORGANISM  Lissotriton vulgaris meridionalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 643)
+  AUTHORS   Maura,M., Salvi,D., Bologna,M.A., Nascetti,G. and Canestrelli,D.
+  TITLE     Northern richness and cryptic refugia: Phylogeography of the
+            Italian smooth newt Lissotriton vulgaris meridionalis
+  JOURNAL   Biol. J. Linn. Soc. Lond. 113 (2), 590-603 (2014)
+REFERENCE   2  (bases 1 to 643)
+  AUTHORS   Maura,M., Salvi,D., Bologna,M.A., Nascetti,G. and Canestrelli,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-2014) Scienze, Universita degli studi Roma Tre,
+            Viale G. Marconi 446, Rome, Rome 00146, Italy
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /organism="Lissotriton vulgaris meridionalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="meridionalis"
+                     /specimen_voucher="M6_MLEO1"
+                     /db_xref="taxon:213857"
+                     /haplotype="M6c"
+                     /country="Italy"
+                     /note="common: Italian smooth newt"
+     gene            <1..587
+                     /gene="ND4"
+     CDS             <1..587
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:587,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AIU98720.1"
+                     /db_xref="GI:700745281"
+                     /translation="ALWGVVMTSLICMRQTDLKSLIAYSSVSHMGLVIAAILIQTPWS
+                     LTGAIILMISHGLISSALFCLANLNYERTHSRTLLLVRGAQAALPLMATWWLLANLSN
+                     MALPPSMNLWGELTIMVSLFNWSPWTIMITGIGTLITASYTLYMFLMTQRGPIPSHLN
+                     TISPSHTREHFLMMMHLAPMLLLIFNPALVSGAFS"
+     gene            588..>643
+                     /gene="tRNA-His"
+     tRNA            588..>643
+                     /gene="tRNA-His"
+                     /product="tRNA-His"
+ORIGIN      
+        1 agctctatga ggcgtcgtaa taacaagcct tatctgcata cgacaaacag acttaaaatc
+       61 cctcatcgca tattcttctg taagccatat aggcttggta attgccgcta tcttaattca
+      121 aacaccatga agccttacag gagccattat cttaataatt tcacacgggc ttatctcatc
+      181 tgccttattt tgcctggcaa acctaaatta tgaacggact cacagccgga ctttactatt
+      241 ggttcgaggg gcccaagcag cccttcccct tatggcaact tggtggctct tagcaaattt
+      301 atcaaacata gcccttcctc catcaataaa cctttgggga gaattaacaa tcatagtctc
+      361 cttattcaac tgatcccctt gaacaatcat aattacagga attggaactc tgatcacagc
+      421 ctcttatacg ctctatatat ttttaataac ccaacgaggc ccaatcccct cccatctaaa
+      481 tacaatcagc ccgtcacaca cccgtgagca ctttcttatg ataatgcact tagcacctat
+      541 acttttatta atctttaatc ctgcccttgt ctcaggggcc ttctcatgtg cgtataattt
+      601 aaaaaaatat tagattgtga ttctaaaaat gagagttaaa ccc
+//
+

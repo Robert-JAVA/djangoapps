@@ -1,0 +1,69 @@
+LOCUS       KC165649                 984 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis titin (TTN) gene, partial cds.
+ACCESSION   KC165649
+VERSION     KC165649.1  GI:523707355
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 984)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 984)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..984
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>984
+                     /gene="TTN"
+     mRNA            <1..>984
+                     /gene="TTN"
+                     /product="titin"
+     CDS             <1..>984
+                     /gene="TTN"
+                     /codon_start=1
+                     /product="titin"
+                     /protein_id="AGQ56072.1"
+                     /db_xref="GI:523707356"
+                     /translation="YGVGEPLESEPVKAQNPFTVPSAPKSIEITSVTKEAMTLCWARP
+                     ESDGGSEIAGYIIERREKSSLRWMRVNKKPVYDLRVKSSGLREGCEYEYRVYAENAAG
+                     LSPPSDCSPLVRAEDPIFLPSAPSKPKIADSTKTTVTIAWAKPLFDGGSPVTAYTVEY
+                     NKVEDTEWLTAVANVRSTEYTVIGLTSGSEYVFRVRSINKVGPSDPSEISEPQVAKER
+                     EEEPAFDIDSEMRKTLIVKAGGSFTMTVPFRGKPVPNVLWSKPDTDLRTRASIDSSSS
+                     KTSLTIEKATRNDSGKYTVTLQNILSTASLTLVVKVLDSPGPTSNITVKEVT"
+ORIGIN      
+        1 tatggtgttg gcgagccttt ggagagtgaa ccagtaaagg cccaaaatcc atttacagta
+       61 ccaagtgctc ctaaatctat agagatcacc agtgtcacaa aagaggccat gactctctgc
+      121 tgggctaggc ctgaaagtga tggaggaagt gaaatagctg gctatataat tgaaagacgt
+      181 gaaaagagta gtctacgatg gatgcgtgta aacaaaaaac cagtctatga cctaagagta
+      241 aaatcttctg gtctccgaga aggatgtgaa tatgaatatc gggtctatgc agaaaatgct
+      301 gcaggtctca gtccaccaag tgactgttcg ccattggtac gtgctgaaga tccaatattc
+      361 ttaccatcag ctccatctaa accaaagatt gcagattcaa caaagacaac tgtaacaatt
+      421 gcatgggcaa aaccattgtt tgatggaggt tctccagtca ctgcatatac agtagaatat
+      481 aacaaagtgg aagacactga atggttgacc gcagttgcaa atgtaagaag tacagagtac
+      541 actgttatcg gattaacatc gggatcagaa tatgtcttca gagtcagatc aattaacaaa
+      601 gttggcccta gtgatccaag tgaaatttct gaaccacaag tagcaaagga aagggaagaa
+      661 gagcctgcat ttgacattga cagcgaaatg cgtaaaacat taattgtgaa agctggtggg
+      721 tcatttacaa tgactgtgcc tttccgagga aaaccagtgc ccaatgttct atggagcaaa
+      781 ccagatactg accttcgtac aagagcaagt attgattcat caagttctaa aacatctctg
+      841 accatagaaa aggcaacaag aaatgattct ggaaaataca ctgtgacatt gcaaaatatt
+      901 ctcagcactg cttcattgac actagtcgta aaagttctcg actctcctgg tcccacatca
+      961 aatatcactg tgaaagaggt aact
+//
+

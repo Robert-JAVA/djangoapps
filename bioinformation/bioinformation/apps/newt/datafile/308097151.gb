@@ -1,0 +1,55 @@
+LOCUS       HM367110                 551 bp    mRNA    linear   VRT 05-APR-2011
+DEFINITION  Notophthalmus viridescens GATA binding protein 4 (GATA4) mRNA,
+            partial cds.
+ACCESSION   HM367110
+VERSION     HM367110.1  GI:308097151
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 551)
+  AUTHORS   Witman,N., Murtuza,B., Davis,B., Arner,A. and Morrison,J.I.
+  TITLE     Recapitulation of developmental cardiogenesis governs the
+            morphological and functional regeneration of adult newt hearts
+            following injury
+  JOURNAL   Dev. Biol. (2011) In press
+   PUBMED   21457708
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 551)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2010) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..551
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>551
+                     /gene="GATA4"
+     CDS             <1..>551
+                     /gene="GATA4"
+                     /codon_start=1
+                     /product="GATA binding protein 4"
+                     /protein_id="ADO14130.1"
+                     /db_xref="GI:308097152"
+                     /translation="YHKMNGINRPLIKPQRRLSASRRVGLSCANCHTTITTLWRRNAE
+                     GEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKRKPKNLNKSNTSTGSTSSESLTSTPT
+                     TSYTTSNVTTEDLRPIKTEPEISSHYGHPISQNSVSSISGHVGSLHPSLSSLKLSPQG
+                     HHSAASTSPQTSSKHDAWNNLVLA"
+ORIGIN      
+        1 taccataaga tgaatggcat caatcgacca ctgatcaagc cccaaagaag gctgtccgcc
+       61 tcccgtcgcg tcggactgtc ctgtgccaac tgccatacca ccatcaccac tctgtggcgc
+      121 cgaaatgcag agggcgagcc agtctgtaat gcctgtggcc tgtatatgaa gttgcatggg
+      181 gtgccaaggc cactagcaat gaaaaaggag ggaattcaga ccaggaaacg gaaacccaag
+      241 aatctgaaca agtccaatac atcaacagga tcaaccagca gtgagagcct cacatctacg
+      301 cccaccacca gctacaccac ctccaatgtc accacagaag acctgcgccc aataaagaca
+      361 gaaccagaaa tctcatctca ttacggacac cctatttctc agaattctgt ttcttcaatc
+      421 tcagggcatg tgggttcttt acacccttct ctatcaagcc tgaagctgtc gccccaggga
+      481 caccactcag ctgccagcac gtccccacaa accagctcca agcatgacgc ctggaacaac
+      541 ctggtcctgg c
+//
+

@@ -1,0 +1,52 @@
+LOCUS       FJ588103                 741 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 12 platelet-derived growth
+            factor receptor chain alpha (Pdgfr) gene, intron 11.
+ACCESSION   FJ588103
+VERSION     FJ588103.1  GI:222142783
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="12"
+     gene            <1..>741
+                     /gene="Pdgfr"
+                     /note="platelet-derived growth factor receptor chain
+                     alpha"
+     intron          <1..>741
+                     /gene="Pdgfr"
+                     /number=11
+ORIGIN      
+        1 gatgggaatt tccacgggat ggactggtgc ttggtaagta gatatttgtg gatatgtttg
+       61 caataattgc tgagtgagtt gccattggct atcttgcttt gtaaacataa gcgccctgct
+      121 acatttttgg taggtttgac catagaaata ccatatacac acatacatac ataaaataac
+      181 actactagaa aaaaatatca gttttataga ttgtgcagaa ttatcagttt tatagattgt
+      241 gcagaattat cattaactgc gtccttcaaa cagcaatgca ttcagttcca atctgactct
+      301 ttcttcgagt ggcctctaaa tctctaatcc tatttaaggc tttctgatac catgccaggc
+      361 atgctgcatt ctgaagcagc ttttgcggca catgatgttg aggctcacat actgtgcact
+      421 ctcacgccac ctaatgctat gctatcttca tgttctgctt tgactagttc aacttgttct
+      481 acttaaaagc ctttgttttg gtcctattcc catccttacc atttatactc acacagtttg
+      541 tcaagacatt ctagtttggt tgcattatac ttgagcaatc cctttcttca ctttacagcc
+      601 atttgtgtac ctaaaggggg atttatcgta tttagatttg tacaaagtat tcattattac
+      661 agcaagtcat gtggaaaaaa actaaacaaa tgatactatt ttaacctcag gaagaatcct
+      721 cggctctggc gcattcggaa a
+//
+

@@ -1,0 +1,63 @@
+LOCUS       KJ715493                1008 bp    DNA     linear   VRT 01-OCT-2014
+DEFINITION  Cynops orientalis Mab-21 domain containing 2 (MB21D2) gene, partial
+            cds.
+ACCESSION   KJ715493
+VERSION     KJ715493.1  GI:689435141
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   Mao,R.L., Chen,M.Y. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2014) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>1008
+                     /gene="MB21D2"
+     mRNA            <1..>1008
+                     /gene="MB21D2"
+                     /product="Mab-21 domain containing 2"
+     CDS             <1..>1008
+                     /gene="MB21D2"
+                     /codon_start=1
+                     /product="Mab-21 domain containing 2"
+                     /protein_id="AIR08154.1"
+                     /db_xref="GI:689435142"
+                     /translation="LVPALKLHDRNQPVTLDMRHSALCHSWLSLRLFDETTISRWKDC
+                     CTIVDHINGATNYFFSPTKVADWFHDAITIVLSEIQKKPQRGMPKVEKVEKNGTIISI
+                     ILGVGSSRMLYDIVPVVSFKGWPAVAQTWLMENHFWDGKITEEEVISGFYLVPACSNK
+                     GKKENEWRLSFARSEVQLKKCISSSLMQAYQACKAIIIKLLSRPKAISPYHLRSMMLW
+                     ACDRLPANYLAQEDYAAHFLLGLIDDLQHCLVNKMCPNYFIPQCNMLEHLSEETVMLH
+                     ARKLSSVRSDPAEHLRTAIEHVKAANRLTLELQRRGSTTSIPSPLSDGGDANQPDDRL
+                     AK"
+ORIGIN      
+        1 ctggtgccag cactgaagct tcatgaccgg aaccagccag taactcttga catgcgtcac
+       61 tcggctctgt gtcactcctg gctgagcctg cggctcttcg acgaaaccac aatcagtagg
+      121 tggaaagact gctgcaccat tgtagaccac atcaacgggg ccactaatta cttcttctcc
+      181 ccgaccaaag tggccgactg gtttcatgat gccatcacca tcgtcttgtc tgagatccag
+      241 aagaaacctc agcgaggaat gccaaaggtg gagaaggtgg agaagaacgg aaccatcata
+      301 tccatcatct tgggcgtcgg aagcagtcgc atgctgtacg atattgtccc agtggtgtct
+      361 ttcaaaggat ggcctgcggt agcccaaacc tggctcatgg agaatcattt ttgggacggc
+      421 aagatcacag aggaagaagt gatcagtggg ttttacttag tgcctgcctg ctccaataaa
+      481 gggaagaaag aaaacgaatg gcggttgtcc tttgcccgga gtgaagtcca gttgaagaaa
+      541 tgcatctcca gtagcctcat gcaagcctac caagcttgta aagccatcat cataaagctc
+      601 ctctccaggc ctaaagccat cagtccctac catctacgca gcatgatgct gtgggcatgc
+      661 gatcgactcc ccgcgaacta cttggcacag gaagattatg ctgcccactt tctacttgga
+      721 ctcattgatg acctccagca ttgcctggtg aacaagatgt gccccaacta cttcatccct
+      781 cagtgcaaca tgctggagca cctctccgag gagacggtca tgctgcatgc acgtaagctg
+      841 tcctctgtcc gatcggaccc cgccgagcac cttcgtacag ccatcgagca cgtcaaagcc
+      901 gccaaccgcc tgacgctgga gctgcagcgg cgcggcagca ccaccagcat cccctccccg
+      961 ctctcagatg gtggggacgc caatcagccc gatgaccgct tagccaaa
+//
+

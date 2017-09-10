@@ -1,0 +1,37 @@
+LOCUS       SMRSOX1A                 169 bp    DNA     linear   VRT 26-JUL-1993
+DEFINITION  Pleurodeles waltlii DNA-binding protein (SOX1) gene, DNA-binding
+            domain.
+ACCESSION   L19159
+VERSION     L19159.1  GI:310556
+KEYWORDS    DNA-binding protein; high mobility group protein.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 169)
+  AUTHORS   Chardard,D., Chesnel,A., Goze,C., Dournon,C. and Berta,P.
+  TITLE     Pw Sox-1: the first member of the Sox gene family in Urodeles
+  JOURNAL   Nucleic Acids Res. 21 (15), 3576 (1993)
+   PUBMED   8346034
+FEATURES             Location/Qualifiers
+     source          1..169
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     gene            1..169
+                     /gene="SOX1"
+     CDS             <1..>169
+                     /gene="SOX1"
+                     /note="DNA-binding domain"
+                     /codon_start=1
+                     /protein_id="AAA49615.1"
+                     /db_xref="GI:555512"
+                     /translation="HGLVPRPETENGTGEPQNAQLGDQQGPRRRLEAAERRSEAALHR
+                     RGQASACRSHEG"
+ORIGIN      
+        1 catggtctgg tcccgcggcc agagacggaa aatggcacag gagaacccca aaatgcacaa
+       61 ctcggagatc agcaaggccc taggcgcaga ctggaagctg ctgagcgacg ctcagaagcg
+      121 gcccttcata gacgaggcca agcgtctgcg tgccgttcac atgaaggat
+//
+

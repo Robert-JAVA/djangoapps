@@ -1,0 +1,56 @@
+LOCUS       JN565530                 204 bp    DNA     linear   VRT 13-FEB-2012
+DEFINITION  Lissotriton vulgaris MHC class II antigen (Limv-DNB) gene,
+            Limv-DNB*227 allele, exon 2 and partial cds.
+ACCESSION   JN565530
+VERSION     JN565530.1  GI:357240336
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 204)
+  AUTHORS   Nadachowska-Brzyska,K., Zielinski,P., Radwan,J. and Babik,W.
+  TITLE     Interspecific hybridization increases MHC class II diversity in two
+            sister species of newts
+  JOURNAL   Mol. Ecol. 21 (4), 887-906 (2012)
+   PUBMED   22066802
+REFERENCE   2  (bases 1 to 204)
+  AUTHORS   Nadachowska-Brzyska,K., Zielinski,P., Radwan,J. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2011) Institute of Environmental Sciences,
+            Jagiellonian University, ul. Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..204
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+                     /note="allele detected in multiple reads from a single
+                     amplicon"
+     gene            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*227"
+     mRNA            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*227"
+                     /product="MHC class II antigen"
+     CDS             <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*227"
+                     /codon_start=1
+                     /product="MHC class II antigen"
+                     /protein_id="AET71965.1"
+                     /db_xref="GI:357240337"
+                     /translation="SQRVRYLARWSYNRQQFVHFDSDRGYLVADTEFGVADAKGWNSD
+                     PAILEVLRTDVDRFCRHNYGIFEG"
+     exon            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*227"
+                     /number=2
+ORIGIN      
+        1 tctcagcggg tccggtacct ggcgcgctgg tcctacaacc ggcagcagtt cgtgcacttc
+       61 gacagcgacc gcgggtacct cgtggccgac accgagttcg gcgtggcgga cgccaagggc
+      121 tggaacagcg acccggccat cctggaggtg ctgcggaccg acgtggacag attctgcaga
+      181 cacaactacg ggatcttcga gggc
+//
+

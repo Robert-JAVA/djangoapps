@@ -1,0 +1,56 @@
+LOCUS       DQ821242                 389 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Lissotriton italicus isolate 223 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821242
+VERSION     DQ821242.1  GI:110704140
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 389)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 389)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..389
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="223"
+                     /specimen_voucher="ZMA7659"
+                     /db_xref="taxon:323755"
+                     /country="Italy"
+     gene            1..>389
+                     /gene="cytb"
+     CDS             1..>389
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87990.1"
+                     /db_xref="GI:110704141"
+                     /translation="MAHTLRKTHPLLKIINNSFVDLPTPSNISYWWNFGSLLGICLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNVGVVLLFLVMATAFV"
+ORIGIN      
+        1 atggcccaca ctttacgaaa aacccatccg ctcctaaaaa ttattaataa ctcattcgtt
+       61 gaccttccaa caccatcaaa catctcatac tgatgaaact ttggctcact tctaggaatt
+      121 tgcctaatta cacagatcct tacaggcctc ttcctagcca tacattatac agcagacaca
+      181 caatcagcat tttcatcagt agcccacatc tgccgagatg tcaattatgg gtgactagta
+      241 cgaaacatcc acgccaacgg tgcctccttc ttctttattt gtatttacct acatattgga
+      301 cgaggcctct actatggctc ttatatattt aaagagacat gaaacgttgg tgtagttctt
+      361 ttatttctgg ttatggccac cgcctttgt
+//
+

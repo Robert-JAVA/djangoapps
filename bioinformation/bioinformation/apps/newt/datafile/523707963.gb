@@ -1,0 +1,67 @@
+LOCUS       KC165371                 765 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus potassium voltage-gated channel, subfamily
+            F member 1 (KCNF-1) gene, partial cds.
+ACCESSION   KC165371
+VERSION     KC165371.1  GI:523707963
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 765)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 765)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..765
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>765
+                     /gene="KCNF-1"
+     mRNA            <1..>765
+                     /gene="KCNF-1"
+                     /product="potassium voltage-gated channel, subfamily F
+                     member 1"
+     CDS             1..>765
+                     /gene="KCNF-1"
+                     /codon_start=1
+                     /product="potassium voltage-gated channel, subfamily F
+                     member 1"
+                     /protein_id="AGQ56376.1"
+                     /db_xref="GI:523707964"
+                     /translation="MEFWRVNLDLLDDCCKSLLSEKKEEMEEIALRVQTILDDLGVDI
+                     TESRWKRCQKYIWKFIEKPESSFPARVVAVISFLFILISSVVMCVGTIPELQVEDSEG
+                     NRVEHPVLDSIEAACIGWFTLEYVLRLISSPNKLHFALSFMNIIDALAILPFYVSLIL
+                     THLGATLMELTNVQQAIQALRIMRIARIFKLARHSSGLQTLTYALKSSFKELGLLLMY
+                     LAVGIFVFSAVGYTMEQSHPDTLFKSIPQSFWWAIIT"
+ORIGIN      
+        1 atggagtttt ggagagtcaa ccttgacttg ttggatgact gctgcaagag tctgctcagc
+       61 gagaagaagg aggagatgga ggagatcgcg ctcagagtgc agacgatcct ggatgaccta
+      121 ggagtggaca tcactgagag ccgctggaaa cggtgccaga agtacatctg gaagttcatc
+      181 gagaagccag agtcatcgtt tccagctagg gttgtcgctg tcatatcctt tctcttcatt
+      241 ctcatttctt ctgtggtcat gtgtgttggg acgatccctg agctccaggt ggaggactcg
+      301 gagggaaacc gtgtggagca cccggtgctg gacagcattg aggcagcctg cattggttgg
+      361 ttcacccttg agtatgtgct gcgccttatc tcttccccga acaaactaca ctttgcactg
+      421 tcattcatga atattattga tgccttggcc attctgccct tctatgtcag tctgatcttg
+      481 acacacttag gggccacttt gatggagcta acaaatgtgc agcaagcgat ccaagcccta
+      541 agaatcatga gaattgcacg gattttcaaa ttagcgcgcc actcatcagg gcttcaaact
+      601 ctgacatatg ccctcaaaag tagcttcaag gagcttggat tgcttctcat gtacttggct
+      661 gttggcattt ttgtcttctc agccgtgggt tacaccatgg agcagagtca cccggacacc
+      721 ttgtttaaga gcatccccca gtccttttgg tgggccatca taaca
+//
+

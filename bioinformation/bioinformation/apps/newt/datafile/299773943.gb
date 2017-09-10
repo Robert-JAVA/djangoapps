@@ -1,0 +1,67 @@
+LOCUS       GU982452                1041 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Calotriton asper haplotype Casp01 NADH dehydrogenase subunit 2
+            gene, complete cds; mitochondrial.
+ACCESSION   GU982452
+VERSION     GU982452.1  GI:299773943
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 1041)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 1041)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..1041
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /haplotype="Casp01"
+     CDS             1..1041
+                     /note="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADJ39042.1"
+                     /db_xref="GI:299773944"
+                     /translation="MSPYALSMLMSSLAVGTTITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRAVESATKYFLTQATASALILSSTVMNAWMTGEWTITSMNNYAPTTILTVAL
+                     AIKLGVAPFHLWLPDVLQGLNLMTCLILSTWQKLAPMALLILTSHQLNINLLTLMALA
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILIVSYAPSLALLNMLIYLVMTSSMFTM
+                     LMALNSTSMNKLSTSWLKTPTLAASLMGTLMALGGLPPLSGFLPKWLILQEMTKHHLG
+                     TLSVIMAMSALLSLFFYLRLSYTISMTSPPNISNSNLTWRKKNNLSLTIPTLTMLSTM
+                     LMPITPALLLLN"
+ORIGIN      
+        1 atgagcccct atgcactatc aatattaata tcaagcctag cagtaggaac aactatcaca
+       61 ctatcaagct ctcattgatt tttagcctga ataggactag aaatcaacac actggccatc
+      121 attccactta taaccaaaat acaccaccca cgagccgtag aatcagcaac aaaatacttt
+      181 ttgacacaag ccacagcatc cgccttaatt ttatcttcta cagttataaa cgcatgaatg
+      241 acaggagaat gaacaattac aagcataaac aactacgccc caacaacaat cttaacagtt
+      301 gccctagcaa ttaaactagg agttgcccca tttcacctgt gactaccaga tgtcctacaa
+      361 ggactaaatc taataacatg cttaatcctt tcaacatgac aaaaacttgc cccaatagcc
+      421 ctactaattc taacaagcca ccaacttaat attaacctat taaccctaat agccctagcc
+      481 tctacaatca ttggggggtg ggggggcctc aatcaaacac aaatacgtaa aatcatagca
+      541 tattcatcta ttgcacacct aggatgaata atcctaattg tctcctatgc ccccagctta
+      601 gcactattaa atatacttat ctaccttgta ataacctcct ccatgttcac aatattgata
+      661 gccctaaact ccacaagcat aaacaaactc tcaacttcgt gactaaaaac accaacgcta
+      721 gcagcctccc tgataggcac tctcatggcc cttgggggac tcccccccct atctggattt
+      781 ctgccaaaat gattgatttt acaagaaata acaaaacacc acctaggaac attatcagta
+      841 attatagcca tatccgctct actcagccta tttttttatc tgcgtctttc atacacaatc
+      901 tcaatgacct ccccccccaa catctcaaac tctaatctaa cctgacggaa aaaaaacaac
+      961 ctctcactta ctatcccaac cctaactata ctgtccacca tattaatgcc aatcacacca
+     1021 gcactactgc tactaaacta a
+//
+

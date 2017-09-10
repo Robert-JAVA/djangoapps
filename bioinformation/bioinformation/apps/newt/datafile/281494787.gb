@@ -1,0 +1,70 @@
+LOCUS       GQ303710                1208 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Paramesotriton deloustali voucher MVZ 223629 recombination
+            activating protein 1 (RAG-1) gene, partial cds.
+ACCESSION   GQ303710
+VERSION     GQ303710.1  GI:281494787
+KEYWORDS    .
+SOURCE      Paramesotriton deloustali (Vietnam warty newt)
+  ORGANISM  Paramesotriton deloustali
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1208)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Homoplastic evolution of external coloration in Asian stout newts
+            (Pachytriton) inferred from molecular phylogeny
+  JOURNAL   Zool. Scr. 39 (1), 9-22 (2010)
+REFERENCE   2  (bases 1 to 1208)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1208
+                     /organism="Paramesotriton deloustali"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ 223629"
+                     /db_xref="taxon:164970"
+     gene            <1..>1208
+                     /gene="RAG-1"
+     mRNA            <1..>1208
+                     /gene="RAG-1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1208
+                     /gene="RAG-1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="ADA72153.1"
+                     /db_xref="GI:281494788"
+                     /translation="RYDVALVSTLKDMEEDILEGLKAHELDDYLSGPFTVVVKESCDG
+                     MGDVSEKHGCGPVVPEKAVRFSFTIMTIAVHHNKDNVRIFEENKPNSELCCKPLCLML
+                     ADESDHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFRGTGYDEKLVREVEG
+                     LEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHHESVDELRDR
+                     VKGVSAKPFIETLPSIDALHCDIGNAAEFFKIFQLEIGEVFKNPNASKEERKRWQSTL
+                     DKHLRKKMNLKPIMRMNGNFARKLMSQETVEAVCELVHSEERRAALRELMDLYLKMKP
+                     VWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIER
+                     DGSIGAWASEG"
+ORIGIN      
+        1 agatacgacg ttgcactagt ctccactctg aaggacatgg aggaggacat tttggaaggc
+       61 ctgaaagctc atgagctgga cgactacctc agtggtccat tcacggtggt cgtcaaggag
+      121 tcttgtgatg gtatgggtga tgtcagtgag aagcatggct gtggaccagt ggttccagaa
+      181 aaggcagtcc gtttctcgtt caccatcatg accattgccg tccatcacaa caaagacaat
+      241 gtgaggattt ttgaagaaaa caagccgaat tcagagctgt gctgcaagcc cctgtgcctc
+      301 atgctcgctg atgaatctga ccatgagaca ctaaccgcca tcttgagccc actgatagca
+      361 gaaagagagt ccatgaaagg cagtgaactg atgcttgaac ttggtggcat cctcagaaca
+      421 ttcaagtttg tgttcagggg cacaggatat gatgagaagc ttgtgagaga ggttgaagga
+      481 cttgaggcct cgggctcagt ctatatctgt accctgtgtg actcgacacg tcttgaagcc
+      541 tcccagaaca ttgtgctcca ctccatcact cggagtcaca aggagaacct tgagcgctac
+      601 gagatctggc ggtccaacag acaccatgag tcggtcgacg agctgcggga cagagtgaag
+      661 ggggtttcag ccaagccctt cattgagacc ctcccttcca tcgatgcctt gcactgtgac
+      721 attggaaatg ccgctgagtt tttcaagata ttccaactcg aaataggaga ggtcttcaag
+      781 aaccccaacg cttcaaaaga ggagagaaag aggtggcagt cgactctgga caagcatctg
+      841 aggaagaaga tgaacttgaa gcccataatg agaatgaacg gtaattttgc aaggaaactg
+      901 atgtcccagg agaccgttga ggcggtctgt gagctagtcc actctgagga acggcgggca
+      961 gctctacgcg aactcatgga cctgtacctg aaaatgaagc cagtctggcg atcctcatgc
+     1021 ccaagcaagg agtgcccaga actcctctgc cagtacagct acaactctca acgctttgcc
+     1081 gagcttctct caaccaagtt caagtaccga tatgagggca aaatcacaaa ttatttccac
+     1141 aagacattag cccacgtgcc tgagataatt gaacgagatg ggtctattgg tgcctgggcg
+     1201 agtgaagg
+//
+

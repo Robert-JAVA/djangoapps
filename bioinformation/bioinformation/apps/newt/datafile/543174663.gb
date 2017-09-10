@@ -1,0 +1,47 @@
+LOCUS       KF442217                 324 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Calotriton asper microsatellite Us2 sequence.
+ACCESSION   KF442217
+VERSION     KF442217.1  GI:543174663
+KEYWORDS    .
+SOURCE      Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 324)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     What remains from a 454 run: estimation of the success rate of
+            microsatellite loci development in selected newt species
+            (Calotriton asper, Lissotriton helveticus, and Triturus cristatus)
+  JOURNAL   Ecol Evol (2013) In press
+REFERENCE   2  (bases 1 to 324)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2013) Department of Animal Behavior, University,
+            Morgenbreede 45, Bielefeld 33615, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Phobos v. 3.3.11
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..324
+                     /organism="Calotriton asper"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /PCR_primers="fwd_name: Us2F, fwd_seq:
+                     tgggctgaaggattgaaaaa, rev_name: Us2R, rev_seq:
+                     ctcagctgcagtggtgtgtt"
+     repeat_region   1..324
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Us2"
+ORIGIN      
+        1 tgggctgaag gattgaaaaa tggcatgatc tagaggttgt cccttgtggt agaggataga
+       61 tagatagata gatagataga tagatagata gatagataga tagatagata gatagataga
+      121 tagatccaag cacactctgc aaggatgcct gttgcaaatg gccctatctt tttttttatc
+      181 tatggtctgc tctatgtctc ctcccttaac cacttctaaa cacaccactg cagctgagca
+      241 caattcttct tttggtgcag aacagtcaac taaaatggat agatcttacc attctgtcat
+      301 gtcccagtgg tattccgcag cacg
+//
+

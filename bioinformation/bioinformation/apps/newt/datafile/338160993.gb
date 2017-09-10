@@ -1,0 +1,73 @@
+LOCUS       AB601426                1141 bp    DNA     linear   VRT 24-JUN-2011
+DEFINITION  Paramesotriton ermizhaoi mitochondrial cytb gene for cytochrome b,
+            partial cds, specimen_voucher: CIB:GX20070764.
+ACCESSION   AB601426
+VERSION     AB601426.1  GI:338160993
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton ermizhaoi (Ermi Zhao warty newt)
+  ORGANISM  Paramesotriton ermizhaoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Jiang,J.P., Matsui,M. and Mo,Y.M.
+  TITLE     Unmasking Pachytriton labiatus (Amphibia: Urodela: Salamandridae),
+            with Description of a New Species of Pachytriton from Guangxi,
+            China
+  JOURNAL   Zool. Sci. 28 (6), 453-461 (2011)
+   PUBMED   21627456
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Nishikawa,K. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2010) Contact:Kanto Nishikawa Kyoto University,
+            Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Paramesotriton ermizhaoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB:GX20070764"
+                     /db_xref="taxon:663921"
+                     /country="China:Guangxi, Jinxiu, Mt. Dayao"
+                     /collection_date="2007"
+                     /identified_by="Kanto Nishikawa"
+     gene            1..>1141
+                     /gene="cytb"
+     CDS             1..>1141
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAK40913.1"
+                     /db_xref="GI:338160994"
+                     /translation="MAPIARKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIITGLFLAMHYTADTQLAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAVPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGMSIIHLLFLHETGSNNPTGIPSNQDK
+                     ISFHPYFSYKDLLGFFLALLTLVLIALITPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMLIPMLHTSKQRSLMFRSMSQTLFWLLVANTL
+                     ILTWIGGMPVEPPFTEIGQVASIFYFLLFILMIPLIGLWENKLMKW"
+ORIGIN      
+        1 atggccccta ttgcacgaaa aactcaccct ctgttaaaaa ttattaataa ctcatttatc
+       61 gacttaccaa ccccctccaa catctcatat tgatgaaact tcggctctct tctaggaatt
+      121 tgcctaatta cacaaatcat cacaggccta ttcttagcaa tacactatac agcagacaca
+      181 caattagcct tttcatctgt ggcccacatc tgccgagacg ttaaccacgg atgactaata
+      241 cgaaacattc acgctaatgg agcctcattt ttctttatct gtatctacct acatattgga
+      301 cgcggcctat actacggatc atatatgttt aaagagacat gaaacattgg cgtaatgcta
+      361 ctgctactag tcatggccac cgcctttgtt ggttatgttc tcccatgggg acaaatgtcg
+      421 ttttgagggg cctcggttat tacaaacctc ctctcagccg tcccgtatgt tgggggttcc
+      481 ctagtagagt gagtctgggg ggggttctcg gtggacaagg ccaccttgac gcgattcttt
+      541 gcatttcact tcctattgcc cttcctaatt gcagggataa gcattattca cctgttattt
+      601 ttacacgaaa ctggatccaa taacccaaca ggaattccct ctaaccaaga caaaatctct
+      661 tttcacccat acttttccta taaagactta ctaggctttt ttctagcact actcacctta
+      721 gtactaattg ccctcattac accaaatctg ctagtagacc cagaaaactt tatcccggca
+      781 aacccactaa tagccccccc ccacatcaag ccagagtgat acttcctatt tgcctatgct
+      841 atcttacgat caattccaaa taaacttggg ggggtcatcg cacttctaat atctatttta
+      901 atccttatac ttatcccaat attacataca tcaaaacaac gaagtcttat gttccgctct
+      961 atgtcccaaa ctctattttg acttctagta gcaaacacct taattttaac ttgaattggg
+     1021 ggaataccag tcgaaccccc atttactgag atcgggcagg tcgcctcgat cttttatttt
+     1081 ctacttttta tcctcataat cccattaatt gggttatgag aaaacaaact tataaaatga
+     1141 t
+//
+

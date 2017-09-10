@@ -1,0 +1,49 @@
+LOCUS       JX511436                 705 bp    DNA     linear   VRT 20-MAR-2013
+DEFINITION  Triturus dobrogicus haplotype Tdob705PDGa platelet-derived factor
+            receptor alpha gene, intron 11.
+ACCESSION   JX511436
+VERSION     JX511436.1  GI:444743520
+KEYWORDS    .
+SOURCE      Triturus dobrogicus (Danube newt)
+  ORGANISM  Triturus dobrogicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     A multimarker phylogeography of crested newts (Triturus cristatus
+            superspecies) reveals cryptic species
+  JOURNAL   Mol. Phylogenet. Evol. 67 (1), 167-175 (2013)
+   PUBMED   23353071
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Triturus dobrogicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8327"
+                     /haplotype="Tdob705PDGa"
+     gene            <1..>705
+                     /gene="platelet-derived factor receptor alpha"
+     intron          <1..>705
+                     /gene="platelet-derived factor receptor alpha"
+                     /number=11
+ORIGIN      
+        1 ggaatttcca cgggatggac tagtgcttgg taagtagcta tttggtgcta attttggagc
+       61 aaatgctaag tgggttgcca ttgactatca tgctttgtaa acagttagtg ctctgctacc
+      121 tttttggtag gtatgagcca tagaaatacc atatacacac atacatacat aaaataacac
+      181 taccagaaaa aataatcagt tttatagatt gtgcagaatt atcaataacc acatccttca
+      241 aacagcaatg cattaagttc caaccaggct ctttcttcga gtggcttcta aatctctaag
+      301 cccacttaag gctttctgat accatcccag gcatgctgct ttctgaagca gcgtttgctg
+      361 cacatgatgt tgtggattac atgctgtgcc ctctcacgcc atctaatgtt ctgctttgaa
+      421 tagttcaact tggtttactt acaagccttt gttttggttc tattcccttc cctaccattt
+      481 atagtcacac agtttgtcaa gacattcaag ttcggtgcat tatacttgag tgatacctgt
+      541 cttcacttta catcctcttg tctacctaaa gggggattga tcgcatttgg aactgtacac
+      601 agtattcatt attacagcaa gtcatgtgga aaaaaactaa aaaaatgata ctatctccac
+      661 tacaggaaga atcctcggct ctggcgcatt cggcaaagtg gtcga
+//
+

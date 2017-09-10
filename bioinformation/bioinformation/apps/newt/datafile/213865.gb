@@ -1,0 +1,48 @@
+LOCUS       SMRHGAB                  527 bp    mRNA    linear   VRT 28-APR-1993
+DEFINITION  Salamander (P.waltlii) minor adult alpha-globin chain mRNA, 3' end.
+ACCESSION   M13691
+VERSION     M13691.1  GI:213865
+KEYWORDS    alpha-globin; globin.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 527)
+  AUTHORS   Flavin,M., Romeo,P.H., Cohen-Solal,M., Duprat,A.M., Valentin,C. and
+            Rosa,J.
+  TITLE     Cloning and sequencing of mRNAs coding for two adult alpha globin
+            chains of the salamander Pleurodeles waltlii
+  JOURNAL   Gene 42 (2), 159-168 (1986)
+   PUBMED   3015729
+COMMENT     Original source text: Salamander (P.waltlii; adult) erythrocyte,
+            cDNA to mRNA, clones PGA[4,5,6,7].
+            Draft entry and clean copy sequence for [1] kindly provided by
+            M.Flavin, 10-OCT-1986.
+FEATURES             Location/Qualifiers
+     source          1..527
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     mRNA            <1..527
+                     /product="hb mRNA"
+     CDS             <1..404
+                     /note="minor alpha-globin chain"
+                     /codon_start=3
+                     /protein_id="AAA49613.1"
+                     /db_xref="GI:213866"
+                     /translation="NVKAVWEHVKGHEEVYGAEALYRAFLCDPQTQTYFAGKDLSENS
+                     AFLHSHGKKVMCALTNAIAHIDDIDGCMSKLSDKHAHELMVDPGNFDILAHHILTVLA
+                     MFLSQLLTCANHRSVDKFLSCVKNVLTSKYR"
+ORIGIN      116 bp upstream of AvaII site.
+        1 ccaatgtgaa agccgtctgg gaacatgtga aggggcacga agaggtgtat ggtgcagaag
+       61 ccttatatag ggcatttctc tgtgatcctc aaactcagac ttactttgct ggaaaggacc
+      121 tgagtgaaaa ctccgcattt ttacatagtc atggtaagaa ggtgatgtgt gctttgacca
+      181 acgccattgc ccacattgat gacattgatg gctgtatgag caagctcagt gacaagcatg
+      241 cccatgaact catggtggat cctggcaatt tcgatattct ggctcatcat atcctaactg
+      301 ttttggccat gttcctgtct cagctgttaa cctgtgccaa tcatcgctca gtggacaaat
+      361 tcctgtcatg tgtgaagaac gtcctgacta gcaagtatcg ttaaatgaag atgtagcagc
+      421 aagagagact gatatgttct gcgacataca ttctgatcta tgaaaatata aatgcccctc
+      481 cataacaaaa taaaaagttg tgaaataaac atgtatttgc caatttc
+//
+

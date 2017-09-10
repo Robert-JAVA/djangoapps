@@ -1,0 +1,75 @@
+LOCUS       X63997                  2398 bp    DNA     linear   VRT 03-MAR-1992
+DEFINITION  C.pyrrhogaster 8S RNA gene (NE3 clone).
+ACCESSION   X63997 X60243
+VERSION     X63997.1  GI:62740
+KEYWORDS    8S RNA.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 2398)
+  AUTHORS   Nagahashi,S., Endoh,H., Suzuki,Y. and Okada,N.
+  TITLE     Characterization of a tandemly repeated DNA sequence family
+            originally derived by retroposition of tRNA(Glu) in the newt
+  JOURNAL   J. Mol. Biol. 222 (2), 391-404 (1991)
+   PUBMED   1660072
+REFERENCE   2  (bases 1 to 2398)
+  AUTHORS   Okada,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-1991) N. Okada, Inst of Biological Sciences, Univ
+            of Tsukuba, Ten-nodai 1-1, Tsukuba, Ibaraki 305, JAPAN
+COMMENT     See aso X60244-47.
+FEATURES             Location/Qualifiers
+     source          1..2398
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /clone="NE3"
+                     /tissue_type="whole body"
+     misc_RNA        1501..2064
+                     /product="8S RNA"
+                     /note="NE3"
+ORIGIN      
+        1 ctgcagcaga aatgattcag acctgctgaa gcaaaggcct gactctgctc ttttctgcct
+       61 cttgaagaaa acaacctttc tactttctta ttatacctaa taaagggagt ttcacttgcc
+      121 tcaaactttg cccatcattt cattagccat agctcatact tcagctttat tcatagctaa
+      181 cctcacaggc acaaaaccct tgatttcaga gatcggctca cacccaaatg aaaaatcacc
+      241 accatccaac ctaatttact atcattatag catcttcctt gcattctttt gcttagttat
+      301 aagccctgag gccacatttg tgcactacaa tacagcgact ttcaaggaca aagaaagcat
+      361 acattgataa aggaagataa ggctttgtct ctattgcacc tacttgagaa aaagggggtt
+      421 ggtaggaggt catgagcgaa aggatttgtc attttggggt gcacgtgtca aaaagagggg
+      481 ccacttttct cctctgtttt tccaagggga aataaactta tcaaatgaat ataaaatcat
+      541 ggtacaaaca tttaccacca tgggatactt tgaaagcaca ggcaggattc aaacccttgt
+      601 cctgtttgag cctgtgccat cagaggcaca acttaccatt gagctatagc tccttggtgt
+      661 tctagattct tgctgtagta actataagca acatacaggc catggtgtga ctgcctgtgg
+      721 aatgcattac acatgaaaag tatgaccatg atatagggac gatttgataa gttcctgaaa
+      781 gggaagtcag tgtggtccag tgggtaagtt cccgacttcc acccagacaa ccagggttca
+      841 aatcccattt ctcctctttt tttccaagtg gaaataaact taaaaaatga aaataaaata
+      901 atggcatgaa catttaccac cgtgggatac tttgaaagca caggcaggat tcgtaccctt
+      961 ggcctgtttg agcctgtgcc accagaggca caagacttac cattgagcta tagctcctgg
+     1021 gtgttctaga ttctcgctgt agtacctata agcaacatac aggccatggt gtcactgcct
+     1081 gtggaatgca tcacacatga aaagtatgac catgatatag ggacgatttg ataagtttct
+     1141 gaaagggaag ccagtgtggt ccagtgggta agttcccgac ttccacccag acaaccaggg
+     1201 ttcaaatccc atttctcctt ttttttttcc aagtggaaat aaacttaata aaataaaatc
+     1261 atggcatgaa catttgtcac catgggatac tttgaaacca caggcaggac tcaaagcctt
+     1321 ggcctgtttg agactgtgcc aacagaggca caagacttac cattgagcta tagctccttg
+     1381 gtgttgtaga ctcttgctgt agtatctata agcaacatac aggccatggt gtcactgcct
+     1441 gtggattgca ttacacatga aaagaatgac catgatatag ggacgatttg ataagtttct
+     1501 taaagagaac ccagtgtggt ccagtgggta agttcctgac ttccacccag acaaccaggg
+     1561 ttcaaatccc gcgatcagca ccaggtgatg gatgatggag cagcagaggt aagttggagg
+     1621 tcggcctgcc tggtaagaaa aatgcgagtg tgctgtgtaa gagtggagtc atgaatggtg
+     1681 attgcagagt ggttggtaag tgacatgggt ctggtgagag caaggggcgg gatcagtgac
+     1741 aggtgttaag tgagttggag tggtgggtgg agtcagggtg taggggtagg gaagaggagc
+     1801 ttgggacaga gaggaggtgt gtcagagcag agagtggggc tggatgtggg cacaagtgag
+     1861 ttggagttag ggtgggtgga gtcaggggat aggtgtaggg gatgtgcaag tgtgggtggg
+     1921 ataccaggcc agggacaaag aagggggtca tagagggagg aggagcctgg gacagagaag
+     1981 aggttacaga gcagagtggg gccagatgtg ggcactcatg cagtggttcc ctagcccaca
+     2041 gtagggatga ttacagaacc ccaatttttt tttgctacac tctctgattt gggggggtgg
+     2101 cagttgaatt tgggggagca gtattaaaag gggtttgggg gtgcattatg aagggtgatg
+     2161 tgggcacaga atgacatgcc ttctgggtaa ttttggggtg gctacccata ctttttattg
+     2221 ctcccctcct ccattgtggg gtgcaccata aaaggatagg gcaactgggg gtggctaggg
+     2281 agaaaacagc tttgtgacag tttctattgc caaccacaag ggggcatcat acaatccttc
+     2341 tgtgtttatg ttattgaaag gtacaacaag gagcatgtgg gggtattttt acctgcag
+//
+

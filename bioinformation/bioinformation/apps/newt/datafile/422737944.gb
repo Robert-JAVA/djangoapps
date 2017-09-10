@@ -1,0 +1,65 @@
+LOCUS       JX050845                 476 bp    DNA     linear   VRT 26-NOV-2012
+DEFINITION  Triturus pygmaeus isolate 3033 note copy a calreticulin (CALR)
+            gene, intron 3, exon 4 and partial cds.
+ACCESSION   JX050845
+VERSION     JX050845.1  GI:422737944
+KEYWORDS    .
+SOURCE      Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 476)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Is dispersal guided by the environment? A comparison of
+            interspecific gene flow estimates among differentiated regions of a
+            newt hybrid zone
+  JOURNAL   Mol. Ecol. 21 (21), 5324-5335 (2012)
+   PUBMED   23013483
+REFERENCE   2  (bases 1 to 476)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2012) Netherlands Centre for Biodiversity
+            Naturalis, P.O. Box 9517, Leiden 2300, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..476
+                     /organism="Triturus pygmaeus"
+                     /mol_type="genomic DNA"
+                     /isolate="3033"
+                     /db_xref="taxon:171367"
+                     /country="Portugal"
+                     /lat_lon="39.4297 N 8.8406 W"
+                     /note="copy a"
+     gene            <1..>476
+                     /gene="CALR"
+     intron          <1..415
+                     /gene="CALR"
+                     /number=3
+     repeat_region   288..296
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ca"
+                     /satellite="microsatellite"
+     mRNA            <416..>476
+                     /gene="CALR"
+                     /product="calreticulin"
+     CDS             <416..>476
+                     /gene="CALR"
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="AFX82462.1"
+                     /db_xref="GI:422737945"
+                     /translation="PDICGPPTKKVHVIFNYKG"
+     exon            416..>476
+                     /gene="CALR"
+                     /number=4
+ORIGIN      
+        1 gcgtccaggt gtattggctg tatatgagtg gtattaaaag tagtctattt ggcattaaca
+       61 tttataaggg gaaaaaagca ttcagttggc agtgaatcat gcttttggct agaatttcga
+      121 agtttcagag atatggcttt gatatctggc tttgattggc cttacttaat gaagtgacct
+      181 ctgcagttct gagagtttca ggatgtctgt tgaacttaat ctggtaaatc tttcggtgtt
+      241 gcctttcctt tgctacctgc ttattggttt gtggtaagcc ttttgctcac acacacgctg
+      301 atgggtatga ggttggataa gcagtgcata cctaaaatgg caaacccatg gcataggtgt
+      361 attttaatac atatcgtgtg tagctcaggt ttaaaaatgt cttccgttgc tacaggaccg
+      421 gacatctgcg gacctccgac caagaaagta catgtgatct tcaactacaa aggcaa
+//
+

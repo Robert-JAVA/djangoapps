@@ -1,0 +1,61 @@
+LOCUS       KJ569096                 658 bp    DNA     linear   VRT 25-MAY-2014
+DEFINITION  Triturus cristatus haplotype Tcri43 NADH dehydrogenase subunit 4
+            (ND4) gene, partial cds; mitochondrial.
+ACCESSION   KJ569096
+VERSION     KJ569096.1  GI:636571944
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Meilink,W., Arntzen,J., van Delft,J. and Wielstra,B.
+  TITLE     Genetic contamination of a threatened native crested newt species
+            through hybridization with an invasive congener
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Meilink,W., Arntzen,J., van Delft,J. and Wielstra,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2014) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P.O. Box 9517, Leiden, Zuid Holland 2300 RA, The
+            Netherlands
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.10.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri43"
+     gene            <1..>658
+                     /gene="ND4"
+     CDS             <1..>658
+                     /gene="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AIA08664.1"
+                     /db_xref="GI:636571945"
+                     /translation="ILAAVLLKLGGYGIIRITMILTPLTKEMAYPFMILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAVILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVMPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTILITGLGALITASYTLYMFLMTQRGPTPPHLGQINPSYTREHFLLMMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctggcag cagtattgct caagcttggg ggatatggca ttattcgaat taccataatc
+       61 cttaccccac taacaaaaga aatggcatat ccatttataa ttctagcctt atggggggtc
+      121 gtgataacaa gcctaatctg catacgacaa acagacctta agtcgctaat tgcatattcg
+      181 tctgtaagcc acataggcct ggtcattgcc gctattataa ttcaaacacc gtgaagccta
+      241 acgggggctg ttattttaat gatctcacac gggcttattt catccgccct attttgccta
+      301 gcaaacctaa attatgaacg aacgcacagt cgaactctac tattagttcg aggggcccag
+      361 gcagtcatac cattaatggc aacttggtga ctcattgcaa atttatcaaa tatagcactt
+      421 cctccaacaa taaatctatg aggagagctg acaattatag tctcgctgtt taactgatcc
+      481 ccctggacaa tcctaatcac gggcttgggg gccttaatca ctgcctctta caccttatac
+      541 atattcctaa taacacaacg tggcccaacc cccccacatc ttggccaaat taacccatct
+      601 tacactcgag aacacttctt acttataata cacttagccc ctatattact gctaattc
+//
+

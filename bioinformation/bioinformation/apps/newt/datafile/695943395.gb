@@ -1,0 +1,60 @@
+LOCUS       KM463851                 660 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Lissotriton helveticus sodefrin precursor-like factor beta isoform
+            05 (Cloa_06) mRNA, partial cds.
+ACCESSION   KM463851
+VERSION     KM463851.1  GI:695943395
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Lissotriton helveticus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:256425"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..660
+                     /gene="Cloa_06"
+                     /note="LiHe_Cloa_06"
+     CDS             <1..339
+                     /gene="Cloa_06"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 05"
+                     /protein_id="AIT39190.1"
+                     /db_xref="GI:695943396"
+                     /translation="PAASVWTSRACCDSDFCNSGDVKDNTPNGYICEGCTSDQSAEPC
+                     TETEDVQCTGKQNTCGTFRGTVLRPGEAGREYTFKGCVTQDFCKVGIFNLVSTQSNNY
+                     GLKCSPALEV"
+ORIGIN      
+        1 ccagcggcct ctgtatggac aagcagagcg tgctgtgact ctgatttctg caacagcggg
+       61 gatgtgaagg acaacacccc aaatggatac atatgtgaag gttgtaccag tgaccagtcc
+      121 gcggagccct gcacagagac tgaagatgtt cagtgcactg ggaagcagaa cacctgtggc
+      181 accttcagag gaactgtcct caggcctggt gaagctggga gagagtatac cttcaaagga
+      241 tgcgttacac aagatttctg caaagttgga attttcaacc tggtgtcaac gcaatccaat
+      301 aattatggtt taaagtgttc ccctgccctg gaagtttgag acctatgccc cataagcact
+      361 ccgacttcag cttagtagtt gtcaaaatcc acattcctaa agctctacaa gtatgtggaa
+      421 tacagtgtct ggtcttgtga tgaagaatca catgaactca tgtcagcctc tctgagtcac
+      481 agtgtacaag tggccaatgt gctcagtaca atccaggcca acatgctgtt taaccactgg
+      541 cttctctatt cagccatctt aagcacctgg gcatctcaga ggctcatctt agattcatgc
+      601 attgagttat caaagcccag ctaggcaatc acccattgat actgtattat atttgtagaa
+//
+

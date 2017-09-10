@@ -1,0 +1,41 @@
+LOCUS       DQ092300                 370 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Calotriton arnoldi isolate E1401.8 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ092300
+VERSION     DQ092300.1  GI:73920435
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton arnoldi (Montseny brook newt)
+  ORGANISM  Calotriton arnoldi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 370)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 370)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..370
+                     /organism="Calotriton arnoldi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1401.8"
+                     /db_xref="taxon:342570"
+     rRNA            <1..>370
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagctat aaactttgat tcatccgccc gagtactacg agcaacagct tgaaactcaa
+       61 aggacttggc ggtgctccac acccccctag aggagcctgt tctataatcg ataatccacg
+      121 ataaacctca ccatctgttg ctaatacagc ctatatacca ccgtccagcc caccctctaa
+      181 gggcccaaca gcaggcacaa ctacaaacgt aaaaacgtca ggtcaaggtg tagcaaataa
+      241 gacgggaaga aatgggctac attttctaac ctagaaaaac acggaaaagc ttgtgaaata
+      301 aaactacgaa ggaggattta gcagtaaaaa gaaaaaagag cgttcttttt aaaccggcaa
+      361 tggagcgcgc
+//
+

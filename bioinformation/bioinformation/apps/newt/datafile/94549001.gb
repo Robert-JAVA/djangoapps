@@ -1,0 +1,56 @@
+LOCUS       DQ481529                 309 bp    DNA     linear   VRT 14-SEP-2007
+DEFINITION  Mesotriton alpestris isolate Ta17 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ481529
+VERSION     DQ481529.1  GI:94549001
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 309)
+  AUTHORS   Sotiropoulos,K., Eleftherakos,K., Dzukic,G., Kalezic,M.L.,
+            Legakis,A. and Polymeni,R.M.
+  TITLE     Phylogeny and biogeography of the alpine newt Mesotriton alpestris
+            (Salamandridae, Caudata), inferred from mtDNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 45 (1), 211-226 (2007)
+   PUBMED   17467298
+REFERENCE   2  (bases 1 to 309)
+  AUTHORS   Sotiropoulos,K., Eleftherakos,K., Dzukic,G., Kalezic,M.L.,
+            Legakis,A. and Polymeni,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2006) Department of Biology, Section of Zoology,
+            Marine Biology, University of Athens, Panepistimioupolis, Athens
+            157 84, Greece
+FEATURES             Location/Qualifiers
+     source          1..309
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ta17"
+                     /specimen_voucher="M.L. Kalezic, TS06561, Institute for
+                     Biological Research, Sinisa Stankovic, Belgrade"
+                     /db_xref="taxon:54263"
+                     /country="Croatia"
+     gene            <1..>309
+                     /gene="cytb"
+     CDS             <1..>309
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABF38986.1"
+                     /db_xref="GI:94549002"
+                     /translation="SQITTGLFLAMHYTADTQLAFSSIAHICRDVNGGWFMRNMHING
+                     ASFFFICIYLHIGRGLRYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGAA
+                     V"
+ORIGIN      
+        1 tcacaaatta caacagggct attcttagca atacactaca cagcagacac ccaactagcc
+       61 ttctcatcta tcgcccatat ctgccgagat gtcaacggag ggtgattcat acgcaatatg
+      121 catatcaacg gagcttcatt cttttttatt tgcatttatc ttcacattgg gcgaggcttg
+      181 cgctacggct cgtacatatt caaagaaact tgaaatattg gcgtaattct actactttta
+      241 gttatggcca ccgcttttgt agggtatgtt ttgccatgag gacaaatatc attctgaggg
+      301 gctgcagtt
+//
+

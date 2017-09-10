@@ -1,0 +1,64 @@
+LOCUS       KC165539                 744 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus pannexin 2 (PANX-2) gene, partial cds.
+ACCESSION   KC165539
+VERSION     KC165539.1  GI:523707623
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 744)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 744)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>744
+                     /gene="PANX-2"
+     mRNA            <1..>744
+                     /gene="PANX-2"
+                     /product="pannexin 2"
+     CDS             <1..>744
+                     /gene="PANX-2"
+                     /codon_start=1
+                     /product="pannexin 2"
+                     /protein_id="AGQ56206.1"
+                     /db_xref="GI:523707624"
+                     /translation="ELKDALPGVDIGRWPSLFEHKFLPYALLAFTGIMYIPALGWEFL
+                     ASTRLTSELNFLLQEIDNCYHRAAEGRAPKIEKQIQSKGPGITEREKREIIENAEKEK
+                     SPEQNLFEKYLERRGSSNFLAKLYLARHLFIVFLSIIPISYLSTYYATQKQNEFTCAL
+                     GEPPDKTSSSKLHIRVNCKLPSVQLQRIISCVDIGLLCVMNLIILVNLIQLFIFRKSN
+                     FIFDKLNKVGIKTKKQWQKSQFCDINILAM"
+ORIGIN      
+        1 gaactcaaag atgcattgcc cggagtggat atcggccgct ggccttcttt atttgagcac
+       61 aaattccttc cctatgcact gcttgccttc actggcatca tgtacatccc tgctctgggc
+      121 tgggagttcc tggcctccac ccgcttgaca tccgagctca attttttact tcaggagatt
+      181 gacaactgct accaccgcgc agcagagggc cgcgcgccaa agatagagaa acagattcaa
+      241 tccaaaggtc cggggatcac agaaagagag aagcgtgaga taatcgagaa tgctgaaaaa
+      301 gagaaaagcc cagagcaaaa cctgtttgag aagtacctgg aaagacgagg gagcagtaac
+      361 ttcttggcaa aactctatct tgcgcgtcac cttttcattg tctttttaag catcattcca
+      421 atatcctatt tgagcaccta ttatgcaaca cagaagcaga atgaatttac gtgtgcattg
+      481 ggagagcctc cagacaaaac aagcagctcg aagctgcaca tcagggtaaa ctgcaaattg
+      541 ccttctgtcc agctgcagcg gataattagt tgtgtagata ttggtcttct ctgcgtcatg
+      601 aacctaatta ttcttgtgaa cttaatccaa ctgttcatat ttcgcaagtc taactttata
+      661 tttgacaaac tcaacaaagt ggggataaag actaagaaac aatggcaaaa gtcccagttt
+      721 tgtgacatta acattcttgc gatg
+//
+

@@ -1,0 +1,73 @@
+LOCUS       AY383550                1802 bp    mRNA    linear   VRT 11-OCT-2003
+DEFINITION  Pleurodeles waltl transcription factor HoxB3 mRNA, complete cds.
+ACCESSION   AY383550
+VERSION     AY383550.1  GI:37528842
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1802)
+  AUTHORS   Nicolas,S., Papillon,D., Perez,Y., Caubit,X. and Le Parco,Y.
+  TITLE     The spatial restrictions of 5'HoxC genes expression are maintained
+            in adult newt spinal cord
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1802)
+  AUTHORS   Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2003) Centre d'Oceanologie de Marseille, Rue de
+            la Batterie des Lions, Marseille 13007, France
+FEATURES             Location/Qualifiers
+     source          1..1802
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             312..1526
+                     /note="PwHoxB3"
+                     /codon_start=1
+                     /product="transcription factor HoxB3"
+                     /protein_id="AAQ92347.1"
+                     /db_xref="GI:37528843"
+                     /translation="MQKTSYYDNSTLFGGYSYQGANGFGYDGPQQSFQPSSHVDNDYQ
+                     RSACSLQALGNASCPPHARSKELNGSCMRPSLPPEHQQPPPVSPPLSATNTSSTGTSS
+                     TQQQPGSSSKGPTKPGSSTTLIKQIFPWMKESRQNTKQKHSSPSTVEPGCGGDKTPPG
+                     AASAASKRARTAYTSAQLVELEKEFHFNRYLCRPRRVEMANLLSLSERQIKIWFQNRR
+                     MKYKKDQKIKGMGGSSGGPSPTGSPPLPMQSSAGFMGAMHGMSNYDPPSPRPSFNKPH
+                     QNAYAMATSYQNPIKGCRLQQKYATAASEYDPHGLQGNPPNYGTVNMQGSPVYVGSNY
+                     VDSMPASGPPLYGLNHLPHHQAPSMDYSGGPAMGSGQHHGPCDPHPTYTDLSTHHPSQ
+                     GRMQEAPKLTHL"
+ORIGIN      
+        1 cggcaacttt ttctgacttt acgaagatgg caatcaccat gtctccagca tcagaggagg
+       61 gaagcactga agaacaggta ctcccgacga ggtgcccccc tgccctggac gcacgctgcg
+      121 cgctcgcagc ttcccttctg ttgcccggga cgcccccttc cttccactgc ggttggacgg
+      181 gacggctctt cgtgggtcga ctaccgagag acgactggaa cgggccgtac gtgaccttgg
+      241 ggtgccaatg ttcttccaca cgggtgtcag gaccctggta gccgctgaga tactctccgg
+      301 gaagcccagt gatgcaaaag accagctact acgacaattc cacgctcttc gggggatact
+      361 cctaccaggg ggccaacggc ttcggctatg atggccccca gcagagcttc cagccttctt
+      421 cccacgttga caatgactac cagaggtcgg cttgctccct gcaggcgctg ggcaacgcga
+      481 gctgcccccc acatgccagg agcaaggagc tcaacggcag ctgcatgcgg cccagcctgc
+      541 cccccgagca ccagcagccg ccgcctgtgt ccccgcctct ctctgccacc aacaccagca
+      601 gcactggcac cagcagcacc cagcagcagc ctggcagcag cagcaagggt cctaccaagc
+      661 ctggctccag caccacactc atcaagcaga tcttcccctg gatgaaggag tcaagacaga
+      721 acaccaagca gaaacatagc tcccctagca cagtggagcc gggctgcggc ggggacaaga
+      781 cgcccccagg cgctgcatcg gccgcctcca agagggcgcg gacggcctac accagtgcgc
+      841 agctggtcga gctggagaag gagttccact tcaaccggta cctgtgccgg ccccgccggg
+      901 tggagatggc caacctgctc agcctcagcg agcggcagat caagatctgg ttccagaacc
+      961 gccgcatgaa gtacaagaag gaccagaaga tcaaagggat gggaggctcc tcgggggggc
+     1021 cctcgcccac gggcagcccg ccgctgccca tgcagtcctc agccggcttc atgggcgcca
+     1081 tgcatggcat gagcaactat gatcctcctt ccccacgtcc ctctttcaac aaaccacacc
+     1141 agaatgccta tgccatggcg accagctacc aaaacccaat caaagggtgc cgtctgcagc
+     1201 agaaatacgc aacagctgcg tctgaatacg acccccacgg cttgcaaggc aatcccccca
+     1261 attatgggac cgtgaatatg caaggcagcc cagtgtacgt tgggagcaac tatgtggatt
+     1321 ctatgcccgc ctccggacct cccctctatg gcctcaacca tctgccccat caccaggccc
+     1381 cctccatgga ctacagcgga gggcctgcga tgggatccgg ccagcaccac ggaccctgcg
+     1441 acccgcatcc gacctacaca gacctttcca cgcaccaccc atcccaggga aggatgcagg
+     1501 aggcacccaa actgacccat ctgtgagggt gtggcaaaac agactcaggg gaagacaggg
+     1561 ggcgccatgt tagggtagtc aagaagaccc caagccagga ggacattctg aaaaacgctg
+     1621 ttcacctggt aaagctattt cctccagagg atattttttc attccattcc ttttttcggt
+     1681 caaatgttga tgttgtgaaa caaaaaagtg tctataaaga acgattcgct tgtacgtgaa
+     1741 caraccccca taagggccga ggagacgcac acacaggcat gcacaacaaa aaaaaaaaac
+     1801 cg
+//
+

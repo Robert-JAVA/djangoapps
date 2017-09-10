@@ -1,0 +1,65 @@
+LOCUS       DQ821258                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Lissotriton montandoni isolate 238 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ821258
+VERSION     DQ821258.1  GI:110704172
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton montandoni (Carpathian newt)
+  ORGANISM  Lissotriton montandoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Lissotriton montandoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="238"
+                     /specimen_voucher="ZMA7660"
+                     /db_xref="taxon:323754"
+                     /country="Poland"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG88006.1"
+                     /db_xref="GI:110704173"
+                     /translation="MAHTLRKTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPTGIASNQDK
+                     ISFHPYFSYKDMLGFLLMLLILVLISLLTPNLLGDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctttacgaaa aacccatccg cttctaaaaa tcattaacgg ctcattcatt
+       61 gacctcccaa caccatcaaa catctcctac tggtggaact ttggctccct tcttggggta
+      121 tgcctaatta cacaaatcct cacaggcctt ttcctagcta tgcactacac agcagacaca
+      181 caatcagcat tctcatcagt agcccacatc tgtcgagacg tcaactatgg atgacttgta
+      241 cgaaacatcc acgccaacgg tgcctccttc ttttttatct gcatttacat acacatcgga
+      301 cgaggccttt attacgggtc ctacatattt aaagagacat gaaacattgg tgtaattcta
+      361 ctgttgctag ttatagcaac tgctttcgta ggatatgtcc ttccatgagg gcaaatatca
+      421 ttttgagggg ccacagtaat taccaacctt ctatccgcta ttccatacat aggcgactcc
+      481 ttagtacagt gaatttgagg cggattttca gtagacaaag caactcttac ccgattcttc
+      541 gcattccact tcttatttcc ctttcttatt gccggggcaa gcattgttca cttactgttc
+      601 cttcaccaaa ccgggtcaaa caacccaaca ggaatcgctt ccaaccaaga caagatttct
+      661 ttccacccct acttctccta caaagacatg ctgggtttct tacttatgct ccttattcta
+      721 gtactaattt cccttttaac cccaaacctt ttaggagacc cagaaaactt tacccctgcc
+      781 aattccctag taacccctcc acatattcaa ccagaatga
+//
+

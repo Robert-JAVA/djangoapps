@@ -1,0 +1,74 @@
+LOCUS       AF106694                1623 bp    mRNA    linear   VRT 02-JUL-1999
+DEFINITION  Pleurodeles waltl Hlx-1 transcription factor (Hlx-1) mRNA, complete
+            cds.
+ACCESSION   AF106694
+VERSION     AF106694.1  GI:5326788
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1623)
+  AUTHORS   Nicolas,S. and Le Parco,Y.
+  TITLE     A novel urodele homeobox gene, PwHlx-1, is expressed in the adult
+            and regenerating spinal cord
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1623)
+  AUTHORS   Nicolas,S. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-NOV-1998) IBDM - LGPD UMR 6545, CNRS, Parc
+            Scientifique de Luminy - Case 907, Marseille cedex 09 13288, France
+FEATURES             Location/Qualifiers
+     source          1..1623
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..1623
+                     /gene="Hlx-1"
+                     /note="homeobox gene"
+     CDS             1..1167
+                     /gene="Hlx-1"
+                     /note="alternatively spliced"
+                     /codon_start=1
+                     /product="Hlx-1 transcription factor"
+                     /protein_id="AAD42047.1"
+                     /db_xref="GI:5326789"
+                     /translation="MYTTAAGLAPFYSSSFSLWSAICSGAAVYPRALDSREAGAIFCT
+                     ADILHPRHQPQGGGEAAEGLQPGPSHLQASSPVRPTPVDPYSPRLSPLSAYHQHPRLG
+                     CGSPGGRYTMGCSAQPAPASKDLKFGIDRILSAEFDPKVREGNTLRDLTSLLSAGRQT
+                     GAHAPHLQPSSGQYFTALEPGPEASSVLGALHTHPRSTAQQQFQDTFPGPYAVLTKDT
+                     MPQTYKRKRSWSRAVFSNLQRKGLEKRFEIQKYVTKPDRKQLAAMLGLTDAQVKVWFQ
+                     NRRMKWRHSKEAQAQKEKEKEEEVRSPGPAQGHRVDPENSLSRSEAESDSSDSESLDM
+                     APSDSERTEGGSEIHQASVIKVPRPPTHTSTSTDVCVPESSVLCSESRTLQTTL"
+ORIGIN      
+        1 atgtacacca cggcggccgg gctggccccc ttctactcct cctccttcag cctctggtcc
+       61 gccatctgct cgggggccgc cgtgtaccca cgtgcgctgg acagcagaga agccggcgcc
+      121 atcttttgca ctgctgacat tctgcacccc cggcaccaac cgcagggagg cggggaagcg
+      181 gccgagggcc tccagccggg accctcgcac ctgcaggcct cctcgccggt gcggcccacg
+      241 cccgtggacc cctacagccc tcggttgtcc ccgctctccg cctaccacca gcaccccagg
+      301 ctgggctgcg gctcccccgg ggggcgctac accatgggct gttcagcaca gccggccccg
+      361 gccagcaaag acctcaagtt cggcatcgac cgcatcctgt ctgcggagtt cgaccctaaa
+      421 gtgagagaag gcaacactct gagagatctc acctccttat taagcgcggg tcggcagacc
+      481 ggggctcacg ccccccactt gcagccttcg tccggccagt acttcacagc gctagagccc
+      541 gggcccgagg cctcctccgt cctgggggcc ctacacacac atccacggag cacagcgcag
+      601 cagcagtttc aggacacgtt tccaggcccc tatgccgtgc tcaccaagga caccatgccg
+      661 cagacctaca agcggaagcg ctcctggtcc cgcgccgtct tctccaacct gcagcggaag
+      721 ggcctggaga agcgcttcga gatccagaag tacgtcacca agccggaccg gaagcagctg
+      781 gccgctatgc tggggctcac cgacgcgcag gtgaaggtct ggttccagaa ccggcgcatg
+      841 aagtggagac actccaagga agcccaagct cagaaggaga aagagaagga ggaggaggtg
+      901 agaagcccgg gacctgctca gggtcacaga gtggacccgg agaacagcct gagtaggtct
+      961 gaggcggaga gtgacagcag cgactcagag tccttggaca tggccccgag tgacagtgag
+     1021 aggactgagg gtggaagcga gattcaccag gccagtgtca tcaaggtccc ccgcccaccc
+     1081 acccacacat ccaccagtac ggatgtgtgt gtgccggagt catcagtgct ctgctcagag
+     1141 tcacggacct tacagaccac cctttaagcc acagccctcc ccgagactca cagattgata
+     1201 atttatgtaa cggacaatga aagggcatct gctatcaggc acagactatg cccaacgggt
+     1261 tcttctctag cacagtaaac gctaacatca caggtggtgc cctagcagtg cacctcctgg
+     1321 cctagtaaga aaaacaccag tgccacagac tgggcaccca cccaactcct ccttggtgcg
+     1381 gttgaggaag ttcaatggca tagacccaaa acctaaaaag gactgcccat gcccagaaaa
+     1441 agagacttca gcaagatccc ttgagggcat gcaaaaaaac gttattggca taggtgaaag
+     1501 atgcaaggat gtaaagctgc cggtgaatgt tatggccctc agcgtgttcc ctagagatct
+     1561 ncagagtccc ctggtgctgt ctgatatgaa cgtgaacacc atttgtnaat accatgtgaa
+     1621 aac
+//
+

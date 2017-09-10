@@ -1,0 +1,60 @@
+LOCUS       EU275867                 707 bp    DNA     linear   VRT 14-DEC-2007
+DEFINITION  Tylototriton wenxianensis brain-derived neurotrophic factor (BDNF)
+            gene, partial cds.
+ACCESSION   EU275867
+VERSION     EU275867.1  GI:161705066
+KEYWORDS    .
+SOURCE      Tylototriton wenxianensis (Wenxian knobby newt)
+  ORGANISM  Tylototriton wenxianensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 707)
+  AUTHORS   Vieites,D.R., Min,M.S. and Wake,D.B.
+  TITLE     Rapid diversification and dispersal during periods of global
+            warming by plethodontid salamanders
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (50), 19903-19907 (2007)
+   PUBMED   18077422
+REFERENCE   2  (bases 1 to 707)
+  AUTHORS   Vieites,D.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Museum of Vertebrate Zoology and Department
+            of Integrative Biology, University of California Berkeley, 3101
+            VLSB, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..707
+                     /organism="Tylototriton wenxianensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:236638"
+                     /db_xref="taxon:385678"
+     gene            <1..>707
+                     /gene="BDNF"
+     mRNA            <1..>707
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>707
+                     /gene="BDNF"
+                     /codon_start=3
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="ABX76705.1"
+                     /db_xref="GI:161705067"
+                     /translation="ISYFSCMKAAPMKEAGIRGQGSLAYPGLRTHGTLESIGGPKGSS
+                     RGGLPSLADTFEQVIEEMLEDEQSMRPSEENKDADMFTSRVMLSSQVPLEPPLLFLLE
+                     EYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTASDKKTAVDMSGQTVTVLEK
+                     VPVPKGQLKQYFYETKCNPMGYMKEGCRGIDKRYWNSQCRTTQSYVRALTMDNKKKVG
+                     WRFIRIDTSCVCTLTIK"
+ORIGIN      
+        1 ttatttcata cttcagttgc atgaaagctg cccccatgaa agaagccggc atcagaggac
+       61 aaggcagctt ggcgtaccca ggtctgagga cccacgggac tttggagagc ataggtgggc
+      121 ctaaaggcag ttcaagagga gggttgccct cactagcaga cacttttgaa caagtcattg
+      181 aggagatgct tgaagatgag cagagcatga ggcccagtga ggagaacaag gatgcggaca
+      241 tgtttacatc tcgcgtaatg ctgagcagtc aagtgccttt ggagcctcct cttctctttc
+      301 tgctggagga gtacaaaaac tacttggatg ctgcaaatat gtccatgagg gtccgacgtc
+      361 actctgaccc cgcccgccgc ggggagctga gtgtgtgtga cagtattagt gagtgggtga
+      421 cggcatctga caaaaagact gccgtggaca tgtcggggca gacggtaact gttctagaaa
+      481 aagttccagt acccaaaggc caactgaagc aatacttcta cgagaccaaa tgcaacccta
+      541 tgggttacat gaaggagggc tgcagaggca ttgacaagag gtactggaac tcccagtgcc
+      601 gaactactca gtcgtatgtg cgcgcgctca ccatggataa caagaagaaa gtgggctggc
+      661 ggtttatcag aatagacact tcatgtgtat gtacattgac cattaaa
+//
+

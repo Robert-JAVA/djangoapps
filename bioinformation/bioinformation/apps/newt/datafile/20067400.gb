@@ -1,0 +1,59 @@
+LOCUS       AJ309137                 647 bp    mRNA    linear   VRT 02-APR-2002
+DEFINITION  Triturus carnifex partial mRNA for putative ribozyme binding
+            protein 2 (rzBP2 gene).
+ACCESSION   AJ309137
+VERSION     AJ309137.1  GI:20067400
+KEYWORDS    ribozyme binding protein 2; rzBP2 gene.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Denti,M.A., Barsacchi,G., Gall,J.G. and Tabler,M.
+  TITLE     A study of the intracellular localisation and nature of Satellite 2
+            transcripts in the newt ovary
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 647)
+  AUTHORS   Denti,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-2001) Denti M.A., Plant Molecular Biology,
+            Institute of Molecular Biology and Biotechnology, FORTH, P.O. Box
+            1527 Vassilika Vouton, Heraklion, Crete, GR-71110, GREECE
+FEATURES             Location/Qualifiers
+     source          1..647
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+                     /sex="female"
+                     /tissue_type="ovary"
+                     /dev_stage="adult"
+                     /country="Italy"
+     gene            <1..>647
+                     /gene="rzBP2"
+     CDS             <1..>647
+                     /gene="rzBP2"
+                     /function="unknown"
+                     /codon_start=1
+                     /product="putative ribozyme binding protein 2"
+                     /protein_id="CAC84503.1"
+                     /db_xref="GI:20067401"
+                     /db_xref="UniProtKB/TrEMBL:Q8QFS4"
+                     /translation="FYYKFNVKKKKSGECDLKMSCLETKPQMYSQWCGNKSTLKDKFK
+                     IEDVEHCNNQTNIHPQMSTNIEKVNLQEGEKKVLSLKNILNKDPQAADFKWSLFVASC
+                     NSYRHAMCLRPFPPMFIKNEWKNVEQLREVIEGIPPLPIIYNKLDEPEFYDNNQMMID
+                     LLYWVLLTLKEPELKSVKKDEYDMILEKVPCEITMAKPNMIFQLDNSNNSKKKKK"
+ORIGIN      
+        1 ttttattata aatttaacgt aaaaaaaaaa aaatctggtg aatgtgattt aaaaatgtct
+       61 tgtcttgaaa caaagcctca aatgtatagc caatggtgtg gtaacaaatc aacactaaaa
+      121 gataaattta aaattgaaga cgtggaacat tgtaataatc agacaaatat tcatccacaa
+      181 atgtcaacga atattgaaaa ggttaatctt caagagggtg aaaaaaaagt attaagttta
+      241 aaaaatatat taaataaaga tccacaagct gctgatttta aatggtcatt atttgttgct
+      301 tcatgtaata gttacagaca tgcaatgtgt ctcagaccat ttccaccaat gttcattaaa
+      361 aatgaatgga aaaatgttga acaacttaga gaagttattg aaggaattcc accattacca
+      421 ataatttaca acaagctaga tgagccagaa ttttatgaca acaaccaaat gatgattgat
+      481 ttgttgtact gggtcttgtt gacattaaaa gaaccagaac ttaaatcagt caaaaaagat
+      541 gaatatgaca tgatactgga aaaagtacca tgtgaaataa caatggctaa accaaatatg
+      601 atatttcaac ttgataattc aaataattca aaaaaaaaaa aaaaaaa
+//
+

@@ -1,0 +1,67 @@
+LOCUS       GU982491                1035 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus karelinii haplotype TkarB10 NADH dehydrogenase subunit 2
+            gene, complete cds; mitochondrial.
+ACCESSION   GU982491
+VERSION     GU982491.1  GI:299774021
+KEYWORDS    .
+SOURCE      mitochondrion Triturus karelinii (Balkan newt)
+  ORGANISM  Triturus karelinii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 1035)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Triturus karelinii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8325"
+                     /haplotype="TkarB10"
+     CDS             1..1035
+                     /note="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADJ39081.1"
+                     /db_xref="GI:299774022"
+                     /translation="MSPYALSMLMSSLAMGTIITLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALLLFSSTMNAWMTGEWTIMDMNSYTPTTILTIAL
+                     AIKLGIAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLILTSHQLNTNLLILMALA
+                     SAIIGGWGALNQTQMRKIMAYSSIAHLGWMTLVISFAPGLALLNLMIYLMMTSSMFVM
+                     LMILNATNMNKLSISWLKTPTLAASMMTGLLSLGGLPPLSGFLPKWLILQEMTKHHLG
+                     ALSAVMALSALLSLFFYLRLSYMISMTSPPNISNANLTWRKKNDLSLINPILVVLSTM
+                     LMPITPMLLM"
+ORIGIN      
+        1 atgagcccct atgcactgtc aatattaata tcaagcctag ctataggaac gattattaca
+       61 ctatctagct cccactggtt cctagcttga gtgggattag agattaatac actagccatt
+      121 atcccactta tgactaaaat acaccacccg cgagccacag aatctgcaac aaaatacttc
+      181 ttaacacaag ccacagcttc tgccctactt ctattctcct ccactataaa tgcatgaata
+      241 acaggggaat gaaccattat ggacataaat agctataccc ctacaacaat cttaacaatt
+      301 gccctagcaa ttaaattagg aatcgcccca ttccacctct gactgccaga tgtcctacaa
+      361 gggctcgata taataacatg cctaattctc tcaacatgac aaaaacttgc cccaatagcc
+      421 ctattaatct taacaagcca ccaactaaac accaacttac taatcctaat ggccctcgca
+      481 tccgcaatca tcggaggatg aggggccctt aatcaaactc aaatacggaa aattatggca
+      541 tactcatcta ttgcacatct aggctggata acactggtta tttcatttgc cccgggcctg
+      601 gccctgttga atttaataat ttaccttata ataacttcct ctatgtttgt gatactaata
+      661 atcctaaacg ccacaaacat aaataagctg tcaatctcct gactaaaaac accaacactg
+      721 gcagcctcaa taataaccgg cctcctctcc ctcggaggcc tccccccgct ctcggggttt
+      781 ttaccaaagt gattaatttt acaagagata actaaacatc acttaggggc cctctctgct
+      841 gtaatagcct tatcagccct actaagtctt tttttttacc tccgactctc gtatatgatc
+      901 tcaataacct ccccacctaa catctcaaac gctaatctaa cctgacgaaa gaaaaatgac
+      961 ctatcactta ttaacccaat tttggttgta ttatccacta tattaatacc aatcacaccc
+     1021 atgctactaa taagg
+//
+

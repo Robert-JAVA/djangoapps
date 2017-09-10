@@ -1,0 +1,75 @@
+LOCUS       X82838                  1339 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  N.viridescens Myf-5 mRNA.
+ACCESSION   X82838
+VERSION     X82838.1  GI:577788
+KEYWORDS    myf-5 gene; myogenic regulatory factor; transcription factor.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Simon,H.G., Nelson,C., Goff,D., Laufer,E., Morgan,B.A. and Tabin,C.
+  TITLE     Differential expression of myogenic regulatory genes and Msx-1
+            during dedifferentiation and redifferentiation of regenerating
+            amphibian limbs
+  JOURNAL   Dev. Dyn. 202 (1), 1-12 (1995)
+   PUBMED   7703517
+REFERENCE   2  (bases 1 to 1339)
+  AUTHORS   Simon,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-1994) H. Simon, Bristol-Myers Squibb Pharma. Res.
+            Inst., P.O.Box 4000, Princeton, NJ 08543-4000, USA
+FEATURES             Location/Qualifiers
+     source          1..1339
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="limb"
+                     /dev_stage="adult"
+     gene            1..1339
+                     /gene="Myf-5"
+     CDS             61..831
+                     /gene="Myf-5"
+                     /codon_start=1
+                     /product="myogenic regulatory factor; transcription
+                     factor"
+                     /protein_id="CAA58045.1"
+                     /db_xref="GI:577789"
+                     /db_xref="GOA:Q91154"
+                     /db_xref="InterPro:IPR001092"
+                     /db_xref="InterPro:IPR002546"
+                     /db_xref="InterPro:IPR011598"
+                     /db_xref="InterPro:IPR022032"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91154"
+                     /translation="MDLVDSCQFSPSEFFYDSSSMPSPDDDFVEDFDSRLGRFRVHPD
+                     ELQCSDEEEHVRAPSGHHQAGHCLLWACKACKRKSSTMDRRKAATMRERRRLKKVNSA
+                     FETLKRCTTANPNQRLPKVEILRNAISYIESLQELLREQVENYYTLPGQRCSEPGSPL
+                     SNCSDGMAECNSPAWSRRNGSFDSAYCSDIPTMYPTDKLSTLSSLDCLSSIVDRISSP
+                     EEPALPQQDNLTLSPSSSLESQLGTPDTPDPRPIYHVL"
+ORIGIN      
+        1 cggactctgc cctgggaccc cactgtccga gcttgaaccg ctgcccctcg ctaccccagc
+       61 atggatctcg tggacagctg ccagttctcg ccctccgagt tcttctacga cagctccagc
+      121 atgccgtccc cggacgatga cttcgtggag gacttcgaca gccgcctggg ccgcttccgg
+      181 gtgcacccgg acgagctgca gtgctccgac gaggaggagc acgtgcgggc gcccagcggg
+      241 caccaccagg ccggccactg cctcctctgg gcctgcaagg cctgcaagcg gaagtcgtcc
+      301 accatggacc ggcggaaggc ggccaccatg cgcgagcgac gacggctgaa gaaggtcaac
+      361 agcgccttcg agacgctgaa acgctgcacc acggccaacc ccaaccagcg gctgccaaag
+      421 gtggagatcc tgcgcaacgc catcagctac atcgagagcc tgcaggagct gctgcgggag
+      481 caggtggaga actactacac cctgccgggc cagaggtgct ctgagcccgg aagccccttg
+      541 tccaactgtt ccgacggcat ggcggagtgc aacagccctg cgtggtccag acggaacggc
+      601 agcttcgaca gcgcctactg ctcggacatc ccgaccatgt acccaaccga caaactcagc
+      661 actctctcca gcctggactg cctctccagc atcgtggacc gcatctcgtc gcctgaggag
+      721 cccgctctcc cccagcagga caacctcacg ctgtccccct caagcagcct ggagtcgcag
+      781 ctcgggaccc cggacacgcc ggacccccgg cccatctacc acgtgttgtg agagccgccc
+      841 gcgcaggctc ggcccacact gtgactttag ggactcgggc ccgagcggaa cttcacaccc
+      901 atgtatatac tcgaagccac ccccctgtat ttaagttatg cttccggttc tcgaggggct
+      961 ttatttaatt gaaaacgacc acggtttatt attttgactt attgttatat attaataata
+     1021 taaagttatt tttcgacttt taaaaaacaa tactgcatga aacaaaaatg tctccaagag
+     1081 cggccttctg caatttctgt ttatttaatc tgttattatc tcaatgtgtt gcttcatttg
+     1141 ctttctttta aaagtgaaac attgcattaa aggaaaatca tttgttagtg agttaagtgt
+     1201 gtgtgtgtgt gtgaaatgtg tgtatgttac gtcatgtcgc gccctttatg tgctaattaa
+     1261 tttacttaag tcatttggtt ggcacacata aaataaactg tgttttgcac aatgttaaaa
+     1321 aaaaaaaaaa aaaaaaaaa
+//
+

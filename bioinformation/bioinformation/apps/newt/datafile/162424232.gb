@@ -1,0 +1,55 @@
+LOCUS       EU156989                 780 bp    DNA     linear   VRT 08-JAN-2010
+DEFINITION  Salamandrella keyserlingii isolate K12 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   EU156989
+VERSION     EU156989.1  GI:162424232
+KEYWORDS    .
+SOURCE      mitochondrion Salamandrella keyserlingii (Siberian salamander)
+  ORGANISM  Salamandrella keyserlingii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 780)
+  AUTHORS   Poyarkov,N.A. and Kuzmin,S.L.
+  TITLE     Phylogeography of the Siberian newt Salamandrella keyserlingii by
+            mitochondrial DNA sequence analysis
+  JOURNAL   Russ. J. Genet. 44 (8), 948-958 (2008)
+REFERENCE   2  (bases 1 to 780)
+  AUTHORS   Poyarkov,N.A. Jr. and Kuzmin,S.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2007) Vertebrate Zoology, Lomonosov Moscow State
+            University, Leninskiye Gory, 1/12, Moscow, Moscow 119991, Russia
+FEATURES             Location/Qualifiers
+     source          1..780
+                     /organism="Salamandrella keyserlingii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="K12"
+                     /db_xref="taxon:288315"
+     CDS             <1..>780
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABX89855.1"
+                     /db_xref="GI:162424233"
+                     /translation="TRPLLKIINGSFVDLPTPSNLSSLWNFGSLLGVCLIAQIATGLF
+                     LAMHYTADTSSAFSSVAHICRDVNYGWLMRNVHANGASFFFICIYMHIGRGLYYGSYM
+                     YKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDLLVQWIWG
+                     GFSVDKATLTRFFAFQFLFPFLIVGASIIHLLFLHETGSNNPTGISSNLDKVPFHPYF
+                     SYKDAIGFLTMLTALLMLSMLTPDLLGDPDNFTPANPLVTPP"
+ORIGIN      
+        1 actcgcccat tattaaaaat tattaacgga tcatttgtag acttacccac cccttcaaac
+       61 ctctcatcat tatgaaactt tggctcactt ctaggagtct gcttgattgc acaaatcgct
+      121 acaggcctat ttcttgccat acattataca gccgatacat cttcagcctt ctcatctgtg
+      181 gctcatattt gccgagatgt aaattacggg tgactcatgc gaaatgttca tgctaatggg
+      241 gcatcattct ttttcatctg catctatata catatcggac gaggactcta ctatggttca
+      301 tatatgtata aagaaacctg aaatattgga gttattttac tctttttagt aatagcaact
+      361 gcctttgtag gttatgtcct tccatgagga caaatatctt tttgaggtgc tacagtcatt
+      421 acaaacttac tttcagcaat cccctatata ggagatttac ttgttcaatg aatctgaggt
+      481 ggattctctg tagacaaggc cacactcacc cgattctttg catttcaatt tctatttcca
+      541 tttttaattg taggagcgag cattattcac ctactattcc ttcacgaaac aggctcaaat
+      601 aacccaacag gaatttcctc aaacttagac aaagtcccat tccacccata cttttcatat
+      661 aaagatgcaa ttggattcct aacaatactc acagcgctat taatactatc aatattaacc
+      721 ccagatttat taggtgaccc agataatttt acacctgcta atcctttagt aacaccccct
+//
+

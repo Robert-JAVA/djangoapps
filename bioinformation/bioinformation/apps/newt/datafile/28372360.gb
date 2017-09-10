@@ -1,0 +1,67 @@
+LOCUS       AY197698                1211 bp    mRNA    linear   VRT 21-FEB-2003
+DEFINITION  Notophthalmus viridescens complement component C3 mRNA, partial
+            cds.
+ACCESSION   AY197698
+VERSION     AY197698.1  GI:28372360
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1211)
+  AUTHORS   Kimura,Y., Madhavan,M., Call,M.K., Santiago,W., Tsonis,P.A.,
+            Lambris,J.D. and Del Rio-Tsonis,K.
+  TITLE     Expression of complement 3 and complement 5 in newt limb and lens
+            regeneration
+  JOURNAL   J. Immunol. 170 (5), 2331-2339 (2003)
+   PUBMED   12594255
+REFERENCE   2  (bases 1 to 1211)
+  AUTHORS   Kimura,Y., Tsonis,P.A., Del Rio-Tsonis,K. and Lambris,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2002) Pathology and Laboratory Medicine,
+            University of Pennsylvania School of Medicine, 401 Stellar Chance
+            Labs, 422 Curie Blvd., Philadelphia, PA 19104, USA
+FEATURES             Location/Qualifiers
+     source          1..1211
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="liver"
+     CDS             <1..>1211
+                     /codon_start=1
+                     /product="complement component C3"
+                     /protein_id="AAO38043.1"
+                     /db_xref="GI:28372361"
+                     /translation="KAGKAAKYKGTERKCCEDGMKENNMGHSCSKRARYIRETLECVN
+                     AFMDCCEFISKLRMEKRREQLFLSRSEVEEGYLSDEDITSRTEFPESWFWKVEQLVEP
+                     PDANGISSKTLQMFLKDSITTWEVLAVSLSPGKGICVADPYEITVFKKYFIDLRLPYS
+                     VVRNEQVEIRAVLFNYEEDQDEIKVRVELMYNEKVCSASTSKKKFSQNVMMTGKSSRA
+                     VSFIIVPLEAGLIDIEVKAYFPNYIGDGVKKKLKVVPEGMKMSKTVTVVTLDPATKGK
+                     DGVQEEKIKAADLKDIVPKSESETMVSVQGTPITQLIEKSIDGSNLGHLIVVPRGCGE
+                     QNMMSMTPVVIATYFLDNTGQWETLGVNRRAEAIKNINLGYTQQLTYRQGDSSYAAWI
+                     NRPGSTWXTAYV"
+ORIGIN      
+        1 aargctggca aagctgcaaa gtacaagggc actgagagaa agtgctgtga agatggcatg
+       61 aaagaaaaca acatggggca cagctgttca aagcgagctc gatatatcag ggagaccttg
+      121 gagtgtgtga atgcgttcat ggactgctgc gagtttatca gtaaactacg gatggagaag
+      181 agacgggagc aactgttttt gtcaagaagc gaagttgaag aaggatacct atcggatgaa
+      241 gatatcacct ccaggaccga gtttccagag agctggttct ggaaagtgga gcagctggtg
+      301 gaaccaccgg atgcaaatgg aatctccagt aaaacattgc aaatgttcct gaaggattcc
+      361 atcaccacct gggaagttct tgctgtcagc ctctcacccg gaaaggggat ctgtgtagcc
+      421 gatccatatg aaatcactgt gttcaagaag tactttattg acctgcgtct accgtactct
+      481 gtcgtcagaa atgaacaggt ggaaatccga gctgtgcttt ttaactatga ggaagaccaa
+      541 gatgaaataa aggttcgcgt tgagctcatg tacaatgaaa aagtctgcag cgcttccact
+      601 tcaaagaaga aattcagtca gaatgtgatg atgacaggca aatcttcacg tgctgtgtcc
+      661 ttcattattg tgcccctgga ggctggtctg attgacattg aagtgaaggc ttattttcca
+      721 aactacattg gtgacggagt gaagaagaag ctaaaagttg tgcctgaagg aatgaaaatg
+      781 agcaaaacag tcacagtggt gaccttggat ccagcaacta aaggaaaaga tggtgtccag
+      841 gaagagaaga ttaaggctgc tgatttgaag gatattgttc caaaaagtga atctgagacc
+      901 atggtcagcg tccaaggaac ccccatcaca caactaattg agaaatctat agatgggtca
+      961 aatcttgggc atcttattgt ggttcctcgc ggntgyggng arcaraayat gatgtcaatg
+     1021 actccggtag tcattgcaac atattttctg gacaacaccg gacagtggga gaccttggga
+     1081 gtgaaccgca gagctgaagc catcaagaac attaatctgg gttacacaca gcagttgact
+     1141 taccgccaag gtgactcttc ttacgctgcc tggataaacc gacctggaag tacctggytn
+     1201 acngcntayg t
+//
+

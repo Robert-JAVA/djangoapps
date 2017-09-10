@@ -1,0 +1,74 @@
+LOCUS       AJ245956                1339 bp    mRNA    linear   VRT 18-FEB-2000
+DEFINITION  Cynops ensicauda mRNA for sodefrin-like peptide precursor (gene
+            sil001).
+ACCESSION   AJ245956
+VERSION     AJ245956.1  GI:5748514
+KEYWORDS    precursor; sil001 gene; sodefrin-like peptide.
+SOURCE      Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Iwata,T., Umezawa,K., Toyoda,F., Takahashi,N., Matsukawa,H.,
+            Yamamoto,K., Miura,S., Hayashi,H. and Kikuyama,S.
+  TITLE     Molecular cloning of newt sex pheromone precursor cDNAs: evidence
+            for the existence of species-specific forms of pheromones
+  JOURNAL   FEBS Lett. 457 (3), 400-404 (1999)
+   PUBMED   10471817
+REFERENCE   2  (bases 1 to 1339)
+  AUTHORS   Iwata,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-1999) Iwata T., Department of Biology, School of
+            Education, Waseda University, Nishiwaseda 1-6-1, Shinjuku-ku,
+            Tokyo, 169-8050, JAPAN
+FEATURES             Location/Qualifiers
+     source          1..1339
+                     /organism="Cynops ensicauda"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:102207"
+                     /sex="male"
+                     /tissue_type="abdominal gland"
+                     /dev_stage="adult"
+                     /country="Japan:Okinawa"
+     gene            1..1339
+                     /gene="sil001"
+     CDS             54..632
+                     /gene="sil001"
+                     /function="female-attracting pheromone"
+                     /codon_start=1
+                     /product="sodefrin-like peptide precursor"
+                     /protein_id="CAB53094.1"
+                     /db_xref="GI:5748515"
+                     /db_xref="InterPro:IPR001526"
+                     /db_xref="UniProtKB/TrEMBL:Q9PW13"
+                     /translation="MRAIIAAVVLLQALITGDCLLCEQCFALHTSSCSGIFTQCSPDV
+                     THCAAAKKNNTAGTHVILTAFKDCLDPSQKAACGREVSFTAPAASLWTSRTCCDSDFC
+                     NGGDVQVPPPDDTPNGCGSDQSANACTAPGHLRVTVRSTTSIREKRRERLNVFSVLAS
+                     RRRVAPSKELPLGVIKLGRSILSKDAQLKISA"
+ORIGIN      
+        1 tagttgaaca ggtgcagaga ctccatcacc ctactcctta ctctcctagc accatgaggg
+       61 ccatcattgc agctgtcgtc ctgctccagg cactgataac tggagattgt ctattatgcg
+      121 agcagtgttt cgctctccac accagcagct gctcgggtat cttcacgcag tgctctcctg
+      181 acgtcactca ctgcgccgca gctaagaaga acaacacagc ggggactcat gttattctaa
+      241 ctgcgttcaa ggactgtctg gatccttccc aaaaagcagc ctgcggtaga gaggtctcct
+      301 tcacagctcc agcggcctct ttatggacaa gcaggacgtg ctgtgactct gatttctgca
+      361 acggcgggga tgtgcaggtg cctcctccag acgacactcc caatggttgt ggcagtgacc
+      421 agtccgcgaa cgcctgcaca gcgccaggac acctgagggt aacagtgcgc tctacaacat
+      481 cgattagaga gaagagaaga gagcgactga atgtgttcag tgttctggca agcagaaggc
+      541 gtgtggcacc ttctaaggaa ctgcctctag gcgtgataaa actggggagg agtatacttt
+      601 caaaggatgc acaactcaag atttctgcat agatggaatt ttccacatgg cggggacgca
+      661 agcctacaat tatgttttaa agtgttcccc tgccctgaaa gtttgagact tttgttcata
+      721 ccccataggc actcctactc tagcttagta ttgtctgtag aaacattcct aaagctctac
+      781 aagtatgtgg aatgcagtgt ctgatcttgt gatgaggaag catatgaact catgtcagcc
+      841 tctctgagac aaagtgtaca ggtggccaat gtgctcagta caatccaggc cggcatgctg
+      901 tttaaccact gtcttctcta ttcagccatc ttaagcgcct gggcatctca gagggttatc
+      961 ttggattcat gcattgagtg atccgagcac agtccaagca atcacccaat gatgctgtct
+     1021 tatggttgta gaaggtgctt ctcctgatgt gctactaatg ctgacttcat gagtagccat
+     1081 gaacagccat tcctgctttt cttctacttt ttggttgaat acctcttcta acataaagta
+     1141 attgagaata tctggcgcag ttgtgttgat gctttcaaat ataagaggac agggttattg
+     1201 gttcatatct ccaatatgaa tgtgcctttt aatccagcaa taagcatgct ttgtgctaca
+     1261 gctataaccc aaaataaaaa aatatataga cccgctttgt actgcacatt gaaaaaatga
+     1321 ataaacatta atttacaca
+//
+

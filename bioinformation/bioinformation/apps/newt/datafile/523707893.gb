@@ -1,0 +1,74 @@
+LOCUS       KC165378                1377 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis KIAA1239-like protein gene, partial cds.
+ACCESSION   KC165378
+VERSION     KC165378.1  GI:523707893
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1377)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 1377)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1377
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     mRNA            <1..>1377
+                     /product="KIAA1239-like protein"
+     CDS             <1..>1377
+                     /codon_start=1
+                     /product="KIAA1239-like protein"
+                     /protein_id="AGQ56341.1"
+                     /db_xref="GI:523707894"
+                     /translation="VPLHSSMDVTYSPERLSLSSSHLHITEVLPTYNQSTIISALENG
+                     SISTWDVESRQLLRQITTAQSVILGMKLTIDEKYLVVSTTNNTLLIYDNLNSCLLSEV
+                     EIKGSKHGAVGATSTVINGFTLSSTHALAWLEASKDVTVIDLLYGWPLYHFHCWYEVT
+                     CVQCSPDGLYAFCGQYLNTTTIFHLGSGEKLSTVTSEFSGGFVKYLLVLDIAQEVVMV
+                     DNEGSLSVWNTDEITNPQLTEDFDCRREESEVVSIELSEDQSVILICKALSLELLDTS
+                     MWKVAEKFRARRNERFISAVLSKNCDCIIASMENTSSVFVWRRDTGQCMASLQEISGN
+                     IIKLVKSNHHNMLLSLTTSGVLSIWDVDIITAMSNIDKTGKAIQRVVLPGRGDFIYIL
+                     DGSDGVYKWNFSTGYIDSIFKHEGVVENCVLTASGELMVTSDDKCSQYVWHTATGENL
+                     FRINGQRIS"
+ORIGIN      
+        1 gttcctttgc actcttctat ggatgtaaca tacagccctg aacgactctc tctgtcatcc
+       61 agtcatttgc atatcactga ggttcttcca acatacaacc aaagtactat catctctgca
+      121 ctggagaatg ggtccatcag cacctgggat gttgagtctc gccagctgct aaggcaaatt
+      181 acaacagctc agtctgtgat tttaggtatg aaactcacca ttgatgaaaa gtatcttgtc
+      241 gtttctacaa caaataacac acttttgata tacgacaact tgaattcatg tcttttatca
+      301 gaagtagaaa taaaggggtc taaacatggt gcagttggag caacctccac tgtaataaat
+      361 ggattcactc tttccagcac ccatgctctg gcttggcttg aggcaagcaa agatgtgact
+      421 gtcatagacc tcctttatgg ctggcctctg taccacttcc actgttggta tgaggttaca
+      481 tgtgttcagt gttctcctga tggactgtat gccttttgtg gacaatacct caacaccacc
+      541 acaatatttc atttagggag tggagaaaag ctctcaacag tgacatcaga gttttcaggt
+      601 ggatttgtga aataccttct tgtactcgat attgcccaag aagttgtcat ggtggacaat
+      661 gagggcagcc tttcagtttg gaatactgat gaaataacaa accctcaact aacagaggac
+      721 tttgactgca ggagggaaga gagtgaagtt gtcagcatcg agctttctga agaccaaagt
+      781 gtaattttaa tttgcaaggc actgagttta gaacttctag acactagcat gtggaaggta
+      841 gctgaaaagt ttagagcgag acgcaatgag cgcttcatat ctgcagtgct gtccaaaaac
+      901 tgtgactgta taattgcttc catggaaaat acctcatctg tttttgtctg gaggagagac
+      961 acagggcaat gtatggcaag tttacaagaa atctcaggaa acataatcaa attggtaaaa
+     1021 tcaaatcatc acaacatgct gctatcctta accaccagtg gtgtcctttc tatatgggat
+     1081 gtggatatca taaccgctat gtccaacatt gataaaactg ggaaagctat ccaaagagtg
+     1141 gtgctgccag ggagaggaga cttcatttat atactcgatg ggtctgatgg tgtgtataag
+     1201 tggaacttta gtacaggata cattgacagt atcttcaagc atgaaggtgt tgttgaaaac
+     1261 tgtgtgctaa cagcatctgg tgagttaatg gtgacatcag atgacaagtg tagccagtat
+     1321 gtatggcaca ctgcaactgg tgaaaatctc ttccgcataa acgggcaaag aatatct
+//
+

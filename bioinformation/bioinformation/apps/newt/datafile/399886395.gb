@@ -1,0 +1,67 @@
+LOCUS       JQ598149                 637 bp    DNA     linear   VRT 13-AUG-2012
+DEFINITION  Triturus carnifex haplotype SI17 NADH dehydrogenase subunit 4 (ND4)
+            gene, partial cds; and tRNA-His (trnH) gene, partial sequence;
+            mitochondrial.
+ACCESSION   JQ598149
+VERSION     JQ598149.1  GI:399886395
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 637)
+  AUTHORS   Canestrelli,D., Salvi,D., Maura,M., Bologna,M.A. and Nascetti,G.
+  TITLE     One Species, Three Pleistocene Evolutionary Histories:
+            Phylogeography of the Italian Crested Newt, Triturus carnifex
+  JOURNAL   PLoS ONE 7 (7), E41754 (2012)
+   PUBMED   22848590
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 637)
+  AUTHORS   Canestrelli,D. and Maura,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JAN-2012) Ecology and Biology, Tuscia University,
+            Largo dell'Universita s.n.c., Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8326"
+                     /haplotype="SI17"
+                     /country="Italy: Jenne"
+     gene            <1..564
+                     /gene="ND4"
+     CDS             <1..564
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=3
+                     /transl_except=(pos:564,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AFP52590.1"
+                     /db_xref="GI:399886396"
+                     /translation="SLICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILM
+                     ISHGLISSALFCLANLNYERTHSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPTLN
+                     LWGELTIMVSLFNWSPWTILITGLGALITASYTLYMFLMTQQGPTPPHLGQISPSHTR
+                     EHFLLVMHLAPMLLLILKPAIISGTFS"
+     gene            564..>637
+                     /gene="trnH"
+     tRNA            564..>637
+                     /gene="trnH"
+                     /product="tRNA-His"
+ORIGIN      
+        1 cgagcctaat ttgcatacga caaacagacc ttaaatcact aattgcatac tcgtctgtaa
+       61 gccacatagg cctagtcatc gccgctatta taatccaaac accgtgaagc ctaacagggg
+      121 ctattatcct aataatctca cacgggctta tttcatcagc cctattttgc ctggcaaacc
+      181 taaattatga acgaacacac agtcgaactc tattattagt tcggggggcc caggcagtcc
+      241 taccactaat ggcaacctgg tgactaattg caaatttatc aaacatagca cttcccccaa
+      301 cgctaaatct ctgaggagag ctgacaatca tggtctcgct gtttaactgg tcaccctgaa
+      361 caatcttaat cactggcttg ggggccttaa ttactgcctc ttatacccta tacatattct
+      421 taatgacaca acaaggccca acccccccac atcttggcca aattagccca tctcacactc
+      481 gagaacactt cttacttgta atacacctag cccctatact cctactaatt cttaaacccg
+      541 ctattatttc agggacattt tcatgtgcgt ataattttaa aaaaatatta gattgtgatt
+      601 ctaaaaatga gagctaaatc ctctctacac accaaga
+//
+

@@ -1,0 +1,75 @@
+LOCUS       KP008137                 919 bp    DNA     linear   VRT 17-FEB-2015
+DEFINITION  Lissotriton vulgaris graecus haplotype M3 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes,
+            complete sequence; and tRNA-Leu gene, partial sequence;
+            mitochondrial.
+ACCESSION   KP008137
+VERSION     KP008137.1  GI:756402995
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris graecus (Greek newt)
+  ORGANISM  Lissotriton vulgaris graecus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 919)
+  AUTHORS   Pabijan,M., Zielinski,P., Dudek,K., Chloupek,M., Sotiropoulos,K.,
+            Liana,M. and Babik,W.
+  TITLE     The dissection of a Pleistocene refugium: phylogeography of the
+            smooth newt, Lissotriton vulgaris, in the Balkans
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 919)
+  AUTHORS   Pabijan,M., Zielinski,P., Dudek,K., Chloupek,M., Sotiropoulos,K.,
+            Liana,M. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2014) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30387, Poland
+FEATURES             Location/Qualifiers
+     source          1..919
+                     /organism="Lissotriton vulgaris graecus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="graecus"
+                     /db_xref="taxon:395391"
+                     /haplotype="M3"
+     gene            <1..727
+                     /gene="ND4"
+     CDS             <1..727
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:727,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AJL33732.1"
+                     /db_xref="GI:756402996"
+                     /translation="KAHVEAPVAGSMILAAVLLKLGGYGIIRISMILTPLTKEMSYPF
+                     MILALWGIVMTSLICMRQTDLKSLIAYSSVSHMGLVVAAILIQTPWSLTGAIILMISH
+                     GLISSALFCLANLNYERTHSRTLLLVRGAQAALPLMATWWLLANLSNMALPPSMNLWG
+                     ELTIMVSLFNWSPWTIMITGVGTLITASYTLYMFLMTQRGPTPSHLNTISPSHTREHF
+                     LMMMHLAPMLLLIFNPALISGAFS"
+     tRNA            728..795
+                     /product="tRNA-His"
+     tRNA            796..863
+                     /product="tRNA-Ser"
+     tRNA            864..>919
+                     /product="tRNA-Leu"
+ORIGIN      
+        1 aaagctcatg tagaagcccc agtagcaggg tcaataatct tggcagcagt tttactaaaa
+       61 ctagggggat atggcattat ccgaatttct ataatcctta ccccattaac taaagaaata
+      121 tcatacccct ttataatctt agccttatga ggcatcgtaa taacaagcct tatctgcata
+      181 cgacaaacag acttaaagtc cctcattgca tattcttctg taagccacat aggcttggtg
+      241 gttgccgcaa tcttaattca aacaccatga agccttacag gagccattat tttaatgatc
+      301 tcacacggac ttatctcatc tgccctattc tgcctggcaa acctaaatta tgaacggact
+      361 catagccgga ctttactatt agttcgagga gcccaagcag cccttcccct tatagcaact
+      421 tggtgactcc tagcaaattt atcaaacata gcccttcctc catcaataaa cctttgaggg
+      481 gagttaacaa tcatagtctc cttattcaac tgatcccctt gaacaatcat aatcacagga
+      541 gttggaactc tgatcacagc ctcttataca ctctatatat ttttaataac ccaacgaggc
+      601 ccaaccccct ctcacctaaa tacaattagc ccgtcacata cccgtgagca ctttcttatg
+      661 ataatgcact tagcacctat gcttttatta atctttaatc ctgctcttat ctcaggggcc
+      721 ttctcatgtg cgtataattt aaaaaaatat tagattgtga ttctaaaaat gagagttaaa
+      781 ccctctctac ctaccaagaa ggattatgaa atacagagac tgctaattat ctgaacctaa
+      841 agttaaaatc tttagtcttc ttaactttta aaggataata gtcatccatt ggttttagga
+      901 gccaaacact cctggtgca
+//
+

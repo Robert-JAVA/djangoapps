@@ -1,0 +1,64 @@
+LOCUS       AY593167                1035 bp    DNA     linear   VRT 30-APR-2005
+DEFINITION  Paramesotriton hongkongensis NADH dehydrogenase subunit 2 (ND2)
+            gene, complete cds; mitochondrial.
+ACCESSION   AY593167
+VERSION     AY593167.1  GI:51891089
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+  ORGANISM  Paramesotriton hongkongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1035)
+  AUTHORS   Zhang,P., Zhou,H., Liu,Y.-F., Chen,Y.-Q., Wang,X.-L. and Qu,L.-H.
+  TITLE     A Molecular phylogeny of hynoboid salamanders (Caudata: Amphibia)
+            inferred from mtDNA sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Zhang,P., Zhou,H., Liu,Y.-F., Chen,Y.-Q., Wang,X.-L. and Qu,L.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-APR-2004) Biotechnology Research Center, Life Science
+            School, Zhongshan University, GuangZhou, GuangDong 510275, China
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Paramesotriton hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164972"
+     gene            1..1035
+                     /gene="ND2"
+     CDS             1..1035
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAU12929.1"
+                     /db_xref="GI:51891090"
+                     /translation="MSPYTLSMLMSSLAVGTITTLSSYHWFLAWMGLEINTLAIIPLM
+                     TKTHHPRATESATKYFLTQATASALILFSTIMNAWMTGEWTIMDMNHHMPTTILTIAL
+                     AIKMGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPVALLILTSHQLNPNLLIMLALT
+                     SMIVGGWVGLNQTQTRKIMAYSSIAHLGWMTMIGSFAPNLALLNLLVYIILTSSMFMM
+                     LMTLNSQTWTNSQPLTKTPTLAAFMMIVLMALGGLPPTSGFLPKWLILQEMTKQHLNV
+                     LSATTAMLALLSLFFYLRLSYTISMTSPPHISNSSLIWRKKNNLQIIPMMITLSAMLM
+                     PMAPTLLMMN"
+ORIGIN      
+        1 atgagcccct atacactatc catactaata tcgagtcttg cagtaggaac aattaccaca
+       61 ctatcgagct atcactgatt tttagcatga ataggactag aaattaatac actggccatt
+      121 attccattaa taactaaaac acaccacccc cgagccacag agtccgcaac taagtacttt
+      181 ctaacacaag ccacagcctc cgccttaatt ttattttcaa caatcataaa cgcatgaata
+      241 acaggagaat gaacaatcat agacataaac caccacatgc caacaacaat cttaactatt
+      301 gctttagcaa ttaaaatagg agtcgcacca tttcacctgt gattaccaga tgtcctacaa
+      361 ggactaaaca taataacgtg cctaatccta tcaacatgac aaaaactagc ccccgtggct
+      421 ctgcttattc tgacaagcca ccaactaaac ccaaatctac taattatact ggcactaaca
+      481 tccataattg tggggggatg agtgggccta aatcaaacac aaacacgaaa aattatagca
+      541 tactcatcca ttgcacactt agggtgaata actataattg gttcctttgc cccaaatctg
+      601 gcgctactaa acctattagt ttatattatc ctaacctcct ctatatttat aatactaata
+      661 accctaaact cacaaacatg aacaaactct caacctctga ctaaaacacc aacactggca
+      721 gcctttataa taattgttct aatggccctt ggaggcctcc cgccgacatc ggggttttta
+      781 ccaaaatgac taattctaca agaaataacc aaacaacacc tcaatgtact ctctgccaca
+      841 acagccatat tagccctact cagcctattc ttttacctac gtctatcata cacaatctca
+      901 ataacctcgc caccccatat ctcaaactca agcctaatct gacgaaaaaa aaacaaccta
+      961 caaattatcc caatgataat tacactgtca gcaatattaa taccaatagc cccaacactg
+     1021 ctgataataa actaa
+//
+

@@ -1,0 +1,112 @@
+LOCUS       SMRPWA33A               2529 bp    mRNA    linear   VRT 29-AUG-2006
+DEFINITION  Pleurodeles waltl Zn-binding protein (PWa33) mRNA, complete cds.
+ACCESSION   L04190
+VERSION     L04190.2  GI:113413604
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2529)
+  AUTHORS   Bellini,M., Lacroix,J.C. and Gall,J.G.
+  TITLE     A putative zinc-binding protein on lampbrush chromosome loops
+  JOURNAL   EMBO J. 12 (1), 107-114 (1993)
+   PUBMED   7679068
+REFERENCE   2  (bases 1 to 2529)
+  AUTHORS   Bellini,M., Lacroix,J.C. and Gall,J.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-1993) Laboratoire de Genetique du Developpement,
+            Universite Pierre et Marie Curie, Paris, France
+REFERENCE   3  (bases 1 to 2529)
+  AUTHORS   Bellini,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2006) Cell and Developmental Biology, University
+            of Illinois at Urbana-Champaign, 601 S. Goodwin, B107 CLSL, Urbana,
+            IL 61801, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Aug 29, 2006 this sequence version replaced gi:213867.
+FEATURES             Location/Qualifiers
+     source          1..2529
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /sex="female"
+                     /cell_type="oocyte"
+                     /tissue_type="ovary"
+                     /germline
+     gene            1..2529
+                     /gene="PWa33"
+     5'UTR           1..69
+                     /gene="PWa33"
+     CDS             70..1947
+                     /gene="PWa33"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="Zn-binding protein"
+                     /protein_id="AAA49614.2"
+                     /db_xref="GI:113413605"
+                     /translation="MANSTVAEPEKMEQSGTCEEDEEEENMEGDEDECDDDEEENMEP
+                     AETVTIGSTYKCRRSDNTLHAAEIIKTRKTKENAEEFYVHYVGLNRRQNEWVDKSRVL
+                     QAKQIKTEELNNTEDETNGVSDQSEGKAARSNKRKIEDGDGDQKKRKVDDEEDDFTED
+                     LTCPLCRSLFKEPVILECGHNFCKHCIDKSWESASAFSCPECKEVLTERKYTTNRVLA
+                     NLVKKAAVGVKDKDVKPKEKCDEHDERLKLFCKDDGTLACVICRDSLKHSNHNFLPIQ
+                     DAVGVYRDQLIALVSPLETTMKENQKLKCDQSQKISLHRENIVDCKKHIECEFEKLHQ
+                     FLREKEAKMVEDLNAEREGLLKDMEANLVKMTDNCEFIEEAISTTQSRLNESDPIAFL
+                     TDIKSFIEKCCEEHRKGVPAESVLVNKELSQGRFKGPLQYIIWKELKSVVQPGLAPLT
+                     LDPNTAHPNLVLSEGLTSVKYTDTKQQLPDNPKRFSQCILVLGAEGFDSGKHYWEVEV
+                     GNKTAWDVGMASESSNRKGKIKLNPKNGYWAIWLRNGNAFKALESPSKTLNLTSKPSK
+                     IGVYLDYEGGQVSFYNADDMSPIYTFNGSFTEKLYPYLSPFLQDSGKNAEPLKLVHTK
+                     L"
+     3'UTR           1948..2529
+                     /gene="PWa33"
+     regulatory      2487..2492
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PWa33"
+ORIGIN      
+        1 aattccgttg ctgtcggcga ggtaactgca gctttctcgc cctcgtcttg tggtcgcttt
+       61 accggtatta tggcaaattc taccgtcgct gagcccgaga agatggagca gagcggcact
+      121 tgtgaagagg atgaggaaga agaaaacatg gagggagacg aagacgagtg tgatgacgac
+      181 gaagaggaga atatggaacc agcagagacc gtcaccatcg gcagtacata caagtgtcgc
+      241 cgtagcgaca acaccctgca cgctgcagag attataaaga cccgcaagac gaaggagaac
+      301 gcggaggaat tctacgtgca ttacgttgga ctgaatcggc gtcagaatga atgggtggat
+      361 aaatctcgtg tgctgcaagc caagcaaatt aaaaccgaag aattgaacaa cacagaggat
+      421 gaaacaaatg gcgtgtcaga ccagtctgag gggaaagccg cacgaagcaa taaaagaaaa
+      481 attgaagatg gggacggtga tcagaagaaa cgaaaagtgg acgacgagga ggatgacttt
+      541 accgaggact tgacctgccc actatgcagg tcactcttca aggaacccgt cattctggaa
+      601 tgtggccata acttctgcaa gcactgcatt gataaatctt gggagagcgc ctctgccttt
+      661 tcctgcccag aatgcaagga agtcttgact gaacgaaagt acaccaccaa cagagtcctc
+      721 gctaacctgg tgaagaaagc agccgtgggt gtcaaagata aagatgtgaa gcccaaggaa
+      781 aaatgtgatg agcatgacga gaggctgaaa ctgttctgca aggatgatgg gaccttggct
+      841 tgtgtaatct gccgcgactc tcttaagcac tctaatcaca acttcctgcc tatacaggac
+      901 gctgtaggag tgtatcggga ccaactgatc gctttagtgt ctccattgga gaccaccatg
+      961 aaggaaaacc agaagctgaa atgtgaccaa agccagaaga tttcattaca cagggagaat
+     1021 attgtagatt gcaagaaaca cattgagtgt gagtttgaaa agcttcacca gttccttcgt
+     1081 gaaaaagaag caaaaatggt ggaagatctc aatgcggaac gagaaggtct gctgaaggat
+     1141 atggaggcca acttggttaa gatgactgat aattgcgaat ttattgaaga ggctatttca
+     1201 accactcagt ccaggctcaa tgaaagcgac ccaatagcat tcttaactga tataaagagc
+     1261 ttcattgaaa agtgctgcga ggagcacagg aagggtgttc cagccgagag tgttttggtt
+     1321 aacaaggaac tcagccaggg tcgcttcaag ggcccacttc agtacatcat ctggaaggag
+     1381 ctgaagtccg ttgttcagcc aggtctcgcg ccattgactc tcgaccccaa tactgctcat
+     1441 ccaaatctcg tgctgtcgga aggtttgaca agtgtgaagt acaccgatac caagcagcaa
+     1501 cttccagaca acccaaagag gttcagccag tgtattcttg tgcttggtgc cgaaggattt
+     1561 gactctggga agcactactg ggaggtggaa gtagggaata agaccgcctg ggatgttggg
+     1621 atggccagtg agtctagtaa taggaagggc aaaatcaagc tgaatcccaa gaacggctat
+     1681 tgggccatat ggcttagaaa tggtaatgct ttcaaagcgt tagagtctcc ctccaagacc
+     1741 ctcaatttga cttcaaagcc ctccaagatt ggtgtttacc tggattatga agggggacag
+     1801 gtgtcgtttt acaatgctga tgacatgtct cccatttaca ccttcaatgg gtcctttacc
+     1861 gagaagctgt acccatacct ttcaccattc cttcaagatt ctggcaagaa tgcagagcca
+     1921 ctgaagcttg ttcacaccaa gctctaataa ggttctctcc cccttcccga caactgcagg
+     1981 aagctttttg ctagtgtgct gtagtggcgc attcaccttt ttgttgtgta cggttttatg
+     2041 cacatcatct tgcctcaacc ctaaaacatt cgtatgctcc cgctttacac ttcgatttgt
+     2101 tagtgtagat gcgacctttg caatacctgt aacaagggtg aatgtagtcg caccttcaat
+     2161 ctagtttttg cttttgtcta gagattgaga aatagtaact gaccaatttg tttgaatctt
+     2221 aatgcgtatg tggcgcaggg caagatggga aggttttttg aaggtatccc ccttcatcga
+     2281 atactagtac cggcgtgatt aaacttgatt ttatagtttc aaatgcgtta catttttaga
+     2341 agattgcatt gtttaaacgg aacatttcaa cgtactgctt tgtatttctg agcgccgtat
+     2401 tcaaaatgga tctccgattc tgttgtatat tttgctgttt gaagtcttgt tagttcgtcg
+     2461 ttggtcagaa attgtactgt tttcctaata aactttcaaa ttacaaaaaa aacgacagca
+     2521 acggaattc
+//
+

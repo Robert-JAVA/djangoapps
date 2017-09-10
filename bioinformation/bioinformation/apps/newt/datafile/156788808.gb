@@ -1,0 +1,58 @@
+LOCUS       EF526014                 471 bp    DNA     linear   VRT 23-MAY-2011
+DEFINITION  Lissotriton montandoni voucher RuHF-TMO-01-1 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF526014
+VERSION     EF526014.1  GI:156788808
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton montandoni (Carpathian newt)
+  ORGANISM  Lissotriton montandoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 471)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 471)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /organism="Lissotriton montandoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RuHF-TMO-01-1"
+                     /db_xref="BOLD:ABCAP063-05"
+                     /db_xref="taxon:323754"
+                     /country="Ukraine: Zakarpatskaja Oblast"
+                     /lat_lon="48.67 N 22.33 E"
+                     /collection_date="02-Jun-2005"
+                     /collected_by="Nikolai A. Poyarkov"
+     gene            <1..>471
+                     /gene="COI"
+     CDS             <1..>471
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95978.1"
+                     /db_xref="GI:156788809"
+                     /translation="TXYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMK"
+ORIGIN      
+        1 gcacccnata cctaattttt ggtgcttgag ctggcatagt aggcacagca ctaagtttac
+       61 taattcgggc cgaattgagc caaccagggg cacttttggg ggacgatcaa atctataacg
+      121 taattgttac ggctcacgcc ttcgttataa ttttcttcat agtaatgcct gtaataattg
+      181 gaggcttcgg aaactgactc gtccctctta taatcggggc cccagatatg gcatttcctc
+      241 gaataaataa cataagcttt tgattgcttc ctccctcgtt tctgcttctg ctagcctctt
+      301 caggggtaga agcaggcgct gggacaggat gaacagtcta ccctccgtta gcaggaaact
+      361 tagcacacgc aggtgcctct gttgacttaa caattttctc cctccatctc gcaggagttt
+      421 cctcaattct gggggcaatc aacttcatta caacatcgat caacatgaag c
+//
+

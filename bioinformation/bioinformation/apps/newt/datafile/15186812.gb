@@ -1,0 +1,58 @@
+LOCUS       AF295674                 668 bp    DNA     linear   VRT 24-APR-2002
+DEFINITION  Paramesotriton guanxiensis isolate Pgua2 cytochrome b (cytb) gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF295674
+VERSION     AF295674.1  GI:15186812
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton guanxiensis (Guangxi warty newt)
+  ORGANISM  Paramesotriton guanxiensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 668)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Relationships of the Salamandrid Genera Paramesotriton,
+            Pachytriton, and Cynops Based on Mitochondrial DNA Sequences
+  JOURNAL   Copeia 2001 (4), 997-1009 (2001)
+REFERENCE   2  (bases 1 to 668)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-AUG-2000) Museum of Vertebrate Zoology, University of
+            California at Berkeley, 3101 Valley Life Sciences Building,
+            Berkeley, CA 94720, USA
+FEATURES             Location/Qualifiers
+     source          1..668
+                     /organism="Paramesotriton guanxiensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pgua2"
+                     /db_xref="taxon:164971"
+     gene            <1..>668
+                     /gene="cytb"
+     CDS             <1..>668
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAK91152.1"
+                     /db_xref="GI:15186813"
+                     /translation="CLITQIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIH
+                     ANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFW
+                     GASVITNLLSAIPYVGGSLVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGMSIIHLLF
+                     LHETGSNNPTGIPSNQDKIPFHPYFSYKDLLGFFLALLTLVLIALITPNLLVDPENFI
+                     PANP"
+ORIGIN      
+        1 tttgcctaat tacacaaatc attacaggcc tatttttagc aatacactac acagcagaca
+       61 cacaatcggc cttttcatct gtagcccaca tctgccgaga cgtcaaccac gggtgattaa
+      121 tacgaaacat ccacgctaat ggggcctcat tcttctttat ttgtatttac ctgcatattg
+      181 ggcggggcct atactacggg tcatacatat ttaaagagac gtggaatatt ggtgtaatgc
+      241 tactactact agttatagcc actgcctttg ttggatacgt cctcccgtga gggcaaatat
+      301 cattttgagg ggcctcggtt attactaacc tcctctcagc cattccatat gttgggggtt
+      361 ccctagtaga gtgagtctgg gggggattct cagtggacaa ggccactctg acacggttct
+      421 ttgcgtttca tttccttctg cccttcttaa ttgccggaat aagtatcatt cacctcttat
+      481 ttttacacga aaccgggtcc aataacccaa caggaatccc ctctaaccaa gacaaaatcc
+      541 cctttcaccc atacttttcc tataaagact tgctaggctt ttttctggca ctcctcacct
+      601 tggtactaat cgccctcatc acaccaaatc tgctagtaga cccagaaaac ttcatcccag
+      661 cnaacccc
+//
+

@@ -1,0 +1,69 @@
+LOCUS       NEWABP25                 966 bp    mRNA    linear   VRT 26-DEC-2008
+DEFINITION  Cynops pyrrhogaster ABP-25 mRNA for animal blastomere protein,
+            complete cds.
+ACCESSION   D37808
+VERSION     D37808.1  GI:520852
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tabata,T., Kamio,K., Tajima,T., Kaneda,T. and Suzuki,A.
+  TITLE     Pag gene-like protein (ABP-25) of Cynops embryo: regional
+            distribution and gene expression during early embryogenesis
+  JOURNAL   Rouxs Arch. Dev. Biol. 204, 400-405 (1995)
+REFERENCE   2  (bases 1 to 966)
+  AUTHORS   Suzuki,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JUL-1994) Contact:Akio Suzuki Kumamoto University,
+            Department of Biology; 2-chome kurokami, Kumamoto, Kumamoto 860,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..966
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /clone="ABP-25"
+                     /clone_lib="cynops embryo cDNA"
+                     /dev_stage="blastula-gastrula"
+                     /note="common name: newt"
+     gene            1..966
+                     /gene="ABP-25"
+     CDS             58..660
+                     /gene="ABP-25"
+                     /note="MW 25,000"
+                     /codon_start=1
+                     /product="animal blastomere protein"
+                     /protein_id="BAA07054.1"
+                     /db_xref="GI:520853"
+                     /translation="MSAGKAQIGKPAPEFQAKAVMPGGEFKDIKLADYRGKYVVFFFY
+                     PLDFTFVCPTEIIAFSDRAEEFRKINCELIAASVDSHFCHLAWTNTSRKEGGLGSMKI
+                     PLVADTKRTISQDYGVLKEDEGISFRGLFIIDDKGILRQITINDLPVGRSVDETLRLV
+                     QAFQHTDKFGEVCPAGWKPGSDTIKPDISKSKEYFSKQKA"
+     regulatory      952..957
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ABP-25"
+     polyA_site      966
+                     /gene="ABP-25"
+ORIGIN      
+        1 cagaacctcc gagaagcaga gaccgcgtgg agcgcaggag ccgacgtaca tagcaagatg
+       61 tctgcaggca aggcacagat tgggaaacct gcccctgaat tccaggccaa ggccgtcatg
+      121 cctggcggag agttcaaaga catcaagctt gcggactaca gaggaaagta cgtggttttt
+      181 ttcttctacc ctttggactt cacctttgtt tgccccacgg agatcattgc attcagtgac
+      241 cgtgcggagg aattcaggaa gatcaactgt gagctgattg ccgcctctgt ggactctcac
+      301 ttctgtcacc tggcctggac caacacctca cggaaagaag gtgggctggg ctccatgaaa
+      361 atcccgctgg tggccgacac caagcgcacc atttcacaag attatggtgt cttgaaagag
+      421 gatgaaggga tctccttcag agggctcttc atcatcgatg acaaggggat cctgcgtcag
+      481 atcaccatca acgacctacc cgtcggccga tctgtggacg aaacactgcg cttggtgcag
+      541 gcgttccagc acactgacaa gttcggagaa gtgtgcccag caggctggaa acctggaagt
+      601 gataccatca agccagacat ttcaaaaagc aaagagtact tctccaagca aaaagcatga
+      661 taaaaagcgt gataaatgtg atgtactgta accacagaat gtccgtcact gtcataggtg
+      721 tgccgcaaca gtatgtgggg agccatgcgg gtctactcaa ggcttctagt cgaaggccta
+      781 ggtttgtgtc tagtgttgat cctagtttag ccttacagct gctgtaactt ttgtgcttgg
+      841 gcatttgata ggaccctgtc taacgtgtac tgtaaatgct gtagtggtcc gtacagcaca
+      901 tcctctgatc tactgttgtg tatacaaagg gagcagctat tttataacac tattaaactt
+      961 gattac
+//
+

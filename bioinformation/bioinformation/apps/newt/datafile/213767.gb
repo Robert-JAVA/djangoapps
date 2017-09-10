@@ -1,0 +1,40 @@
+LOCUS       SMDRGNTSB                638 bp    DNA     linear   VRT 16-OCT-2008
+DEFINITION  Triturus vulgaris meridionalis extra-ribosomal spacer, clone
+            pTv600-2.
+ACCESSION   M59030 M36524 M36525
+VERSION     M59030.1  GI:213767
+KEYWORDS    nontranscribed spacer; ribosomal RNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   De Lucchini,S., Andronico,F., Andreazzoli,M., Giuliani,M.,
+            Savino,R. and Nardi,I.
+  TITLE     Extra-ribosomal spacer sequences in Triturus
+  JOURNAL   J. Mol. Biol. 204 (4), 805-813 (1988)
+   PUBMED   3065517
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /sub_strain="meridionalis"
+                     /db_xref="taxon:8324"
+                     /clone="pTv600-2"
+     repeat_region   521..539
+     repeat_region   580..598
+ORIGIN      
+        1 gatcccagcc agggctccag gaggtcggcc acgtttgcgc cctgggtccc ctctgtcacc
+       61 tgagtcgagt gcacagatta caagaaaggg gggtaatttt cctccggatt agtaggtgca
+      121 agggtatgcc caaacacctc cagggctggt ggttcctgct ggggatcaga tgggcgatgc
+      181 aggggaacaa ctccatgaat ccggggctcc ctcctccggg ccgcagagtg gcaaagtacc
+      241 gggactggct catgggtccc tgnagccctg nagccctgna gccctgnagc cctgnagccc
+      301 tgnagccctg nagccctgna gccctgnagc cctgnagccc tgnagccctg nagccctgna
+      361 gccctgnagc cctgnagccc tgnagccctg nagccctgna gccctgnagc cctgnagccc
+      421 tgnagccctg nagccctgna gccctgnagc cctgnagccc tgnagccctg nagccctgna
+      481 gccctcaggc ccggggcagg cagattgcgt catttcggtc ccggccatct ggtcgcccct
+      541 ctcgcctcgg ccatctggtc gctcgcaatg ctttcctatg gggcgactag atggccggac
+      601 tttcttggaa gtccctatga ggtgccattc gcctcccg
+//
+

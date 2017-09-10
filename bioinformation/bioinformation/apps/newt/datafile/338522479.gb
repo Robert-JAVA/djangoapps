@@ -1,0 +1,77 @@
+LOCUS       HM627863                1588 bp    mRNA    linear   VRT 09-JAN-2013
+DEFINITION  Cynops orientalis P53 mRNA, complete cds.
+ACCESSION   HM627863
+VERSION     HM627863.1  GI:338522479
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1588)
+  AUTHORS   Wang,D.H., Hu,J.R., Wang,L.Y., Hu,Y.J., Tan,F.Q., Zhou,H.,
+            Shao,J.Z. and Yang,W.X.
+  TITLE     The apoptotic function analysis of p53, Apaf1, Caspase3 and
+            Caspase7 during the spermatogenesis of the Chinese fire-bellied
+            newt Cynops orientalis
+  JOURNAL   PLoS ONE 7 (6), E39920 (2012)
+   PUBMED   22768170
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1588)
+  AUTHORS   Wang,D.-H. and Yang,W.-X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2010) The Sperm Laboratory, College of Life
+            Sciences, Zhejiang University, 388 Yu Hang Tang Road, Hangzhou,
+            Zhejiang Province 310058, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..1588
+                     /organism="Cynops orientalis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:137245"
+     5'UTR           1..105
+     CDS             106..1284
+                     /note="cellular tumor antigen; may regulate the
+                     spermatogenesis cycle"
+                     /codon_start=1
+                     /product="P53"
+                     /protein_id="AEI91929.1"
+                     /db_xref="GI:338522480"
+                     /translation="MVESEAAMDSLPLSQETFSQLWGSLPETLLPTTDDFFWQQDFDC
+                     TLGMDPHNQLQQEDVSSTLNNDLLRAYEVALPEALPLEPPAATSAVPSTEDYPGTYNF
+                     RLAFQQSGTAKSVTCTYSPDLNKLFCQLAKTCPVKMTVSTPPPPGAFVRATAVYKKSQ
+                     HIAEVVKRCPHHERSGDPSDGTAPSNHLIRVEGNYKAEYKESGATRRHSVLVPYETPQ
+                     VGSDCTTVLYNYMCNSSCMGGMNRRPILTIITLETNDGQLLGRCCFEVRVCACPGRDR
+                     KTEEENFHNKKKPSKNAVNTGTKRTIKDASLTETDVENPKRKAHEEDEIYTLQIRGRE
+                     RYEMLKKLNDALELKDMIPQSDQEKIKQKFQKPRKERENPAPKNGKKLLVKDESQDSD
+                     "
+     3'UTR           1285..1588
+ORIGIN      
+        1 atggggagca gagcggcggc tgacgaggag ttgggcagac agagcactgc tgatactact
+       61 cccagttgct tctgtggctc aactggaccc ccaactgaat ctggcatggt cgaatctgaa
+      121 gccgccatgg attcgcttcc tttgagtcaa gagaccttct cgcagctctg gggctcgctt
+      181 cccgaaactc tcctgccaac tactgatgac tttttctggc aacaagattt tgactgcact
+      241 cttggcatgg acccgcacaa ccagttgcag caggaggatg tcagtagcac gctcaacaac
+      301 gatctcctcc gagcctatga ggtcgcactg cctgaagccc taccacttga acccccagcc
+      361 gccacctctg ccgtcccctc gactgaagac taccccggca cctacaactt cagactggcc
+      421 ttccagcagt ctggcactgc taagtcagtc acttgcacgt actcgccaga cttgaacaaa
+      481 ctcttctgcc agcttgccaa gacttgccca gttaagatga ctgtctccac ccctcctccc
+      541 ccaggcgcat ttgttcgggc cactgctgtc tacaagaagt cccagcacat agccgaagtg
+      601 gtgaaacgct gccctcacca tgaacgaagt ggcgatccta gtgatggtac tgcaccctcc
+      661 aatcacctga tccgtgtgga agggaattac aaggcagagt ataaggagag tggggcaacc
+      721 cgtcgccaca gcgtgttggt gccatacgag actccgcagg tcgggtccga ctgtaccaca
+      781 gtgctgtaca attatatgtg caatagctct tgcatggggg gcatgaaccg ccgaccaatc
+      841 ctgactatca ttacactgga gaccaatgat ggtcagctgt tgggccgctg ctgctttgag
+      901 gtgcgggtgt gcgcctgccc tggccgagac cgcaagacgg aggaggagaa ctttcacaat
+      961 aagaagaagc catcgaagaa tgcagtcaac actgggacca agcgcaccat caaggatgca
+     1021 tctttgactg aaaccgatgt tgaaaatccc aagaggaagg ctcatgagga ggacgagatc
+     1081 tacactttgc agatccgtgg ccgtgagcga tacgagatgt tgaagaagct caatgatgca
+     1141 ttggagttga aggacatgat tccgcagagt gaccaggaga agatcaaaca gaagttccag
+     1201 aaacctcgaa aggagcgtga gaaccctgcc cccaagaatg gcaaaaagct gctagttaaa
+     1261 gatgagtctc aggactctga ctaaagtgct gtcggaccta gaactacaaa ggtcgcagtg
+     1321 ctgtcttcct tcgctagtgc ttgtctgctg tccccaatgc ccctggactt ctccccagac
+     1381 tcttccccta aagcattcaa gtggtgtatc cctcccccta ggtgggggtg agccaggccc
+     1441 agtttgactc ttctcaggaa tattggagta gagccatatg gccagagcta aaattcactg
+     1501 ccattataac actttttatt ctgaaatgaa cttttatatt aatttttttt aataaacaat
+     1561 gccataaaaa aaaaaaaaaa aaaaaaaa
+//
+

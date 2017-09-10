@@ -1,0 +1,46 @@
+LOCUS       JX570771                 479 bp    DNA     linear   VRT 12-AUG-2013
+DEFINITION  Notophthalmus viridescens isolate SSW170 tRNA-Pro gene, complete
+            sequence; and D-loop, partial sequence; mitochondrial.
+ACCESSION   JX570771
+VERSION     JX570771.1  GI:513289303
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 479)
+  AUTHORS   Whitmore,S.S., Losee,S., Meyer,L. and Spradling,T.A.
+  TITLE     Conservation genetics of the central newt (Notophthalmus
+            viridescens) in Iowa: the importance of a biogeographic framework
+  JOURNAL   Conserv. Genet. 14 (4), 771-781 (2013)
+REFERENCE   2  (bases 1 to 479)
+  AUTHORS   Whitmore,S.S., Meyer,L. and Spradling,T.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-AUG-2012) Biology, University of Northern Iowa, Cedar
+            Falls, IA 50614, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..479
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SSW170"
+                     /db_xref="taxon:8316"
+                     /haplotype="4"
+     tRNA            complement(181..252)
+                     /product="tRNA-Pro"
+     D-loop          253..>479
+ORIGIN      
+        1 tttttatacc caggctctac cagtttttat acgctctaat ttttcttatc cggaagccgc
+       61 caataaaata tacacattta tcaagaagga aagattcaca ctttcgcctc tggcacccaa
+      121 agccagaatt ataaattcta aactacctct tgataaattt tagtcaaatg taacaagatg
+      181 acatactatg tataatagta cattaatctc ttttccatat gactgtgttt tagtaactta
+      241 tcacttttaa tcatacttcc aggcgagaaa ccaccaaccc gaccatcagg atccccgttt
+      301 cgaattttct aggacttcag ttgtagagtt acccacatct gggttgctgc agctggttat
+      361 gaatctatgg acatttatag tagacgaact atcgtttatc tttaagagac ctctggttgc
+      421 aggggatgct tgaaagacta gatggcccag gaccagcata actgatctgg atcgcattc
+//
+

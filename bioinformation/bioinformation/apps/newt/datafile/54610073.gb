@@ -1,0 +1,78 @@
+LOCUS       AY650134                1525 bp    DNA     linear   VRT 26-MAR-2007
+DEFINITION  Notophthalmus viridescens recombination activating protein 1
+            (Rag-1) gene, partial cds.
+ACCESSION   AY650134
+VERSION     AY650134.1  GI:54610073
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1525)
+  AUTHORS   Wiens,J., Bonett,R. and Chippindale,P.
+  TITLE     Ontogeny discombobulates phylogeny: paedomorphosis and higher-level
+            salamander relationships
+  JOURNAL   Syst. Biol. 54 (1), 91-110 (2005)
+   PUBMED   15805013
+REFERENCE   2  (bases 1 to 1525)
+  AUTHORS   Wiens,J.J., Bonett,R.M. and Chippindale,P.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2004) Biology, University of Texas at Arlington,
+            501 S. Nedderman Drive, Arlington, TX 76019, USA
+FEATURES             Location/Qualifiers
+     source          1..1525
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UTA 56597"
+                     /db_xref="taxon:8316"
+     gene            <1..>1525
+                     /gene="Rag-1"
+     mRNA            <1..>1525
+                     /gene="Rag-1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1525
+                     /gene="Rag-1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AAV35135.1"
+                     /db_xref="GI:54610074"
+                     /translation="ITGRQIFQPLHALRTAEKSLLPGYHPFGWMPPLKNVSSNTEVGI
+                     INGLSGLVQSVDEYPVDTISKRFRYDVALVSTLKDMEEDILEGLKAHELDDYLSGPFT
+                     VVVKESCDGMGDVSEKHGCGPVVPEKAVRFSFTIMTIAVHHNKDNLRIFEESKPNSEL
+                     CCKPLCLMLADESDHETLTAILSPLIAEREAMKGSELMLELGGILRTFKFVFRGTGYD
+                     EKLVREVEGLEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHH
+                     ESVDELRDRVKGVSAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNASKE
+                     ERKRWQSTLDKHLRKKLNLKPIMRMNGNFARKLMSKETVEAVCELIHSEERRATLREL
+                     MDLYLKMKPVWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTL
+                     AHVPEIIERDGSIGAWASEGNESGNKLFRRFRKMNARQSKFYEMEDVLKHHWLYTSKH
+                     "
+ORIGIN      
+        1 atcacagggc gccagatttt ccagcccctg catgctctcc gcacagctga gaaatccctc
+       61 ttgccaggct accacccttt tggatggatg cctcctctga aaaatgtatc ttccaacaca
+      121 gaagtgggca taatcaatgg gctatccggt ctggtgcagt ctgtcgatga ataccctgta
+      181 gacaccatct caaaacggtt taggtacgac gttgcactag tctccactct gaaggacatg
+      241 gaggaggaca ttttggaagg tctgaaagct catgagctgg acgactactt aagtggtcca
+      301 ttcacggtgg tcgtcaagga gtcctgtgat ggcatgggtg atgttagtga gaagcacggc
+      361 tgtggaccag tggttccaga aaaggcagtt cgtttctcat tcacaatcat gacaattgcc
+      421 gtccatcaca acaaagacaa tttgaggatt tttgaagaaa gcaagccgaa ttcagagctg
+      481 tgctgcaagc ccctgtgcct catgcttgct gatgaatctg accatgagac actaaccgcc
+      541 atcttgagcc cactgatagc agaaagagag gccatgaaag gcagtgaact gatgcttgaa
+      601 cttggtggca tcctcagaac attcaagttt gtgttcaggg gcacaggata tgatgagaag
+      661 cttgtgagag aggttgaagg actagaggcc tcgggatcag tctatatctg taccctttgt
+      721 gactcgacac gcctggaggc ctcccagaat attgtactcc actccattac tcggagtcac
+      781 aaggagaacc ttgagcggta cgagatctgg cggtccaaca gacaccacga gtcagtcgac
+      841 gagctgcggg acagagtgaa gggggtttca gccaagccct tcattgagac cctcccttcc
+      901 atcgatgcct tgcactgtga cattggaaat gctgcagagt tttacaagat attccaactc
+      961 gaaatagggg aggtcttcaa gaaccccaac gcctcaaaag aggagagaaa gaggtggcag
+     1021 tcgactctgg acaagcatct gaggaagaag ttgaacttga agcccataat gagaatgaac
+     1081 ggtaattttg caaggaaact gatgtccaag gagactgttg aggcagtttg tgagctgatc
+     1141 cactctgagg aacggcgggc cactctacgc gaactcatgg acctgtacct gaaaatgaag
+     1201 ccagtatggc gatcctcatg cccaagcaag gagtgtccag aactcctctg ccagtacagc
+     1261 tacaactctc aacgctttgc cgagcttctc tcaaccaagt tcaagtaccg gtatgagggc
+     1321 aaaatcacaa actatttcca caagacacta gcgcatgtgc ctgagataat tgagcgagat
+     1381 gggtctatcg gtgcctgggc gagtgaaggg aatgaatcag gtaacaagct ctttagacgt
+     1441 ttcaggaaaa tgaacgctag gcagtctaag ttctatgaaa tggaggatgt cctaaagcac
+     1501 cactggctct acacctctaa acacc
+//
+

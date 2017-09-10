@@ -1,0 +1,56 @@
+LOCUS       AB154821                1038 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Sox3 mRNA for SOX3, partial cds.
+ACCESSION   AB154821
+VERSION     AB154821.1  GI:241989345
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mizuno,N., Ueda,Y., Hayashi,T. and Kondho,H.
+  TITLE     Newt Sox3 mRNA
+  JOURNAL   Published Only in Database (2009)
+REFERENCE   2  (bases 1 to 1038)
+  AUTHORS   Mizuno,N., Ueda,Y., Hayashi,T. and Kondho,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..1038
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /note="newt"
+     gene            <1..1038
+                     /gene="Sox3"
+     CDS             <1..102
+                     /gene="Sox3"
+                     /codon_start=1
+                     /product="SOX3"
+                     /protein_id="BAH79832.1"
+                     /db_xref="GI:241989346"
+                     /translation="TEQQSLQGGRLHSVHHQHYQSAGVNGTVPLTHI"
+ORIGIN      
+        1 accgagcagc agagcctgca aggcgggcgg ctccacagcg tgcaccacca acactaccaa
+       61 agcgcgggtg tgaacggcac ggtgcccctc acccacattt gacaatgagc ccctagccta
+      121 cgagactggc acctgagagt ccgaccaggg acacctggcg ggtactccga cttcggacac
+      181 ctgccgggca cccgaacact gctgcctgtg accaagaaaa ccgaatgggg tccccggccc
+      241 tggaagcccg atgggcgctc tccatcacgc tgtggtatgc tggcgcaaac tggcgagcaa
+      301 gactttgttt accttcagac aggatcgcta aggcagaggg gcccaaaaaa tttaaaaact
+      361 ttatataagc acaaccatcc ttcgtgtgtg ccctgtccaa gactgagatc tccgttgccg
+      421 aactcttctg ctagattagc aggcgtcgaa gaatgtaatt aacaggctga gaacaggcat
+      481 gtgtagatga cctttttgta cagaaagttt gcgcaaactt agagcacaat gttttacgcg
+      541 caccaggcgc ttgcgtagtt ttacacacgc gcagccctgg ttgttccaag atccttattg
+      601 ttttgaaata agggccaggt atcttcagtt tttagaaggg aaaatgagcc taacgaattt
+      661 accccaatcc aatgtttaca tttcttgccc cgctctctcc gagcacccct tgggggtttg
+      721 tccacaacac tagcgttttt ttgtcttaga ctgcttttga cttcaaaaca gaaacacaaa
+      781 ctgtgcgggt cgcaaaagtt tttcttttaa tttatagtat aaatgtgtat ttgtttatcc
+      841 ccatcccacc accctgtaaa aagttgtaca ttattttctt tctgtatgtg aatttttatc
+      901 tgtgaaatgt tgacatatca agactcatgc tttagttttt tattggattt ctaaatggtt
+      961 ttatgttaaa actttaaaat ttaaaaagcg atatgaataa attttttgtt acggaacctt
+     1021 aaaaaaaaaa aaaaaaaa
+//
+

@@ -1,0 +1,63 @@
+LOCUS       EF525927                 634 bp    DNA     linear   VRT 23-MAY-2011
+DEFINITION  Mesotriton alpestris cyreni voucher RuHF-TAC-01-1 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF525927
+VERSION     EF525927.1  GI:156788634
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris cyreni (Spanish alpine newt)
+  ORGANISM  Ichthyosaura alpestris cyreni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 634)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 634)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..634
+                     /organism="Ichthyosaura alpestris cyreni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="cyreni"
+                     /specimen_voucher="RuHF-TAC-01-1"
+                     /db_xref="BOLD:ABCAP064-05"
+                     /db_xref="taxon:385666"
+                     /country="Spain: Pais Vasco"
+                     /lat_lon="42.74 N 2.47 W"
+                     /collection_date="18-Jul-2000"
+                     /collected_by="Rafael Fonoll"
+     gene            <1..>634
+                     /gene="COI"
+     CDS             <1..>634
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95891.1"
+                     /db_xref="GI:156788635"
+                     /translation="GTLYLMFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVT
+                     AHAFVMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSG
+                     VEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPS
+                     MTQYQTPLFVWSVLITALLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN      
+        1 ggcaccctgt atttaatatt tggtgcttga gccggaatag tcggcacagc ccttagctta
+       61 ctaatccgag ctgaactcag ccaacctgga gcactcctcg gagacgacca aatttataac
+      121 gtcattgtca ctgctcacgc ttttgtaata atcttcttta tggtaatgcc agtgatgatc
+      181 ggaggatttg gaaactgact ggtccccctc atgatcgggg ccccggacat ggcctttcct
+      241 cgaataaaca acataagttt ctgactcctt cccccttcat ttctactctt actagcatcc
+      301 tccggggtgg aagccggagc gggcactgga tgaacagtat acccgccact agctggtaat
+      361 ttagcccacg ctggcgcctc cgttgactta acaatctttt cactccactt agcaggggtc
+      421 tcctcaattc taggagcaat taactttatt acaacatcaa ttaatataaa acccccatca
+      481 ataacacaat accagacacc cctatttgtg tggtctgtac taattacagc cctactcctt
+      541 ctcctttcac taccagtact agcagcaggt attaccatac ttttaactga tcgaaaccta
+      601 aatactacat tttttgaccc cgcaggaggg ggga
+//
+

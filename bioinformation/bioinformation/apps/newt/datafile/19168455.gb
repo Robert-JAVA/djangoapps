@@ -1,0 +1,54 @@
+LOCUS       D86301                   750 bp    mRNA    linear   VRT 29-MAR-2003
+DEFINITION  Cynops pyrrhogaster mRNA for newt gamma-crystallin, complete cds.
+ACCESSION   D86301
+VERSION     D86301.1  GI:19168455
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mizuno,N., Agata,K., Sawada,K., Mochii,M. and Eguchi,G.
+  TITLE     Expression of crystallin genes in embryonic and regenerating newt
+            lenses
+  JOURNAL   Dev. Growth Differ. 44 (3), 251-256 (2002)
+   PUBMED   12060074
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Mizuno,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-1996) Nobuhiko Mizuno, Osaka University,
+            Institute for Molecular and Cellular Biology, Kondoh
+            Differentiation Signaling Progect ERATO; 1-3 Yamadaoka, Suitashi,
+            Osaka 565-0871, Japan (E-mail:nmizuno@imcb.osaka-u.ac.jp,
+            Tel:06-6879-7964, Fax:06-6877-1738)
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     CDS             154..681
+                     /codon_start=1
+                     /product="newt gamma-crystallin"
+                     /protein_id="BAB85813.1"
+                     /db_xref="GI:19168456"
+                     /translation="MGKIIFYEDKNFLGRSYECSTECADLYLYFSRCNSIRVGSGHWI
+                     LYEHPNFRGQQYYLRRGEYPDFQHWMGFNDSIRSCRLTPQHRGSYRIRVCERDNFGGQ
+                     MMEFSEDCPHVYEQFRYNDIHSCNEQDGHWVFYEEPNYRGRQYYLRPGEYRRYSDWGA
+                     SSPKVGSFRRVRDLY"
+ORIGIN      
+        1 gaacattcaa aaacactact acattgtcac caagtgcaca cctcaaagca aacatcaacc
+       61 cccaacacaa aacacacccc attcacacaa caaaatggaa acaaaaatca gacccaaagg
+      121 acagcccaca aaacacacct gacagcagcc aacatgggga aaatcatctt ctatgaggac
+      181 aagaacttcc taggccgctc ctatgagtgc agcactgagt gtgccgatct gtacctctac
+      241 ttcagccgct gcaactccat ccgagtggga agtgggcact ggatcctcta tgaacatccc
+      301 aacttcaggg ggcagcagta ctatctgaga agaggcgaat acccagactt ccagcactgg
+      361 atgggcttca atgactcaat caggtcctgc cgcttgaccc cacaacatcg tggatcctac
+      421 agaataagag tatgtgagcg agataatttt ggaggtcaga tgatggagtt ctctgaagac
+      481 tgtccacacg tttacgagca gttccgctat aatgacatcc actcctgtaa tgagcaggat
+      541 gggcactggg tcttctatga ggagcccaac tacagagggc gtcagtacta cttaagacct
+      601 ggagaataca ggaggtacag tgactgggga gcctcaagcc ccaaggttgg atccttcagg
+      661 agagttcgag atctttactg agatactttt gatgttctgc ctcaacaatc catgtaacac
+      721 aaataaatat tgcatacaaa aaaaaaaaaa
+//
+

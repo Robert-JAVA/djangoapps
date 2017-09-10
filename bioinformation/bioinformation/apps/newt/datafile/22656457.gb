@@ -1,0 +1,48 @@
+LOCUS       AY046081                 385 bp    DNA     linear   VRT 03-SEP-2002
+DEFINITION  Triturus marmoratus cytochrome b gene, partial cds; mitochondrial
+            gene for mitochondrial product.
+ACCESSION   AY046081
+VERSION     AY046081.1  GI:22656457
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 385)
+  AUTHORS   Garcia-Paris,M., Arano,B. and Herrero,P.
+  TITLE     Molecular characterization of the contact zone between Triturus
+            pygmaeus and T. marmoratus (Caudata: Salamandridae) in Central
+            Spain and their taxonomic assessment
+  JOURNAL   Rev. Esp. Herpetol. (2001) In press
+REFERENCE   2  (bases 1 to 385)
+  AUTHORS   Garcia-Paris,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUL-2001) Museo Nacional de Ciencias Naturales, CSIC,
+            Jose Gutierrez Abascal, 2, Madrid 28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..385
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8328"
+                     /country="Spain: Zamora: Sanabria"
+     CDS             <1..>385
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAL05414.1"
+                     /db_xref="GI:22656458"
+                     /translation="THPLLKIINSSFIDLPTPSNISYWWNFGSLLGICLITQILTGLF
+                     LAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYM
+                     FKETWNIGVILLFLVMATAFVGYVLP"
+ORIGIN      
+        1 aacccacccc ttactaaaaa ttatcaacag ctcattcatc gatctcccaa caccatctaa
+       61 catctcatac tgatgaaatt ttggctctct tttaggcatc tgcttaatta cacagattct
+      121 tacaggacta ttcctagcaa tacactacac agcagacaca caatcagcat tttcatctgt
+      181 tgcccatatt tgccgtgatg taaactatgg ctgactagta cgaaacatcc atgctaacgg
+      241 ggcctcacta ttcttcatct gcatctacct acacattgga cggggcttgt actacggctc
+      301 ctacatattc aaagagacct gaaacatcgg cgtaattcta ctatttctag ttatagccac
+      361 tgcttttgtt ggctacgtcc tgcca
+//
+

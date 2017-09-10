@@ -1,0 +1,67 @@
+LOCUS       GQ303602                1180 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Pachytriton labiatus voucher CIB 88165 NADH dehydrogenase subunit 2
+            (ND2) gene, complete cds; mitochondrial.
+ACCESSION   GQ303602
+VERSION     GQ303602.1  GI:281494571
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1180)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Homoplastic evolution of external coloration in Asian stout newts
+            (Pachytriton) inferred from molecular phylogeny
+  JOURNAL   Zool. Scr. 39 (1), 9-22 (2010)
+REFERENCE   2  (bases 1 to 1180)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1180
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 88165"
+                     /db_xref="taxon:156859"
+     gene            49..1086
+                     /gene="ND2"
+     CDS             49..1086
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADA72045.1"
+                     /db_xref="GI:281494572"
+                     /translation="MSPYTLSMLMSSLAVGTTTTLLSYHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTIMNAWATGEWTIIDMSHYTSTTILTIAL
+                     AIKLGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILTSHQLNTNLLTVMALM
+                     SMVVGGWGGLNQTQTRKIMAYSSIAHLGWMTMIVSFAPNLALLNLLIYIILTSSMFAT
+                     LMTMSATNMNKLSASWLKTPTLAALTMVVLMALGGLPPTSGFLPKWLILQEMTKQHLN
+                     TLSITMAMSALLSLFFYLRLSYAISMTSPPHISNSNLSWRKKNNLQIIPMMIVLSTMM
+                     MPMTPTLLVMN"
+ORIGIN      
+        1 ttttgggccc ataccccaaa catgttggcg aaaacccttc ttttactaat gagcccatat
+       61 acactatcta tattaatgtc aagccttgca gtaggtacaa ctaccacatt attaagctat
+      121 cactgattcc tggcatgaat aggactagag attaatacac tagctattat tccgttaata
+      181 accaaaatac accatcctcg ggccacagaa tccgcaacaa aatacttttt gacacaggcc
+      241 acagcctccg ccttaatttt attctcaaca attataaacg catgagccac aggagagtga
+      301 acaattattg atatgagcca ctacacatcc acaacaattt taacaattgc tttagctatt
+      361 aaactaggag ttgcaccctt tcacctgtga ttaccggatg ttttacaagg actaaatata
+      421 ataacatgcc tgatcctatc aacatgacaa aaactagccc caatggccct gctcatccta
+      481 acaagtcatc aactaaatac caatttacta actgtaatag cactgatatc catggttgta
+      541 ggggggtgag gaggcctgaa tcaaacacaa acacgaaaaa tcatagcata ctcatccatc
+      601 gcacatttag gatgaataac catgattgta tcatttgccc caaatttagc actactaaac
+      661 ctattgatct atattatttt aacctcatct atgtttgcaa cactaataac catgagcgct
+      721 acaaatataa ataagctctc agcctcctgg ctaaaaacac caacactagc agcccttaca
+      781 atagttgtcc tcatggccct tggagggctt ccaccaacat cggggttttt gccaaaatga
+      841 ctaattttac aagaaataac caaacaacac ctcaacactt tgtccattac aatagccata
+      901 tcagccctac ttagtttatt cttctacctg cgtttatcct acgcaatttc aataacctca
+      961 cccccccaca tctcaaactc aaacctaagt tgacgtaaaa aaaacaacct acaaatcatc
+     1021 cctatgataa ttgtattatc tactataatg atgccaataa ctccgacatt gctggtaata
+     1081 aactaaagac ttaggataac agaccaaaga ccttcaaagc cttaagtaga agttaaaatc
+     1141 ttctagtctt tgataaaacc tgcaggacac taccccacat
+//
+

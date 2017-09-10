@@ -1,0 +1,54 @@
+LOCUS       FJ526247                 477 bp    DNA     linear   VRT 01-MAY-2009
+DEFINITION  Triturus pygmaeus isolate 1617 Granja calreticulin gene, intron c
+            and partial cds.
+ACCESSION   FJ526247
+VERSION     FJ526247.1  GI:222476187
+KEYWORDS    .
+SOURCE      Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 477)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     A combination of techniques proves useful in the development of
+            nuclear markers in the newt genus Triturus
+  JOURNAL   Mol Ecol Resour 9 (3), 1160-1162 (2009)
+   PUBMED   21564844
+REFERENCE   2  (bases 1 to 477)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2008) Department of Zoology, Naturalis, P.O. Box
+            9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /organism="Triturus pygmaeus"
+                     /mol_type="genomic DNA"
+                     /isolate="1617 Granja"
+                     /db_xref="taxon:171367"
+                     /country="Portugal"
+                     /lat_lon="38.41 N 7.32 W"
+     intron          <1..416
+                     /number=c
+     mRNA            <417..>477
+                     /product="calreticulin"
+     CDS             <417..>477
+                     /note="copy a"
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="ACM61861.1"
+                     /db_xref="GI:222476188"
+                     /translation="PDICGPATKKVHVIFNYKG"
+     exon            417..>477
+                     /number=d
+ORIGIN      
+        1 gcgtccaggt gtattggctg tatatgagtg gtattaaaag tagtctattt ggcatcatta
+       61 acatttataa ggggaaaaaa gcattcagtt ggcagtgaat catgcttttg gctagaattt
+      121 cgaagtttca gagatatggc tttgatatct ggctttgatt ggccttactt aatgaagtga
+      181 cctctgcagt tctgagagtt tcaggatgtc tgttaaactt aatctggtaa atctttcggt
+      241 gttgcctttc ctttgctacc tgctaattgg tttgtggtaa gccttttgct cacacacgct
+      301 gatgggtatg aggttggata agcagtgcat acctaaaatg gcaaacccat ggcataggtg
+      361 tattttaata catatcgtgt gtagctcagg tttaaaaatg tcttccgttg ctacagggcc
+      421 ggacatctgc ggacctgcga ccaagaaagt acatgtgatc ttcaactaca aaggcaa
+//
+

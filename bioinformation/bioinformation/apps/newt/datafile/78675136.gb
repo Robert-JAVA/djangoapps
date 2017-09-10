@@ -1,0 +1,68 @@
+LOCUS       AB238608                1428 bp    mRNA    linear   VRT 02-NOV-2005
+DEFINITION  Cynops pyrrhogaster SNAP25 mRNA for synaptosomal-associated
+            protein, 25 kDa, complete cds.
+ACCESSION   AB238608
+VERSION     AB238608.1  GI:78675136
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N., Tarui,H., Kurosaka,H. and Agata,K.
+  TITLE     Cynops pyrrhogaster: SNAP25
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1428)
+  AUTHORS   Maki,N., Tarui,H., Kurosaka,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..1428
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /country="Japan:Okayama"
+     gene            1..1428
+                     /gene="SNAP25"
+     CDS             184..804
+                     /gene="SNAP25"
+                     /codon_start=1
+                     /product="synaptosomal-associated protein, 25 kDa"
+                     /protein_id="BAE47569.1"
+                     /db_xref="GI:78675137"
+                     /translation="MAEDADMRNELEDMQRRADQMTDESLESTRRMLQLVEESKDAGI
+                     RTLVMLDEQGEQLDRVEEGMNHINQDMKEAEKNLKDLGKCCGLFICPCNKLKSSDAYK
+                     KAWGNNQDGVVATQPARVVDESEEMNISGGFVRKVTNDARETEMDENLEQVGGIIRNL
+                     RHMAVDMGNEIDTQNRQIDRVMEKADSNKARIDEANQRATKMLGSG"
+ORIGIN      
+        1 gagagagagg ttggaaacat cgcctcgttc ctccccgctg cagagagcag tctgaagcgt
+       61 gcagacggcc gtcctcgttc accacatctg cttcatttaa tcccgcggtg cttccagatt
+      121 tgtacatagt gagcaccaac acatccttaa ttggaatctc ccataaatgc acaagcagcc
+      181 accatggcag aagatgcaga tatgcgcaat gagctggagg atatgcagcg acgtgctgac
+      241 cagatgactg atgagtcact ggaaagtact cgtcggatgc tgcagctggt agaagagagc
+      301 aaagatgccg gtatcaggac tctggttatg ttggatgagc aaggagaaca actcgatcgt
+      361 gttgaagaag gcatgaacca tatcaaccaa gacatgaagg aggccgagaa aaatttaaaa
+      421 gatttaggga aatgctgtgg tcttttcata tgtccttgta acaagctaaa atcaagtgat
+      481 gcttacaaaa aggcctgggg gaataatcaa gatggtgtcg tagccaccca accagcccgt
+      541 gtggtggatg agagtgagga aatgaacatc agcggtggct tcgtccgcaa agtgacaaat
+      601 gatgccaggg aaactgaaat ggatgagaac cttgaacagg ttggtggtat cattaggaat
+      661 cttcgtcaca tggctgttga tatgggcaac gagattgaca cacaaaatcg ccaaattgac
+      721 agggtcatgg agaaggctga ctccaacaaa gccaggattg acgaagccaa ccaacgtgca
+      781 acaaagatgc tgggaagcgg ctaaatacct ggaagtgcat tttcttatgt atctctgctg
+      841 tctctgtaga tggcacgttc atgcttttat catggtattt atccaccagg tttgcacaca
+      901 tgcacatatc gaatccttcc ctcccaaccc tattgtaaat gtcgtcctgt gcggtctgtc
+      961 agctttccga caaggatact tgtaattatt tctttttatt ttgtattttt tttacatacg
+     1021 ttttctttcc aaaggttgta catagtgctg atttgatggc tatagctcac tgatgttttc
+     1081 attttgtgtt tgtttcttcc ttttcttttc caatgttcgc tgaatgacga caatgtagga
+     1141 atgatatacg tgctgtctac ttttaaaact acaatattgt ccttgtaaaa cgtgacattc
+     1201 cacaagagct actgccatgc tccttacttg gggtgtcata atgttcccac acttttaact
+     1261 tgctgtcttc gcctctccat cgttgtcatc tgttgctatg atttcattag tacacaacgt
+     1321 ggaaactata taactatgat aagcactgca ctaaaagtga tgtgatttat gcatttatgc
+     1381 atgagaataa atagacgttt agactcctaa aaaaaaaaaa aaaaaaaa
+//
+

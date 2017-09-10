@@ -1,0 +1,63 @@
+LOCUS       JX444703                 753 bp    DNA     linear   VRT 31-AUG-2013
+DEFINITION  Tylototriton verrucosus isolate CAS 230940 cytochrome b (cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX444703
+VERSION     JX444703.1  GI:507403120
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Zhang,M.
+  TITLE     Species boundary within the Tylototriton verrucosus group (Urodela:
+            Salamandroidae) based on mitochondrial DNA evidence
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Zhang,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2012) College of Animal Science and Technology,
+            Sichuan Agricultural University, 46 Xinkang Lu, Ya'an, Sichuan
+            625014, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CAS 230940"
+                     /db_xref="taxon:164973"
+                     /haplotype="Tm1"
+                     /tissue_type="liver"
+                     /country="Myanmar"
+                     /collected_by="Jens"
+     gene            <1..>753
+                     /gene="cytb"
+     CDS             <1..>753
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGM46817.1"
+                     /db_xref="GI:507403121"
+                     /translation="SFIDLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADTY
+                     SAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVI
+                     LLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYMGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGVTSDGDKIPFHPYFSYKDILGFLL
+                     MLLALMFISLLTPNLLGDPENFTPANPLVTPPH"
+ORIGIN      
+        1 tcgtttatcg accttccaac accatcaaac atctcatatt gatgaaactt tggctccctc
+       61 ctcggcattt gcctcatcac acaaattgta acaggactat ttctagcaat gcactacaca
+      121 gcagacacat actcagcatt ctcatcagtt gcccatatct gtcgagacgt aaattacggg
+      181 tgacttgtac gaaacatcca cgcaaatggg gcctcactgt tcttcatctg catttacctt
+      241 cacattggac gaggcctata ctacggatct tacatgttta aagaaacatg aaatatcggc
+      301 gtaatcttac tactcctagt catagccaca gcctttgtcg gatacgtcct cccatgagga
+      361 caaatatcct tctgaggggc cacagttatt acaaacctgc tctcagcagt cccgtacata
+      421 ggagactcac tagtacagtg aatctgaggg ggcttctcag tagacaaggc caccctaacc
+      481 cgattcttcg catttcactt cctattccca ttcctgatcg ccggagcaag cattgtccac
+      541 ctattattcc tccacgaaac aggctcaaac aacccaacag gggtcacatc agacggagac
+      601 aaaatcccat tccacccata cttttcatac aaagacattc tagggtttct gctaatactg
+      661 ctagccctaa tattcatctc actattaacc ccaaaccttc taggagaccc agaaaacttc
+      721 acccctgcaa acccattagt aactcccccg cac
+//
+

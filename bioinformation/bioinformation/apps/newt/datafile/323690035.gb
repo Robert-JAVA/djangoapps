@@ -1,0 +1,59 @@
+LOCUS       AB537567                 984 bp    mRNA    linear   VRT 20-JUN-2013
+DEFINITION  Cynops pyrrhogaster mRNA for LPXRFa peptide, complete cds.
+ACCESSION   AB537567
+VERSION     AB537567.1  GI:323690035
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Chowdhury,V.S., Ubuka,T., Osugi,T., Shimura,T. and Tsutsui,K.
+  TITLE     Identification, localization and expression of LPXRFamide peptides,
+            and melatonin-dependent induction of their precursor mRNA in the
+            newt brain
+  JOURNAL   J. Endocrinol. 209 (2), 211-220 (2011)
+   PUBMED   21325452
+  REMARK    DOI:10.1530/JOE-10-0494
+REFERENCE   2  (bases 1 to 984)
+  AUTHORS   Chowdhury,V.S., Osugi,T. and Tsutsui,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Contact:Vishwajit Sur Chowdhury Kyushu
+            University, International Education Center, Faculty of Agriculture;
+            6-10-1 Hakozaki, Higashi-ku, Fukuoka 812-8581, Japan
+FEATURES             Location/Qualifiers
+     source          1..984
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     CDS             47..748
+                     /codon_start=1
+                     /product="LPXRFa peptide"
+                     /protein_id="BAJ78290.1"
+                     /db_xref="GI:323690036"
+                     /translation="MEILLMSRLLLLTLATLGLASQILGLEDPGRSHLYGEEGDEEDF
+                     SESNEDIFEETQRSANSGEEKEVGVRNMVKMSAPLVHRMPHASANLPLRFGRAFLEEA
+                     KSSPAFYSPLRYESAFDERIRKSVPNLPQRFGRYLASKRSIQPLANLPQRFGRAPSAG
+                     QFIQTLANLPQRFGRSIDLHKLCNFANTYAKGGQESGYGDKRMLDADNGPEEEQKEEG
+                     ATQNNWNQNHNQMVM"
+ORIGIN      
+        1 agagattatt tgccctgtgt gtgagcacgg tttattttca aataaaatgg agatactctt
+       61 aatgagcagg ctgttgttat tgacactggc tactctcggg cttgcttctc agattctcgg
+      121 ccttgaagat ccaggaagat ctcatctgta tggagaggaa ggtgatgaag aggacttctc
+      181 cgagtctaat gaagatatct ttgaagaaac acagagaagt gctaactctg gtgaagaaaa
+      241 ggaagttggt gttagaaaca tggtcaagat gagcgcccct ttggtccata ggatgccgca
+      301 cgcttcggct aatttaccac tgagatttgg gcgagctttc ctggaagaag caaaaagtag
+      361 ccctgctttt tattcacctc tgagatacga aagcgctttt gatgaaagaa ttcgtaaaag
+      421 tgtcccgaac ttaccacaga gatttggacg ttatcttgcg agcaaacgtt ccatccagcc
+      481 actggccaac ctgcctcaga gatttggcag agcgccatct gctggccagt tcatccagac
+      541 tctcgccaat ttgcctcaaa gatttgggcg atcaatagat cttcacaaat tgtgtaactt
+      601 tgcgaatacc tacgcaaaag gtggccaaga atctggctat ggtgacaaga ggatgctgga
+      661 tgcagacaat ggccctgaag aagagcagaa agaagaagga gcaactcaaa acaactggaa
+      721 tcagaatcac aaccaaatgg tgatgtgaag ttccctacct ggctgctgaa gatcagacca
+      781 cagttttctt agtttaactg aaattatagg catgtaaata actcactcat acataagttg
+      841 aatttttaaa ttacagcaca tgttttgcta aactgtgcac ttggtggctg tgctatgagt
+      901 tgtgcaagca tgttcaactg atgtattgta tctttgaagt tataatcaaa ataaaaagat
+      961 gctataaaca tgcatgaata gttg
+//
+

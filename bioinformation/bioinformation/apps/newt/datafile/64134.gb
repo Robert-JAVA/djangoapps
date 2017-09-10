@@ -1,0 +1,77 @@
+LOCUS       X17586                  1600 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  Newt mRNA for retinoic receptor delta (RAR-delta).
+ACCESSION   X17586
+VERSION     X17586.1  GI:64134
+KEYWORDS    receptor; retinoic acid receptor.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1600)
+  AUTHORS   Ragsdale,C.W. Jr., Petkovich,M., Gates,P.B., Chambon,P. and
+            Brockes,J.P.
+  TITLE     Identification of a novel retinoic acid receptor in regenerative
+            tissues of the newt
+  JOURNAL   Nature 341 (6243), 654-657 (1989)
+   PUBMED   2552324
+COMMENT     See X17585 for RAR-alpha sequence.
+FEATURES             Location/Qualifiers
+     source          1..1600
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="regenerative limbs and tails"
+     mRNA            <1..>1600
+     CDS             20..1384
+                     /codon_start=1
+                     /product="retinoic acid receptor delta"
+                     /protein_id="CAA35603.1"
+                     /db_xref="GI:64135"
+                     /db_xref="GOA:P18516"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18516"
+                     /translation="MSSSKDRICSTSTQLSQLHGFPPSMYPFAFSSNMRGSPPFDLTN
+                     GGAYFRSFPTDLPKEMASLSVETQSTSSEEMVPSSPSPPPPPRVYKPCFVCNDKSSGY
+                     HYGVSSCEGCKGFFRRSIQKNMVYTCHRDKNCQINKVTRNRCQYCRLQKCFEVGMSKE
+                     AVRNDRNKKKKEIKEEVVTDSYEMPPEMEALIQKVSKAHQETFPSLCQLGKYTTNSSA
+                     DHRVQLDLGLWHKFSELATKCIIKIVEFAKRLPGFATLTIADQITLLKAACLDILMLR
+                     ICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFAEQLLPLEMDDTETGLLS
+                     AICLICGDRMDLEEPEKVDKLQEPLLEALKIYARRRRPNKPYMFPRMLMKITDLRGIS
+                     TKGAERAITLKMEIPGPMPPLIREMLENPEAFEDDASPPPKSEQKPIKVEEKPGEKTS
+                     TKDP"
+ORIGIN      
+        1 ggcacgaggc ggttgcagca tgtcttccag taaggatagg atatgctcca ccagcactca
+       61 gctcagtcag ctacatggat ttccaccttc catgtacccc tttgccttct ccagcaacat
+      121 gcgtggttcc ccaccttttg acctcaccaa tggcggggcc tacttcagaa gcttccctac
+      181 tgatctgcca aaggagatgg cctccctgtc tgtggaaacc cagagcacga gttcagagga
+      241 gatggtccca agttcaccgt cccctccccc tccacccagg gtttacaagc cctgcttcgt
+      301 gtgtaatgac aagtcgtctg gctaccacta cggagtaagc tcatgtgaag gctgcaaggg
+      361 tttcttcaga agaagcatac aaaagaacat ggtgtacact tgccaccggg acaagaattg
+      421 tcagatcaac aaggtgacac ggaaccgctg tcagtactgc cgactgcaga aatgttttga
+      481 ggtcggcatg tctaaggagg cggtgaggaa tgatcgaaac aagaagaaga aggagatcaa
+      541 ggaggaggtg gtgaccgaca gctatgagat gccacctgaa atggaagcac tgatccaaaa
+      601 agtcagcaaa gcacatcagg agaccttccc atcactgtgc cagctcggca agtacactac
+      661 gaattccagt gcagaccacc gagtccagct cgaccttggc ctctggcaca aattcagtga
+      721 gctcgccacc aaatgcatca tcaagattgt ggagtttgcc aagaggctcc caggctttgc
+      781 cactctgacc atcgccgacc agatcactct gctgaaggca gcatgcctcg acattctgat
+      841 gttgcggatt tgcactcggt acacgccaga gcaggacacc atgacctttt ccgatggact
+      901 gaccctgaac cggacacaga tgcacaatgc tggcttcggg cccttaacag acttggtctt
+      961 tgcctttgct gagcagctgc tgcccctgga gatggatgat accgaaactg gactgctcag
+     1021 tgccatctgt ttgatctgcg gagatcggat ggatttagag gagccggaga aggtcgacaa
+     1081 actgcaggaa cctcttttag aggcgctaaa aatatatgcc cggcgacgac gaccaaacaa
+     1141 gccatacatg ttcccccgca tgctgatgaa aattacagat ctgcgaggga tcagtaccaa
+     1201 aggtgcggaa cgtgctataa cactaaagat ggagattcct ggcccaatgc ctccactcat
+     1261 ccgtgagatg ctggaaaacc ctgaagcctt tgaggatgat gcttcaccgc cccccaaatc
+     1321 ggaacagaag cccatcaagg ttgaagaaaa gccaggagag aaaactagca ccaaagaccc
+     1381 ctagcaaacc taggaaaggg gccaacactc ctgcccttct ctgtaccaac ttcaatgaac
+     1441 aaaaaacaaa ggaagaaaaa ccttcctcag caggagatgg cactcagggc actatgggaa
+     1501 tcccagacaa aaccacaaac tgctttcttt tttatactgg atcgtctgga tttgaggtat
+     1561 atatatctct tgccttaaac ttttcgcgtg cgggaagctt
+//
+

@@ -1,0 +1,73 @@
+LOCUS       AY948856                1123 bp    DNA     linear   VRT 05-FEB-2007
+DEFINITION  Pleurodeles waltl voucher VUB 0508 solute carrier family 8 member 3
+            (SLC8A3) gene, exon 2 and partial cds.
+ACCESSION   AY948856
+VERSION     AY948856.1  GI:63099209
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1123)
+  AUTHORS   Roelants,K., Gower,D.J., Wilkinson,M., Loader,S.P., Biju,S.D.,
+            Guillaume,K., Moriau,L. and Bossuyt,F.
+  TITLE     Global patterns of diversification in the history of modern
+            amphibians
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (3), 887-892 (2007)
+   PUBMED   17213318
+REFERENCE   2  (bases 1 to 1123)
+  AUTHORS   Roelants,K. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-FEB-2005) Biology Department, Unit of Ecology and
+            Systematics, Vrije Universiteit Brussel, Pleinlaan 2, Brussels
+            B-1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..1123
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VUB 0508"
+                     /db_xref="taxon:8319"
+     gene            <1..>1123
+                     /gene="SLC8A3"
+     mRNA            <1..>1123
+                     /gene="SLC8A3"
+                     /product="solute carrier family 8 member 3"
+     CDS             <1..>1123
+                     /gene="SLC8A3"
+                     /codon_start=2
+                     /product="solute carrier family 8 member 3"
+                     /protein_id="AAY32723.1"
+                     /db_xref="GI:63099210"
+                     /translation="SIEVITSQEREITIRKPNGETTTTTIRVWNETVSNLTLMALGSS
+                     APEILLSLIEVCGHGFVAGDLGPSTIVGSAAFNMFIILAICVYVIPDGETRKIKHLRV
+                     FFVTAAWSIFAYIWLYMILAVFSPGVVQVWEGLLTLFFFPVCVFLAWVADRRLLFYKY
+                     MHKKYRTDKHRGIMIETEGEHPKGIEMDGKMMNSHFLDGSLVNMEGKEVDESRREMIR
+                     ILKDLKQKHPEKDLDQLVEMANYYALSHQQKSRAFYRIQATRMMTGAGNILKKHAAEQ
+                     AKRSVSLHEVQSDEPEEFVSKIFFDPCSYQCLENCGAVILTVVRKGGDISKTVYVDYK
+                     TEDGSANAGADYEFTEGMLVFKAGETQKEFSVGVIDDDIF"
+     exon            1..1123
+                     /gene="SLC8A3"
+                     /number=2
+ORIGIN      
+        1 atcaatagag gtcatcactt cacaggagag ggagatcaca atcagaaaac caaatggaga
+       61 gacaactaca actactatcc gggtctggaa cgaaacagta tccaacctga ctctcatggc
+      121 tctcggatct tctgctccag agattcttct gtcgttgatt gaagtgtgtg gacatgggtt
+      181 tgtggctgga gatttgggcc cttccaccat tgttggcagt gcagctttca atatgttcat
+      241 cattctggca atctgtgttt atgtcattcc tgatggggaa accaggaaga tcaaacacct
+      301 gagagtcttc tttgtgacag cggcgtggag catttttgcc tacatatggt tgtacatgat
+      361 ccttgcagta ttctcaccag gggtggtcca ggtttgggaa ggcttactga ccctcttctt
+      421 tttcccagtt tgtgttttcc tggcctgggt ggcagacagg cggttacttt tttacaagta
+      481 catgcacaaa aagtacagaa ctgacaaaca cagggggata atgatagaga cagaaggtga
+      541 acatcccaaa ggcattgaga tggatggcaa aatgatgaat tcacactttc tggatggcag
+      601 tcttgtaaat atggaaggga aggaggtgga tgagtctcgc agagaaatga ttcggatctt
+      661 gaaggaccta aaacagaaac atcctgagaa agacttggac cagcttgtgg aaatggcaaa
+      721 ctactatgcg ttatcacacc aacaaaagag ccgagctttt taccgaatac aggccacaag
+      781 aatgatgaca ggagcaggca atatcttaaa aaagcatgca gctgagcaag caaagaggag
+      841 cgtgagcttg cacgaagtgc agtctgatga acctgaagag tttgtgtcaa agatcttttt
+      901 tgacccttgc tcttaccagt gtctggaaaa ctgtggcgct gtcatcttaa ctgtggttcg
+      961 caaaggtggt gacatttcca agacggttta tgtggactac aaaaccgagg atggctctgc
+     1021 caatgcaggg gcagattatg agttcacaga aggtatgttg gtcttcaaag caggggaaac
+     1081 ccaaaaggag ttctcagttg gcgttatcga tgatgatatc ttt
+//
+

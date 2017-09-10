@@ -1,0 +1,56 @@
+LOCUS       PWU80582                1160 bp    DNA     linear   VRT 02-JUN-1997
+DEFINITION  Pleurodeles waltl Wnt-5a mRNA, complete cds.
+ACCESSION   U80582
+VERSION     U80582.1  GI:2149108
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1160)
+  AUTHORS   Caubit,X., Nicolas,S. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-1996) LGPD, IBDM, CNRS-UNR C 9943, Parc
+            Scientific de Luminy, Marseille 13288, France
+FEATURES             Location/Qualifiers
+     source          1..1160
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     CDS             61..1140
+                     /note="secreted signaling protein"
+                     /codon_start=1
+                     /product="Wnt-5a"
+                     /protein_id="AAB58495.1"
+                     /db_xref="GI:2149109"
+                     /translation="MASRYLTLAAALLASFLQVDIEANSWWSLAMNPVQIPEAYIVGA
+                     QPLCSQLAGLSPGQKKLCQLYQDHMQYIGEGAKTGIKECQYQFRHRRWNCSTVDNISV
+                     FGRVMQIGSRETAFTYSISAAGVVNAVSRACRAGELSTCGCSRARRPKDLQRDWLWGG
+                     CGDNLDYGYRFAKEFVDAREREKIHQKGSYESSRTLMNLHNNEAGRRTVYNLADVACK
+                     CHGVSGSCSLKTCWLQLADFRKVGDFLKEKYDSAASMKLNSRGKLVQVNSRFNPPTTN
+                     DLVYVDPSPDYCVRNESTGSMGTQGRLCNKTSEGMDGCELMCCGRGYDQFKTVQTERC
+                     HCKFHWCCYVKCKKCTEIVDQFVCK"
+ORIGIN      
+        1 ctcgagtggc ctggcgctgc agaccctgct ttctctaaag gttcctgccg ccgccccggg
+       61 atggcctcca ggtacctgac cctcgccgcc gcgctgctcg cctccttcct gcaggtggac
+      121 attgaagcca actcctggtg gtctctggcc atgaaccccg tgcagattcc agaggcctac
+      181 attgtggggg cacagcccct ctgcagtcag ctggcaggcc tatcccctgg gcagaagaag
+      241 ctgtgccagc tgtaccaaga ccacatgcag tacattgggg aaggggctaa gaccggcatc
+      301 aaggagtgcc agtaccagtt caggcacaga agatggaact gcagcacagt ggacaacatc
+      361 tctgtgtttg gcagagttat gcagataggt agcagggaga ctgccttcac ctactccatc
+      421 agtgcagcgg gggttgtgaa tgcagtaagc cgtgcctgcc gcgcggggga gctctccaca
+      481 tgtggctgca gcagggctcg tcgacccaag gacctgcaaa gggactggct ctgggggggc
+      541 tgcggggaca acctggacta tggctaccgc ttcgcaaagg aatttgttga tgccagagaa
+      601 agagaaaaaa tacaccagaa agggtcctac gagagttcac ggacattaat gaatcttcat
+      661 aacaatgaag ccggaagaag aacagtctat aatttggctg atgtggcttg caagtgccat
+      721 ggggtttctg gctcttgcag cctgaagacc tgctggctgc agttagctga cttccgcaaa
+      781 gtgggggact tcctgaagga aaagtacgac agtgctgcct ctatgaagct gaacagccgg
+      841 gggaagctgg tgcaggtgaa tagcaggttc aacccaccca ccacgaacga tctggtttat
+      901 gtggacccaa gccctgacta ctgtgtgcgt aacgagagca caggatcaat gggcacccag
+      961 ggccggcttt gcaacaagac ctcagagggc atggacggtt gcgaactaat gtgctgtgga
+     1021 cggggctatg accagtttaa gaccgtgcag actgagcgct gccactgcaa gttccactgg
+     1081 tgttgctatg tcaagtgcaa aaagtgcact gagattgtgg accagtttgt gtgtaagtag
+     1141 tgtttcgata caaaacccgg
+//
+

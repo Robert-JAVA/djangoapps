@@ -1,0 +1,87 @@
+LOCUS       KP180650                1620 bp    DNA     linear   VRT 17-DEC-2014
+DEFINITION  Lissotriton helveticus isolate TLR03_1500_4769_A toll-like receptor
+            3 (TLR3) gene, partial cds.
+ACCESSION   KP180650
+VERSION     KP180650.1  GI:732552207
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 1620)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Constraint and adaptation in newt Toll-like receptor genes
+  JOURNAL   Genome Biol Evol (2014) In press
+   PUBMED   25480684
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1620)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2014) Institute of Environmental Sciencs,
+            Jagiellonian University, Gronostajowa 7, Krakow, Malopolskie
+            30-387, Poland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GATK Read-Backed Phasing v. 2.6; Phase v.
+                                     2.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1620
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /isolate="TLR03_1500_4769_A"
+                     /db_xref="taxon:256425"
+     gene            <1..>1620
+                     /gene="TLR3"
+     mRNA            <1..>1620
+                     /gene="TLR3"
+                     /product="toll-like receptor 3"
+     CDS             <1..>1620
+                     /gene="TLR3"
+                     /codon_start=1
+                     /product="toll-like receptor 3"
+                     /protein_id="AIZ71448.1"
+                     /db_xref="GI:732552208"
+                     /translation="IGYLHTLTLENLQLSPDLTETLCSELSGTGIHTLMLRNSQLSKI
+                     SNTTLRALQKTNLTVLDLSKNGLSVIENDAFTALTHLEYLSLEENLIAHLTPRTFSGL
+                     SNVKFLNLRKSFGGGKHSKIEDFSFQPLIHLENLIMDDNIFSGITELMFIGLSSLKYL
+                     SLCRCSIGLKTVTNTTFSSLADSPLISLNLTGSGISELQSGAFSHLKHLKVLEVGRNN
+                     IDQELTGDEFKGLDNIEVIYISYNKRLILTSDSFRFVPSLKRLLMRKLAMTNLNLSPS
+                     PFYALQNLTVLDVSNNNIANMQEDIFDGLLNLEILNLEHNNLARLWKSANPGGPVLFL
+                     KGLSGLNIVRLSYNGLDEIPITAFKGLSQLKQLELQSNMLNLLRPSLFEDQVSLTMLN
+                     LQKNLVTTVEKDVFGPVFKTMENLYMGFNPFDCTCESISYFVNWLNSTKANVPRLSSD
+                     YVCNTPSKYYGISVMKFDNAPCKDSAPFRLLFIVTASAVFAILFVVMVIHFQGWRMQF
+                     YWNVSVNRILGFKEIDKRTEHFKYDGYIINAK"
+ORIGIN      
+        1 attggatatc ttcacaccct gactttggaa aatcttcagc tgagcccaga tcttaccgag
+       61 acactgtgct cagagttatc tggaacagga attcatacac tcatgctacg taacagccag
+      121 ctttcaaaaa tcagcaacac aactctcaga gcacttcaga aaaccaacct cacagtgtta
+      181 gatctttcta aaaatggctt gtctgtaatt gaaaatgacg cttttactgc tctaacacat
+      241 ttagagtatt tgagtttgga ggaaaatctc attgctcact taacaccacg gacattttct
+      301 ggcttatcaa atgtgaaatt tttaaattta agaaagtctt ttggaggcgg aaaacattcc
+      361 aaaattgaag acttctcatt tcagcccctg atacatttgg aaaatttaat tatggatgac
+      421 aatatttttt caggaattac agaacttatg ttcattgggt tgagcagcct gaaatatctg
+      481 agtttatgca gatgctccat aggcttaaaa actgtaacaa atacaacatt ttcatccctt
+      541 gctgactctc ctttgatttc actcaatctc acgggaagtg gaatttcaga gttacaaagt
+      601 ggagcttttt cccatttgaa gcatttgaag gttcttgaag tgggacgtaa caacattgac
+      661 caagagctaa caggcgacga gtttaaaggc cttgacaata ttgaagtgat ttatatatca
+      721 tacaacaaac gcctcatatt gacaagtgat tccttccgat ttgttccaag tcttaaacgg
+      781 ttgttgatga ggaaattggc aatgaccaat ttgaatctga gtccgtcccc attttatgct
+      841 ctacaaaatc tgacagtgtt agatgtaagc aacaacaaca tagccaacat gcaagaggat
+      901 atatttgatg gacttttgaa tctcgaaatc ttaaatttag agcataataa cttggcccgt
+      961 ctttggaaga gtgcaaatcc tggtggccca gttctgttct taaaaggtct ctctggcctt
+     1021 aacatagttc gcctaagcta caatgggctt gatgagatac ctataacggc tttcaagggc
+     1081 ttgtctcaat taaagcagtt ggaactgcaa tcaaatatgc tgaatttact cagaccatct
+     1141 ttatttgagg accaagtctc tcttacgatg ttaaacctcc agaagaatct tgtcacaact
+     1201 gtagaaaaag atgtttttgg gccagttttc aagaccatgg aaaacttgta catggggttc
+     1261 aacccatttg attgtacatg tgaaagcatc tcctatttcg ttaattggct gaatagcact
+     1321 aaagcaaatg ttcctcgact aagttcggat tatgtttgta acactccatc aaagtactat
+     1381 ggaatttcag taatgaagtt tgataatgct ccatgcaaag acagtgcccc atttagacta
+     1441 ctttttatag taactgccag cgccgtcttt gcaatcctat ttgtggtaat ggtcatccac
+     1501 tttcaaggat ggagaatgca attttactgg aatgtttctg ttaatagaat tcttggcttt
+     1561 aaggaaattg ataaaagaac agaacatttc aaatatgatg gctacattat taatgccaag
+//
+

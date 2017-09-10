@@ -1,0 +1,59 @@
+LOCUS       KM516727                 519 bp    DNA     linear   VRL 10-MAR-2015
+DEFINITION  Portuguese newt and toad ranavirus DNA-dependent DNA polymerase
+            gene, partial cds.
+ACCESSION   KM516727
+VERSION     KM516727.1  GI:734521637
+KEYWORDS    .
+SOURCE      Portuguese newt and toad ranavirus
+  ORGANISM  Portuguese newt and toad ranavirus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   Stohr,A.C., Lopez-Bueno,A., Blahak,S., Caeiro,M.F., Rosa,G.M.,
+            Alves de Matos,A.P., Martel,A., Alejo,A. and Marschang,R.E.
+  TITLE     Phylogeny and differentiation of reptilian and amphibian
+            ranaviruses detected in Europe
+  JOURNAL   PLoS ONE 10 (2), E0118633 (2015)
+   PUBMED   25706285
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   Stoehr,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Fachgebiet fuer Umwelt und Tierhygiene,
+            Universitaet Hohenheim, Garbenstr. 30, Stuttgart,
+            Baden-Wuerttemberg 70599, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Staden (Gap) v. v4.11.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Portuguese newt and toad ranavirus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin"
+                     /host="Alytes obstetricans (Common midwife toad)"
+                     /db_xref="taxon:1585659"
+                     /country="Portugal: Serra de Estrela"
+                     /collection_date="2013"
+                     /note="identical sequence found in host Lissotriton boscai
+                     (Boscas newt)"
+     CDS             <1..>519
+                     /codon_start=1
+                     /product="DNA-dependent DNA polymerase"
+                     /protein_id="AJA06026.1"
+                     /db_xref="GI:734521638"
+                     /translation="GSQEIRAYAVDSDSSTVCVRVTGFRPGFYVETASCQAVTRALQD
+                     FRDVRAEKRVRDHLYATRGSSVPFVWVTFRCWFDARKASDVLVKAGFACHQCRAQPVL
+                     QLTSLKDIPTCGWIRLGKGAVQVKREKYSRCKREFIVQWEQVERGPDVPQPEVTVVAL
+                     DLEVNSEVENAMP"
+ORIGIN      
+        1 ggatctcagg agattagggc ctacgccgta gactctgact cttctaccgt ctgcgtgagg
+       61 gtgacgggct tcaggcccgg cttttacgtc gagacggcgt catgtcaggc cgtgaccaga
+      121 gccctgcagg actttaggga tgtgagggcc gaaaagaggg tcagggacca cctctacgcc
+      181 accaggggtt cctcggtccc ctttgtctgg gtcaccttca ggtgctggtt cgacgcccga
+      241 aaggcctcag acgtcctggt caaggccggc ttcgcctgcc accagtgcag ggcccagccg
+      301 gtcctccagc tcaccagcct caaggacatt cccacttgcg ggtggatcag gctggggaag
+      361 ggagccgtgc aggtaaagag ggaaaagtac agcaggtgca aacgagagtt tatagtccag
+      421 tgggaacagg tcgagagggg gcccgacgtc cctcagcccg aggtcaccgt ggtggccctg
+      481 gacctggagg taaactctga ggtggaaaac gccatgccc
+//
+

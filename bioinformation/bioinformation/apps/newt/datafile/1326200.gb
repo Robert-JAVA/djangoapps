@@ -1,0 +1,55 @@
+LOCUS       TCU55949                 649 bp    DNA     linear   VRT 06-JUN-2002
+DEFINITION  Triturus carnifex cytochrome b (CYT-b) gene, mitochondrial gene
+            encoding mitochondrial protein, partial cds.
+ACCESSION   U55949
+VERSION     U55949.1  GI:1326200
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Mitochondrial DNA rates and biogeography in European newts (genus
+            Euproctus)
+  JOURNAL   Syst. Biol. 46 (1), 126-144 (1997)
+   PUBMED   11975350
+REFERENCE   2  (bases 1 to 649)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-1996) A. Caccone, Biology, Yale University, PO
+            Box 208104, New Haven, CT 06520-8104, USA
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8326"
+     gene            1..649
+                     /gene="CYT-b"
+     CDS             <1..>649
+                     /gene="CYT-b"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB00564.1"
+                     /db_xref="GI:1326201"
+                     /translation="KTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGVCLITQILTGL
+                     FLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSY
+                     MFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGDSLVQWIW
+                     GGFSVDKATLTRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDKITFH"
+ORIGIN      
+        1 aaaaactcac cctctactaa aaattattaa cggctcattt attgaccttc caacgccatc
+       61 taatatctca tactgatgga actttggctc tcttctagga gtatgcctaa ttacacaaat
+      121 cctcacaggc ctattcctag caatacacta tacagcagac acacaatcag cattttcatc
+      181 tgttgctcac atttgccgag atgtaaacta cggctggcta gtgcgaaaca tccacgctaa
+      241 cggggcctca ctatttttta tctgcatcta cttacacatc ggacgcggcc tgtactacgg
+      301 ttcatacata tttaaagaga cttgaaacat tggcgtaatc ttactattct tggttatagc
+      361 tactgctttc gttgggtatg tcctgccatg aggacaaata tcattttgag gcgccacagt
+      421 tattaccaac cttctttcag ctattccgta tttaggagac tctcttgtcc aatgaatctg
+      481 ggggggcttc tcagtagaca aggcaacact cacccgattt tttgcatttc acttcctgtt
+      541 cccattcttg atcgcaggga ctagcattgt tcacctgctc ttcttacacc aaaccgggtc
+      601 aaacaaccca acaggtatct cttctaacca ggacaaaatc acctttcac
+//
+

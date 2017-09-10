@@ -1,0 +1,97 @@
+LOCUS       AK389052                2728 bp    mRNA    linear   HTC 06-JUL-2012
+DEFINITION  Dugesia japonica cDNA, clone: Dj_aH_000_06914HH.full, full-insert
+            sequence, expressed in adult head.
+ACCESSION   AK389052
+VERSION     AK389052.1  GI:393794628
+KEYWORDS    HTC.
+SOURCE      Dugesia japonica
+  ORGANISM  Dugesia japonica
+            Eukaryota; Metazoa; Platyhelminthes; Rhabditophora; Seriata;
+            Tricladida; Continenticola; Geoplanoidea; Dugesiidae; Dugesia.
+REFERENCE   1
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Comparative transcriptome analysis between planarian Dugesia
+            japonica and other platyhelminth species
+  JOURNAL   BMC Genomics 13 (1), 289 (2012)
+   PUBMED   22747887
+  REMARK    DOI:10.1186/1471-2164-13-289
+            Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2728)
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2011) Contact:Kiyokazu Agata RIKEN Center for
+            Developmental Biology, Genome Resource and Analysis Unit; 2-2-3
+            Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan
+COMMENT     BrainEST
+            (RIKEN CDB Extensive EST Project for Brain Evolution and
+            Development)
+            <purpose>
+            The project of the RIKEN CDB Extensive EST Project for Brain
+            Evolution and Development (BrainEST) aims to develop a gene
+            database to represent brain evolution and development. Gene sets
+            involved in brain development and function are collected from
+            juveniles of sponges, brain, neural tube and related tissues of a
+            variety of organisms including planula larva of jellyfish,
+            Convolutidae, planarian, arrow worm, squid, lancelet, lamprey,
+            newt, turtle, crocodile, snake, and chicken, collaborating with
+            many laboratories. The goal of the BrainEST project is to provide a
+            fundamental database to investigate brain evolution and development
+            by combination with other environmental data.
+FEATURES             Location/Qualifiers
+     source          1..2728
+                     /organism="Dugesia japonica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6161"
+                     /clone="Dj_aH_000_06914HH.full"
+                     /tissue_type="head fragments"
+                     /clone_lib="planarian head cDNA library"
+                     /dev_stage="adult"
+ORIGIN      
+        1 tgtctgcagg cattcggcac gaggtaagga tctattattg ataaaagtgg taaagatatg
+       61 agtaaagatt tcaaattcaa atggtatttc cttaaatcga acaaagaaga atatccaatc
+      121 aatgaattag gagataaagt tatgattagt gatggagaaa tatctttcat aggaatgaag
+      181 aatccacagc aagtactcac tgctcaatgt tttgcaacaa atggaatcac aaatctaaca
+      241 tctccatcgt tccttgttga tgtaaataaa gcaaaacaaa cgccagatgg tttaacattt
+      301 tacgtaagtg gactcgatgg tgatttcaac ttctatccaa aagaaggttc aaatgataga
+      361 aaattgaaag gatctattat tgataaaagt ggtaaagata tgagtaaaga tttcaaattc
+      421 aaatggtatt tccttaaatc gaacaaagaa gaatatccaa tcgatgaatt aggagataaa
+      481 gttatgatta gtgatggaga aatatctttc atgggaatga agaatccaca gcaagtactc
+      541 actgctcaat gtttagcaac aaatggaatc acaaatctaa catctccatc gttccttgtt
+      601 gatgtaaata aagcaaaaca aacgccagat ggtttaacat tttacgtaag tggactcgat
+      661 ggtgatttca acttctatcc aaaagaaggt tcaaatgata gaaaattgaa aggatctatt
+      721 attgataaaa gtggtaaaga tatgagtaaa gatttcaaat tcaaatggta tttccttaaa
+      781 tcgaacaaag aagaatatcc aatcagatga attaggagat aaagttgtga ttagtgatgg
+      841 agaaatatct ttcatgggaa tgaagaatcc tgatcaagat ctcactgctc aatgtttagc
+      901 atacaaacgg aatcacaaat ctcacttctc catcgttcct tgttgatgta catcaagcta
+      961 tccatacgcc gcctggtcta actttctacg taacaatact cgatagtgat gactttccag
+     1021 agaaattatt ttgtagcgat gaaagaaaag gcacaactga aataggtatt agtagtatta
+     1081 atggtaaatc aattccaaag gattggatta aatctggaga taattcagta actgtaactt
+     1141 ttcctgtgga agaaaatgac atttctgaat atggaggttc atattactgt tatgctaaga
+     1201 ataaattcgg gtcagacaat acaacgataa cgataaaatc gtttgaacct ttaagtgtta
+     1261 ttgtcaattc cacaattaat aaaataactc aagaaaaaag tggaattcta aatacagtaa
+     1321 tccgcagtaa tagaaaatta cagttggatt gctatgcaac tggagaaccg aatgttgaaa
+     1381 ttcaatggta tattataact gaaaagtatg tcccagatgt cccagtacca tccgaaaaag
+     1441 tattgcttgt tcttggagaa aaatcccaat atgtgcttca aaaaataact gataaacact
+     1501 accgagtaac acgagaattt tactctaaag acaatattga ttctcttcaa tgtgaagcta
+     1561 aattgaaagg taaccctcaa ttcaagaata acaattcaag aagtcaaaga atttttcaag
+     1621 tggattttac cactgaacaa ggatcatctt tacgccagca agtttttatt gataaaccat
+     1681 tccgagtttc ttgtgaaatg aaagataaaa tgaaaaatgt tgttaaagtt acacaaattt
+     1741 tacttggaca tttaaaggat caaataatga gaacattcct ttatctaaaa taactggaca
+     1801 gaaaaataat gcaaatggag agttgctttt aactagtatt acattggaat acggttcgta
+     1861 tattcggggt cagtgcattg cttggtataa tgatacttat gatgtctaca gtgaagaatt
+     1921 taccttgaat ttacaagaat ctccaaagat ttttaacatt tatttcaatc aaaactttcc
+     1981 agaaaagaaa atgaatttgt atccaccata taatcttaca tacaattcga caaagaaaac
+     2041 tggtattcag tgtattgcaa atgttagttc acactctgta gcaaagatca cttggttaaa
+     2101 gtgtctggat gcggaatgta aaaggtttac tgaagattca ccaactccag ccttgttatt
+     2161 tccagaagat tcgacaagtt attttgatga gggaatttat aaatgtttgg taaaattaga
+     2221 ggttggcgga aatgaagttc ttaatcaaag tgtaatatta aatgtgttta gaacagctcc
+     2281 tcctagacca ttcactaagc gagaaatgaa tttcaccaga aggtaatatc acgtggtcat
+     2341 ttatacctcg aggtaaaaca gaagaacaaa aaattcctaa agaagctgaa ttacaaaata
+     2401 ttgtaaacag aacgtatcaa ttaaaaataa aaaagccttt gagagcagaa tatgatggaa
+     2461 tttatatttg caaaattgaa aatcaatatg gtattggtgg aatgaaatac gatgtaaaaa
+     2521 ttgaaaccaa atctaaaaaa ctgaaatttt aaaatatgaa ttactgaaac ctgattggat
+     2581 aattattttt agtaacttta tttagttgtt tattaggtat aaatattaat gttttatgaa
+     2641 cgattgttcc gttttattat ttttaataat tgaaatttga actatatata aaaaattatt
+     2701 tctgtgaaaa aaaaaaaaaa aaaaaaaa
+//
+

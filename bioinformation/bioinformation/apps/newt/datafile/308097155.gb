@@ -1,0 +1,47 @@
+LOCUS       HM367112                 223 bp    mRNA    linear   VRT 05-APR-2011
+DEFINITION  Notophthalmus viridescens heart and neural crest derivatives
+            expressed 2 (HAND2) mRNA, partial cds.
+ACCESSION   HM367112
+VERSION     HM367112.1  GI:308097155
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 223)
+  AUTHORS   Witman,N., Murtuza,B., Davis,B., Arner,A. and Morrison,J.I.
+  TITLE     Recapitulation of developmental cardiogenesis governs the
+            morphological and functional regeneration of adult newt hearts
+            following injury
+  JOURNAL   Dev. Biol. (2011) In press
+   PUBMED   21457708
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 223)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2010) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..223
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>223
+                     /gene="HAND2"
+     CDS             <1..>223
+                     /gene="HAND2"
+                     /codon_start=2
+                     /product="heart and neural crest derivatives expressed 2"
+                     /protein_id="ADO14132.1"
+                     /db_xref="GI:308097156"
+                     /translation="ADTKLSKIKTLRLATSYIAYLMDLLAKDEQGEAEAFRADLKRAD
+                     GKEDKRKKELNELLKSTVGSNDKKTKGRTG"
+ORIGIN      
+        1 ggccgacacc aagctctcca agatcaagac gctgcgcctg gccaccagct acatcgccta
+       61 cctcatggac ctgctggcca aggacgaaca gggcgaggcc gaggccttcc gcgccgacct
+      121 caagagggcc gacggcaagg aggacaagcg caagaaggag ctgaatgaac tcttgaaaag
+      181 caccgtcggc agcaacgaca agaaaaccaa gggcaggact ggc
+//
+

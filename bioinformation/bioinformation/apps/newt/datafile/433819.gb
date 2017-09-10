@@ -1,0 +1,79 @@
+LOCUS       X63532                  1287 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  N.viridescens mRNA for NvHBox-5 protein.
+ACCESSION   X63532 S47224
+VERSION     X63532.1  GI:433819
+KEYWORDS    NvHBox-5 protein.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Beauchemin,M. and Savard,P.
+  TITLE     Two distal-less related homeobox-containing genes expressed in
+            regeneration blastemas of the newt
+  JOURNAL   Dev. Biol. 154 (1), 55-65 (1992)
+   PUBMED   1358728
+REFERENCE   2  (bases 1 to 1287)
+  AUTHORS   Beauchemin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-1991) M. Beauchemin, Centre de Recherche du
+            Centre Hospitalier de l'Univ. Laval, Dept. Ontogenese et Genetique
+            Moleculaire, RC-9300 / 2705 Boul Laurier, Sainte-Foy, Quebec G1V
+            4G2, CANADA
+COMMENT     On Jun 23, 2005 this sequence version replaced gi:258950.
+            See also x63531.
+FEATURES             Location/Qualifiers
+     source          1..1287
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="p005"
+                     /tissue_type="skin"
+                     /clone_lib="lambda-ZAP NT"
+                     /dev_stage="adult"
+     CDS             <1..777
+                     /codon_start=1
+                     /product="NvHBox-5 protein"
+                     /protein_id="CAA45095.1"
+                     /db_xref="GI:433820"
+                     /db_xref="GOA:P53771"
+                     /db_xref="InterPro:IPR000047"
+                     /db_xref="InterPro:IPR001356"
+                     /db_xref="InterPro:IPR009057"
+                     /db_xref="InterPro:IPR012287"
+                     /db_xref="InterPro:IPR017970"
+                     /db_xref="InterPro:IPR020479"
+                     /db_xref="UniProtKB/Swiss-Prot:P53771"
+                     /translation="APHGACQTSGTLRSMSGSMAESLLGSDHSKAAFLEFGTGTHSPQ
+                     GHYPLHSFHPPTEGPYGGSGYGGRTLGYPYSPHGHPQHHASPYLPYHQGQHGGSLGHG
+                     GSRLDEDTELEKNTVIENGEIRINGKGKKIRKPRTIYSSVQLQALNQRFQQTQYLALP
+                     ERAELAAHLGLTQTQVKIWFQNKRSKYKKIMKQGSSIQEGEHLHSSASMSPCSPNIPP
+                     HWDSPMGTKGGPIGHGSYINNYGPWYQPHHQDSMPRPQMM"
+     misc_feature    394..576
+                     /note="Homeobox sequence"
+ORIGIN      
+        1 gcgccccatg gagcctgtca gacgtccggg acactgcgca gcatgagtgg ctccatggcc
+       61 gagagcctac tgggctcgga ccactccaag gccgcctttc tggagttcgg aacgggcacc
+      121 cactcgccgc agggccacta ccccctgcac agcttccacc cccctaccga ggggccctac
+      181 gggggctccg gctacggggg ccggaccctg ggttacccct atagtccgca cggacacccg
+      241 cagcaccatg cgagccctta cctgccctat caccagggcc agcatggagg gagcctaggg
+      301 cacgggggca gcaggctgga cgaggataca gagcttgaga aaaatactgt tatagaaaat
+      361 ggggagatcc gcatcaatgg taaaggcaag aagatccgca aaccccgcac catctactcc
+      421 agcgtgcagc tgcaggccct gaaccagcgc ttccagcaga cacagtacct ggccctgcca
+      481 gagagggcgg agttggcagc gcaccttggc ctcactcaga cccaggtcaa gatttggttc
+      541 cagaacaaaa ggtcgaagta caagaagata atgaagcagg gttcgagtat ccaggaaggg
+      601 gaacacctcc actcctcggc ctccatgtca ccctgctctc ccaacatccc ccctcactgg
+      661 gacagcccca tgggcacaaa ggggggtcct attggacatg gcagctacat taacaattac
+      721 ggaccctggt accaaccaca ccaccaagac agcatgccaa ggccccaaat gatgtgatgg
+      781 caatgagagt taaggattct gccaggcaca ccggagagct tggtgaggga ctcgccagca
+      841 tattcacgca cacacttttc ctgcccaaga gctgccacga gttcctggac cagagaacgc
+      901 agggacagga aaatattttt gcacagcata caagatgaaa agaccaaggg ctgggactgc
+      961 ctccacttga aagaaacatg cttcaataaa gaaccaggaa ggactttcct tgaatctctt
+     1021 aaggctgttt ttttcaaccc atcctgctat agatttcaca agagcctagc actgagggtg
+     1081 gggggaggca aggtatttct tgtcaatatt tggcccctct tccaggtacc ggagtcatag
+     1141 aaacgttgat tcctggtgga taaggggagc ttgttgtcat gtacctgcag aaagtccttc
+     1201 tgggaggttg gaccttcaca gagcctgttg caggccctca gtacagccct catccgccct
+     1261 cctgtttaca gagagttcaa aagctgc
+//
+

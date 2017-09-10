@@ -1,0 +1,30 @@
+LOCUS       NVIRGAA                  235 bp    DNA     linear   VRT 28-APR-1993
+DEFINITION  Newt (Notophthalmus viridescens) 5S rRNA gene, complete cds.
+ACCESSION   M13611
+VERSION     M13611.1  GI:213408
+KEYWORDS    5S ribosomal RNA; ribosomal RNA gene.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 235)
+  AUTHORS   Kay,B.K. and Gall,J.G.
+  TITLE     5S ribosomal RNA genes of the newt Notophthalmus viridescens
+  JOURNAL   Nucleic Acids Res. 9 (23), 6457-6459 (1981)
+   PUBMED   6275363
+COMMENT     Original source text: Newt DNA, clone p5S10.
+FEATURES             Location/Qualifiers
+     source          1..235
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     rRNA            32..151
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 agctaattct ccaaacgtca atgctgggtt tgcttacggc cataccaccc tgaaagcacc
+       61 tgatctcgtc tgatctcaga agttaagcag ggtcgggcct ggttagtacc tggatgggag
+      121 accgccttgg aataccaggt gctgtaggct tttgaacttt ttattttttc ctttaagtga
+      181 agtggattgc atgtctcttt gctatggaca gcacagaagt cgagtgaaaa aagct
+//
+

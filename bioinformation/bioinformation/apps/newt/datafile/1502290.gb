@@ -1,0 +1,52 @@
+LOCUS       D84517                   312 bp    mRNA    linear   VRT 27-DEC-2006
+DEFINITION  Cynops pyrrhogaster mRNA for activin beta-B subunit, partial cds.
+ACCESSION   D84517
+VERSION     D84517.1  GI:1502290
+KEYWORDS    activin beta-B subunit.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yamamoto,T., Nakayama,Y. and Abe,S.
+  TITLE     Expression of activin beta subunit genes in Sertoli cells of newt
+            testes
+  JOURNAL   Biochem. Biophys. Res. Commun. 224 (2), 451-456 (1996)
+   PUBMED   8702409
+REFERENCE   2  (bases 1 to 312)
+  AUTHORS   Yamamoto,T.
+  TITLE     Newt mRNA for activin beta-B subunit, partial cds
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 312)
+  AUTHORS   Yamamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-1996) Takashi Yamamoto, Faculty of
+            Science,Kumamoto University, Department of Biological Science;
+            Kurokami 2-39-1, Kumamoto, Kumamoto 860-8555, Japan
+            (E-mail:tybig@gpo.kumamoto-u.ac.jp, Tel:81-96-342-3430(ex.3430),
+            Fax:81-96-342-3431)
+FEATURES             Location/Qualifiers
+     source          1..312
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+                     /note="Common name: Newt"
+     CDS             <1..>312
+                     /codon_start=1
+                     /product="activin beta-B subunit"
+                     /protein_id="BAA12694.1"
+                     /db_xref="GI:1502291"
+                     /translation="GRTNLCCRQQFYIDFRLIGWNDWIIAPAGYFGNYCEGSCPAYLA
+                     GVPGSASSFHTAVVNQYRMRGLNPGTVNSCCIPTKLSTMSMLYFDDEYNIVKRDVPNM
+                     IV"
+ORIGIN      
+        1 gggcgcacca acctctgctg caggcagcag ttctacattg acttcagact cattggctgg
+       61 aacgactgga ttatagcacc ggcaggctac tttgggaact actgcgaggg gagctgcccg
+      121 gcctacttgg ctggagtccc aggctcagcc tcatcttttc acactgcagt agtaaatcag
+      181 tacagaatgc gcgggttgaa cccaggaaca gtgaactcat gctgcattcc caccaagctc
+      241 agcacaatgt ccatgctgta ctttgatgat gaatataaca ttgtgaaaag ggatgttccc
+      301 aatatgattg tg
+//
+

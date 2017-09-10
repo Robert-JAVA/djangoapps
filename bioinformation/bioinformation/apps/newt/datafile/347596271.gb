@@ -1,0 +1,59 @@
+LOCUS       JN700857                 600 bp    DNA     linear   VRT 24-FEB-2012
+DEFINITION  Pachytriton labiatus voucher KIZ05283 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JN700857
+VERSION     JN700857.1  GI:347596271
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Universal COI primers for DNA barcoding amphibians
+  JOURNAL   Mol Ecol Resour 12 (2), 247-258 (2012)
+   PUBMED   22145866
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2011) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ05283"
+                     /db_xref="taxon:156859"
+     gene            <1..>600
+                     /gene="COI"
+                     /gene_synonym="COXI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /gene_synonym="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AEP14112.1"
+                     /db_xref="GI:347596272"
+                     /translation="GMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFMV
+                     MPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTV
+                     YPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVW
+                     SVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN      
+        1 ggcatagtgg gcacagccct aagccttcta atccgggccg aactaagtca accaggggcc
+       61 ctccttggag atgatcaaat ctacaacgtc attgtcactg ctcatgcttt tgtaataatc
+      121 ttcttcatag taatgcccgt gataattggc gggtttggaa attgactagt accccttatg
+      181 atcggggccc ccgatatggc attcccccgg atgaacaaca taagcttctg actcctaccc
+      241 ccctcatttc ttttattatt ggcctcctca ggcgtggagg caggagcagg gaccggatga
+      301 accgtctatc cccccttggc gggtaatctc gcccatgcgg gcgcctctgt tgatctaaca
+      361 atcttttcac tgcacctagc cggggtctcc tccattctag gggcaatcaa ttttattaca
+      421 acctcaatta atataaaacc cccttccata acacaatatc agacacccct atttgtatgg
+      481 tcggtgttga ttacggccat tcttctactt ctttctctcc cagtacttgc agctggtatt
+      541 acaatgctat taaccgaccg aaaccttaat actacttttt ttgacccagc tggaggagga
+//
+

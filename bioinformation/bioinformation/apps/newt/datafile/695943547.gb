@@ -1,0 +1,53 @@
+LOCUS       KM463929                 677 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Pleurodeles waltl sodefrin precursor-like factor beta (Cloa_08)
+            pseudogene mRNA, complete sequence.
+ACCESSION   KM463929
+VERSION     KM463929.1  GI:695943547
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 677)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 677)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..677
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            1..677
+                     /gene="Cloa_08"
+                     /note="sodefrin precursor-like factor beta; PlWa_Cloa__08"
+                     /pseudogene="unknown"
+ORIGIN      
+        1 atgagggcca cccttgcagc tgttgtcatg ttccaggcac tgataacagg agttttctac
+       61 agctgagggc cagttgatgg gtgtaaggat ttacaaaaca caactgctcc tagtgcacca
+      121 kagattgcct actttgtgag cattgtttca atgtccatga cagtagttgc tcaggtatct
+      181 tcaagcaatg ccctcccggt gtcactcgct gtgtcaaagg cctagagaac aacacagtgg
+      241 ggagcaatac tgttctgact gcgttcaagg gctgtctgaa tccctcccaa aacatagcct
+      301 gtgatagaga gttgtcaatt aaaaactcaa tggtctcctt ccagatcagc aggacatgct
+      361 gcaactctga cttctgcaat ggaggggttg tgaaagtgcc tgctgtcaaa gagacgctta
+      421 atggatataa atgtgaagag tgcttcaatg accaatccac tgatgaatgc acagtgactg
+      481 ggaaagttca atgcatcggg aaacagacca cctgtagcag cttctatgga actgttgcca
+      541 gacctggtga acccgggaga cagtatagcg ggaaagcatg cactactcca gatttctgca
+      601 aatttggact ttccaacttg cctggaacac aagccagcag ttatggttta ctgtgttttc
+      661 ctgccgagac gctttga
+//
+

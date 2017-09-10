@@ -1,0 +1,73 @@
+LOCUS       AB710468                1344 bp    mRNA    linear   VRT 01-AUG-2013
+DEFINITION  Cynops pyrrhogaster PgC1 mRNA for pepsinogen C, complete cds.
+ACCESSION   AB710468
+VERSION     AB710468.1  GI:407726058
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Inokuchi,T., Ikuzawa,M., Yamazaki,S., Watanabe,Y., Shiota,K.,
+            Katoh,T. and Kobayashi,K.
+  TITLE     Molecular cloning of pepsinogens A and C from adult newt (Cynops
+            pyrrhogaster) stomach
+  JOURNAL   Comp. Biochem. Physiol. B, Biochem. Mol. Biol. 165 (4), 226-235
+            (2013)
+   PUBMED   23701991
+  REMARK    DOI:10.1016/j.cbpb.2013.05.003
+REFERENCE   2  (bases 1 to 1344)
+  AUTHORS   Inokuchi,T., Ikuzawa,M., Yamazaki,S., Watanabe,Y., Shiota,K.,
+            Katoh,T. and Kobayashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-APR-2012) Contact:Tomofumi Inokuchi Utsunomiya
+            University, Faculty of Education; 350, Mine, Tochigi 321-8505,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..1344
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="stomach"
+     gene            1..1344
+                     /gene="PgC1"
+     CDS             36..1193
+                     /gene="PgC1"
+                     /codon_start=1
+                     /product="pepsinogen C"
+                     /protein_id="BAM46127.1"
+                     /db_xref="GI:407726059"
+                     /translation="MKFLIVPLLCLQLCQGLVRVPLHKFKSMRQVMIEHGLKVPWVDP
+                     GTKYRLNNFAVASEPLTNYMDMSYYGEISIGTPPQNFLVLFDTGSSNLWVASTYCSSS
+                     ACTNHPLFNPSQSSTYSTENQQFSIQYGTGSLTGILGYDTVSIQGLSITQQEFALSIN
+                     EPGSNFVYAQFDGILGLAYPSIAADGATTVMEGMMNQGLLSQNIFGFYMSEEGTQPGG
+                     ELIFGGVDSNYYTGEITWTPVTQQMYWQIGIQGFAVNGQETGWCSQGCQGIVDTGTSL
+                     LTAPGQYMAALMQDIGATLDSSGQYVVTCSSVTSLPTLSFTIGGTSLPLPPSAYIVQG
+                     SAACTVGIMATYLPSQDGQPLWILGDVFLRQYYSIYDVTNNRVGFATSLYA"
+ORIGIN      
+        1 gccctctgct ggagttgacc cataccgtgg gcaccatgaa gttcctgata gttcctctcc
+       61 tctgcctcca gctctgccag gggttggtga gggtcccgct tcataaattc aagtcaatgc
+      121 ggcaagtgat gattgaacat ggactgaaag ttccctgggt ggatccaggg accaaataca
+      181 gattgaataa ctttgcggtg gcctcagaac ccctcactaa ctatatggat atgtcctact
+      241 atggtgaaat cagcatcggc acaccaccac agaacttcct ggtcctcttt gacaccggct
+      301 cctccaacct ctgggtggcc tccacctact gctcgagctc cgcctgcacc aaccacccac
+      361 ttttcaatcc cagccaatcg tccacctact ccaccgaaaa ccagcagttc tccatccagt
+      421 acgggactgg cagcctcacc ggcatcctgg gctacgacac tgtgtcgatc cagggcctct
+      481 cgatcacaca gcaagaattc gccctgagca ttaacgaacc tggttccaac tttgtctatg
+      541 cccagtttga tggtatcttg ggcttggctt acccatccat cgcagctgat ggtgccacca
+      601 ctgtcatgga aggcatgatg aaccaagggt tgctttccca gaacatcttc ggcttctaca
+      661 tgagtgaaga gggcacgcag cccggaggag agctgatctt tggtggagtg gattccaact
+      721 actacactgg tgagatcaca tggacaccag tcacccagca gatgtactgg cagatcggca
+      781 ttcagggttt tgcagtcaat gggcaagaga ctggctggtg tagccaggga tgccagggta
+      841 ttgttgacac cggcacgtcc cttctaactg cacccggcca atacatggca gcactgatgc
+      901 aggacattgg agcaactctg gattccagtg gccagtatgt agtgacctgc agtagtgtta
+      961 caagcctgcc taccctgagc ttcaccatcg gaggcacttc cttgccgctg ccaccctctg
+     1021 catacatcgt tcagggcagc gccgcctgca cagttggcat catggccacc taccttccct
+     1081 cgcaggatgg gcagcccctc tggatcctgg gtgacgtctt cctgcggcag tactactcca
+     1141 tctatgacgt caccaacaac agagtgggct ttgccacttc cttgtatgcg tagcagaatg
+     1201 tttggactct tatctgtgta gtcttatttt ctgggcgtgt ttcacatttt tgactccata
+     1261 aagtcttgtt ttctgcaaga aatgtaatgc ggtaatatta aacattctag aagtaaaaaa
+     1321 aaaaaaaaaa aaaaaaaaaa aaaa
+//
+

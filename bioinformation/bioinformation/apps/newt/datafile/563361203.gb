@@ -1,0 +1,50 @@
+LOCUS       KC697787                 705 bp    DNA     linear   VRT 05-DEC-2014
+DEFINITION  Triturus cristatus haplotype Tcri440PDGb platelet derived growth
+            factor receptor alpha (PDGFRa) gene, intron 11.
+ACCESSION   KC697787
+VERSION     KC697787.1  GI:563361203
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Babik,W. and Arntzen,J.W.
+  TITLE     Postglacial recolonization of Europe by the crested newt Triturus
+            cristatus from an extra-Mediterranean glacial refugium: the
+            Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Babik,W. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2013) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri440PDGb"
+     gene            <1..>705
+                     /gene="PDGFRa"
+                     /note="platelet derived growth factor receptor alpha"
+     intron          <1..>705
+                     /gene="PDGFRa"
+                     /number=11
+ORIGIN      
+        1 ggaatttcca cgggatggac tagtgcttgg taagtagata tttggtgcta attttggagc
+       61 aaatgctaag ggggttgcca ttgactatca tgctttgtaa acagttagtg ctctgctacc
+      121 tttttggtag gtatgagcca tagaaatacc atatacacac atacatacat aaaataacac
+      181 taccagaaaa aataatcagt tttatagatt gtgcagaatt atcaataacc acatccttca
+      241 aacagcaatg cattaagttc caaccaggct ctttctccga gtggcctcta aatctctaag
+      301 cccacttaag gctttctgat accatcccag gcatgctgct ttctgaagca gcgtttgctg
+      361 cacatgatgt tgtggattac atgctgtgcc ctctcacgcc atctaatgtt ctgctttgaa
+      421 tagttcaact tggtctactt acaagccttt gttttggttc tattcccttc cctaccattt
+      481 atagtcacac agtttgtcaa gacattcaag ttcggtgcat tatacttgag tgatccctgt
+      541 cttcacttta catcctcttg tctacctaaa gggggattga tcgtatttgg aactgtacac
+      601 agtattcatt attacagcaa gtcatgtgga aaaaaactaa acaaatgata ctatctccac
+      661 tacaggaaga atcctcggct ctggcgcatt cggcaaagtg gtcga
+//
+

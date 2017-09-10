@@ -1,0 +1,54 @@
+LOCUS       AF380362                 593 bp    DNA     linear   VRT 23-JAN-2002
+DEFINITION  Notophthalmus perstriatus cytochrome b (cytb) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF380362
+VERSION     AF380362.1  GI:18265555
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus perstriatus (striped newt)
+  ORGANISM  Notophthalmus perstriatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Johnson,S.A.
+  TITLE     Conservation genetics and phylogeography of the striped newt
+            (Notophthalmus perstriatus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 593)
+  AUTHORS   Johnson,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2001) Wildlife Ecology and Conservation,
+            University of Florida, PO Box 110430, Gainesville, FL 32611, USA
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /organism="Notophthalmus perstriatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:168684"
+                     /haplotype="NP7F"
+     gene            complement(<1..>593)
+                     /gene="cytb"
+     CDS             complement(<1..>593)
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAL67199.1"
+                     /db_xref="GI:18265556"
+                     /translation="FGSLLGVCLITQIITGLFLAMHYTADTQSAFSSVTHICRDVNYG
+                     WLVRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVILLLLVMATAFVGYVLP
+                     WGQMSFWGATVITNLLSAIPYMGDALVQWIWGGFSVDKATLTRFFAFHFLFPFMIAGA
+                     SIVHLLFLHETGSNNPTGMTSNPDKIAFHPYFSYKDI"
+ORIGIN      
+        1 aaaatgtctt tatatgagaa gtatgggtga aatgcaattt tgtctgggtt tgatgttatt
+       61 cctgttggat tgtttgatcc ggtttcatga agaaaaagca ggtggacgat gcttgctcct
+      121 gcaattataa aggggaataa gaagtgaaat gcgaagaatc gggttaaagt agctttgtct
+      181 actgaaaatc cgccccaaat tcattgtact agtgcatctc ctatataggg gattgctgat
+      241 agtaaatttg tgataactgt agcgcctcaa aatgatattt ggcctcatgg gaggacatat
+      301 cctacaaaag cggtggccat aactaggagt agcagaatca ctccgatatt tcaggtctct
+      361 ttaaatatat aggatccgta gtataagcct cgtccgatgt gtaaataaat acagatgaag
+      421 aaaaatgagg ctccgttggc gtggatgttt cgtaccagtc agccataatt cacgtctcgg
+      481 caaatatggg ttactgatga gaatgccgat tgtgtatctg ctgtatagtg tattgcaagg
+      541 aatagtcctg taataatttg tgtaattagg caaactccaa ggagagagcc aaa
+//
+

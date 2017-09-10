@@ -1,0 +1,56 @@
+LOCUS       JN379833                 598 bp    DNA     linear   VRT 03-FEB-2013
+DEFINITION  Lissotriton helveticus haplotype Hap20 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JN379833
+VERSION     JN379833.1  GI:342358161
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 598)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Species-dependent biogeographic patterns of amphibians at regional
+            scale
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 598)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2011) Biologia Funcional, Universidad de Oviedo,
+            C/ Julian Claveria S/N, Oviedo, Asturias 33006, Spain
+FEATURES             Location/Qualifiers
+     source          1..598
+                     /organism="Lissotriton helveticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Lh 20"
+                     /db_xref="taxon:256425"
+                     /haplotype="Hap20"
+                     /country="Spain: Asturias"
+     gene            <1..>598
+                     /gene="COI"
+     CDS             <1..>598
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AEL29225.1"
+                     /db_xref="GI:342358162"
+                     /translation="GAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMI
+                     FFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGT
+                     GWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTP
+                     LFVWSVLITAILLLLSLPVLAAGIAMLLTDRNLNTTFFD"
+ORIGIN      
+        1 cggtgcttga gcaggcatag ttggaacagc actgagtcta ctaattcgag ctgaattgag
+       61 ccagccaggg gccctccttg gtgacgatca aatttataat gttattgtga cagctcatgc
+      121 ctttgttata atcttcttca tagtaatgcc cgtaataatc ggggggtttg ggaattggct
+      181 tgttcctctt atgattgggg cccctgatat ggcattccct cgaataaata acataagctt
+      241 ctgactcctt cccccctcgt tcttgctctt attagcctcc tcaggtgttg aagcgggagc
+      301 agggacaggg tgaactgtct acccgcccct ggcaggaaac ctagcccatg cgggtgcctc
+      361 tgttgactta acaatctttt ccctacatct tgcaggagtt tcctccattc tgggggcaat
+      421 taactttatt actacatcaa ttaacataaa acccccctcg ataacgcaat atcaaacacc
+      481 tttatttgtg tggtctgtat taattactgc tattcttctt cttttatccc tccctgtcct
+      541 tgcagctggt attgcgatac tgctcaccga tcgaaactta aatactacat tttttgac
+//
+

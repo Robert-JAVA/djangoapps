@@ -1,0 +1,51 @@
+LOCUS       AY336689                 577 bp    DNA     linear   VRT 28-FEB-2004
+DEFINITION  Tylototriton verrucosus ATPase subunit 6 gene, partial cds;
+            mitochondrial.
+ACCESSION   AY336689
+VERSION     AY336689.1  GI:37911242
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 577)
+  AUTHORS   Veith,M., Mayer,C., Samraoui,B., Donaire Barroso,D. and Bogaerts,S.
+  TITLE     From Europe to Africa and vice versa: evidence for multiple
+            intercontinental dispersal in ribbed salamanders (Genus
+            Pleurodeles)
+  JOURNAL   J. Biogeogr. 31 (1), 159-171 (2004)
+REFERENCE   2  (bases 1 to 577)
+  AUTHORS   Veith,M., Mayer,C., Samraoui,B., Donaire Barroso,D. and Bogaerts,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2003) Ecology, University Mainz, Institute of
+            Zoology, Saarstrasse 21, Mainz 55099, Germany
+FEATURES             Location/Qualifiers
+     source          1..577
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164973"
+     CDS             75..>577
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase subunit 6"
+                     /protein_id="AAR04928.1"
+                     /db_xref="GI:37911243"
+                     /translation="MNLSFFDQFLSPTLFGLPLMGLAMLLPWLLFPKPTNRWLNNRLT
+                     TTQTWVFGVFVKQLMLPMNTKGHSWSLMLMSLMMFLITMNLLGLLPYTFTPTTQLLLT
+                     LGLAIHLWLATVLMGVRNQPTEALGHMLPEGPPTPLIPILIIIETISLFIRPLALGVR
+                     LTANLTAG"
+ORIGIN      
+        1 aacaacttta aataccaaaa taacccaact ctacaaaaca cacaaaaaga aaaaatacaa
+       61 ccctgaaact gaccatgaac ctaagctttt ttgatcaatt cctaagccca accctctttg
+      121 gattaccact aataggcctg gccatattgc ttccgtgact tctattccca aaaccaacaa
+      181 accgctgact aaacaaccga cttacaacca cacagacctg agtatttggc gtctttgtca
+      241 agcaacttat actccccata aatacaaaag gacacagctg atctcttata ttaatatcac
+      301 taataatatt cctaattacc ataaatctac taggcctcct accgtataca ttcaccccaa
+      361 caacacaact cttactaacc ctaggccttg ccatccactt gtgactggcc acagtactta
+      421 tgggggtacg gaaccaacca acggaagccc taggacatat gctaccagaa ggaccaccaa
+      481 ccccccttat ccccatcctt atcatcattg aaacaattag cctattcatt cgaccattgg
+      541 cccttggagt acgactaaca gccaacctaa cagcagg
+//
+

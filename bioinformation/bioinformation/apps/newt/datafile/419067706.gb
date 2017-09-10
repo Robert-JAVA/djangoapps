@@ -1,0 +1,76 @@
+LOCUS       KC147812                1035 bp    DNA     linear   VRT 22-MAR-2013
+DEFINITION  Tylototriton wenxianensis voucher HNNU10042024 NADH dehydrogenase
+            subunit 2 (ND2) gene, partial cds; mitochondrial.
+ACCESSION   KC147812
+VERSION     KC147812.1  GI:419067706
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton wenxianensis (Wenxian knobby newt)
+  ORGANISM  Tylototriton wenxianensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 1035)
+  AUTHORS   Nishikawa,K., Matsui,M. and Nguyen,T.T.
+  TITLE     A New Species of Tylototriton from Northern Vietnam (Amphibia:
+            Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 32 (1), 34-49 (2013)
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Wang,B. and Jiang,J.
+  TITLE     Molecular phylogenetics and historical biogeography of the Asian
+            primitive newts Tylototriton (Amphibia: Caudata: Salamandridae):
+            effects of the stepwise uplifts of the Tibetan plateau on
+            lentic-breeding Amphibia
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1035)
+  AUTHORS   Wang,B. and Jiang,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2012) Chengdu Institute of Biology, Chinese
+            Academy of Sciences, Chengdu, Sichuan 610041, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Bioedit v. 7.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Tylototriton wenxianensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HNNU10042024"
+                     /db_xref="taxon:385678"
+     gene            1..>1035
+                     /gene="ND2"
+     CDS             1..>1035
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AFX68451.1"
+                     /db_xref="GI:419067707"
+                     /translation="MNPYALSILLSSLAVGTITTLSSSHWFLAWLGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTITNAWATGEWTIITMNDNTSTLILTIAL
+                     AIKLGIAPFHLWLPDVMQGLNLATCLILTTWQKLAPMSLMIVTSHQLNTNLLITMAML
+                     STVIGGWGGLNQTQMRKMMAYSSIAHLGWMTLILSFSPNLTTLNLMIYLMLTSSMFLM
+                     MMTLASTNMNKLSTSWLKTPLLASSMMVTLMALGGLPPTSSFLPKWLILQEMTKQHLG
+                     TVSTLMAMSALLSLFFYLRLSYAISLTTAPNTSNSNMTWRVAHNQMQVLPTMITLTTM
+                     MLPITPTLLAT"
+ORIGIN      
+        1 atgaacccat atgcactctc aattctacta tcaagcctag cagtaggaac aattacaact
+       61 ctttcaagct cccactgatt cctcgcatga ctaggcttag aaattaatac attagcaatc
+      121 atcccactga taacaaaaat acaccaccca cgagcaacag aatcggccac aaaatacttc
+      181 ctgacgcaag ccaccgcatc agccctaatc ttattttcta caatcacaaa cgcatgagct
+      241 acaggagaat gaacaattat taccataaat gacaacacat caacacttat cctaacaatc
+      301 gctctagcca ttaaactggg aatcgcccca tttcacctgt ggttaccaga cgtcatacaa
+      361 ggactaaacc tagcaacatg tttaatcctt acaacatgac aaaaactagc cccaatatca
+      421 ctaatgattg taactagcca tcaattaaac acaaacctac taatcacaat agccatacta
+      481 tcaacagtaa ttggggggtg ggggggcctt aaccaaacac aaatacgaaa aataatagca
+      541 tattcatcta ttgcccacct cgggtgaata acacttatcc tatctttctc cccaaactta
+      601 acaaccctaa acctaataat ttacctaata ctaacctcat caatattttt gataataata
+      661 accttagcct caacaaatat aaacaaactt tcaacatctt gactgaaaac accactacta
+      721 gcatcatcaa taatagttac actcatagcc ctgggaggcc tacccccaac atcaagcttc
+      781 ttaccaaagt gactaatcct acaagaaata actaaacaac acctaggaac cgtatctaca
+      841 ctaatagcta tatctgccct actaagccta ttcttctacc tacgactatc atatgcaatc
+      901 tcactaacca ctgcgccaaa cacctcaaac tccaacataa cctgacgagt agcccacaac
+      961 caaatacagg tcctcccaac aataattaca ctaactacaa taatactacc aatcacacca
+     1021 acactactag caaca
+//
+

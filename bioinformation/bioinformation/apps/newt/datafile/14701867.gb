@@ -1,0 +1,40 @@
+LOCUS       AF388949                 321 bp    DNA     linear   VRT 24-JAN-2002
+DEFINITION  Taricha granulosa microsatellite Tgr01 sequence.
+ACCESSION   AF388949
+VERSION     AF388949.1  GI:14701867
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 321)
+  AUTHORS   Jones,A.G., Blouin,M.S. and Arnold,S.J.
+  TITLE     Genetic variation in two populations of the rough-skinned newt
+            (Taricha granulosa) assessed using novel tetranucleotide
+            microsatellite loci
+  JOURNAL   Mol. Ecol. Notes 1 (4), 293-296 (2001)
+REFERENCE   2  (bases 1 to 321)
+  AUTHORS   Jones,A.G., Blouin,M.S. and Arnold,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2001) Department of Zoology, Oregon State
+            University, 3029 Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /organism="Taricha granulosa"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8321"
+                     /clone="Tgr01"
+     repeat_region   1..321
+                     /note="microsatellite Tgr01"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gata"
+ORIGIN      
+        1 acaaataggt gggtggacgg gacatctgct gattgtcagt gcatgcctat tactgcccac
+       61 atctaaataa ggtgaagcaa ttttgcatat ctatctatct atctatctat ctatctatct
+      121 atctatctat ctatctatct gcctgcctgc ctgcctgtcc ttttcaccta aaaacacagt
+      181 taaatggtta ggagcactaa gcataacttg tgcaagaccc atgaaatcca caactcgcac
+      241 accaaatgcc atcctcatga cttcatcttt tatgtaatag atgcaattac aaatgtttta
+      301 aatcatctta tagatgagag t
+//
+

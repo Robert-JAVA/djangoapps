@@ -1,0 +1,33 @@
+LOCUS       X14157                   197 bp    DNA     linear   VRT 26-FEB-1992
+DEFINITION  Triturus vulgaris MspI highly repeated centromeric DNA, clone
+            pTvm6.
+ACCESSION   X14157
+VERSION     X14157.1  GI:64438
+KEYWORDS    centromeric repeat; MspI family; satellite DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 197)
+  AUTHORS   Cremisi,F., Vignali,R., Batistoni,R. and Barsacchi,G.
+  TITLE     Heterochromatic DNA in Triturus (Amphibia, Urodela) II. A
+            centromeric satellite DNA
+  JOURNAL   Chromosoma 97 (3), 204-211 (1988)
+   PUBMED   3219917
+FEATURES             Location/Qualifiers
+     source          1..197
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /strain="meridionalis"
+                     /db_xref="taxon:8324"
+                     /clone="pTvm6"
+     repeat_region   1..197
+                     /note="MspI centromeric repeat"
+ORIGIN      
+        1 ccgggtcagc tgagcagcga atttctattt aaccacgtgc tttcatggga gacctcaggg
+       61 ctgcatgttt tgagcccagt actgagcctg aaaagcattt ccaaccccac ttacaagtaa
+      121 aactagctat aatgtgcctg gcttctcttc actgaaaagc tcattctgag tatattttta
+      181 gcatacgttt gctcctg
+//
+

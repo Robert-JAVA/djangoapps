@@ -1,0 +1,107 @@
+LOCUS       Y11594                  2609 bp    mRNA    linear   VRT 11-MAR-1998
+DEFINITION  T.carnifex mRNA for B24 protein.
+ACCESSION   Y11594
+VERSION     Y11594.1  GI:1877406
+KEYWORDS    B24 gene; B24 protein.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Albani,F., Perrin,K., Bucci,S., Ragghianti,M., Mancino,G. and
+            LaCroix,J.C.
+  TITLE     B24 protein stored in lampbrush spheres is involved in early
+            cleavage in urodele amphibians
+  JOURNAL   J. Exp. Zool. 280 (2), 142-151 (1998)
+   PUBMED   9433800
+REFERENCE   2  (bases 1 to 2609)
+  AUTHORS   Mancino,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-MAR-1997) G. Mancino, Universita' di Pisa,
+            Dipartimento di Fisiologia e Biochimica, Laboratorio di Biologia
+            Cellulare e Dello Sviluppo, via Carducci 13, I-56010 Ghezzano
+            (Pisa), ITALY
+FEATURES             Location/Qualifiers
+     source          1..2609
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+     gene            1..2609
+                     /gene="B24"
+     CDS             1..2448
+                     /gene="B24"
+                     /codon_start=1
+                     /product="B24 protein"
+                     /protein_id="CAA72333.1"
+                     /db_xref="GI:1877407"
+                     /db_xref="GOA:P87376"
+                     /db_xref="InterPro:IPR001208"
+                     /db_xref="InterPro:IPR003593"
+                     /db_xref="InterPro:IPR008046"
+                     /db_xref="InterPro:IPR012340"
+                     /db_xref="InterPro:IPR016027"
+                     /db_xref="InterPro:IPR018525"
+                     /db_xref="UniProtKB/TrEMBL:P87376"
+                     /translation="MDRLCGHCRPGAPGSSAEYLDFLDDDQDQGVYHGKVRDMISENQ
+                     HRLIVNLNDLRRKSEARANRLLNDSFGEVIAFQKALKDMVSSIDATYSKQFEEFNVGF
+                     EGSFGTKHVSPRTLGAQFLGNLLCVEGIVTKCSLVRPKVMRSVHYCPATKKTLERKYT
+                     DLTSLDPFPSSAVYPTKDEENNPLETEYGLCTYKDHQTLTIQEMPEKAPAGQLPRSID
+                     IIADDDLVDSCKPGSDRVQIVGIYRRLPSKQGGFTSGTFRTIMLANNVKQMSKEMAPT
+                     FSADDVAKIKKFCRTHSKDIFEHLSKSLAPSIHGHEYIKKAILCMLLGGNEKILENGT
+                     RIRGDINVLLIGDPSVAKSQLLRYVLHTGPRAIPTTGRGSSGVGLTAAVTTDQETGER
+                     RLDVGAMVLADRGVVCIDEFDKMSDMDRTAIHEVMEQGRVTIAKAGIQARLNARCSVL
+                     AAANPVYGRYDQYKTPMENIGLQDSLLSRFDLLFIVLDQMDADNDREISDHVLRMHRY
+                     RAQGELDGHALPLGCSVEVFTTDDPNAQNEAEQELQIYEKHDNLLHGPRTKRDKVVSM
+                     QFIRKYIHVAKLVKPVLSQEAADYIAEEYSKIRSHDQMNNERARTMPVTARALETMIR
+                     LSTAHAKLRMSKTIDIQDAEVALELVQFAYFKKVLEKEKKKVVADSVNGDDSSQVVPS
+                     QESVRKPSRRESKDEDDAMEDTMDPYSFSGKTMTQDLALSARKTRTPRKKPTDIGQGA
+                     DKKQSLTDKRIKEFKAALLKAFKTTRSESIAVARLLEIINKVNNDPFDHDEVKQALET
+                     MQSDNQVMLSEDVVFLI"
+ORIGIN      
+        1 atggacaggt tgtgtgggca ttgcagacca ggagctccgg gaagctcagc ggagtacctg
+       61 gactttctcg atgatgatca agaccagggc gtgtatcatg gcaaggtccg ggatatgatc
+      121 agcgagaacc agcaccggct gattgtcaac ctgaacgacc tgcggcgcaa gagcgaggcc
+      181 agagccaacc gattattaaa tgattcgttt ggagaagtga ttgcttttca aaaagcactg
+      241 aaagatatgg ttagctcaat tgatgcaact tattccaagc agtttgagga gttcaatgtt
+      301 ggatttgaag ggagctttgg aacaaagcac gtttcccctc gtacgcttgg tgctcagttt
+      361 cttggtaacc tgctctgtgt agaaggcatt gtaacaaaat gctcattggt gaggcctaaa
+      421 gtaatgcgaa gtgtacatta ctgccctgcc acaaagaaaa cactcgagcg caagtataca
+      481 gacctcacca gtttggaccc atttccatca agtgctgtgt accctacaaa ggatgaggaa
+      541 aataatccct tggaaacaga gtatggactt tgtacctaca aagatcatca gacactgacc
+      601 atccaggaaa tgccggagaa ggcacctgct gggcaacttc cccgatctat tgatattatt
+      661 gcagatgatg atttggttga cagctgcaaa cctgggtccg atagagtgca gattgtagga
+      721 atctaccgtc gccttccttc caagcaggga ggctttactt ctggcacctt caggaccatc
+      781 atgctggcta ataacgtcaa acagatgagc aaagaaatgg ctcccacatt ttcagctgat
+      841 gatgtggcaa agatcaagaa attctgcaga actcattcga aagatatatt cgagcacttg
+      901 agcaaatcgt tggcaccgag tattcatgga catgagtata ttaaaaaagc tattttgtgc
+      961 atgctgcttg ggggcaatga gaagattctt gaaaacggga cacgcataag aggagacatc
+     1021 aatgttttat tgataggtga tccttccgtt gcgaagtctc agcttcttcg atatgtgctg
+     1081 cataccggtc caagagctat acctaccact ggtaggggat catctggagt aggattgacg
+     1141 gctgctgtta ctactgacca ggaaactggg gaaagaagat tggacgtggg cgctatggtg
+     1201 ttagctgaca gaggggttgt ctgcattgat gagtttgaca aaatgtctga catggaccga
+     1261 acggctattc atgaagtaat ggaacaaggg cgtgttacta tagcaaaagc aggaatccag
+     1321 gcacggctga atgcccgctg cagtgtattg gctgctgcca accctgtgta tggaaggtac
+     1381 gaccagtaca aaacaccaat ggaaaacata gggctgcagg actcccttct gtcgagattc
+     1441 gatctactct tcatagttct tgatcaaatg gatgcagaca acgatcgaga aatttcggac
+     1501 catgttctgc gcatgcacag atacagggca caaggagaac tagatggaca tgcattaccg
+     1561 cttggatgca gtgtagaggt ctttacaact gatgacccaa atgctcaaaa cgaggcagag
+     1621 caagaactgc agatttatga aaaacatgac aacctacttc atggtccacg tacaaaaaga
+     1681 gacaaggttg taagcatgca atttatccgc aagtatatcc atgtggctaa actggtcaag
+     1741 cccgttctta gtcaggaagc agcggactat atagcagagg aatattcgaa gatccgcagc
+     1801 catgatcaga tgaacaatga acgtgccagg acgatgccag ttacagcaag agctctggag
+     1861 accatgatcc gattgtccac cgctcatgct aaactccgaa tgagcaaaac cattgatatt
+     1921 caagatgctg aagtggccct ggagctcgtt cagtttgctt acttcaaaaa ggttttggag
+     1981 aaggagaaga aaaaagttgt tgctgatagt gtaaatggtg atgattctag ccaagtcgtc
+     2041 ccaagccagg aaagtgtcag gaaaccttct aggcgagagt caaaagatga agatgatgcg
+     2101 atggaggaca caatggatcc atactctttc agtggaaaaa ccatgaccca ggatttggca
+     2161 ttgtctgctc ggaaaacaag gactcctaga aaaaagccaa ctgatattgg gcagggggca
+     2221 gataaaaagc aatctttgac agataaaaga ataaaggagt ttaaagcagc cctcctgaaa
+     2281 gctttcaaga cgacccgatc tgaatccatt gctgttgcgc ggcttctcga aattatcaac
+     2341 aaagtcaaca acgacccctt tgaccacgat gaagtgaagc aagctctgga aaccatgcaa
+     2401 agtgacaatc aagtcatgct ttctgaggat gtagtctttc tgatctgaag agtctatctt
+     2461 ttgtgtatgt gtacatataa tatatcaatg tatagtgtaa caaatatata tgaatttata
+     2521 gcaaatagtt tttatggttt tgtaaaatcc tacacaatac tcctaagcat aaaataaatg
+     2581 atcacatgca aaaaaaaaaa aaaaaaaaa
+//
+

@@ -1,0 +1,50 @@
+LOCUS       KC697501                 462 bp    DNA     linear   VRT 05-DEC-2014
+DEFINITION  Triturus cristatus haplotype Tcri1707CCb calreticulin gene, intron
+            c and partial cds.
+ACCESSION   KC697501
+VERSION     KC697501.1  GI:563360638
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 462)
+  AUTHORS   Wielstra,B., Babik,W. and Arntzen,J.W.
+  TITLE     Postglacial recolonization of Europe by the crested newt Triturus
+            cristatus from an extra-Mediterranean glacial refugium: the
+            Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 462)
+  AUTHORS   Wielstra,B., Babik,W. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2013) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..462
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri1707CCb"
+     intron          <1..440
+                     /number=c
+     mRNA            <441..>462
+                     /product="calreticulin"
+     CDS             <441..>462
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="AHB50736.1"
+                     /db_xref="GI:563360639"
+                     /translation="PDICGPP"
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag ggaaaaaagc attcaattgg cagtgaatca tgcttttggc tagaatttag
+      121 aagtttcaga gatatggctt tgatatctgg ctttgattgg tctaacttaa tgaagtgacc
+      181 tgcagttctg agagtttcag gatgtctgag cttaatctgt taagtcttta ggtgttgcct
+      241 ttcctttgct gcctgctttt tggtttgtgg taagcctttt gctctcacac tcacgcacac
+      301 actcgcgcac acactcgcat gaggttggat aagcagtgca ttcctgaaat ggcaaaccca
+      361 tggcgtgggt gtatttaaat acatataatc gtgtgtagct caggtttgtg aagttttaaa
+      421 aatgtcttcc tttgctacag ggccggacat ctgcggacct cc
+//
+

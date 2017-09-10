@@ -1,0 +1,64 @@
+LOCUS       EF526212                 716 bp    mRNA    linear   VRT 22-JAN-2009
+DEFINITION  Taricha granulosa prepro-vasotocin mRNA, complete cds.
+ACCESSION   EF526212
+VERSION     EF526212.1  GI:145687895
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 716)
+  AUTHORS   Searcy,B.T., Walthers,E.A., Heppner,B.L., Thompson,R.R. and
+            Moore,F.L.
+  TITLE     Identification of mesotocin and vasotocin nucleotide sequences in
+            two species of urodele amphibian
+  JOURNAL   Gen. Comp. Endocrinol. 160 (2), 111-116 (2009)
+   PUBMED   19063891
+REFERENCE   2  (bases 1 to 716)
+  AUTHORS   Searcy,B.T., Thompson,R.R. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2007) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..716
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     CDS             63..548
+                     /codon_start=1
+                     /product="prepro-vasotocin"
+                     /protein_id="ABP88920.1"
+                     /db_xref="GI:145687896"
+                     /translation="MPEASLAACFLCLLALSSACYIQNCPRGGKRSFPDTDVRECIPC
+                     GPGNRGRCFGPNICCGEDLGCYIGTSETMRCVEENYLPSPCEAEGKSCSVDGKCAAPG
+                     ICCSDVSCTLDGSCLDEDSERRRGPNERNMTLLDGTASDFFLKLMHMANRHQQGKHQF
+                     Y"
+     sig_peptide     63..119
+     mat_peptide     120..146
+                     /product="vasotocin"
+     mat_peptide     156..437
+                     /product="neurophysin II"
+     mat_peptide     438..545
+                     /product="copeptin/glycoprotein"
+     misc_signal     147..154
+                     /note="cleavage signal"
+     regulatory      693..698
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 aaaagtaacg aagctaacag gaagcacagc agcagacccc ccctcgcctc acgagcttca
+       61 agatgcccga agcctccctg gctgcctgct tcctctgcct cctggccctc tcctccgcct
+      121 gctacatcca gaactgcccg cgaggcggca agaggtcttt cccggacaca gatgtcagag
+      181 agtgcatacc gtgtggtcca gggaacagag gtcgctgctt cggcccaaac atctgctgcg
+      241 gcgaggatct cggctgttac atcggcacct cagaaaccat gcgctgtgtg gaagagaact
+      301 acctgccatc gccctgtgag gctgagggca agtcatgcag cgtggatggg aagtgcgcgg
+      361 cccctggaat ctgctgtagt gacgtgagct gcaccctgga cggcagctgc ctggacgaag
+      421 acagtgagcg gaggagaggg cccaacgaaa gaaacatgac ccttctggat ggaacagcca
+      481 gtgatttctt cctcaagctc atgcacatgg ccaacagaca tcaacagggc aagcaccagt
+      541 tctactgaga ggacaccccc atcttattta ttaaggtcca cccccacctg ccacagatcc
+      601 cctgcagcca caccctgctg cccacttccg tttcctctgt ttaaaatgta ccagcaacac
+      661 acaccctgac agttgactgt aaatacatgg gaaataaagt cttttattgc actgtg
+//
+

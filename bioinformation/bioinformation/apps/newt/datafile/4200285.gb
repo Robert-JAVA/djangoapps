@@ -1,0 +1,85 @@
+LOCUS       X99836                  1914 bp    mRNA    linear   VRT 28-JAN-1999
+DEFINITION  P.walti mRNA for rnp associated protein 55.
+ACCESSION   X99836
+VERSION     X99836.1  GI:4200285
+KEYWORDS    rap55 gene; rnp associated protein 55.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Lieb,B., Carl,M., Hock,R., Gebauer,D. and Scheer,U.
+  TITLE     Identification of a novel mRNA-associated protein in oocytes of
+            Pleurodeles waltl and Xenopus laevis
+  JOURNAL   Exp. Cell Biol. 245, 272-281 (1998)
+REFERENCE   2  (bases 1 to 1914)
+  AUTHORS   Lieb,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-1996) B. Lieb, Zoologie I, Dept. Cell &
+            Developmental Biology, Theodor-Boveri-Inst Biowissenschaften,
+            Biozentrum, Am Hubland, D-97074 Wuerzburg, FRG
+FEATURES             Location/Qualifiers
+     source          1..1914
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /cell_type="oocyte"
+                     /tissue_type="ovary"
+                     /clone_lib="lambda ZAPII"
+     gene            1..1914
+                     /gene="rap55"
+     CDS             96..1499
+                     /gene="rap55"
+                     /codon_start=1
+                     /protein_id="CAA68149.1"
+                     /db_xref="GI:4200286"
+                     /db_xref="GOA:Q9YH12"
+                     /db_xref="InterPro:IPR010920"
+                     /db_xref="InterPro:IPR019050"
+                     /db_xref="InterPro:IPR019053"
+                     /db_xref="UniProtKB/Swiss-Prot:Q9YH12"
+                     /translation="MSGGTPYIGSKISLISKAEIRYEGILYTIDTENSTVVLAKFALL
+                     GTEDRPTDRPIPPRDEVFEYIIFRGSDIKDLTVCEPPKPQCSLPQDPAIVQSSLGSSS
+                     TSFQSVSSYGPFSRMPTYSQFNQKSFRSTKFGRGRFRQLNKILRTFETTTSASLSQSS
+                     AVGSSFTSDARSLKTQLSQGRSSPHLDTLRKSPTMEQSVQTTPASHLPPPGPVGRRSP
+                     PPARPLPSVNQRTIESQEQKRVEAHRLSRPEADQLRNENKDANKRQAAPGAPPARRGR
+                     GGHRGGRGRFGIRRDGPMKFEKDFDFESANAQFTKEEIDREFHNKLKLKDDKPEKVEK
+                     PVNGEDKGDSGIDTQNSEGNADEEEALASNCYYDKTKSFFDNISCDDNRERRQTWAEE
+                     RRINAETFGLPLRSNRGRGGYRGRGSGMGFRGARGRGGQRGGFGAPRGFRGGFRGTRG
+                     GREFADFEYRKDNKVAA"
+ORIGIN      
+        1 cgttgctgtc ggtgatattg tctttgggtg ggagtgtatt attctccatc ctcatccatc
+       61 cggacccggg gaacattccc gacccggcag cagccatgag cggagggaca ccctacatcg
+      121 gcagcaagat cagtctgatc tccaaggccg agattcgtta tgagggcatc ttatacacca
+      181 tcgacacaga aaactccacc gtggtgctgg caaagttcgc tcttttgggt acagaagatc
+      241 gtccaacaga cagacccatc cctcccagag atgaagtgtt tgaatatatc atattccgag
+      301 gcagtgatat aaaggaccta actgtttgtg agcctcccaa gccgcagtgc tccctccctc
+      361 aagacccagc tattgttcag tcttccttag gatcatcttc tacctcattc caatctgtga
+      421 gttcctacgg tccttttagc aggatgccaa catatagcca gttcaatcaa aagtccttta
+      481 ggtcaacaaa gtttgggagg gggcgattta ggcagctcaa taaaatcctt aggacctttg
+      541 aaaccacaac cagtgcaagt ctgtcccaaa gcagtgctgt tggttcttct tttacctctg
+      601 atgcaagatc attaaaaaca cagttatctc aaggacgttc aagtccccat ttagacacgt
+      661 tgagaaaaag tccgacaatg gaacagtctg tccaaacaac accagcttca catttacctc
+      721 ctccaggacc tgttggaagg agaagtccac cccctgctcg gccattgcca tctgttaacc
+      781 agcggacaat agaaagccag gagcaaaaga gagttgaagc acacaggctg tcaagaccag
+      841 aagctgatca gttaagaaat gaaaacaaag atgcaaacaa gaggcaagca gcaccaggtg
+      901 ctccacctgc aagacgagga cgtggtggcc accgtggggg aagaggaaga tttggtattc
+      961 gtagggatgg accaatgaag tttgaaaaag attttgactt tgagagtgct aatgcacagt
+     1021 tcaccaagga agaaattgac agagaattcc acaacaaatt aaagttaaaa gatgacaaac
+     1081 ctgagaaggt ggaaaagccc gttaatggtg aagataaagg tgactctgga attgataccc
+     1141 agaatagtga aggtaatgct gatgaagagg aagctcttgc atccaactgc tattacgaca
+     1201 aaaccaaatc attctttgac aacatttcct gtgacgataa tagggaaagg agacaaacgt
+     1261 gggctgaaga aagaagaata aatgcagaga catttggcct tccattgcgt tcaaacagag
+     1321 gtcgtggagg ctacagaggt agaggtagtg gcatgggttt ccgtggagcc agaggtcgtg
+     1381 gaggtcaaag aggtggtttt ggtgcgccta gaggattccg aggtggtttc agaggaacaa
+     1441 gaggaggcag agagtttgca gattttgaat acaggaaaga caacaaagtt gctgcatagc
+     1501 ctccttagaa actggttacc caattttttg atgttcgcga tccagatgat tttgatgcaa
+     1561 tctttatgaa gaatgaagaa gttatcttgc tgtaaacctg tcaccagcac tagagtgtaa
+     1621 ctgcttggct tgaaaaaagg ttgaaatgca gttttttttt ttaaaggcca tcttgaacat
+     1681 gttcagcatt acatttattt aaaaggctga aggataggaa attttcttat gtatagtaaa
+     1741 acggaaccaa ataaagcagt acttcgatgg agctgagtat tttttcatca ctatgaagat
+     1801 ttttcttaaa ttgtatttga taattgctgc aagttatgat tgacatgtgg aaagccgtcg
+     1861 aaactgtgag tttgacccag aggtcgacag caacgaaaaa aaaaaaaaaa aaaa
+//
+

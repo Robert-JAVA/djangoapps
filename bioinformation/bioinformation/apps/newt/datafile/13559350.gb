@@ -1,0 +1,54 @@
+LOCUS       AB049625                 759 bp    mRNA    linear   VRT 06-APR-2001
+DEFINITION  Cynops pyrrhogaster fgf-2 mRNA for fibroblast growth factor-2,
+            partial cds.
+ACCESSION   AB049625
+VERSION     AB049625.1  GI:13559350
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mizuno,N., Hayashi,T., Kondoh,H. and Okamoto,M.
+  TITLE     Cynops fibroblast growth factor-2
+  JOURNAL   Published Only in Database (2001)
+REFERENCE   2  (bases 1 to 759)
+  AUTHORS   Mizuno,N., Hayashi,T., Kondoh,H. and Okamoto,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2000) Nobuhiko Mizuno, Osaka University,
+            Institute for Molecular and Cellular Biology; 1-3, suita 565-0871,
+            Japan (E-mail:nmizuno@imcb.osaka-u.ac.jp, Tel:81-6-6879-7964,
+            Fax:81-6-6877-1738)
+FEATURES             Location/Qualifiers
+     source          1..759
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..759
+                     /gene="fgf-2"
+     CDS             <1..379
+                     /gene="fgf-2"
+                     /codon_start=2
+                     /product="fibroblast growth factor-2"
+                     /protein_id="BAB40835.1"
+                     /db_xref="GI:13559351"
+                     /translation="LLYCKNGGFFLRINSDGKVDGAREKSDSYIKLQLQAEERGVVSI
+                     KGVCANRYLAMKDDGRLMALKWITDECFFFERLESNNYNTCRSRKYSDWYVALKRTGQ
+                     YKNGSKTGAGQKAILFLPMSAKS"
+ORIGIN      
+        1 cttgctgtac tgcaagaacg ggggcttctt tctccggatc aactccgacg gcaaggtgga
+       61 cggagcccgg gagaagagcg actcctacat taaactgcag cttcaagcag aggagcgcgg
+      121 tgtggtgtcc atcaagggag tatgtgctaa ccgctatctc gctatgaagg atgacggcag
+      181 gctgatggcg ctgaaatgga taaccgatga atgcttcttt ttcgagcgac tggagtccaa
+      241 caactataac acgtgtcgat cacggaaata ttccgattgg tatgtggcgc tgaaaagaac
+      301 tgggcaatac aaaaatggat caaaaaccgg agcaggacag aaagcaatcc tttttctacc
+      361 catgtcggcc aagagttgat tttaatagcc catttttacc tttaaaaata gcttacggaa
+      421 gatttttctg aagttgaaac aacgatcaaa tatacatact ctcacaatat gttattgaaa
+      481 ttccttctgc ctgtccaaca atacatttcg gacgattcaa caaaacgttc acttgatctg
+      541 agatccacat gttttccact ttgtcatgtg gaacagtgat ttctgtcctg cattaattag
+      601 tttaatggta tcagtagatt ttagggttat gcataaatac aagaatacgt ataaaaggaa
+      661 atgctaacat ttaagagaag aagcttacaa tagtgtagtt cctaccacaa tttatgaaag
+      721 tgataattca gtggttaaca aagcaaaaaa aaaaaaaaa
+//
+

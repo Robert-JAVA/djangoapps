@@ -1,0 +1,50 @@
+LOCUS       AB238604                 649 bp    mRNA    linear   VRT 02-NOV-2005
+DEFINITION  Cynops pyrrhogaster mRNA for beta-globin, complete cds.
+ACCESSION   AB238604
+VERSION     AB238604.1  GI:78675128
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N., Tarui,H., Kurosaka,H. and Agata,K.
+  TITLE     Cynops pyrrhogaster: beta-globin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 649)
+  AUTHORS   Maki,N., Tarui,H., Kurosaka,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /country="Japan:Okayama"
+     CDS             31..471
+                     /codon_start=1
+                     /product="beta-globin"
+                     /protein_id="BAE47565.1"
+                     /db_xref="GI:78675129"
+                     /translation="MTFTNDERQQIHDAWAKLHADQVGGEALGRLLYVNPWTRRYFKS
+                     FGDLSSCDAIQHNPKVASHGAKVMTSIVDAVGHLDDLKAYYADLSHIHCKKLFVDPAN
+                     FKLFCGIVSIVVGMHLGTDYTPQKQAAFEKFLHHVETALATGYH"
+ORIGIN      
+        1 cctcaacggc atcctacaac caccaccagc atgacattca ccaatgatga gagacaacag
+       61 atccacgacg cctgggccaa acttcatgct gaccaagtag gaggggaagc tcttggcaga
+      121 cttttgtatg tcaatccatg gacaaggaga tatttcaaat catttggtga tctcagtagc
+      181 tgcgacgcga tccagcacaa ccctaaagtt gcttcccatg gtgccaaagt gatgacttcc
+      241 attgtggatg cagtcggcca cctggatgac ctgaaggcat actatgccga tctcagccac
+      301 attcactgca aaaaactatt tgtggatcct gccaacttca agcttttttg tggaatcgtt
+      361 agcattgtcg tgggcatgca ccttggaact gactacaccc ctcagaagca ggctgccttt
+      421 gagaagttcc tgcatcacgt tgaaactgcc ctagccactg ggtaccactg atctgtgaag
+      481 aagcgcctct ctaagggtcc tgcagctaca gatgtccact atgggatatg tccatcaacc
+      541 tacatgaatt aaatgttttt gggtcatttg tagttgtatt tgtagcagca acaccgagca
+      601 actaataaaa caaagattgg caaagacgat aaaaaaaaaa aaaaaaaaa
+//
+

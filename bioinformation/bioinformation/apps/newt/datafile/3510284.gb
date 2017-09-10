@@ -1,0 +1,77 @@
+LOCUS       AB005252                1261 bp    mRNA    linear   VRT 02-SEP-1998
+DEFINITION  Rana japonica mRNA for cyclin B1, complete cds.
+ACCESSION   AB005252
+VERSION     AB005252.1  GI:3510284
+KEYWORDS    cyclin B1.
+SOURCE      Rana japonica (Japanese frog)
+  ORGANISM  Rana japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Ranoidea; Ranidae; Rana;
+            Rana.
+REFERENCE   1
+  AUTHORS   Sakamoto,I., Takahara,K., Yamashita,M. and Iwao,Y.
+  TITLE     Changes in cyclin B during oocyte maturation and early embryonic
+            cell cycle in the newt, Cynops pyrrhogaster: requirement of
+            germinal vesicle for MPF activation
+  JOURNAL   Dev. Biol. 195 (1), 60-69 (1998)
+   PUBMED   9520324
+REFERENCE   2
+  AUTHORS   Ihara,J., Yoshida,N., Tanaka,T., Mita,K. and Yamashita,M.
+  TITLE     Either cyclin B1 or B2 is necessary and sufficient for inducing
+            germinal vesicle breakdown during frog (Rana japonica) oocyte
+            maturation
+  JOURNAL   Mol. Reprod. Dev. 50 (4), 499-509 (1998)
+   PUBMED   9669534
+REFERENCE   3  (bases 1 to 1261)
+  AUTHORS   Yamashita,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-1997) Masakane Yamashita, Graduate School of
+            Science, Hokkaido University, Division of Biological Sciences;
+            North 10, West 8, Sapporo 060, Japan
+            (E-mail:gametes@bio.hokudai.ac.jp, Tel:81-11-706-5297,
+            Fax:81-11-757-5994)
+FEATURES             Location/Qualifiers
+     source          1..1261
+                     /organism="Rana japonica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8402"
+                     /tissue_type="ovary"
+     CDS             75..1184
+                     /codon_start=1
+                     /product="cyclin B1"
+                     /protein_id="BAA32562.1"
+                     /db_xref="GI:3510285"
+                     /translation="MQTTKWRLRPAKKVGLLKPQHRNALGDIGNNLNRAKAALKKGSK
+                     ALRTDVEKVAKPAPVEEEKPVPLSPMDTSGSSPMEAESEAFSDALLQVKDVDEDDADN
+                     PMLCSDYVKDIYCYLRDLEAERAVRPDYLKGQEITGNMRAILVDWLVQVHLRFKLLQE
+                     TMFMTVSILDRFLQVNPVPKKSLQLAGVSAMFIASKYEEIYCPTIGDFSFVTDHTFTK
+                     SQIRNMEMQILTILNFDIGKPLPLHFLRRASKIGEVDAVLHTLAKYLIELSMVDYEMV
+                     HFPPSQVAAAAFCLSQKVLDGGEWTPTLQHYMGYSESSLIPSMRHLAKNVLKVNGGLT
+                     KFMSVRDKYAKSQQMRISCLPQLNSDFMVKLAKNV"
+     polyA_site      1261
+                     /note="26 A nucleotides"
+ORIGIN      
+        1 agcttgtggt gaactttgga ttgggaacct tggtggaaat atggcagtgg tgatgacaag
+       61 gagtatgcga ttcaatgcag acaacaaaat ggagattgcg gcctgcaaag aaggttggac
+      121 tgttgaagcc acagcacaga aatgctctgg gggatatcgg gaacaacctg aacagagcca
+      181 aagcagcctt aaaaaaggga agcaaagctt taagaactga tgtggaaaag gttgccaagc
+      241 cagctcctgt ggaggaggaa aagcctgtgc ccctgagccc aatggacaca tccggttctt
+      301 ctccaatgga agcagaaagt gaagctttct cagatgctct actgcaggtg aaggatgtgg
+      361 atgaagatga tgctgacaat cccatgctgt gtagtgatta tgtgaaggat atctactgct
+      421 acctgagaga cctggaggct gaacgtgctg tccggccaga ctacctcaaa ggtcaagaga
+      481 taactggaaa tatgagggca atccttgttg actggctggt tcaagttcac ttgcggttca
+      541 agctgctcca ggagaccatg ttcatgactg tctcaatttt ggacagattt ttacaggtaa
+      601 accctgtgcc aaagaaatcg ctgcagcttg ctggggtgtc tgccatgttc attgcatcta
+      661 aatatgaaga gatttattgt cccacgattg gagacttctc atttgttact gatcacacat
+      721 ttacaaagag ccagatcaga aacatggaga tgcagattct aaccattttg aattttgaca
+      781 ttggaaagcc tttaccactt cactttctaa ggagagcatc aaagattggg gaggtagatg
+      841 ctgttttgca taccctggca aagtatctta tagaactttc tatggtggac tacgaaatgg
+      901 tgcacttccc accttcacaa gtggcagctg cagccttctg cctgtctcag aaggttttag
+      961 atggagggga atggactcca actctacagc actatatggg ctacagtgag agcagtctca
+     1021 tcccatccat gcggcacttg gcaaagaatg tcctgaaggt taacgggggg ctcacaaagt
+     1081 ttatgtctgt cagagacaag tatgccaaaa gccagcaaat gaggatcagc tgtttgccac
+     1141 aactcaattc agatttcatg gtgaaacttg ccaaaaatgt atgaatgtaa attgtgtact
+     1201 acataaactg caatgctctt aaccttttta gtttttaaat tttttaataa atgctcttga
+     1261 g
+//
+

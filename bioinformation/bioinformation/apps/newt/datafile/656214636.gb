@@ -1,0 +1,183 @@
+LOCUS       NM_212755               2362 bp    mRNA    linear   VRT 23-OCT-2014
+DEFINITION  Danio rerio opioid receptor, delta 1b (oprd1b), mRNA.
+ACCESSION   NM_212755
+VERSION     NM_212755.2  GI:656214636
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Danio.
+REFERENCE   1  (bases 1 to 2362)
+  AUTHORS   Klee EW, Schneider H, Clark KJ, Cousin MA, Ebbert JO, Hooten WM,
+            Karpyak VM, Warner DO and Ekker SC.
+  TITLE     Zebrafish: a model for the study of addiction genetics
+  JOURNAL   Hum. Genet. 131 (6), 977-1008 (2012)
+   PUBMED   22207143
+  REMARK    Review article
+REFERENCE   2  (bases 1 to 2362)
+  AUTHORS   Lopez-Bellido R, Barreto-Valer K, Sanchez-Simon FM and Rodriguez
+            RE.
+  TITLE     Cocaine modulates the expression of opioid receptors and miR-let-7d
+            in zebrafish embryos
+  JOURNAL   PLoS ONE 7 (11), E50885 (2012)
+   PUBMED   23226419
+REFERENCE   3  (bases 1 to 2362)
+  AUTHORS   Rivas-Boyero AA, Herrero-Turrion MJ, Gonzalez-Nunez V,
+            Sanchez-Simon FM, Barreto-Valer K and Rodriguez RE.
+  TITLE     Pharmacological characterization of a nociceptin receptor from
+            zebrafish (Danio rerio)
+  JOURNAL   J. Mol. Endocrinol. 46 (2), 111-123 (2011)
+   PUBMED   21247980
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2362)
+  AUTHORS   Sanchez-Simon FM, Arenzana FJ and Rodriguez RE.
+  TITLE     In vivo effects of morphine on neuronal fate and opioid receptor
+            expression in zebrafish embryos
+  JOURNAL   Eur. J. Neurosci. 32 (4), 550-559 (2010)
+   PUBMED   20646065
+REFERENCE   5  (bases 1 to 2362)
+  AUTHORS   Sundstrom G, Dreborg S and Larhammar D.
+  TITLE     Concomitant duplications of opioid peptide and receptor genes
+            before the origin of jawed vertebrates
+  JOURNAL   PLoS ONE 5 (5), E10512 (2010)
+   PUBMED   20463905
+  REMARK    Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 2362)
+  AUTHORS   Gonzalez-Nunez V, Toth G and Rodriguez RE.
+  TITLE     Endogenous heptapeptide Met-enkephalin-Gly-Tyr binds differentially
+            to duplicate delta opioid receptors from zebrafish
+  JOURNAL   Peptides 28 (12), 2340-2347 (2007)
+   PUBMED   18022288
+REFERENCE   7  (bases 1 to 2362)
+  AUTHORS   Gonzalez-Nunez V, Marron Fernandez de Velasco E, Arsequell G,
+            Valencia G and Rodriguez RE.
+  TITLE     Identification of dynorphin a from zebrafish: a comparative study
+            with mammalian dynorphin A
+  JOURNAL   Neuroscience 144 (2), 675-684 (2007)
+   PUBMED   17069980
+REFERENCE   8  (bases 1 to 2362)
+  AUTHORS   Pinal-Seoane N, Martin IR, Gonzalez-Nunez V, Marron Fernandez de
+            Velasco E, Alvarez FA, Sarmiento RG and Rodriguez RE.
+  TITLE     Characterization of a new duplicate delta-opioid receptor from
+            zebrafish
+  JOURNAL   J. Mol. Endocrinol. 37 (3), 391-403 (2006)
+   PUBMED   17170080
+  REMARK    GeneRIF: demonstrates the existence of two functional duplicate
+            genes of the delta-opioid receptor in the teleost zebrafish
+REFERENCE   9  (bases 1 to 2362)
+  AUTHORS   Bradford CS, Walthers EA, Stanley DJ, Baugh MM and Moore FL.
+  TITLE     Delta and mu opioid receptors from the brain of a urodele
+            amphibian, the rough-skinned newt Taricha granulosa: cloning,
+            heterologous expression, and pharmacological characterization
+  JOURNAL   Gen. Comp. Endocrinol. 146 (3), 275-290 (2006)
+   PUBMED   16375901
+REFERENCE   10 (bases 1 to 2362)
+  AUTHORS   Woods IG, Wilson C, Friedlander B, Chang P, Reyes DK, Nix R, Kelly
+            PD, Chu F, Postlethwait JH and Talbot WS.
+  TITLE     The zebrafish gene map defines ancestral vertebrate chromosomes
+  JOURNAL   Genome Res. 15 (9), 1307-1314 (2005)
+   PUBMED   16109975
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CR855299.12.
+            On Jun 14, 2014 this sequence version replaced gi:47086534.
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AY262256.1, BC162661.1 [ECO:0000332]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-369               CR855299.12        49266-49634
+            370-725             CR855299.12        58417-58772
+            726-2362            CR855299.12        61055-62691
+FEATURES             Location/Qualifiers
+     source          1..2362
+                     /organism="Danio rerio"
+                     /mol_type="mRNA"
+                     /strain="Tuebingen"
+                     /db_xref="taxon:7955"
+                     /chromosome="16"
+                     /map="16"
+     gene            1..2362
+                     /gene="oprd1b"
+                     /gene_synonym="DOR2; fb12g05; or4; wu:fb12g05"
+                     /note="opioid receptor, delta 1b"
+                     /db_xref="GeneID:336529"
+                     /db_xref="ZFIN:ZDB-GENE-030131-8473"
+     misc_feature    113..115
+                     /gene="oprd1b"
+                     /gene_synonym="DOR2; fb12g05; or4; wu:fb12g05"
+                     /note="upstream in-frame stop codon"
+     CDS             128..1255
+                     /gene="oprd1b"
+                     /gene_synonym="DOR2; fb12g05; or4; wu:fb12g05"
+                     /codon_start=1
+                     /product="opioid receptor, delta 1b"
+                     /protein_id="NP_997920.2"
+                     /db_xref="GI:656214637"
+                     /db_xref="GeneID:336529"
+                     /db_xref="ZFIN:ZDB-GENE-030131-8473"
+                     /translation="MEPPTVTVSDFSERYPLFLHNSSFLEEPAGLLSNWSGGSSELKA
+                     VRGSSAVAIAVSITALYSVICVVGLVGNVLVMYGVVRYTKMKTATNIYIFNLALADAL
+                     ATSTLPFQSAKYLMGTWPFGELLCKVVIAIDYYNMFTSIFTLTMMSVDRYIAVCHPVR
+                     ALDFRTPVKAKIINICVWILSSAVGFPVMVMAVTKELDSGKTICMLKFPDPEWYWDTV
+                     TKICVFIFAFVFPVLVITVCYGLMILRLKSVRLLSGSKEKDRNLRRITRMVLVVVAAF
+                     IICWTPIHIFIIVKTVVEIDQKNLLVVACWHLCIALGYMNSSLNPVLYAFLDENFKRC
+                     FREFCLPFRTRIEQNSFSKARSVIREPISVCAKSESIKQPT"
+     STS             2153..2288
+                     /gene="oprd1b"
+                     /gene_synonym="DOR2; fb12g05; or4; wu:fb12g05"
+                     /standard_name="fb12g05.x1"
+                     /db_xref="UniSTS:202878"
+ORIGIN      
+        1 gactagtgga gttgatgtcc ttaaatctgc tgctcatgat cttacacctt tcattttaaa
+       61 caaacacttt caacatttta cagtttcact taattagaag gcgttcgaca tataggggac
+      121 gagcataatg gagcctccaa cagtgactgt cagcgatttt tccgagcgtt atcctttatt
+      181 tctgcacaac tcgagctttc tggaggagcc tgcgggactt ctgtccaact ggagcggagg
+      241 aagcagtgag ctgaaggcgg tgagaggcag cagtgcggtc gctatcgctg tctccatcac
+      301 tgcgctatac tcggtcatct gcgttgtggg actcgttgga aatgtgctgg ttatgtacgg
+      361 agtggtcagg tacacgaaga tgaaaaccgc aaccaacata tacatcttca acctggcatt
+      421 agcagatgcg ttggccacca gtacattgcc cttccagagc gccaaatacc tcatgggcac
+      481 ctggccgttc ggcgagctct tgtgtaaagt ggtcattgct attgactatt acaacatgtt
+      541 taccagtatt ttcacgctga cgatgatgag tgtggaccgc tatattgccg tgtgtcatcc
+      601 ggtgagggcc ctggacttcc gcacgcctgt caaagccaag atcatcaaca tctgcgtctg
+      661 gattctgtcc tccgctgtcg gcttccccgt catggtgatg gctgttacta aagaattaga
+      721 ctcaggcaaa acaatctgca tgctgaaatt ccccgaccca gaatggtact gggatacagt
+      781 gaccaaaatc tgcgttttta tttttgcctt tgtgtttccc gtcctggtga tcaccgtctg
+      841 ctacggcctg atgatcctgc ggctgaagag cgtgcgcctg ctctccggct ccaaagagaa
+      901 ggacaggaac ctccggcgca tcacccgcat ggttttagtg gtggtggcgg cattcatcat
+      961 ctgctggacc cccatccaca tcttcatcat cgtcaagaca gtggtagaga tcgaccagaa
+     1021 gaacctgctg gtggtggcct gctggcatct gtgcatcgct ctgggctaca tgaacagcag
+     1081 cctcaacccg gtcctctacg cttttctaga tgagaacttc aagaggtgct tcagagagtt
+     1141 ctgcttgcct tttcgcactc gcatagagca gaacagcttt tccaaagccc gcagcgtcat
+     1201 cagagagccc atctctgtct gcgccaaatc agaatcaatc aagcagccca catgactaga
+     1261 cctggaccgg atgactccta gtacacagaa agacccgcag tccgaggtaa cccagatctc
+     1321 tacaactgag ttttaagctt atctggccca taaactgctg gcagaatgtc atgttggggc
+     1381 attatttata ttttattctc atcgttcttg actgaaaagt atggatggcc ctgaaatgat
+     1441 ctgcgagata ttttcctaag tgaggaaatg agatgatctg gaccatcaag atggtaatca
+     1501 tgcattggaa aagacatcaa agacctgacc aacaggaaat ttacattcat tagtggtata
+     1561 tgagccaata cagcagattc ccctaatgag atttttttta tattgcaagt taatgcattt
+     1621 ccatgggaat tgtgggattt tatgatacat tgaataatca attctgcttt tgaaacaaca
+     1681 aagtgagctg taagattttt cttacaagag cttgttacac agaaagatga aaatgtacag
+     1741 tttttgagct cctgttgtag acaataaaag tttttttttt ttcttaaaaa ccaagacata
+     1801 tggagaaaca ttggacttta gaatggacat tccctttgat tttcatggat gtcagcggat
+     1861 gttcttcctt ttgaaaacat aaactctgag cattattcat ttcatggtgc tttataaagt
+     1921 cagtttgtaa atttgcgcta ctagtgaagg tgttttaaaa cctttgacta tgaagaaacg
+     1981 tttttagctc ttttagtatt tagtggacga aaatcttgca tttctttgcc attggcgcag
+     2041 aatggctgtt tttatgacct tcttcaaatt ctaaagttga agtgacattt aacgaatcgt
+     2101 ctcatgatgt tagtgttgga tttaaaatgt cagctttgct gtaaaaggag atggtttagt
+     2161 ttcttgagct gtaataggta aacttttttc cagccaagtg tgtttatgta ttagttttgc
+     2221 tttcctgtat tctgcttcag tgatctgttc tcatgaatct atttttatgg acgcatggaa
+     2281 attagacatc acaaactatc tgatctgtca gtatttgttg tgaaagttca gaaaaaataa
+     2341 ttaaaatcat tctgtagatt aa
+//
+

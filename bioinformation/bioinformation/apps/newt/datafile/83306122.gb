@@ -1,0 +1,52 @@
+LOCUS       AJ575778                 291 bp    mRNA    linear   VRT 31-JUL-2006
+DEFINITION  Pleurodeles waltl partial mRNA for immunoglobulin heavy chain
+            variable region (ighvII gene), clone CY17.
+ACCESSION   AJ575778
+VERSION     AJ575778.1  GI:83306122
+KEYWORDS    ighvII gene; immunoglobulin heavy chain variable region.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Schaerlinger,B. and Frippiat,J.P.
+  TITLE     The immunoglobulin heavy chain repertoire of the urodele amphibian
+            Pleurodeles waltl: identification of a new isotype
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 291)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2003) Frippiat J.P., Laboratoire de Biologie
+            Experimentale, University Nancy 1, Boulevard des Aiguillettes, BP
+            239, F-54506 Vandoeuvre-les-Nancy cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /clone="CY17"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+                     /rearranged
+     gene            <1..>291
+                     /gene="ighvII"
+     CDS             <1..>291
+                     /gene="ighvII"
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain variable region"
+                     /protein_id="CAE02664.1"
+                     /db_xref="GI:83306123"
+                     /translation="QITLTQSGSEIRKPGESVKVKCLVSGFNINRYWMNWIRQAPGRG
+                     LEWVARYNSGSSPPHYSSDAVKGRFTASTDSSSLYLQMNNLKTEDTGVYYCAR"
+     V_region        <1..>291
+                     /gene="ighvII"
+                     /product="immunoglobulin heavy chain variable region"
+ORIGIN      
+        1 cagataactc tgacccaatc ggggtcagaa atcaggaaac caggggagtc tgtgaaggtg
+       61 aagtgtcttg tgagtggatt taacataaac aggtactgga tgaactggat taggcaggct
+      121 ccggggcgag gtctggaatg ggtagcgaga tataattctg ggagcagccc cccacattat
+      181 tcctccgatg cagtaaaggg cagattcacc gcctccacag acagttcctc tctctatctg
+      241 caaatgaaca acctgaagac ggaagacact ggcgtttatt actgtgcacg g
+//
+

@@ -1,0 +1,73 @@
+LOCUS       DQ282138                1146 bp    DNA     linear   VRT 18-JUL-2006
+DEFINITION  Triturus alpestris haplotype hapA NADH dehydrogenase subunit 2
+            (ND2) gene, partial cds; and tRNA-Trp gene, partial sequence;
+            mitochondrial.
+ACCESSION   DQ282138
+VERSION     DQ282138.1  GI:82796770
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 1146)
+  AUTHORS   Pabijan,M. and Babik,W.
+  TITLE     Genetic structure in northeastern populations of the Alpine newt
+            (Triturus alpestris): evidence for post-Pleistocene differentiation
+  JOURNAL   Mol. Ecol. 15 (9), 2397-2407 (2006)
+   PUBMED   16842414
+REFERENCE   2  (bases 1 to 1146)
+  AUTHORS   Pabijan,M. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2005) Department of Comparative Anatomy,
+            Institute of Zoology, Jagiellonian University, ul. Ingardena 6,
+            Krakow 30-060, Poland
+FEATURES             Location/Qualifiers
+     source          1..1146
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54263"
+                     /haplotype="hapA"
+                     /country="Poland"
+     gene            <1..1082
+                     /gene="ND2"
+     CDS             <1..1082
+                     /gene="ND2"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ABB91812.1"
+                     /db_xref="GI:82796771"
+                     /translation="AHTPNMLEKPLLLLMNPFALSMLMSSLALGTTITLSSSHWFLAW
+                     MGLEINTLAIIPLMTKMHHPRAAESATKYFLTQATASALILFSTIMEAWTTGEWTIMN
+                     MTNNAPTTMLTIALAIKLGIAPFHSWLPDVLQGQSMMTCLIISTWQKLAPMALLIMVS
+                     HQLNTNLLIIMALTSTIIGGWGGLNQTQTRKIMAYSSIAHLGWITLILSFAPNLALFN
+                     LLIYLLLTSSMFMTLMTLNTPNINKLSTSWLKSPMLAVSMMSILMALGGLPPTSGFLP
+                     KWLILQEMTNQHLGALSSLMALSALLSLFFYLRISYTISLTSPPNISNSNLTWRKKNT
+                     LLYALPLMIMMSTMMMPIMPALLMN"
+     tRNA            1083..>1146
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 gggcccatac cccaaatatg ttggagaaac cccttctttt gctaatgaac ccatttgcac
+       61 tatcaatact catatcaagc ctagcactag gaacaaccat cacgctctca agctcccatt
+      121 gattcttagc gtgaataggg ttagaaatca acaccctagc tattattccg ctaataacca
+      181 aaatacacca cccacgagcc gcagaatcag ccacaaaata cttcttaaca caagctacag
+      241 cctctgcctt aatcttattt tctacaatta tagaagcatg aacaaccgga gaatgaacaa
+      301 ttatgaatat aaccaataac gcaccaacaa caatattgac aattgcccta gcaattaaac
+      361 ttggtatcgc accatttcac tcctgactcc cggatgtcct ccaaggtcaa agcataataa
+      421 catgcctaat tatctcaaca tgacaaaaac tagccccaat agccctacta attatagtaa
+      481 gtcaccaact aaacactaac ttattaatta ttatagcact aacctcaaca attatcgggg
+      541 ggtggggagg acttaatcaa acacaaacac gaaaaatcat agcatattca tccatcgcac
+      601 acttaggatg aattaccctg attctatcct ttgccccaaa cttagcgcta tttaacctat
+      661 taatctacct tttactaact tcctctatat ttataacgtt aataactctg aacaccccaa
+      721 acattaataa actctcaacc tcatgattaa aatcgccaat actagccgtc tccataataa
+      781 gcatccttat agccctagga ggacttcccc ccacatcagg atttttacca aaatgactga
+      841 tcttgcaaga aataacaaac cagcacctag gagcactatc ctctctaata gccctgtctg
+      901 ccctacttag tttatttttt tatttgcgaa tctcatatac aatctcatta acctcccccc
+      961 caaatatttc aaactctaac ctaacttgac ggaaaaaaaa caccctacta tatgctttac
+     1021 ccctaataat cataatatca acaataataa tgccaatcat accagcactt ctaataaatt
+     1081 aaagacttag gataacaaga ccaaaggcct tcaaagcctt aagtagaagt taaaatcttc
+     1141 tagtct
+//
+

@@ -1,0 +1,91 @@
+LOCUS       X71951                  2083 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  Pleurodeles waltl mRNA for HSP70.
+ACCESSION   X71951
+VERSION     X71951.1  GI:431200
+KEYWORDS    heat shock protein; hsp70 gene; HSP70 protein.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Billoud,B., Rodriguez-Martin,M.L., Berard,L., Moreau,N. and
+            Angelier,N.
+  TITLE     Constitutive expression of a somatic heat-inducible hsp70 gene
+            during amphibian oogenesis
+  JOURNAL   Development 119 (3), 921-932 (1993)
+   PUBMED   8187647
+REFERENCE   2  (bases 1 to 2083)
+  AUTHORS   Billoud,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-1993) B. Billoud, CNRS ER 47, 67 rue M.
+            Gunsbourg, 94205 Ivry sur Seine, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..2083
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /chromosome="VIII"
+     gene            1..2083
+                     /gene="hsp70"
+     CDS             86..2023
+                     /gene="hsp70"
+                     /codon_start=1
+                     /product="heat shock protein HSP70"
+                     /protein_id="CAA50749.1"
+                     /db_xref="GI:431201"
+                     /db_xref="GOA:Q91291"
+                     /db_xref="InterPro:IPR001023"
+                     /db_xref="InterPro:IPR013126"
+                     /db_xref="InterPro:IPR018181"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91291"
+                     /translation="MSAPKGVAFGIDLGTTYSCVGVFQHGKVEIIANNQGNRTTPSYV
+                     AFTDTERLIGAPAKNQVSLNPQNTVFDAKRLIGRKFNDTVVQADMKHWPFKVVSDEWK
+                     PKVQVEYKGDNKTFFPDEVSSMVLIKMKEIAEAYLGHLVSNAVITVPSYLTASQRQAT
+                     KDAGVLAGLNVLSIVNEPTAAAIAYDLDKAGRGELNVLIFDLGGGTFDVSILTIDDGI
+                     FEVKATAGDTHLGGEDFDNRMVNHFHEPFKRKHKKDITKNKRAVRRLRTACERAKRTL
+                     SSSTQASIEIDSLFEGIDFYTSITRARFEELCADLFRGPLEPVEKALRDAKLDKAQIH
+                     EIVLVGGSTRIPKIQKLLQDFFNGRELNKSINPDEAVAYGAAVQAAILMGDKSENLQD
+                     LLLLDVAPLSLGLETAGGVMTVLIKRNSTIPTKQTQIFTTYSDNQPGVLIQVYEGERA
+                     MTKDNSLLGKFELSGIPPAPRGVPQIEVTFDIDANGILNVSAVDKSSGKQNKITITND
+                     KGRLSKEEIERMVQEAERYKADDEAQREKVSAKNTLESIAFNMKSTVEGDNLKDKISE
+                     DDRKKIVDKCNQTISWMENNQMAEKEEYEHQQKELEKVCNSIITKLYQGGMPGGMPSG
+                     SSGAQARQGSSSTGPTIEEVD"
+ORIGIN      
+        1 aacgctgcgt cacttagcat cgctgtgaca agagatacag agaggtaagc atcatcaacg
+       61 gctatactcg gcatcactgc agaagatgtc tgcacctaaa ggagtcgcat ttggcatcga
+      121 cctgggcacc acctactcct gtgtgggagt cttccagcat ggcaaggtgg agatcatcgc
+      181 caacaaccaa ggcaaccgaa ccacccccag ctatgtggcc ttcacagaca ctgagaggct
+      241 cattggagcg cctgccaaga accaggtgtc cctgaacccc cagaacaccg tctttgatgc
+      301 caagagactg attggcagga agtttaatga cacagtggtg caggctgaca tgaagcactg
+      361 gcccttcaag gtggtgagcg atgagtggaa gcctaaggtg caggtggagt acaaagggga
+      421 caacaagact ttcttccctg acgaggtgtc ttccatggtg ctgatcaaga tgaaggagat
+      481 cgctgaagca tacctgggcc acctagtctc caatgctgtc atcactgtgc cttcttatct
+      541 cactgcttcc cagaggcagg ctactaagga tgctggggta ctcgctggac tgaatgtctt
+      601 gagcatcgtc aatgagccca cagcagcagc gatcgcctat gacttagaca aagcaggcag
+      661 aggagagcta aatgtcctga tctttgacct tggtggaggt acctttgatg tctccattct
+      721 aacaattgat gatggcatct ttgaagtcaa ggctacagct ggagacaccc acctgggtgg
+      781 agaagacttt gacaatcgaa tggtcaatca ctttcatgag cccttcaaga gaaagcacaa
+      841 gaaggacatc accaagaaca agagggcagt tcggaggctg agaactgcct gtgagcgagc
+      901 caagagaacc ctgtcttcca gcactcaggc cagtatcgag attgactccc ttttcgaagg
+      961 cattgatttc tacacttcca tcaccagagc acgctttgaa gagttgtgtg ctgacctctt
+     1021 cagaggaccc ttggaacctg tggagaaggc tttgagggat gccaaattgg acaaagctca
+     1081 gatccatgaa attgtgctag ttggaggatc cacccgcatc cctaaaatcc agaaactgct
+     1141 gcaggacttt ttcaatggca gagaactgaa caaaagcatc aacccagacg aagctgttgc
+     1201 atacggtgca gctgtgcaag ctgccatcct gatgggcgac aagtctgaga atttgcagga
+     1261 cctgcttctc ctagatgtag cacctctctc actgggtctc gagacagcag gtggtgtgat
+     1321 gactgtcctc ataaaacgca actccaccat cccaactaag caaacccaga tcttcaccac
+     1381 ctactctgat aaccagcctg gtgtcctgat ccaagtttat gagggtgaaa gagcaatgac
+     1441 aaaggacaac agtcttctgg ggaaatttga gctgagtgga atcccacctg cccctcgtgg
+     1501 tgtgccacag atcgaggtga cttttgatat cgatgccaac ggtatcttga atgtctctgc
+     1561 tgtggacaag agttcaggca aacagaacaa gataactatc accaatgaca aaggtcggct
+     1621 gagcaaagag gagattgaga ggatggtgca ggaggctgag aggtacaaag cagatgatga
+     1681 agcccagcga gagaaggtct ctgcaaagaa cacactggag tccatcgctt tcaacatgaa
+     1741 gagcacagtg gagggtgaca atcttaaaga caagatcagc gaagatgacc ggaaaaagat
+     1801 tgtggacaaa tgtaatcaga ccatttcctg gatggagaac aaccagatgg cagagaagga
+     1861 ggagtatgag caccagcaga aagaactgga gaaagtctgt aattccatca tcaccaaact
+     1921 ttaccagggc gggatgcccg ggggaatgcc tagtgggagc tcgggagctc aggcccgcca
+     1981 agggagctcc agcactggac ctactattga ggaggtggat taatggcgga cagtaatata
+     2041 ttatttccat gtcccttcca cagaagtgaa ttctgccgat att
+//
+

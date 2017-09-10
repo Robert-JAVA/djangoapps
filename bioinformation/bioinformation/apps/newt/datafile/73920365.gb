@@ -1,0 +1,51 @@
+LOCUS       DQ092251                 398 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Euproctus asper isolate E1401.5 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ092251
+VERSION     DQ092251.1  GI:73920365
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 398)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 398)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..398
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1401.5"
+                     /db_xref="taxon:30374"
+     gene            <1..>398
+                     /gene="cytb"
+     CDS             <1..>398
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAZ94125.1"
+                     /db_xref="GI:73920366"
+                     /translation="IMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQIL
+                     TGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYY
+                     GSYLFKETWNIGVILLFLVMATAFVGYVLP"
+ORIGIN      
+        1 acatcatacg aaaaactcac ccactactaa aaatcattaa caactcattt attgacctcc
+       61 caacaccgtc aaacatctca tactgatgga acttcggctc tcttcttgga gtttgtctaa
+      121 ttacacaaat cctcacaggt cttttcttgg caatacacta cacagcagac acacaatcag
+      181 cattttcatc tgttgcccat atttgccgag atgttaacta cggctgacta gtacgaagca
+      241 cccacgccaa cggagcctca ttattcttca tttgtattta cctacatatt ggacgcggcc
+      301 tatattacgg atcatacctg tttaaagaga cctgaaacat cggtgtaatc ttgctattct
+      361 tagtcatggc aactgccttt gtcggatatg tcctgccc
+//
+

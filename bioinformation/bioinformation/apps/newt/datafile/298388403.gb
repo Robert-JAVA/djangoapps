@@ -1,0 +1,57 @@
+LOCUS       GQ374504                 671 bp    DNA     linear   VRT 18-JUL-2011
+DEFINITION  Lissotriton helveticus isolate Lh 5 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ374504
+VERSION     GQ374504.1  GI:298388403
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 671)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     The value of traditional troughs as freshwater shelters for
+            amphibian diversity
+  JOURNAL   Aquat Conserv 21 (1), 74-81 (2011)
+REFERENCE   2  (bases 1 to 671)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2009) Biologia Funcional, Universidad de Oviedo,
+            C/Julian Claveria s/n, Oviedo, Asturias 33006, Spain
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /organism="Lissotriton helveticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Lh 5"
+                     /db_xref="taxon:256425"
+     gene            <1..>671
+                     /gene="COI"
+     CDS             <1..>671
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADI80671.1"
+                     /db_xref="GI:298388404"
+                     /translation="LYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMT
+                     QYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF
+                     WFFGHP"
+ORIGIN      
+        1 ctgtatttaa ttttcggtgc ttgagcaggc atagttggaa cagcactgag tctactaatt
+       61 cgagctgaat tgagccagcc aggggccctc cttggtgacg atcaaattta taatgttatt
+      121 gtgacagctc atgcctttgt tataatcttc ttcatagtaa tgcccgtaat aatcgggggg
+      181 tttgggaatt ggcttgttcc tcttatgatt ggggcccctg atatggcatt ccctcgaata
+      241 aataacataa gcttctgact ccttcccccc tcgttcttgc tcttattagc ctcctcaggt
+      301 gttgaagcgg gagcagggac agggtgaact gtctacccgc ccctggcagg aaacctagcc
+      361 catgcgggtg cctctgttga cttaacaatc ttttccctac atcttgcagg agtttcctcc
+      421 attctggggg caattaactt tattactaca tcaattaaca taaaaccccc ctcgataacg
+      481 caatatcaaa cacctttatt tgtgtggtct gtattaatta ctgctattct tcttctttta
+      541 tccctccctg tccttgcagc tggtattacg atgctgctca ctgatcgaaa cttaaatact
+      601 acattttttg acccggcggg gggcggagac cctgtgcttt atcaacacct gttttgattc
+      661 tttggccacc c
+//
+

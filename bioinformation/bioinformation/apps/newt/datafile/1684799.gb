@@ -1,0 +1,57 @@
+LOCUS       TAU77178                 699 bp    mRNA    linear   VRT 24-FEB-2000
+DEFINITION  Triturus alpestris paired box homeodomain protein TPAX6 (Pax6)
+            mRNA, partial cds.
+ACCESSION   U77178
+VERSION     U77178.1  GI:1684799
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 699)
+  AUTHORS   Chen,Y., Hollemann,T., Pieler,T. and Grunz,H.
+  TITLE     Planar signalling is not sufficient to generate a specific
+            anterior/posterior neural pattern in pseudoexogastrula explants
+            from Xenopus and Triturus
+  JOURNAL   Mech. Dev. 90 (1), 53-63 (2000)
+   PUBMED   10585562
+REFERENCE   2  (bases 1 to 699)
+  AUTHORS   Hollemann,T., Grunz,H. and Pieler,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-1996) Developmental Biochemistry, University of
+            Goettingen, Humboldtallee 23, 37073 Goettingen, Germany
+FEATURES             Location/Qualifiers
+     source          1..699
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:54263"
+                     /dev_stage="neurulation stage embryo"
+     gene            1..699
+                     /gene="Pax6"
+     CDS             <1..>699
+                     /gene="Pax6"
+                     /codon_start=1
+                     /product="paired box homeodomain protein TPAX6"
+                     /protein_id="AAB36534.1"
+                     /db_xref="GI:1684800"
+                     /translation="YDKLRMLNGQTGTWGTRPGWYPGTSVPGQPTPDGCQQQEGGGEN
+                     TNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLA
+                     AKIDLPEARIQVWFSNRRAKWRREEELRNQRRQASNTPSHIPISSSFSTSVYQPIPQP
+                     TTPVSFTSGSMLGRSDTSLTNTYGGLPPMPSFTMGNNLPMQPPVPSQASSYFCMLPFS
+                     PSVNGRSYDTYTPLH"
+ORIGIN      
+        1 tacgacaagc tgcggatgct gaacggacag acgggcacct ggggcacccg gccgggctgg
+       61 tacccgggga cctcggtgcc ggggcagcca acgccagatg gctgccagca gcaggaaggg
+      121 ggaggcgaga acaccaactc catcagctcc aacggcgagg actccgacga ggcccagatg
+      181 aggctgcagc tgaaacgcaa actgcaacgg aacaggacgt ctttcactca ggagcagatc
+      241 gaggccctgg agaaagagtt tgaacgaaca cattaccctg acgtgtttgc aagagagaga
+      301 ctagctgcca aaatagacct acccgaagca cgaatacagg tctggttttc aaacaggagg
+      361 gcaaagtgga ggagggaaga agaactgcgg aaccagagga ggcaagcaag caacaccccc
+      421 agccatatcc ccatcagcag cagcttcagc actagtgtgt accagcccat cccccagccc
+      481 acaacacctg tttcatttac gtccgggtcc atgttgggca gatcagacac atccctgaca
+      541 aacacatacg gcggcctacc acccatgcct agcttcacaa tgggcaacaa cctgcctatg
+      601 caacccccag ttcccagcca ggcctcctcc tacttttgca tgctgccctt tagtccgtca
+      661 gtgaatgggc ggagctatga tacatacaca cctcttcac
+//
+

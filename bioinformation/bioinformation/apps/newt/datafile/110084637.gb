@@ -1,0 +1,42 @@
+LOCUS       DQ823415                 400 bp    DNA     linear   VRT 21-SEP-2007
+DEFINITION  Pleurodeles waltl voucher PW4 beta-fibrinogen gene, intron 7.
+ACCESSION   DQ823415
+VERSION     DQ823415.1  GI:110084637
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 400)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Assessing the phylogenetic signal of the nuclear beta-fibrinogen
+            intron 7 in salamandrids (Amphibia: Salamandridae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 400)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) CIBIO/UP, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            Vairao, Vila do Conde 4485-661, Portugal
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PW4"
+                     /db_xref="taxon:8319"
+     gene            <1..>400
+                     /gene="beta-fibrinogen"
+     intron          1..400
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 gtatgtagtg ctctaacctt aaccaattaa tcgatttaat acaaggagca gccagtgctc
+       61 attaagcagc caggtaggag tgtggctgtg tttctgccat ttggtgaaat aaagaatgca
+      121 cgctgaacta tttggccgtg gtacgaggct ttactattat atatatatat atacacacac
+      181 acacacccac acacacacac acacactttc tctctcttct ctctctcggt acggtataac
+      241 aggaaccaat attaaaagct atgctatgtt atgctttgtt atgcagtgca tgaacacata
+      301 tgcatacaca cgtgcatata catataatgg agacttgcaa atgcagtggc aggaaggtga
+      361 acacaatatg attcctaaat ttcaatgttt tcattttcag
+//
+

@@ -1,0 +1,63 @@
+LOCUS       KJ128674                 648 bp    DNA     linear   VRT 16-JUN-2014
+DEFINITION  Lissotriton vulgaris voucher NRM:6190 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ128674
+VERSION     KJ128674.1  GI:651209274
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Bergsten,J., Englund,M. and Ericsson,P.
+  TITLE     A DNA key to all Swedish vertebrates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Zuccon,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2014) Dept. of Zoology, Swedish Museum of Natural
+            History, Frescativ. 40, Stockholm 18378, Sweden
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Lissotriton vulgaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NRM:6190"
+                     /bio_material="NRM:19"
+                     /db_xref="taxon:8324"
+                     /country="Sweden: Huddinge, Lake Orlangen"
+                     /collection_date="04-Sep-2008"
+                     /collected_by="Bolander, S"
+                     /identified_by="Ahlander, E"
+                     /PCR_primers="fwd_name: lepf1, fwd_seq:
+                     attcaaccaatcataaagatattgg, rev_name: lepr1, rev_seq:
+                     taaacttctggatgtccaaaaaatca"
+                     /note="tissue sample annotated in bio_material qualifier"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIC75877.1"
+                     /db_xref="GI:651209275"
+                     /translation="LIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAF
+                     VMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF"
+ORIGIN      
+        1 ctaattttcg gtgcttgagc tggcatagta ggcacagcac taagtttgct aattcgggcc
+       61 gaattgagtc aaccaggggc acttttaggg gacgaccaaa tctataacgt aattgttaca
+      121 gctcacgcct ttgttataat tttcttcata gtaatgcctg taataattgg aggcttcgga
+      181 aactggctcg tccctcttat aatcggggcc ccagatatag catttcctcg aataaacaac
+      241 ataagctttt gattgcttcc tccctcattt ctgctcctgc tggcctcttc aggagtagaa
+      301 gcaggcgctg ggacagggtg aacagtctac cctccgttag caggaaactt agcacacgca
+      361 ggtgcctccg ttgacttaac aattttctcc ctccatctcg caggagtttc ctcaattcta
+      421 ggggcaatca acttcattac aacatctatc aacatgaagc ccccctcgat aacccaatac
+      481 caaacacccc tatttgtttg atctgtatta attaccgcca ttctccttct actatcactt
+      541 cctgtcctcg cagctggtat tacaatgcta ttaaccgatc gaaacttaaa caccacattt
+      601 tttgatcccg ctggaggagg agacccagtg ctctaccagc acttattc
+//
+

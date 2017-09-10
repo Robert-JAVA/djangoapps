@@ -1,0 +1,50 @@
+LOCUS       FJ502355                 449 bp    DNA     linear   VRT 08-DEC-2009
+DEFINITION  Lissotriton vulgaris vulgaris clone Tv3Ca19 microsatellite
+            sequence.
+ACCESSION   FJ502355
+VERSION     FJ502355.1  GI:253971320
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris vulgaris
+  ORGANISM  Lissotriton vulgaris vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 449)
+  AUTHORS   Johanet,A., Picard,D., Garner,T.W.J., Dawson,D.A.,
+            Morales-Hojas,R., Jehle,R., Peltier,D. and Lemaire,C.
+  TITLE     Characterization of microsatellites loci in two closely related
+            Lissotriton newt species
+  JOURNAL   Conserv. Genet. 10 (6), 1903-1906 (2009)
+REFERENCE   2  (bases 1 to 449)
+  AUTHORS   Johanet,A., Picard,D., Garner,T.W.J., Dawson,D.A.,
+            Morales-Hojas,R., Jehle,R., Peltier,D. and Lemaire,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2008) Sciences, University of Angers, 2, bd
+            Lavoisier, Angers 49045, France
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Lissotriton vulgaris vulgaris"
+                     /mol_type="genomic DNA"
+                     /sub_species="vulgaris"
+                     /db_xref="taxon:385673"
+                     /clone="Tv3Ca19"
+                     /PCR_primers="fwd_name: Tv3Ca19F, fwd_seq:
+                     cctccacgaggttactgcac, rev_name: Tv3Ca19R, rev_seq:
+                     gaccatttcagacactcattacg"
+                     /note="this sequence was also amplified in Lissotriton
+                     helveticus helveticus"
+     repeat_region   317..390
+                     /rpt_type=tandem
+                     /rpt_unit_seq="gt"
+                     /satellite="microsatellite"
+ORIGIN      
+        1 gaatcttcat tgccccaact gagcgataac atggcggcag tgcagtatca agcctccctg
+       61 gcatcaatac tcagattgaa gaagagggcg atctccaaca ccctctcgag taaggtaccc
+      121 aactcccagg acaatctggg agtcctggcg ttcacccaca ctctcagtgg ccatcatctc
+      181 tttttgagtg ctttataacg tttattactg tgacaaaatg tgccacacat gcccattttc
+      241 agcatggttg agccctgaca tatgcccact ttgtgatcta tgctcctaaa aaacaacctc
+      301 cacgaggtta ctgcacgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt gtgtgtgtgt
+      361 gtgtgtgtgt gtgtgcgtgt gtgtgtgtgt aaacgcacac gtaatgagtg tctgaaatgg
+      421 tcttctatgt tttaaagcaa caatttaca
+//
+

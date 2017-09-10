@@ -1,0 +1,59 @@
+LOCUS       AB646197                 847 bp    mRNA    linear   VRT 12-JUL-2012
+DEFINITION  Cynops ensicauda ghrl mRNA for ghrelin, complete cds.
+ACCESSION   AB646197
+VERSION     AB646197.1  GI:395132296
+KEYWORDS    .
+SOURCE      Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Kaiya,H., Hasunuma,I., Tsutsui,K., Kangawa,K. and Miyazato,M.
+  TITLE     Identification of ghrelin in some amphibians
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Kaiya,H. and Miyazato,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2011) Contact:Hiroyuki Kaiya National Cerebral
+            and Cardiovascular Center Research Institute, Department of
+            Biochemistry; 5-7-1 Fujishirodai, Suita, Osaka 565-8565, Japan
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Cynops ensicauda"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:102207"
+                     /tissue_type="stomach"
+                     /country="Japan:Okinawa"
+     gene            1..847
+                     /gene="ghrl"
+     CDS             70..423
+                     /gene="ghrl"
+                     /codon_start=1
+                     /product="ghrelin"
+                     /protein_id="BAM29299.1"
+                     /db_xref="GI:395132297"
+                     /translation="MFLRVTVCSLMAVGFLLAQYTEAGSSFLSPADLHKPQPRKPARK
+                     IIPNNPQRRELDGVFDVYEKQPGDEEREIRFNVPFEIGVKMSATQYLDYGQLLQEILQ
+                     GLFPDNTPGPPGENE"
+     misc_feature    145..147
+                     /gene="ghrl"
+                     /note="The serine residue is modified with fatty acid"
+ORIGIN      
+        1 gaaacccaca cagcgcgcgg cgccacctta agtgttggat tccgcctgct ctttgcatag
+       61 ggcgctgcca tgtttcttcg ggtcacagtc tgttccctta tggccgttgg cttcctcttg
+      121 gcgcagtaca ccgaggcagg ctccagcttc ttaagccctg ctgatctcca caagccacag
+      181 cccaggaagc ctgcaagaaa gatcatcccc aacaaccctc agcgccggga gctagatggt
+      241 gtttttgatg tctatgaaaa gcaaccagga gacgaggaac gagaaattcg gttcaacgtg
+      301 ccctttgaga ttggtgtgaa gatgtccgcg acccagtacc tggattacgg ccagctgctg
+      361 caggagattc tgcagggact gtttcctgac aatacaccag gcccgcctgg ggaaaatgaa
+      421 tagacacaag aacctggaga agaaagccaa ccagtaagaa gactcatcga aagacactca
+      481 agagatattc atctaaagta ctctccttgc tttgtttcct gttccgttgt cacgaaatgc
+      541 aactgctttg gattagttgc caggatagtt attgcatgcc ttaaagccaa ttgtatgtga
+      601 tccaagatat ggtcaggcag aggggcagca ttgcagtaaa tgtggcagat tacacataca
+      661 tcgctagtgg caacgagtga tggctggtac agtccacctg ttgctcactg ttccccacaa
+      721 tgtctcattt caatccacaa ggctcagaca aaaaaaaaaa agctaaaaac aagaccttgt
+      781 agaccaaaaa ctaatgaagc tgtctttgtt ctaacatggc tgttataaaa taaacactgc
+      841 aaatatt
+//
+

@@ -1,0 +1,54 @@
+LOCUS       KF758841                 509 bp    mRNA    linear   VRT 11-JAN-2014
+DEFINITION  Cynops fudingensis CFBD-1 beta-defensin precursor, mRNA, complete
+            cds.
+ACCESSION   KF758841
+VERSION     KF758841.1  GI:571033983
+KEYWORDS    .
+SOURCE      Cynops fudingensis (Fuding fire-bellied newt)
+  ORGANISM  Cynops fudingensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 509)
+  AUTHORS   Meng,P., Yang,S., Shen,C., Jiang,K., Rong,M. and Lai,R.
+  TITLE     The First Salamander Defensin Antimicrobial Peptide
+  JOURNAL   PLoS ONE 8 (12), E83044 (2013)
+   PUBMED   24386139
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 509)
+  AUTHORS   Lai,R. and Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-OCT-2013) Kunming Institute of Zoology Chinese
+            Sciences of Academy, Unit of Toxin, No. 32 Jiaochang Donglu,
+            Kunming, Yunnan 650223, Panlong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..509
+                     /organism="Cynops fudingensis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:872626"
+                     /tissue_type="skin"
+     CDS             25..180
+                     /note="beta defencin"
+                     /codon_start=1
+                     /product="CFBD-1 beta-defensin precursor"
+                     /protein_id="AHF22421.1"
+                     /db_xref="GI:571033984"
+                     /translation="MAVNGSQGVEFAVWGCADYRGYCRAACFAFEYSLGPKGCTEGYV
+                     CCVPNTF"
+     mat_peptide     55..177
+                     /product="beta-defensin"
+ORIGIN      
+        1 ttggtggtgc tcctgctggc ggccatggct gtgaatggca gtcagggggt ggaatttgca
+       61 gtctggggct gcgcggatta cagaggatac tgccgagccg cctgcttcgc tttcgaatat
+      121 tccttgggac cgaaggggtg tacagagggt tacgtatgtt gtgtgccaaa caccttttag
+      181 actcatccag agcagcggtt cgtcatggac agattttctc caattccccc cgacaggcac
+      241 ttcacccaca gtcagcacat atttgtacgt ttttatacgg tctccggcat tggttcaatg
+      301 cccggaagtg aactcctgtt cccgggactg ttgctaaatc tcagtgtact ggtattctcc
+      361 tcaaacgctg tcaagtctta acaactttat ttggaaggcg tgtagtgata tcgaccaatt
+      421 acaatgttga ggttgtggct ggaacaagac aaataaagaa caaggaaacc gtaaaaaaaa
+      481 aaaaaaaaaa aaaaaaaaaa aaaaaaaaa
+//
+

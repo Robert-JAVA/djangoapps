@@ -1,0 +1,86 @@
+LOCUS       AM295004                1596 bp    mRNA    linear   VRT 09-MAR-2008
+DEFINITION  Pleurodeles waltl mRNA for immunoglobulin heavy chain constant
+            region (ighp gene).
+ACCESSION   AM295004
+VERSION     AM295004.1  GI:152002667
+KEYWORDS    constant region; ighp gene; immunoglobulin heavy chain.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Schaerlinger,B., Bascove,M. and Frippiat,J.P.
+  TITLE     A new isotype of immunoglobulin heavy chain in the urodele
+            amphibian Pleurodeles waltl predominantly expressed in larvae
+  JOURNAL   Mol. Immunol. 45 (3), 776-786 (2008)
+   PUBMED   17681605
+REFERENCE   2  (bases 1 to 1596)
+  AUTHORS   Schaerlinger,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUL-2006) Schaerlinger B., Lab. of Exp. Biology and
+            Immunology, Henri Poincare University, Bvd des Aiguillettes BP239,
+            54506 Vandoeuvre-les-Nancy, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..1596
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /cell_type="B lymphocytes"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+                     /rearranged
+     gene            <1..1596
+                     /gene="ighp"
+     mRNA            1..1596
+                     /gene="ighp"
+     CDS             <1..1362
+                     /gene="ighp"
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain constant region"
+                     /protein_id="CAL25718.1"
+                     /db_xref="GI:152002668"
+                     /translation="EHISKPTVYPLVNCCGSQSGTNVAIGCLVTDYLPEPVEVTWSNG
+                     NPISNEVKIYSSSVLKSTQKYIRSSHLYVPTSDWESKKYTCTVKHQSTSPEVSHTVSS
+                     SVCASKQIDPTVQLLLPSCEVDKIQLTCLLTNYTPSGLNVKWLVNGKINIEMSKLSTF
+                     KEFKADSKTLVGWSLLRVTKESWEKGDTYTCNVIREKSKQPFSEMYNISRCSACAKIT
+                     PGLWVYPVRPSYQEILNSKVSVACLVLGQDLKNARFSWELNGKPGPDSLLEAIKEHEN
+                     KTQSRLMKLAVTPAEWNKSTTYQCKVTNVCGMETKEGLITTRDSKLQLKNPTVTILNP
+                     NVEDPSEAESLTLFCDVTNFYPEDISIEWKNNKMLVEKAHYTNGPVSCSGPTCSTYSI
+                     LRVGKDEGGGDYTCEVRHVTLKTSPETATIYDVFGGVIPRSFGEHQPEFGGWSSNDSR
+                     TVL"
+     C_region        <1..1359
+                     /gene="ighp"
+                     /product="immunoglobulin heavy chain constant region"
+     3'UTR           1363..1596
+                     /gene="ighp"
+ORIGIN      
+        1 gagcatattt ccaagcctac ggtttatccg ttggtaaatt gttgtgggag ccagtctggc
+       61 accaatgtgg caatcggatg cctagtgact gactatctcc ctgagccggt ggaggtgact
+      121 tggagcaacg gcaaccctat ctcaaatgag gtgaaaatct actcttcatc tgtgctgaaa
+      181 agcactcaaa aatacatccg aagcagccac ctgtatgtcc caacatcaga ctgggagagc
+      241 aagaagtaca cctgtacggt gaaacaccaa tccacaagcc ctgaagtcag ccataccgtg
+      301 tcaagttcag tttgtgcatc gaagcagatc gacccgacgg tacagctctt gctcccatcg
+      361 tgtgaggtcg ataaaatcca gctgacgtgc cttctcacca actacacgcc cagtggcctg
+      421 aacgtgaagt ggctagtaaa tggcaagata aacatcgaaa tgtccaagtt gagcactttc
+      481 aaggagttca aagccgacag caaaaccctt gtgggctgga gtctcctacg agtgaccaaa
+      541 gagagctggg agaagggaga cacctacacg tgcaacgtga tccgagaaaa atcgaaacag
+      601 ccgttctctg agatgtacaa cataagcagg tgctcagctt gtgccaagat tacgcctggg
+      661 ctatgggtgt atccagtcag accatcatat caggaaatac tgaactccaa ggtctctgtc
+      721 gcctgtctgg tactaggcca agatttgaaa aatgcacgtt tcagctggga gcttaatggg
+      781 aagcctgggc cagattcgct gctcgaggcc atcaaagaac atgaaaataa aacacaaagc
+      841 aggttgatga agctcgcagt gacgcctgct gaatggaata aatcgacgac ctaccaatgc
+      901 aaagtgacta acgtctgtgg catggaaacc aaggagggac tcatcaccac aagggactca
+      961 aaactccagc tgaaaaaccc tactgtgact atcctgaacc ccaacgtaga agacccctct
+     1021 gaggcagaat cacttacact cttctgtgat gtcaccaact tctacccaga agatatcagc
+     1081 attgagtgga agaacaataa gatgctggtg gaaaaggctc actacaccaa tgggccagtc
+     1141 tcttgctctg gaccaacatg ttccacctac agtatattaa gggtagggaa ggatgaagga
+     1201 ggtggagact atacctgcga ggtgcgccat gtgaccctaa aaacaagccc ggaaactgca
+     1261 accatatacg atgtctttgg tggggttatc ccaaggagtt ttggagagca tcagcccgag
+     1321 ttcggagggt ggtcttcgaa tgactcaaga actgttttgt aaaaacttct tcacaaagaa
+     1381 ttcaagtgta catatcgtct tgactaggtt ttttctgtgg tttttacttt gaccatctga
+     1441 cacaacatgg atttttgttt atcccaattt tatttgtgta tttcatgtga aatgattctg
+     1501 aaataaatgg atttctgtga ttgtcaatgc tcatgtcctg tacgagaagt ttgtaataaa
+     1561 acgatttgtt tcaaaaaaaa aaaaaaaaaa aaaaaa
+//
+

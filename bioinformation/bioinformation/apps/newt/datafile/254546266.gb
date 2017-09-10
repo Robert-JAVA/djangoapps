@@ -1,0 +1,50 @@
+LOCUS       GQ258892                 653 bp    DNA     linear   VRT 26-JUL-2009
+DEFINITION  Triturus carnifex voucher NNMN:876 platelet derived growth factor
+            receptor alpha (PDGFRa) gene, intron 11.
+ACCESSION   GQ258892
+VERSION     GQ258892.1  GI:254546266
+KEYWORDS    .
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Multiple nuclear and mitochondrial genes resolve the branching
+            order of a rapid radiation of crested newts (Triturus,
+            Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 52 (2), 321-328 (2009)
+   PUBMED   19348957
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Department of Zoology, NNMN, P.O. Box 9517,
+            Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /organism="Triturus carnifex"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NNMN:876"
+                     /db_xref="taxon:8326"
+                     /country="Croatia"
+     gene            <1..>653
+                     /gene="PDGFRa"
+                     /note="platelet derived growth factor receptor alpha"
+     intron          <1..>653
+                     /gene="PDGFRa"
+                     /number=11
+ORIGIN      
+        1 ggtaagtaga tatttggtgc taattttgga gcaaatgcta agtgggttgc cattgactat
+       61 catgctttgt aaacagttcc tacctttttg gtaggtatga gccatagaaa taacatatac
+      121 acacatacat acataaaata acactaccag aaaaaataat cagttttata gattgtgcag
+      181 aattatcaat aaccacatcc ttcaaacagc aatgcattaa gttccaacca ggctctttct
+      241 tcgagtggcc tctaaatctc taagcccact taaggctttc tgataccatc ccaggcatgc
+      301 tgctttctga agcagcgttt gctgcacatg atgttgtgga ttatatgctg tgccctctca
+      361 cgccatctaa tgttctgctt tgaatagttc aacttggtct acttacaagc ctttgttttg
+      421 gttctattcc cttccctacc atttatagtc acaaagtttg tcaagacatt caagttcggt
+      481 gcattatact tgagtgatcc ctgtcttcac tttacatcct cttgtctacc taaaggggga
+      541 ttgatcgcat ttggaactgt acacagtatt cattattaca gcaagtcatg tggaaaaaaa
+      601 ctaaacaaat gatactatct ccactacagg aagaatcctc ggctctggcg cat
+//
+

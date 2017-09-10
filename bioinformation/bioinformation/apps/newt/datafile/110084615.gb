@@ -1,0 +1,45 @@
+LOCUS       DQ823393                 565 bp    DNA     linear   VRT 21-SEP-2007
+DEFINITION  Triturus alpestris voucher ta1 beta-fibrinogen gene, intron 7.
+ACCESSION   DQ823393
+VERSION     DQ823393.1  GI:110084615
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Assessing the phylogenetic signal of the nuclear beta-fibrinogen
+            intron 7 in salamandrids (Amphibia: Salamandridae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) CIBIO/UP, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            Vairao, Vila do Conde 4485-661, Portugal
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ta1"
+                     /db_xref="taxon:54263"
+     gene            <1..>565
+                     /gene="beta-fibrinogen"
+     intron          1..565
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 gtaagtagtg ctccagactt catcagttaa ttggtttaat gcaaggagca gccagggcac
+       61 attaaacaac taagaatgag agcattggct gcactgacat cccgcttcca tgtttgatca
+      121 gagatagatt ctcgcttctc agcatttctt tcgagttgtg gcattctttt agactgatag
+      181 gcacttcaag acaaacacac cattctagtg tccatttccg gataattcca ctgctggtgc
+      241 tcgttttcta caaaggacct cagatacaac tgccttatat atttaaaaaa aacaacagtt
+      301 ctgagacata aagcagacca ttagagaaaa ccgtcacacg ttcccacctt ataccttact
+      361 gcactgaagt aaactacttt attaattact acgttaaact atactgtaca acaggaatca
+      421 atattaaaag ttatgctgtg gtattttgtg catgaacaca catgcatgca cacatgcgta
+      481 cacatgattg cttcgagtct tggaaatgca ggggctggag gatgaacaca gtgtgcttgc
+      541 taaatttcaa tgtcttaatt tttag
+//
+

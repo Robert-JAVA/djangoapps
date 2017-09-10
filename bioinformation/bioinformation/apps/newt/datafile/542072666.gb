@@ -1,0 +1,52 @@
+LOCUS       KC524714                 806 bp    DNA     linear   VRT 28-FEB-2014
+DEFINITION  Tylototriton kweichowensis isolate H27 control region, partial
+            sequence; and tRNA-Phe gene, complete sequence; mitochondrial.
+ACCESSION   KC524714
+VERSION     KC524714.1  GI:542072666
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton kweichowensis (red-tailed knobby newt)
+  ORGANISM  Tylototriton kweichowensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 806)
+  AUTHORS   Zhang,M.
+  TITLE     Conservation genetics of Tylototriton kweichowensis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 806)
+  AUTHORS   Zhang,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2013) College of Animal Science and Technology,
+            Sichuan Agricultural University, 46 Xinkang lu, Ya'an, Sichuan
+            625014, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..806
+                     /organism="Tylototriton kweichowensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H27"
+                     /db_xref="taxon:385676"
+     misc_feature    <1..737
+                     /note="control region"
+     tRNA            738..806
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 cttgttttcc taagatcaga gtagcgcgga ggacatatta tgtatatagt acattaattg
+       61 acttgccata tggctagtgt tttagtatta ttaggatcca taatctaatt ttcaggcggg
+      121 aaaccaccaa cccgcccaca acgaccctcg ttccaaaatt tccaggacct caattgtaga
+      181 gtgttttacg tttattttca acagctggtt tgaatctatg gacaaaccta gtagagtttc
+      241 tatcatttat ctttaagagg cctctggtaa aatgctttca atatcgtcgt acccttgacc
+      301 ccgcataact gttttggact gcatttggta ttttttttct ctctgtgaag tcaatgcccc
+      361 atacagtctt gagccggggc acttgagcct aaatctgaac atacccagca ggtgtatact
+      421 cagcggaata atgagggggg cgtataatat tcatgttgtt cggacataat aattttttcc
+      481 ctctaaagca agagacatat tcttttccta tttccccccg gagctagttt ttctaagaat
+      541 acttattttg aatatcatct aattctattt tttgattaac ccccccaccc ccaaatgtta
+      601 gtctcatcag tatctacaac tctttagtca acccccgaaa ctaaaaagac ctttatactt
+      661 acgacattag gcttatgcta gaaaaatacc acttttttta aaagtttttt gattgttatt
+      721 acagtgttac actgtaagtt aatgtagctt atataaaagc atagcactga aaatgctaag
+      781 atagatttta aaacatctca tgaaca
+//
+

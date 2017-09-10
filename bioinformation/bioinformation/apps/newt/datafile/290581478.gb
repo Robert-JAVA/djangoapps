@@ -1,0 +1,74 @@
+LOCUS       FJ938040                1413 bp    DNA     linear   VRT 30-APR-2010
+DEFINITION  Paramesotriton caudopunctatus NADH dehydrogenase subunit 2-like,
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; mitochondrial.
+ACCESSION   FJ938040
+VERSION     FJ938040.1  GI:290581478
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton caudopunctatus (Guizhou warty newt)
+  ORGANISM  Paramesotriton caudopunctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1413)
+  AUTHORS   Wang,H.
+  TITLE     Molecular phylogeny of the Genus Paramesotriton (Caudata:
+            Salamandridae) in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1413)
+  AUTHORS   Wang,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2009) School of Life Science, Guizhou Normal
+            University, Baoshan North Road No.116, Guiyang, Guizhou 550001,
+            China
+COMMENT     NCBI staff are still waiting for submitters to provide appropriate
+            coding region information.
+FEATURES             Location/Qualifiers
+     source          1..1413
+                     /organism="Paramesotriton caudopunctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164969"
+                     /haplotype="GZNU2007071001"
+                     /country="China"
+     misc_feature    1..1037
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            1036..1104
+                     /product="tRNA-Trp"
+     tRNA            complement(1106..1174)
+                     /product="tRNA-Ala"
+     tRNA            complement(1175..1246)
+                     /product="tRNA-Asn"
+     rep_origin      1247..1278
+                     /note="L-strand origin of replication"
+     tRNA            complement(1279..1345)
+                     /product="tRNA-Cys"
+     tRNA            complement(1346..1413)
+                     /product="tRNA-Tyr"
+ORIGIN      
+        1 atgagcccct atacactatc tatgttaata tcaagtcttg cagtgggtac aattactaca
+       61 ttatcaagct atcactgatt tctagcatga ataggactag aaattaatac actagccatc
+      121 atccctttaa taactaaaat acaccaccct cgagccacag aatccgcaac aaagtatttt
+      181 ctgacacaag ccacagcctc cgccttaatt ttattttcaa caatcataaa cgcatgaata
+      241 acaggagaat ggacaatcat aaatataaac cacttcacat caacaacaat tttaacaatt
+      301 gctctgacaa ttaaactagg agccgcgcca tttcacctat gattaccaga cgttctacaa
+      361 ggactaaaca tgataacatg cctaatccta tcaacatgac aaaaactggc cccaatggcc
+      421 ctactcatct taacaagcca tcagctaaac acaaatctac ttatcttaat aggactaacg
+      481 tctatagttg tagggggatg aggaggccta aatcaaacac aaacacgaaa aattatagca
+      541 tattcatcca ttgcacacct aggatgaata atcataattg ttccatttgc cccaaatctg
+      601 gcgctactaa acctattaat ttacattatc ctaacttcat ctatatttat aacattaatg
+      661 attttgaact ccacaaacat aaacaaactc tcaacctcgt gaccaaaaac accaacacta
+      721 gcagccttta caataataat tctaatagcc cttgggggac tcccaccaac atcaggattt
+      781 ttgccaaagt gactaattta caagaaataa ccaaacaaca tcttaacaca ctatctgcca
+      841 taatagccat gtcagcccta cttagtttat tcttttacct gcgtctctca tatataattt
+      901 caataacctc acctcctcat gtctcaaact caaacctaac ctgacggaaa aaacccaacc
+      961 taaaaatcat ccctatgata atcataatat ccacaatgat aataccagta actccaacac
+     1021 tactcataat aaactaagga tttaggataa caagacccaa gaccttcaaa gccttaagca
+     1081 gaagttaaaa tcttctaatc cttgataaaa cctgcaggac actaccccac atcttctgaa
+     1141 tgcaacccag acactttaat taagctaagg ccctctagat tagcaggctt cgaccctacg
+     1201 accttttagt taacagctaa acactcaatc aacgagcttt aatctacttc tcccgcttgt
+     1261 cgaaaaaaaa agcgggagaa gccccggcaa aaagctactt tgctctttaa aatttgcaat
+     1321 tttatatgct gaacatcaca aggcttgata aaaaaaggac tataaccttt atgacaaggg
+     1381 ctacaacctt gcacctgatt cggccatttt acc
+//
+

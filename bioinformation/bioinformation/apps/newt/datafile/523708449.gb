@@ -1,0 +1,64 @@
+LOCUS       KC165100                 720 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis de-etiolated-like protein 1 (DET-1) gene, partial
+            cds.
+ACCESSION   KC165100
+VERSION     KC165100.1  GI:523708449
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 720)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 720)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..720
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>720
+                     /gene="DET-1"
+     mRNA            <1..>720
+                     /gene="DET-1"
+                     /product="de-etiolated-like protein 1"
+     CDS             <1..>720
+                     /gene="DET-1"
+                     /codon_start=1
+                     /product="de-etiolated-like protein 1"
+                     /protein_id="AGQ56619.1"
+                     /db_xref="GI:523708450"
+                     /translation="AAEDLLHGYDGDILANGNDQRSVNIRGRLFERFFVLLHITNVAS
+                     NGEHLNRECSLFTDDCRYVIVGSAAYLPEEPHPPFFEVYRNSESVTPNPRSPLEDYSL
+                     HIIDLHTGRLCDSRTFKCDKVILSHNQGLYLYKNILAILSVQQQTIHVFQVTAEGTFI
+                     DVRTIGRFCYEDDLLTLSAVYPEVQRDSQTGMANSYKEPFINSLKHRLLVYLWKRAEQ
+                     DGSAIAKRRFFQYFDQLRQLRM"
+ORIGIN      
+        1 gcagcagagg atctcttgca tggttatgat ggtgacattt tggccaatgg aaatgatcaa
+       61 agatcggtca atatacgtgg acggctgttt gagaggtttt ttgttcttct acacattact
+      121 aacgtagcgt cgaacggtga gcatctgaac cgagagtgca gtttgtttac agatgattgt
+      181 cgctatgtaa tagtagggtc agctgcttat cttcctgaag agcctcaccc tccttttttt
+      241 gaagtctacc gtaatagcga atctgtgact cccaatccaa gatcgccctt ggaagattac
+      301 tctctgcaca taatagacct tcacacaggc agactttgtg attccaggac gttcaagtgt
+      361 gacaaagtga tcctttctca caaccaagga ctttaccttt ataaaaatat tttggctatt
+      421 ctgtcagtcc agcaacagac aattcatgtg tttcaagtta ctgctgaagg cacattcatt
+      481 gatgtccgga cgataggtcg gttttgttat gaagatgact tgctcacact atcggctgtc
+      541 tatccagagg tacagcgaga tagccagacc gggatggcta attcctataa agagcccttt
+      601 ataaattcat tgaagcacag acttcttgtc tacctctgga agagggcaga acaggatggg
+      661 agtgctattg caaagaggag attttttcag tactttgacc agctcaggca gttacgcatg
+//
+

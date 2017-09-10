@@ -1,0 +1,80 @@
+LOCUS       HH769440                2238 bp    DNA     linear   PAT 10-NOV-2010
+DEFINITION  Sequence 5627 from Patent EP2221382.
+ACCESSION   HH769440
+VERSION     HH769440.1  GI:311819867
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Shirley,A. and Schauwecker,F.
+  TITLE     Proteins associated with abiotic stress response and homologs
+  JOURNAL   Patent: EP 2221382-A2 5627 25-AUG-2010;
+            BASF Plant Science GmbH (DE)
+FEATURES             Location/Qualifiers
+     source          1..2238
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="unassigned DNA"
+                     /db_xref="taxon:8316"
+     CDS             1..2238
+                     /note="unnamed protein product"
+                     /codon_start=1
+                     /protein_id="CBX85448.1"
+                     /db_xref="GI:311819868"
+                     /translation="MRLCGHCRPGAPGSSAEYLDFLDDDQDQGLYHGKVRDMISENRH
+                     RLIVNMNDLRRNDEARANRLLNDAFGEVIAFQKALKDMVSSIDATYSKQFEEFSIGFE
+                     GSFGTNDVSPRTLGRHFLGNLVCVEGIVTKCSLVRPKVMRSVHYCPATKKTLERKYTD
+                     LTSLDPFPSSAVYPTKDEENNPLETEYGLCTYKDHQTLTIQEMPEKAPAGQLPRSVDI
+                     IADDDLVDSCKPGDRVQIVGIYRCLPSKQGGFTSGTFRTIMLANNVKQMSKEMAPTFS
+                     ADDVAKIKKFCRAHTNDIFQHLSKSLAPSIHGHEYIKKAILCMLLGGNEKVLENGTRI
+                     RGDINVLLIGDPSVAKSQLLRYVLHTAPRAIPTTGRGSSGVGLTAAVTTDQETGERRL
+                     DMGAMVLADRGVVCIDEFDKMSDMDRTAIHEVMEQGRVTIAKAGIQARLNARCSVLAA
+                     ANPVYGRYDQYKTPMENIGLQDSLLSRFDLLFIVLDQMDADSDREISDHVLRMHRYRA
+                     QGERDGHALPLGCNVEVFATDDPNAQNEAEEELQIYEKHDNLLHGPRAKREKVVSMQF
+                     IRKYIHVAKLVKPVLSQEAADYIAEEYSKIRSHDQMNNERARTMPVTARALETMIRLS
+                     TAHAKLRMSKTIDIQDAEVALELIQFAYFQKVLEKEKKKVVGDGINEDNSSQVVPSQE
+                     SVRKSSKRGSKDEGDEMEDTMDPYSFSEKSMTQDLVLSARKTRTPRKKPTDIGARGQI
+                     TIYDR"
+ORIGIN      
+        1 atgaggttgt gtgggcattg cagaccagga gctccgggaa gctcagcgga gtacctggac
+       61 tttctcgatg acgatcaaga ccaggggctg tatcatggca aagtccggga tatgatcagc
+      121 gagaaccggc accggctgat tgtcaacatg aacgacctgc ggcgcaacga cgaggccaga
+      181 gccaaccgat tattaaatga tgcgtttgga gaagtgattg cattccagaa agcactgaaa
+      241 gatatggtta gctcaattga tgcaacatat tccaaacagt ttgaggagtt cagcattgga
+      301 tttgaaggaa gctttggaac aaacgacgtt tcacctcgca cacttggtcg tcactttctt
+      361 ggtaacctgg tctgtgtaga aggcattgta acaaaatgct cattggtgag gcctaaagtt
+      421 atgcgaagtg tacattactg ccctgccaca aagaagacac tggagcgcaa gtatacagac
+      481 ctcaccagtt tggacccatt cccgtcaagt gctgtgtacc ccacaaagga cgaggaaaat
+      541 aatcccttgg aaacggagta tggactttgt acctacaaag atcaccagac gctgaccatc
+      601 caggagatgc ccgagaaggc acctgctggg caacttcctc gatctgttga tattattgca
+      661 gatgatgatt tggttgacag ctgcaaacct ggggaccgag tgcagattgt gggaatctat
+      721 cgctgccttc cttccaagca gggaggcttc acctctggca cgttcaggac catcatgctg
+      781 gctaataacg tcaaacagat gagcaaggaa atggctccta cattttcagc tgatgatgtg
+      841 gcaaagatca agaaattctg cagagctcat acgaatgata tattccagca cttgagcaaa
+      901 tcgttggcac cgagtattca tggacatgag tatattaaaa aagctatttt gtgcatgctg
+      961 cttggaggca atgagaaggt tcttgaaaat gggacacgca taagaggaga cattaatgtt
+     1021 ttattgatag gtgatccttc tgttgcgaag tctcagcttc ttcgatatgt gctgcatacc
+     1081 gctccaagag ctatacctac cactggtagg ggatcatctg gagtaggatt gactgctgct
+     1141 gttactactg accaggaaac tggggaacga agattggaca tgggcgctat ggttttagca
+     1201 gatagagggg ttgtctgcat tgatgagttt gacaaaatgt ctgatatgga ccgaacagct
+     1261 attcatgaag taatggaaca aggacgtgtc actatagcaa aagcaggaat ccaggcaagg
+     1321 ctgaatgccc gctgcagtgt attagctgct gccaacccgg tgtatggaag gtacgaccag
+     1381 tacaaaacac cgatggaaaa cattgggctg caagactccc ttctgtccag attcgatctc
+     1441 ctcttcatag ttcttgatca aatggatgcg gacagtgatc gagaaatttc ggaccatgtt
+     1501 ctgcgcatgc acagatacag ggctcaagga gaacgagacg gacatgcatt gccgcttgga
+     1561 tgcaatgtag aggtctttgc aactgatgac ccaaatgctc aaaacgaggc agaggaggaa
+     1621 ctgcagattt atgaaaaaca tgacaactta cttcacggtc cacgtgcaaa aagagagaag
+     1681 gttgtaagca tgcaatttat tcgaaagtat atccatgtgg ctaaactggt caagcctgtt
+     1741 cttagtcagg aagcagctga ttatatagcg gaggaatatt cgaagatccg cagccatgat
+     1801 cagatgaata atgaacgtgc aaggacgatg ccagttacgg caagagctct ggaaaccatg
+     1861 atccgattgt ccacagctca tgctaaactc cgaatgagca aaaccattga tattcaagat
+     1921 gctgaagtgg ccctggagct tattcagttt gcttacttcc aaaaggtttt ggagaaagag
+     1981 aagaaaaaag ttgttggtga tggtataaat gaggataatt ctagccaagt cgtcccaagc
+     2041 caggaaagtg taaggaagag ttctaagcgg gggtcaaaag atgaaggtga tgagatggag
+     2101 gacacaatgg atccgtactc tttcagcgaa aaaagcatga cccaagattt agtattgtct
+     2161 gctcggaaaa caaggactcc taggaaaaag ccaacagata ttggggctag ggggcagata
+     2221 acgatctatg acagataa
+//
+

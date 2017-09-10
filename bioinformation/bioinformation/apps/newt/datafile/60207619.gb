@@ -1,0 +1,126 @@
+LOCUS       AY857752                3818 bp    mRNA    linear   VRT 28-FEB-2005
+DEFINITION  Notophthalmus viridescens matrix metalloproteinase 9 (MMP9) mRNA,
+            complete cds.
+ACCESSION   AY857752
+VERSION     AY857752.1  GI:60207619
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 3818)
+  AUTHORS   Vinarsky,V., Atkinson,D.L., Stevenson,T.J., Keating,M.T. and
+            Odelberg,S.J.
+  TITLE     Normal newt limb regeneration requires matrix metalloproteinase
+            function
+  JOURNAL   Dev. Biol. 279 (1), 86-98 (2005)
+   PUBMED   15708560
+REFERENCE   2  (bases 1 to 3818)
+  AUTHORS   Vinarsky,V., Atkinson,D.L., Stevenson,T.J., Keating,M.T. and
+            Odelberg,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2004) Internal Medicine, University of Utah, 667
+            Wintrobe Bldg., 26 North 1900 East, Salt Lake City, UT 84132, USA
+FEATURES             Location/Qualifiers
+     source          1..3818
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..3818
+                     /gene="MMP9"
+     CDS             101..2140
+                     /gene="MMP9"
+                     /EC_number="3.4.24.35"
+                     /note="gelatinase B"
+                     /codon_start=1
+                     /product="matrix metalloproteinase 9"
+                     /protein_id="AAX14805.1"
+                     /db_xref="GI:60207620"
+                     /translation="MTPQLALLAVGLLALSCRAAPLQSQPQVRVTFPGELVSSISDDE
+                     LAESYLERFGYISKRSRSNTHVSISKALLQMQKKLGLNETGELDQSTMEAMKTPRCGV
+                     PDVGNFQTFEGDLKWDHNDITYRVLNYSPDLDGDIIEDAFRRAFKVWSDVSPLTFTQI
+                     YSGEADIMILFGSDDHGDPYPFDGKDGLLAHAYPPGEGVQGDAHFDDDEFWTLGTGVV
+                     VKTRFGNANGAVCQFPFKFNGRSYSSCTSEGRTDGLLWCSTTTDYDKDKKYGFCPSEL
+                     LYTYGGNSDGDKCVFPFIFDGESYDACTKEGRSDGYRWCATTDNFDKDKKYGFCPNRD
+                     TAVIGGNSQGDPCVFPFVFLEKTYNSCTSNGRDDRRLWCATTSNYDTDRKWGFCPDQG
+                     YSLFLVAAHEFGHAIGLEHSTVRDALMYPMYSYIEDFQLHSDDIEGVQYLYGSGTGPH
+                     PSPPMPTTESPDVSDKTTTTVTTSPTTTTEVVPVDPTTDACKVKAFDAITEIEGQLHF
+                     FKDGKYWKASSARPGAIKGPLKISDTWPALPSVIDTAFEDLLTKKIFFFSGRRFWVYT
+                     GTTVLGPRGLEKLGIGKDVEKIVGSLQRGRGKVLLFNGDKYWRLDVKTQVVDKGYPRD
+                     TEDAFAGVPINAHDVFLYKENIHFCKDQFYWRMTPRRQVDQVGYVKYDILNCPEN"
+     variation       798
+                     /gene="MMP9"
+                     /note="results in phenylalanine to serine substitution"
+                     /replace="c"
+     variation       2042
+                     /gene="MMP9"
+                     /note="results in phenylalanine to leucine substitution"
+                     /replace="c"
+ORIGIN      
+        1 actgagaggc gctctgagga cgggaagaga cgcaggccca cagcacgagc cggcacagag
+       61 cgcagagatc agacccacag cccacacacc gctctccacc atgacgccac agctggccct
+      121 gctggcagtg gggctcctcg ccctcagctg ccgcgctgcc cccctgcagt cccagccgca
+      181 ggtccgggtc acgttccctg gagaactggt cagcagcatc agcgacgacg agctggcaga
+      241 gagttacctg gagcgcttcg ggtacatctc caagaggtcg cgcagcaaca cccacgtgtc
+      301 catcagcaag gccctgctgc agatgcagaa gaagctgggg ctgaacgaga cgggcgagct
+      361 ggaccagagc accatggagg ctatgaagac cccccgctgc ggggtgcccg acgtaggcaa
+      421 cttccagacc ttcgaaggcg acctcaagtg ggaccacaac gacatcacgt accgggtgct
+      481 aaattactcc ccagacctgg acggtgatat catcgaggat gccttccgtc gtgccttcaa
+      541 ggtctggagt gatgtgtctc cactcacctt cactcagatc tacagtggcg aagctgacat
+      601 catgatcctc tttgggtccg atgaccatgg cgatccctat cctttcgatg gcaaggacgg
+      661 cctcctggcc cacgcatacc ctccaggtga aggtgtgcaa ggcgatgccc attttgatga
+      721 tgatgagttc tggacattgg gaacaggagt agttgtcaag accaggtttg gaaacgccaa
+      781 cggagcagtc tgccagttcc ctttcaagtt taatggacgc tcttactcaa gttgtaccag
+      841 cgaaggccgt accgatgggc tgctgtggtg ctccaccacg accgactatg acaaggacaa
+      901 gaagtatgga ttctgtccca gtgaactgct ctacacttat ggtggtaaca gcgacggcga
+      961 caagtgtgtc ttccccttca ttttcgatgg tgaatcctac gatgcttgta caaaggaggg
+     1021 tcgatctgat ggctaccgct ggtgcgccac caccgacaac ttcgacaaag acaagaaata
+     1081 cggattctgc cccaacagag ataccgctgt gattggtggg aactctcagg gagacccctg
+     1141 tgtttttccc ttcgtatttt tggagaaaac ctataattct tgcacaagta acggccgcga
+     1201 cgaccggagg ctctggtgtg ccaccaccag caactacgat acagacagga agtggggatt
+     1261 ctgccctgat caagggtaca gcctcttcct ggtggccgct catgaattcg ggcacgccat
+     1321 tggcctggag cacagcaccg tgcgggatgc gctcatgtac ccaatgtaca gctacatcga
+     1381 agacttccaa ctgcactcag acgacattga aggggttcag tacctctatg gttctggcac
+     1441 tggtcctcac ccatctcccc ccatgccaac cacagagagt cccgatgtta gcgacaaaac
+     1501 gacaaccaca gtaaccactt ctcccaccac caccacagag gtcgtgcctg tggatcccac
+     1561 cactgatgcc tgcaaagtga aggctttcga tgccattacc gaaatcgagg gacagctcca
+     1621 cttcttcaag gatggaaaat attggaaggc atcatcagct cgtccagggg ctattaaagg
+     1681 tcctttgaaa atctccgaca cctggcctgc cctcccatcc gtcatagaca ctgctttcga
+     1741 agatctgctg accaagaaga ttttcttctt ttccggtcgc cgcttctggg tctacactgg
+     1801 aactacagtt ctgggccccc gtggactgga gaagctgggg attgggaaag acgttgagaa
+     1861 gattgtggga tctctgcagc gtggacgtgg aaaggtcctg ctcttcaatg gagacaagta
+     1921 ctggaggttg gacgtgaaga cccaagttgt ggataaaggc tatccccggg acaccgagga
+     1981 tgctttcgct ggagtgccca ttaacgccca cgatgtcttc ctatacaaag agaacatcca
+     2041 cttctgcaaa gaccagttct actggcgaat gacgccccgc agacaagtgg atcaagtggg
+     2101 ctacgtgaag tacgacatct tgaattgccc cgagaattag aagactctgc cgtactgcac
+     2161 cgtgacccga agccagctcc tcgaagccat ccttggttgt tccttcttgg cgttccaata
+     2221 ggctgggaca atcaacgctc ctctctagag gatctcgtcg cctcatttta cagagacttt
+     2281 cctcattggt gacatttctg gagcattaca gtgtcctgct atacccagct gtgacgcgag
+     2341 ggcagacata ccttgggctt cacgttcatt gaatgaaata tccattaata ccctccaacc
+     2401 aagggtgtag ggaggttata aatatgagct aaagctcatg tcgttggcat gggtccttct
+     2461 atttatgcac tccccaatgg actcggaaag ggtacagaaa tatcacatgg gctatgctac
+     2521 tgggataggc ccttctatta ataccctcct cttaggacat gggcatggca cagatatttc
+     2581 ccatgtttct tgcctttgga atgggttctt tattaatgcc ctcaccccag gatgtcggca
+     2641 ggaggcactt atatccctag ggtcatgcca ttaggaagga ttttgctatt aatgcccttt
+     2701 cccaggacct gggcagagtc cagttatatt tcttggttca tgtcattgcg atggcttcag
+     2761 ctactaaagc cccccacaag aacacgagca gggcgctgct gtatcccgca gtttatgcca
+     2821 ttgtgacaga gcttccatta gaacaattgt ttattcccat aatgccgatt aaattggtaa
+     2881 tggtttggag agattatcta tgttgttgga tcccctacaa ggtggatatc tcaacacaat
+     2941 gcgtatgagg cgaggctgcg aacagtagat gaggccccct aaggagttca tcttttgtgc
+     3001 cagtccatct ccattgtgat ccttcttcca tcctcctgca ctatcaacct tgggggtacc
+     3061 gagacccctc taatattccc cctccccaga tttagtaatt gccgtctatg gtgattgttg
+     3121 gtctataggt cacctatggg cccttttctt cacatctcta ttagcctccc tcatggaggt
+     3181 ggggggaggt caccatatcc catttcaaat atcgcatgac aaaaatatta catccagtat
+     3241 atcgctatca cgatattgcg aagatgagta gatgtgcagt taagaagagt ggatatatgc
+     3301 caacctaaat aaatgtacct cgatgatatt gtgctaggcg atttagtgga ggcaatattt
+     3361 ttgtaggttg atattgttga cctctatagt aacatacaac cccaaccttt gtaccgatcc
+     3421 cacccattcc tcggacctta gatttataca ggaagagcat ctttcaacct cttcccaaat
+     3481 atttcctcca tgcacaggcc gtatcttcat gtggacagta ttcttgtaga tgcattattt
+     3541 tgaattgtat atttgttatc cttgaagtta taacttatag ctgtagagcc gcttgcctgg
+     3601 cgcaagtgcc acaagatttg atttctaaat taatctgcct tttatgtgag aattcaaaga
+     3661 gggtgttcat gagtgactga gcaatctgca aggttaggat gtgtgtgttt tcagtactat
+     3721 gtctatttaa tatatgtgaa aagctcactc tccgctcggg tagtggtaaa gtttttttat
+     3781 tgaatcaatt tctaataaat taagttcttt ctttaata
+//
+

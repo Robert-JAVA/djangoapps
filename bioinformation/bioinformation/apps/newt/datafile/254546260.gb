@@ -1,0 +1,53 @@
+LOCUS       GQ258887                 490 bp    DNA     linear   VRT 26-JUL-2009
+DEFINITION  Triturus carnifex macedonicus voucher NNMN:602 calreticulin gene,
+            intron c and partial cds.
+ACCESSION   GQ258887
+VERSION     GQ258887.1  GI:254546260
+KEYWORDS    .
+SOURCE      Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 490)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Multiple nuclear and mitochondrial genes resolve the branching
+            order of a rapid radiation of crested newts (Triturus,
+            Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 52 (2), 321-328 (2009)
+   PUBMED   19348957
+REFERENCE   2  (bases 1 to 490)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Department of Zoology, NNMN, P.O. Box 9517,
+            Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Triturus macedonicus"
+                     /mol_type="genomic DNA"
+                     /sub_species="macedonicus"
+                     /specimen_voucher="NNMN:602"
+                     /db_xref="taxon:385668"
+                     /country="Greece"
+     intron          <1..429
+                     /number=c
+     mRNA            <430..>490
+                     /product="calreticulin"
+     CDS             <430..>490
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="ACT66248.1"
+                     /db_xref="GI:254546261"
+                     /translation="PDICGPPTKKVHVIFNYKG"
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag ggggaaaaag cattcaattg gcagtgaatc atgcttttgg ctagaatttc
+      121 gaagtttcag agatatggct ttgatatctg gctttgattg gtctaactta atgaagtgac
+      181 ctgcagttct gagagtttca ggatgtctga gcttaatctg ttaagtcttt cggtgttgcc
+      241 tttcctttgc tgcctgcttt ttggtttgtg gtaagccttt tgctctcaca cactcgcaca
+      301 cactcgcatg aggttggata agcagtgcat acctgaaatg gcaaacccat ggcgtgggtg
+      361 tatttaaata catataatcg tgtgtagctc aggtttgtga agttttaaaa atgtcttcct
+      421 ttgctacagg gccagacatc tgcggacctc cgaccaagaa agtacatgtg attttcaact
+      481 acaaaggcaa
+//
+

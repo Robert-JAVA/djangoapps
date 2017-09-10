@@ -1,0 +1,52 @@
+LOCUS       X05106                   554 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  Salamander mRNA fragment for skeletal alpha-actin (C-Terminus).
+ACCESSION   X05106
+VERSION     X05106.1  GI:64248
+KEYWORDS    actin; alpha-actin.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 554)
+  AUTHORS   Khrestchatisky,M. and Fontes,M.
+  TITLE     There is an alpha-actin skeletal muscle-specific gene in a
+            salamander (Pleurodeles waltlii)
+  JOURNAL   J. Mol. Biol. 193 (2), 409-412 (1987)
+   PUBMED   3453122
+COMMENT     Data kindly reviewed (21-DEC-1987) by FONTES M.
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /clone="4.82"
+     mRNA            <1..554
+                     /product="alpha-actin mRNA"
+     CDS             <1..378
+                     /codon_start=1
+                     /product="alpha skeletal actin fragment (AA 250-374)"
+                     /protein_id="CAA28753.1"
+                     /db_xref="GI:64249"
+                     /db_xref="GOA:P10994"
+                     /db_xref="InterPro:IPR004000"
+                     /db_xref="InterPro:IPR004001"
+                     /db_xref="UniProtKB/Swiss-Prot:P10994"
+                     /translation="GNERFRCPETLFQPSFIGMESAGIHETTYNSIMKCDIDIRKDLY
+                     ANNVMSGGTTMYPGIADRMQKEITALAPSTMKIKIIAPPERKYSVWIGGSILASLSTF
+                     QQMWITKQEYDEAGPSIVHRKCF"
+     polyA_site      554
+                     /note="polyadenylation site"
+ORIGIN      
+        1 ggcaatgagc gtttccgatg ccctgaaacc ctcttccagc cctcctttat tggtatggaa
+       61 tctgcgggca tccatgagac aacctataac agcatcatga agtgtgatat tgacatcagg
+      121 aaggacctgt atgccaacaa tgtcatgtcg ggtggtacca ccatgtaccc aggtattgct
+      181 gatcggatgc agaaggagat cactgctctg gcacccagca ccatgaagat caagatcatt
+      241 gctccccctg agcgcaagta ctctgtatgg atcggcggct ccatcctggc ctccctgtcc
+      301 accttccaac agatgtggat cactaagcag gagtacgatg aggcaggacc ctccattgtc
+      361 caccgcaagt gcttctaaac gggctacccc caccacggct caccttcaga atggcgatgc
+      421 tctccgttgt ccgattgcaa taaagttcaa cagcaccata accattctct tttgtaacaa
+      481 atttcgtacc tcttgctgca gccacgaagt tgactcaaag tgtatgtaaa agtgtacata
+      541 aaatgttaaa ttat
+//
+

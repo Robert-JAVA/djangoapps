@@ -1,0 +1,64 @@
+LOCUS       KJ128672                 648 bp    DNA     linear   VRT 16-JUN-2014
+DEFINITION  Triturus cristatus voucher NRM:6188 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ128672
+VERSION     KJ128672.1  GI:651209270
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Bergsten,J., Englund,M. and Ericsson,P.
+  TITLE     A DNA key to all Swedish vertebrates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Zuccon,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2014) Dept. of Zoology, Swedish Museum of Natural
+            History, Frescativ. 40, Stockholm 18378, Sweden
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NRM:6188"
+                     /bio_material="NRM:17"
+                     /db_xref="taxon:8323"
+                     /country="Sweden"
+                     /lat_lon="59.1721 N 18.1071 E"
+                     /collection_date="04-Sep-2008"
+                     /collected_by="Bolander, S"
+                     /identified_by="Ahlander, E"
+                     /PCR_primers="fwd_name: lepf1, fwd_seq:
+                     attcaaccaatcataaagatattgg, rev_name: lepr1, rev_seq:
+                     taaacttctggatgtccaaaaaatca"
+                     /note="tissue sample annotated in bio_material qualifier"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AIC75875.1"
+                     /db_xref="GI:651209271"
+                     /translation="LIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAF
+                     VMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF"
+ORIGIN      
+        1 ttaatcttcg gtgcttgagc cggcatagtg ggaacagcac ttagcctgct tatccgagcc
+       61 gaacttagtc aacctggtgc actcctagga gatgaccaaa tctataacgt tattgtcaca
+      121 gcccatgcct ttgtaataat ttttttcata gtaatacccg taataattgg aggatttgga
+      181 aactggctcg ttccattaat aatcggggcc cctgatatag cctttccccg aatgaataat
+      241 ataagtttct gactactacc cccttcattt ttacttctac tcgcctcgtc aggggttgag
+      301 gcaggggcag gaaccgggtg gacagtctac ccgcccttgg cggggaacct tgcccatgca
+      361 ggcgcctccg ttgacctaac aatcttttcc cttcacctag caggagtgtc ctcgattcta
+      421 ggggcaatta actttattac aacatcaatt aatataaaac ccccatcaat aacacaatat
+      481 caaaccccac tgtttgtgtg atctgtacta attaccgcca tcctcttact cctctcttta
+      541 ccagtactag cagcaggtat tactatgctc ctaacagacc gaaacctaaa cactacgttc
+      601 tttgaccccg ctggaggagg agaccctgtg ctctatcagc acttattc
+//
+

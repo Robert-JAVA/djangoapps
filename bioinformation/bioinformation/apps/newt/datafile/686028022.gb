@@ -1,0 +1,65 @@
+LOCUS       KJ776978                 975 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  UNVERIFIED: Notophthalmus viridescens isolate Eastern_GC_sub_28
+            NADH dehydrogenase subunit 2-like (ND2) gene, partial sequence; and
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; mitochondrial.
+ACCESSION   KJ776978
+VERSION     KJ776978.1  GI:686028022
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 975)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..975
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Eastern_GC_sub_28"
+                     /db_xref="taxon:8316"
+     gene            <1..588
+                     /gene="ND2"
+     misc_feature    <1..588
+                     /gene="ND2"
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            587..655
+                     /product="tRNA-Trp"
+     tRNA            complement(657..725)
+                     /product="tRNA-Ala"
+     tRNA            complement(726..798)
+                     /product="tRNA-Asn"
+     rep_origin      799..832
+                     /note="origin for light strand replication"
+     tRNA            complement(830..893)
+                     /product="tRNA-Cys"
+     tRNA            complement(894..955)
+                     /product="tRNA-Tyr"
+ORIGIN      
+        1 tactaattac aatagcacta gcatcaacaa ttattcggag gatgaggagg cctcaatcaa
+       61 acacaaatac gaaaaattat agcatattca tctattgcac atctaggatg aataatttta
+      121 gtcttatctt tcgcccctgc cctaacaata tttaacttaa taatctattt aatattaacc
+      181 tcttctatat ttataataat aatagccaca cattccacaa atattaataa actctcaact
+      241 tcatgactaa aaacacctac actagcagca tccacaataa ttacccttat agcccttgga
+      301 ggacttcctc caacctcagg cttcctacca aaatgactaa ttttacaaga aataacaaaa
+      361 caacacctag agacactatc aactataata gctatatccg ctttactcag cttattcttt
+      421 tatctacgcc tatcttatac tatctctcta acctcccccc caaatatttc caattcaaac
+      481 ttcacctgac gaataaaaaa caataaacta caaactctcc caactcttat tgtactttca
+      541 gcaataataa tacctatcgc cccaacacta ttgacaataa taaactaaag acttaggata
+      601 ataagaccaa agaccttcaa agtcttaagc aggagttaaa accttctagt ctttgatagg
+      661 acctgcaaga ctctatctca catcttctga atgcaaccca aacactttaa ttaagctaag
+      721 accctctaga ctagtaggcc tttatcctac gcccttttag ttaacagcta aacgctcaat
+      781 ccagcgagct ttagtctact tctcccgctt atgggggggg aaacgggaaa aaccccggca
+      841 aaaaccattt aggtctttaa aaattggatt ttaattgcgg gaatcacggg gcttggtaaa
+      901 aaaaagaatt taccttttaa aaaggggcac aaacttccct ttttggcccc ttaccaggga
+      961 aataaacaag aaaat
+//
+

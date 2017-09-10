@@ -1,0 +1,58 @@
+LOCUS       JQ046316                 561 bp    DNA     linear   VRT 03-MAR-2012
+DEFINITION  Tylototriton asperrimus voucher KIZ08080215 cytochrome c oxidase
+            subunit 1 (COX1) gene, partial cds; mitochondrial.
+ACCESSION   JQ046316
+VERSION     JQ046316.1  GI:378725103
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Yuan,Z.Y., Jiang,K., Lv,S.Q., Yang,J.X., Nguyen,Q.T., Nguyen,T.T.,
+            Jin,J.Q. and Che,J.
+  TITLE     A phylogeny of the Tylototriton asperrimus group (Caudata:
+            Salamandridae) based on a mitochondrial study: suggestions for a
+            taxonomic revision
+  JOURNAL   Zool. Res. 32 (6), 577-584 (2011)
+   PUBMED   22184015
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Yuan,Z., Jiang,K., Lu,S. and Che,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2011) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology Chinese Academy of
+            Sciences, No. 32 East Jiaochang Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Tylototriton asperrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ08080215"
+                     /db_xref="taxon:385674"
+     gene            <1..>561
+                     /gene="COX1"
+     CDS             <1..>561
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AFC35305.1"
+                     /db_xref="GI:378725104"
+                     /translation="TALSLLIRAELSQPGALLGDDQIYNVVVTAHAFVMIFFMVMPVM
+                     IGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPL
+                     AGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVWSVLI
+                     TAILLLLSLPVLAAGITMLLTDRNLNT"
+ORIGIN      
+        1 acagcactaa gcctactaat tcgagccgaa ctcagccaac caggtgccct cctcggcgac
+       61 gatcaaattt acaacgtagt tgtcacagcc catgccttcg ttataatttt ttttatggta
+      121 atgccggtaa taatcggcgg atttggaaac tgactattac cactaataat tggagcccca
+      181 gacatggcct tcccgcgaat gaataatata agcttctgac ttcttccacc atcattcctg
+      241 ctccttcttg cctcatcagg tgtagaagcg ggagccggaa ccgggtgaac tgtgtaccct
+      301 ccactagctg gcaaccttgc tcatgcaggg gcatcagtag acctaaccat cttctccctc
+      361 catctcgcag gcgtatcttc aatccttggc gcaattaact ttatcaccac atcaattaat
+      421 ataaaacccc catcaataac acaatatcaa acaccccttt ttgtatgatc agttttaatc
+      481 acagccattc tactactcct gtccctccct gtactagcgg ctggtatcac catacttctg
+      541 accgaccgta acctaaacac c
+//
+

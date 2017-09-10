@@ -1,0 +1,66 @@
+LOCUS       KM463928                 798 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Pleurodeles waltl sodefrin precursor-like factor beta isoform 07
+            (Cloa_07) mRNA, partial cds.
+ACCESSION   KM463928
+VERSION     KM463928.1  GI:695943545
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 798)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 798)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..798
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..798
+                     /gene="Cloa_07"
+                     /note="PlWa_Cloa__07"
+     CDS             <1..675
+                     /gene="Cloa_07"
+                     /note="different end sequence because of insertion"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 07"
+                     /protein_id="AIT39265.1"
+                     /db_xref="GI:695943546"
+                     /translation="TGDCLTCEQCFAIHASTWLGIFTQCPPDVTHCFSGLENNTLGND
+                     IILTAFKGCLNPSQNVACGRQFSFRSSEASLWMSRSCCDSDNCNRGDVQVPVADNTPN
+                     GYTCEDCFTDQSANGCTSARRIQCTGKENTCSSFYGISSRPGEREKRYSSKGCATSDV
+                     CKIGVFNLAGTQALDQCSPTPGPRTGAGPRINRHRATRGLLILKAFLNTIKLKLLNQN
+                     KRATEK"
+ORIGIN      
+        1 actggagatt gtctaacttg tgagcagtgt ttcgcgatcc acgccagcac ctggctcggt
+       61 atcttcacgc agtgccctcc tgacgtcact cactgttttt caggcctaga gaacaacacg
+      121 ctagggaatg atattattct aactgcattc aagggctgcc tgaatccttc ccaaaacgta
+      181 gcctgtggca gacagttctc cttcagatct tctgaggcat ctctctggat gagtcgatcg
+      241 tgctgtgact ctgataactg taacagaggg gatgtgcagg ttcctgttgc agacaacact
+      301 cccaatggat atacatgtga ggattgcttc actgaccagt ctgcgaatgg atgcacatca
+      361 gctagaagga ttcagtgcac tgggaaggag aacacttgca gcagcttcta tggcataagc
+      421 tccaggcctg gtgaacgtga aaaacggtat agcagcaaag ggtgcgctac ctcagatgtc
+      481 tgcaaaattg gagttttcaa cctcgccgga acacaagcct tagatcagtg ttccccaacc
+      541 cccgggccgc ggaccggtgc cggtccgcgg atcaatcggc accgggccac ccgaggtctt
+      601 ctaatcttga aggcattttt aaatacaatt aaattaaaat tattaaatca aaacaagcgg
+      661 gccacggaaa aatgatcaaa catttaccgg tccccggcga caaaaaggtt gggattcact
+      721 gccttagatt accagatcaa atgcttacct gcccttaaag tttgagaccc atcttcatgc
+      781 cttccatgca ttcctatt
+//
+

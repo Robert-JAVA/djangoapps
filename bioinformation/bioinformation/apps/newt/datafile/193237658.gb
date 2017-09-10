@@ -1,0 +1,72 @@
+LOCUS       AB363606                1141 bp    DNA     linear   VRT 28-JUN-2008
+DEFINITION  Salamandrella schrenckii mitochondrial cytb gene for cytochrome b,
+            partial cds, isolate: n21.
+ACCESSION   AB363606
+VERSION     AB363606.1  GI:193237658
+KEYWORDS    .
+SOURCE      mitochondrion Salamandrella tridactyla (Schrenck's Siberian newt)
+  ORGANISM  Salamandrella tridactyla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1
+  AUTHORS   Matsui,M., Yoshikawa,N., Tominaga,A., Sato,T., Takenaka,S.,
+            Tanabe,S., Nishikawa,K. and Nakabayashi,S.
+  TITLE     Phylogenetic relationships of two Salamandrella species as revealed
+            by mitochondrial DNA and allozyme variation (Amphibia: Caudata:
+            Hynobiidae)
+  JOURNAL   Mol. Phylogenet. Evol. 48 (1), 84-93 (2008)
+   PUBMED   18490179
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Yoshikawa,N. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2007) Contact:Natsuhiko Yoshikawa Kyoto
+            University, Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Salamandrella tridactyla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="n21"
+                     /db_xref="taxon:476251"
+                     /country="Russia: Lazovskii"
+     gene            1..>1141
+                     /gene="cytb"
+     CDS             1..>1141
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAG50106.1"
+                     /db_xref="GI:193237659"
+                     /translation="MAHPIRKTHPLLKIINGSFVDLPTPSNLSSLWNFGSLLGICLIA
+                     QIATGLFLAMHYTADTSSAFSSVAHICRDVNYGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMYKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIVGASIVHLLFLHETGSNNPTGISSNMDK
+                     VPFHPYFSYKDAIGFLTMLTALFMLSMLTPDLLGDPDNFTPANPLVTPPHIQPEWYFL
+                     FAYAILRSIPNKLGGVLALLASIVILILVPLVHTSKQRSLTFRPSTQLLFWLLVFNTL
+                     ILTWIGGQPVEEPFIGIGQAASTLYFMLFIIIMPLSGWWENKLMKW"
+ORIGIN      
+        1 atggcccacc caattcgaaa aacccacccg ctactaaaaa tcatcaacgg atcatttgta
+       61 gaccttccta ccccttcaaa tctctcatca ttgtgaaatt ttggctcact tcttggaatt
+      121 tgcctgattg cacaaatcgc cacaggccta tttctcgcca tacattatac agctgacaca
+      181 tcttcagcct tctcatctgt agcccatatt tgccgagatg taaattacgg atgattaata
+      241 cgaaatattc acgccaacgg agcatcattc tttttcatct gcatctacct ccatattgga
+      301 cgaggacttt actacggttc atatatatat aaggaaacct gaaatattgg ggtaatttta
+      361 ctctttctag taatagcgac tgcctttgta ggctatgttc tcccctgagg acagatatcc
+      421 ttttgaggcg ctacagttat tacaaactta ttatcagcaa ttccttacat aggagactca
+      481 cttgttcaat gaatttgggg tgggttttct gtagataagg ctacacttac ccgattcttt
+      541 gcatttcatt ttttattccc atttttaatt gtaggagcaa gtattgttca ccttctattc
+      601 cttcatgaaa caggctcaaa taaccccaca ggaatttctt caaacatgga taaagtccca
+      661 tttcacccat acttctcata taaagatgca attggattcc taacaatgct cacagcacta
+      721 tttatattat caatactaac cccagattta ctaggcgacc cagataattt tacacctgcc
+      781 aaccctttag taactccccc tcacatccaa ccagagtggt actttttatt tgcatatgct
+      841 attttacgat ctatccctaa taaactagga ggagttctag cacttcttgc atcaattgta
+      901 attctaattt tagttccatt agttcataca tcaaaacaac gtagcttgac attccggcca
+      961 tctactcagc tcttattctg attattagta tttaatacac taatcttaac ttgaattggg
+     1021 ggacaacctg tagaagagcc atttattgga attggacaag cagcatccac cttatacttc
+     1081 atattattta ttatcattat acccctttcc ggttgatggg aaaacaagct aataaaatga
+     1141 t
+//
+

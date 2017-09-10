@@ -1,0 +1,54 @@
+LOCUS       GQ981648                 620 bp    DNA     linear   VRT 31-AUG-2010
+DEFINITION  Salamandrella tridactyla isolate ch1c cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   GQ981648
+VERSION     GQ981648.1  GI:301068818
+KEYWORDS    .
+SOURCE      mitochondrion Salamandrella tridactyla (Schrenck's Siberian newt)
+  ORGANISM  Salamandrella tridactyla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 620)
+  AUTHORS   Malyarchuk,B., Derenko,M. and Berman,D.
+  TITLE     Phylogeography of Siberian salamanders Salamandrella keyserlingii
+            and Salamandrella schrenckii
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 620)
+  AUTHORS   Malyarchuk,B., Derenko,M. and Berman,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2009) Genetics Laboratory, Institute of
+            Biological Problems of the North, Portovaya str., 18, Magadan
+            685000, Russian Federation
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Salamandrella tridactyla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ch1c"
+                     /db_xref="taxon:476251"
+                     /country="China"
+     CDS             <1..>620
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADK55162.1"
+                     /db_xref="GI:301068819"
+                     /translation="VDLPTPSNLSSLWNFGSLLGICLIAQIATGLFLAMHYTADTSSA
+                     FSSVAHICRDVNYGWLMRNIHANGASFFFICIYLHIGRGLYYGSYMYKETWNIGVVLL
+                     FLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDSLVQWIWGGFSVDKATLTRF
+                     FAFHFLFPFLIVGASIVHLLFLHETGSNNPTGISSNMDKVPFHPYFS"
+ORIGIN      
+        1 gtagaccttc ccaccccttc aaatctctca tcattatgaa attttggatc acttcttgga
+       61 atttgcctga ttgcacaaat cgccacaggc ctatttcttg ccatacatta tacagctgac
+      121 acatcttcag ccttctcatc cgtagcccat atttgccgag atgtaaatta cggatgatta
+      181 atacgaaata ttcacgccaa cggagcatca ttctttttca tctgcatcta cctccatatt
+      241 ggacgaggac tttactatgg ctcatatata tataaagaaa cctgaaatat tggggtagtt
+      301 ttactctttt tagtaatagc aactgccttt gtaggttatg ttctcccctg ggggcagata
+      361 tccttttgag gcgctacagt tattacaaac ttattatcag ctattcccta tatgggagat
+      421 tcacttgttc aatggatttg gggtgggttt tctgtagata aggctacact tacccgattc
+      481 tttgcatttc attttttatt cccattttta attgtagggg caagtattgt tcacctacta
+      541 ttccttcatg aaacaggctc aaataacccc acaggcattt cttcaaacat ggataaagtc
+      601 ccatttcacc catacttctc
+//
+

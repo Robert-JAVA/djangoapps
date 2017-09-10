@@ -1,0 +1,50 @@
+LOCUS       AB115561                 269 bp    mRNA    linear   VRT 26-JUL-2003
+DEFINITION  Cynops pyrrhogaster BMP mRNA for bone morphogenetic protein,
+            partial cds.
+ACCESSION   AB115561
+VERSION     AB115561.1  GI:33284991
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mogi,K., Takeuchi,S. and Toyoizumi,R.
+  TITLE     Involvement of BMP signaling in left-right specification in the
+            Cynops embryo
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 269)
+  AUTHORS   Mogi,K., Takeuchi,S. and Toyoizumi,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-2003) Kazue Mogi, Kanagawa University, Research
+            Institute for Integrated Science; Tsuchiya 2946, Hiratsuka,
+            Kanagawa 259-1293, Japan (E-mail:toyoik02@kanagawa-u.ac.jp,
+            Tel:81-463-59-4111(ex.2733), Fax:81-463-58-9684)
+FEATURES             Location/Qualifiers
+     source          1..269
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="embryo"
+                     /dev_stage="gastrula"
+                     /note="Japanese newt"
+     gene            <1..>269
+                     /gene="BMP"
+     CDS             <1..>269
+                     /gene="BMP"
+                     /note="BMP-2/4-like protein"
+                     /codon_start=3
+                     /product="bone morphogenetic protein"
+                     /protein_id="BAC80211.1"
+                     /db_xref="GI:33284992"
+                     /translation="DVGWNDWIVAPPGYHAFYCHGDCPFPLADHLNSTNHAIVQTLVN
+                     SVNANIPKACCVPTELSAISMLYLDENEKVVLKNYQDMVVEGCGC"
+ORIGIN      
+        1 gggatgtggg gtggaatgac tggattgtgg cgccacctgg ctaccacgcc ttctactgcc
+       61 acggggactg ccccttcccc ctagctgacc acctgaactc caccaaccat gccattgtgc
+      121 agactttggt taattctgtg aatgccaaca ttcccaaggc gtgttgtgtg cccactgagc
+      181 tcagcgccat ctctatgctc tacttggatg agaatgaaaa ggtagtgctc aagaactacc
+      241 aggacatggt ggtggagggc tgtgggtgc
+//
+

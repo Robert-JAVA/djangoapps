@@ -1,0 +1,78 @@
+LOCUS       AY857754                1626 bp    mRNA    linear   VRT 28-FEB-2005
+DEFINITION  Notophthalmus viridescens matrix metalloproteinase 3/10b (MMP3/10b)
+            mRNA, complete cds.
+ACCESSION   AY857754
+VERSION     AY857754.1  GI:60207665
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1626)
+  AUTHORS   Vinarsky,V., Atkinson,D.L., Stevenson,T.J., Keating,M.T. and
+            Odelberg,S.J.
+  TITLE     Normal newt limb regeneration requires matrix metalloproteinase
+            function
+  JOURNAL   Dev. Biol. 279 (1), 86-98 (2005)
+   PUBMED   15708560
+REFERENCE   2  (bases 1 to 1626)
+  AUTHORS   Vinarsky,V., Atkinson,D.L., Stevenson,T.J., Keating,M.T. and
+            Odelberg,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2004) Internal Medicine, University of Utah, 667
+            Wintrobe Bldg., 26 North 1900 East, Salt Lake City, UT 84132, USA
+FEATURES             Location/Qualifiers
+     source          1..1626
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..1626
+                     /gene="MMP3/10b"
+     CDS             50..1459
+                     /gene="MMP3/10b"
+                     /note="stromelysin 1/2b"
+                     /codon_start=1
+                     /product="matrix metalloproteinase 3/10b"
+                     /protein_id="AAX14807.1"
+                     /db_xref="GI:60207666"
+                     /translation="MKILSLLLLCAAGAYSAQKAPVYGEDDTIRQDVEEYLKKYYGLN
+                     SDKNPVLKTNASPLSEKIREMQRFFGLQVTGKVDSNTLEAMQQPRCGVSDVAEYSTFP
+                     GRPVWRTHALTYRILNYTPDMARADVDTAIQKAFKVWSDVTPLTFTRIYYGTADIQIS
+                     FAAREHGDFSPFDGPHGTLAHAFAPSTGIGGDAHFDEDERWTKGSAGTNLFLVAAHEF
+                     GHSLGLSHSNDRRALMFPTYSYTDPARYQLPKDDINGIQALYGPSRKPNPQTPPPRKP
+                     TPPSYCDPAISFDAITTLRNEILFFKGRTLLRRMPHTGNVINYTISSVWPSLPSGIHA
+                     AYENQQKDQVLLFKGTKYWAMKGYRILPNYPQSIYTLGFPRTVTTIDAAVYHPDTRKT
+                     YYFVNDKYWSFDEALQVMDKDSPQKIATKFPTIGTKVHAVFHANGLLYFFNGKQQLEF
+                     NMKLKKVTRVLTKNSWFSC"
+ORIGIN      
+        1 gagagtcccg ggtccgagct ttgccaccac actcggtaca gtcgggaaaa tgaagatcct
+       61 gtcactcctc ttactgtgcg cagccggtgc ttattccgcc cagaaggcac ctgtgtacgg
+      121 agaggacgat accatcaggc aggatgtgga ggagtatctt aaaaagtact atggcctcaa
+      181 cagtgataag aaccctgttc ttaaaacgaa tgcgagccct ttgtctgaaa aaatcaggga
+      241 aatgcagagg ttttttgggc tgcaagtgac tgggaaggtg gattctaaca cgctggaagc
+      301 gatgcagcag cccaggtgcg gagtcagtga tgttgctgaa tacagcacct tccctggacg
+      361 gcctgtgtgg agaacacatg ctctgactta caggattttg aactacaccc ctgacatggc
+      421 aagagctgat gtggatacag caatccagaa agccttcaaa gtctggagtg acgtgacccc
+      481 gctgaccttc acccggatct attatggcac agctgatatc cagatctctt ttgcagcaag
+      541 agaacatggt gatttttcgc catttgatgg ccctcatgga actcttgccc atgctttcgc
+      601 accttcgact ggaattggtg gagatgctca ctttgatgaa gatgaacgct ggacaaaagg
+      661 gtcagctggc actaaccttt tccttgtggc agctcatgag tttggccatt cactaggctt
+      721 gtctcattcc aatgacagaa gagcactaat gttcccgacc tactcttata ctgatccagc
+      781 caggtaccag ctcccgaagg atgatattaa tggcattcaa gcactatatg gaccatctag
+      841 aaaacctaat ccacaaaccc caccaccaag gaagccgacc ccaccaagct attgtgatcc
+      901 tgctataagt tttgatgcta ttaccactct ccgcaatgaa attcttttct tcaaaggcag
+      961 gactctcctg cgcaggatgc cacatactgg aaatgtcata aactacacaa tttcatctgt
+     1021 ctggccatct ttgccatctg gtatccacgc tgcatatgaa aatcagcaaa aagatcaggt
+     1081 gctgctattt aaaggaacca aatattgggc aatgaaagga tatcgaatct tgccaaatta
+     1141 cccccaaagc atctatacac ttggattccc ccgaacagtg actacgattg atgctgctgt
+     1201 ctatcaccca gacacaagaa aaacctatta ctttgtcaat gacaagtact ggagttttga
+     1261 tgaagccctg caggtcatgg acaaagattc tccccaaaag atagcaacta agttcccaac
+     1321 aatcggcaca aaagttcatg cagttttcca cgctaacgga cttttgtatt tcttcaatgg
+     1381 aaaacagcag ttggaattta acatgaagtt gaagaaggtc acacgagtac tgacgaaaaa
+     1441 cagctggttc agttgttgac acaagtttac ttgaatacaa gtattataat gaaataaccc
+     1501 aatccactca cgttctcttg ttgaaagagc actaaattca ggttttgcac agataattta
+     1561 ttgtattttt ccatagttat ttaattttgt gtggtgaaaa taaagtagtt tatctatcgg
+     1621 atcaac
+//
+

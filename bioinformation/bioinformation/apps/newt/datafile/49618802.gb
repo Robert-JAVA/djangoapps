@@ -1,0 +1,60 @@
+LOCUS       AY627899                 704 bp    DNA     linear   VRT 10-JAN-2005
+DEFINITION  Taricha granulosa 8Trin cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   AY627899
+VERSION     AY627899.1  GI:49618802
+KEYWORDS    .
+SOURCE      mitochondrion Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 704)
+  AUTHORS   Kuchta,S.R. and Tan,A.M.
+  TITLE     Isolation by distance and post-glacial range expansion in the
+            rough-skinned newt, Taricha granulosa
+  JOURNAL   Mol. Ecol. 14 (1), 225-244 (2005)
+   PUBMED   15643966
+REFERENCE   2  (bases 1 to 704)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2004) Integrative Biology, Museum of Vertebrate
+            Zoology, University of California, Berkeley, 3101 Valley Life
+            Science Bldg, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..704
+                     /organism="Taricha granulosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="8Trin"
+                     /specimen_voucher="MVZ 237661"
+                     /db_xref="taxon:8321"
+     gene            <1..>704
+                     /gene="cytb"
+     CDS             <1..>704
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAT68006.1"
+                     /db_xref="GI:49618803"
+                     /translation="XPSXISYWWNFGSLLGVCLITQILTGLFLAMHYTADXQSAFSSV
+                     AHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSXMFKETWNIGVILLFLVM
+                     ATAFVGYVLPWGQMSFWGATVITNLXSAIPYMGDTLVQWIWGGFSVDKATLTRFFAFH
+                     FLFPFAIAGASIVHLLFLHETGSNNPTGIPSNQDKISFHPYFSYKDILGFLLMLGALM
+                     LXSXXTPNXXGDPENF"
+ORIGIN      
+        1 cancgccatc gantatctcc tattgatgaa acttcggctc cctcctcggg gtatgcctaa
+       61 tcacacaaat cctcacaggc ctcttcctag caatacacta cacagcagac antcaatcgg
+      121 cattctcatc agtagcccac atctgccgag atgtnaacta tggctgacta gtacgaaata
+      181 tccacgccaa cggggcctcc ctctttttca tctgcatcta cctgcacatc ggacgtggct
+      241 tatactatgg ctccnacatg tttaaagaaa cctgaaacat tggcgttatt ttactcttcc
+      301 tggtaatagc caccgctttc gtggggtacg tcctcccatg aggacaaatg tccttctggg
+      361 gcgccacagt cattacaaac ctcntatccg ccatcccata catgggggac acactagtac
+      421 agtgaatctg aggaggattc tcagtagaca aagcaaccct aacccgattc tttgcattcc
+      481 acttcctatt cccattcgca attgcagggg caagcatcgt tcacttgctt ttcctccatg
+      541 aaactggatc aaacaaccca acaggaatcc catcgaacca agacaaaatc tcattccacc
+      601 cgtacttctc atacaaagat atccttggct tcctcctgat actgggggcc ctaatactaa
+      661 tntcanttnt aacaccaaac ntcnntggag acccagaaaa cttc
+//
+

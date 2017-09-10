@@ -1,0 +1,50 @@
+LOCUS       AB437409                 357 bp    mRNA    linear   VRT 21-NOV-2008
+DEFINITION  Cynops pyrrhogaster cAc1 mRNA for cytoplasmic actin Cp-Ac445,
+            partial cds.
+ACCESSION   AB437409
+VERSION     AB437409.1  GI:213656662
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Iwasa,T., Mandula,G., Urano,K., Takahashi,T., Sawada,K., Okano,K.
+            and Nakamura,T.
+  TITLE     Lipocalin family proteins expressed in the Bowman's gland of the
+            newt olfctory epithelium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 357)
+  AUTHORS   Iwasa,T., Takahashi,T. and Sawada,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-2008) Contact:Tatsuo Iwasa Muroran Institute of
+            Technology, Department of Materials Science and Engineering;
+            Mizumoto 27-1, Muroran, Hokkaido 050-8585, Japan
+FEATURES             Location/Qualifiers
+     source          1..357
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /clone="CpOE-445"
+                     /clone_lib="lambda Zap-II newt olfactory epithelium cDNA"
+     gene            1..>357
+                     /gene="cAc1"
+     CDS             52..>357
+                     /gene="cAc1"
+                     /codon_start=1
+                     /product="cytoplasmic actin Cp-Ac445"
+                     /protein_id="BAG84577.1"
+                     /db_xref="GI:213656663"
+                     /translation="MAEDEIAALVIDNGSGMCKAGFAGDDAPRAVFPSIVGRPRHQGV
+                     MVGMGQKDSYVGDEAQSKRGILTLKYPIEHGIVTNWDDMEKIWHHTFYNELRVAPEEH
+                     "
+ORIGIN      
+        1 ggcacgaggg tcttcttcct cggaaccacc cccctaccca gttgaataac aatggcagaa
+       61 gatgagattg cagcgctcgt cattgacaat ggttctggta tgtgcaaagc aggctttgct
+      121 ggagacgacg ccccccgtgc tgtgttccca tccatcgtag gacgccccag gcaccagggt
+      181 gtcatggttg gcatggggca gaaggacagc tacgtaggtg acgaggccca gagcaagaga
+      241 ggtatcctga cactaaagta ccccattgag cacggcattg tgaccaactg ggacgacatg
+      301 gagaagatct ggcatcacac cttctacaac gagctccgcg tggcaccgga ggagcac
+//
+

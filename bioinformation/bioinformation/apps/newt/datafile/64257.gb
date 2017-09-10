@@ -1,0 +1,67 @@
+LOCUS       X69062                  1118 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  P.waltlii mRNA for lectin.
+ACCESSION   X69062
+VERSION     X69062.1  GI:64257
+KEYWORDS    C-type animal lectin; Pwlec gene.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1118)
+  AUTHORS   Tiffoche,C., Chesnel,A., Jego,P. and Le Pennec,J.P.
+  TITLE     Isolation and characterization of a cDNA clone encoding a
+            Pleurodeles lectin
+  JOURNAL   Eur. J. Biochem. 213 (3), 901-907 (1993)
+   PUBMED   8504829
+REFERENCE   2  (bases 1 to 1118)
+  AUTHORS   LePennec,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-1992) J. Lepennec, URA 256 CNRS, Lab Genetique
+            Moleculaire, Universite de Rennes 1, Rennes, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..1118
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..1118
+                     /gene="Pwlec"
+     CDS             37..555
+                     /gene="Pwlec"
+                     /codon_start=1
+                     /product="lectin"
+                     /protein_id="CAA48800.1"
+                     /db_xref="GI:64258"
+                     /db_xref="GOA:Q02988"
+                     /db_xref="InterPro:IPR001304"
+                     /db_xref="InterPro:IPR003990"
+                     /db_xref="InterPro:IPR016186"
+                     /db_xref="InterPro:IPR016187"
+                     /db_xref="InterPro:IPR018378"
+                     /db_xref="UniProtKB/Swiss-Prot:Q02988"
+                     /translation="MVWCLADLRAYVLVLLVISGLYQGSDQLIPEKCGEDCTPGWDCH
+                     FNSYYKYIPNAKSWTDAEFYCQKLYPGAHLASIHSEDENDFLTEITFKNNSNYPVVWV
+                     GGSDCYKDRSFVWTDGSQWDYQKWRQWEPSNTGGREPCIDFNFVTPGLWNDEHCDQKF
+                     PFICKYTTPCRY"
+ORIGIN      
+        1 ggtcctaaac ccatcctctc atatgaccat ccgatcatgg tgtggtgctt ggcagacttg
+       61 cgagcctacg tactggttct gctggtgatc tcaggattgt accaaggttc agatcaacta
+      121 ataccagaaa aatgtgggga agactgtacc cctggatggg attgccactt caacagttac
+      181 tacaaataca ttccaaatgc gaagagctgg actgatgctg agttttactg ccagaaactc
+      241 tacccaggtg ctcacctggc atcaatccac tctgaagacg agaatgactt cctcacagaa
+      301 atcactttca agaacaatag taattaccct gtagtctggg ttggtggcag tgactgctac
+      361 aaggacagat catttgtatg gactgatggc tcacagtggg attatcagaa atggcgccaa
+      421 tgggaaccca gcaacactgg tggtcgtgag ccatgcatcg acttcaactt tgtcactcct
+      481 ggtctttgga atgatgaaca ctgtgatcaa aagtttccat ttatctgcaa atataccaca
+      541 ccttgccgtt attgatggaa atctgtcctg gaggatcatt accacaacgt ccagaaggag
+      601 ctgtacaggc tttacaataa gtgatctatt gtaatgtaat gaaacaaatt atccactgat
+      661 gagaagagac aatgacatct gtggcttagt gtgccacctt aaagcactga agacttgtgt
+      721 tctatttccc tatatacaac ctttctctgc atggactgtt atacttaatg ttcagctact
+      781 tgaatctgat gtgaacaatg aagctccttt atagctaaac ataaattgat tgtctactgc
+      841 cttcattaca aatatgatga cgttacttcg aaatcacaga cactgctgta ataaaataca
+      901 agggcaccct ttgcaatgaa aatctcaacc tataatgctc cttgcaatga gaccttgaat
+      961 ttaagacatt gattaattga gtatcatttt aagtgttaag aagtagacga ttttaataca
+     1021 aactgcagtt tttactaatt caatagttca tgccatattg ttaaaataga acatataaca
+     1081 aataaagact ttgaaaaatc ataaaaaaaa aaaaaaaa
+//
+

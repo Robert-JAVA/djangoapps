@@ -1,0 +1,46 @@
+LOCUS       AJ535721                 131 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Triturus vulgaris microsatellite DNA, clone Tv8.
+ACCESSION   AJ535721
+VERSION     AJ535721.2  GI:27552472
+KEYWORDS    microsatellite; repetitive DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Jehle,R., Dawson,D.A., Morales-Hojas,R., Sztatecsny,M., Pandhal,J.
+            and Burke,T.
+  TITLE     Microsatellite loci in the common newt, Triturus vulgaris
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+  REMARK    revised by [3]
+REFERENCE   3  (bases 1 to 131)
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+COMMENT     On Jan 9, 2003 this sequence version replaced gi:27368962.
+FEATURES             Location/Qualifiers
+     source          1..131
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     repeat_region   1..131
+                     /satellite="microsatellite"
+     repeat_region   63..84
+                     /rpt_family="TC"
+                     /rpt_type=TANDEM
+                     /rpt_unit_range=63..64
+ORIGIN      
+        1 gatcgagtcc tgtgtcgggc tccctgctca gtgaggagtc tgctcctcct ccctgcctgt
+       61 gctctctctc tctctctctc tctcaaaaaa ataaaaacct taaaaataaa atgcagactc
+      121 ctggcactca g
+//
+

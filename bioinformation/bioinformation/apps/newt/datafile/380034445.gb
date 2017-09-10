@@ -1,0 +1,82 @@
+LOCUS       JF438991                1401 bp    DNA     linear   VRT 20-MAR-2012
+DEFINITION  Paramesotriton caudopunctatus haplotype GZNU08072603 NADH
+            dehydrogenase subunit 2 gene, partial cds; tRNA-Trp, tRNA-Ala,
+            tRNA-Asx, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene,
+            partial sequence; mitochondrial.
+ACCESSION   JF438991
+VERSION     JF438991.1  GI:380034445
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton caudopunctatus (Guizhou warty newt)
+  ORGANISM  Paramesotriton caudopunctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1401)
+  AUTHORS   Gu,X., Wang,H., Chen,R., Tian,Y. and Li,S.
+  TITLE     The phylogenetic relationships of Paramesotriton (Caudata:
+            Salamandridae) based on partial mitochondrial DNA gene sequences
+  JOURNAL   Zootaxa 3150, 59-68 (2012)
+REFERENCE   2  (bases 1 to 1401)
+  AUTHORS   Chen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-2011) School of Life Science, Guizhou Normal
+            University, 116 Baoshan North Road, Guiyang, Guizhou 550001, China
+FEATURES             Location/Qualifiers
+     source          1..1401
+                     /organism="Paramesotriton caudopunctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164969"
+                     /haplotype="GZNU08072603"
+                     /country="China"
+     CDS             <1..1033
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AFD30620.1"
+                     /db_xref="GI:380034446"
+                     /translation="PYTLSMLMSSLAVGTITTLSSYHWFLAGMGLEINTLAIIPLKTK
+                     MHHPRATESATKYFLTQATASALILFSTIMNAWMTGEWTIMNMNHFTSTTILTIALTI
+                     KLGAAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILTSHQLNTNLLILMGLTSM
+                     VVGGWGGLNQTQTRKIMAYSSIAHLGWMIMIVPFAPNLALLNLLIYIILTSSMFMTLM
+                     ILNSTNMNKLSTSWPKTPTLAAFTMMILMALGGLPPTSGFLPKWLILQEMTKQHLNTL
+                     SAMMAMSALLSLFFYLRLSYMISMTSPPHVSNSNLTWRKKPNLKIIPMMIMMSTMMMP
+                     VTPTLLMMN"
+     tRNA            1034..1100
+                     /product="tRNA-Trp"
+     tRNA            complement(1101..1170)
+                     /product="tRNA-Ala"
+     tRNA            complement(1171..1242)
+                     /product="tRNA-Asx"
+     rep_origin      1243..1274
+     tRNA            complement(1275..1340)
+                     /product="tRNA-Cys"
+     tRNA            complement(1341..>1401)
+                     /product="tRNA-Tyr"
+ORIGIN      
+        1 cccctataca ctatctatgt taatatcaag tcttgcagtg ggtacaatta ctacattatc
+       61 aagctatcac tgatttctag caggaatagg actagaaatt aatacactag ccatcatccc
+      121 tttaaaaact aaaatacacc accctcgagc cacagaatcc gcaacaaagt attttctgac
+      181 acaagccaca gcctccgcct taattttatt ttcaacaatc ataaacgcat gaataacagg
+      241 agaatggaca atcataaata taaaccactt cacatcaaca acaattttaa caattgctct
+      301 gacaattaaa ctaggagccg cgccatttca cctatgatta ccagacgttc tacaaggact
+      361 aaacatgata acatgcctaa tcctatcaac atgacaaaaa ctggccccaa tggccctact
+      421 catcttaaca agccatcagc taaacacaaa tctacttatc ttaataggac taacatctat
+      481 agttgtaggg ggatgaggag gcctaaatca aacacaaaca cgaaaaatta tagcatattc
+      541 atccattgca cacctaggat gaataatcat aattgttcca tttgccccaa atctggcgct
+      601 actaaaccta ttaatttaca ttatcctaac ttcatctata tttataacat taatgatttt
+      661 gaactccaca aacataaaca aactctcaac ctcgtgacca aaaacaccaa cactagcagc
+      721 ctttacaata ataattctaa tagcccttgg gggactccca ccaacatcag gatttttgcc
+      781 aaagtgacta attctacaag aaataaccaa acaacatctt aacacactat ctgccataat
+      841 agccatatca gccctactta gtttattctt ttacctgcgt ctctcatata taatttcaat
+      901 aacctcacct cctcatgtct caaactcaaa cctaacctga cggaaaaaac ccaacctaaa
+      961 aatcatccct atgataatca taatatccac aatgataata ccagtaactc caacactact
+     1021 cataataaac taaggattta ggataacaag acccaagacc ttcaaagcct taagcagaag
+     1081 ttaaaatctt ctaatccttg ataaaacctg caggacacta ccccacatct tctgaatgca
+     1141 acccagacac tttaattaag ctaaggccct ctagattagc aggcttcgac cctacgacct
+     1201 tttagttaac agctaaacac tcaatcaacg agctttaatc tacttctccc gcttgtcgaa
+     1261 aaaaaaagcg ggagaagccc cggcaaaaag ctactttgct ctttaaaatt tgcaatttta
+     1321 tatgctgaac atcacaaggc ttgataaaaa aaggactata acctttatga caagggctac
+     1381 aaccttgcac ctgattcggc c
+//
+

@@ -1,0 +1,64 @@
+LOCUS       EF525950                 660 bp    DNA     linear   VRT 23-MAY-2011
+DEFINITION  Mesotriton alpestris reiseri voucher RuHF-TAR-01-2 cytochrome
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF525950
+VERSION     EF525950.1  GI:156788680
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris reiseri (Bosnian alpine newt)
+  ORGANISM  Ichthyosaura alpestris reiseri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Ichthyosaura alpestris reiseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="reiseri"
+                     /specimen_voucher="RuHF-TAR-01-2"
+                     /db_xref="BOLD:ABCAP142-05"
+                     /db_xref="taxon:454644"
+                     /country="Bosnia and Herzegovina: Respublika Srpska"
+                     /lat_lon="43.18 N 18.36 E"
+                     /collection_date="12-Mar-2002"
+                     /collected_by="Ralf Liebetrau"
+     gene            <1..>660
+                     /gene="COI"
+     CDS             <1..>660
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95914.1"
+                     /db_xref="GI:156788681"
+                     /translation="GTLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVT
+                     AHAFVMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSG
+                     VEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPS
+                     MTQYQTPLFVWSVLITALLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQH
+                     LF"
+ORIGIN      
+        1 ggtaccctat atttaatttt tggtgcttga gccggaatag tcggcacggc ccttagcttg
+       61 ttgatccgag ccgaacttag ccaaccagga gccctcctcg gagacgacca aatttataac
+      121 gtcattgtca ctgctcacgc ttttgtaata atcttcttta tggttatacc cgtaataatc
+      181 ggaggatttg gaaactgact ggtccctctt atgatcggag ccccagacat agcctttccc
+      241 cggataaata acataagttt ttgactcctt cccccctcat ttctactctt actcgcctcc
+      301 tccggggtag aagccggagc gggcactggc tgaacagtat acccaccact agctggtaat
+      361 ttagcccacg ctggcgcttc cgttgactta acaatctttt cacttcactt agcaggggtc
+      421 tcctcaattc taggggcaat taactttatt acaacatcaa ttaacatgaa gcccccgtca
+      481 ataacacaat atcaaacacc cctatttgtg tgatcagtgt taattacagc tctactcctt
+      541 cttctttcac tgccggtgct agcagcaggt attacgatac ttttaactga tcgaaatcta
+      601 aataccacat tttttgaccc ggcaggaggg ggggacccag tgctttatca acacctcttc
+//
+

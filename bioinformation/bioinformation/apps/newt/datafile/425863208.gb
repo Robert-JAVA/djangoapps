@@ -1,0 +1,57 @@
+LOCUS       JX626585                 643 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Euproctus montanus voucher EZON3 cytochrome oxidase subunit 1
+            (cox1) gene, partial cds; mitochondrial.
+ACCESSION   JX626585
+VERSION     JX626585.1  GI:425863208
+KEYWORDS    .
+SOURCE      mitochondrion Euproctus montanus
+  ORGANISM  Euproctus montanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Euproctus.
+REFERENCE   1  (bases 1 to 643)
+  AUTHORS   Bisconti,R., Canestrelli,D., Salvi,D. and Nascetti,G.
+  TITLE     A geographic mosaic of evolutionary lineages within the insular
+            endemic newt Euproctus montanus
+  JOURNAL   Mol. Ecol. 22 (1), 143-156 (2013)
+   PUBMED   23163335
+REFERENCE   2  (bases 1 to 643)
+  AUTHORS   Bisconti,R. and Canestrelli,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-SEP-2012) Ecological and Biological Sciences, Tuscia
+            University, Largo dell'Universita' s.n.c., Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /organism="Euproctus montanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="EZON3"
+                     /db_xref="taxon:30375"
+                     /country="France: Corsica Island"
+     gene            <1..>643
+                     /gene="cox1"
+     CDS             <1..>643
+                     /gene="cox1"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AFY03817.1"
+                     /db_xref="GI:425863209"
+                     /translation="AGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFM
+                     VMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWT
+                     VYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSLNMKPPSMTQYQTPLFV
+                     WSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLFWFFG"
+ORIGIN      
+        1 gagcgggcat ggtcggcacc gcattgagct tattaattcg ggccgaatta agccaaccag
+       61 gtgccctttt aggggatgac caaatttata atgtcatcgt tacagcccat gcctttgtaa
+      121 taatcttttt tatagtaata cctgttataa ttggcgggtt tggaaattga cttgtccctc
+      181 ttataatcgg cgccccggat atggcatttc ctcgaataaa taatataagc ttttgacttc
+      241 ttcccccatc attcttacta ctattagcct cttcgggggt tgaagcaggg gcaggtactg
+      301 ggtgaaccgt ttaccctcca ttggctggga atttagctca tgcaggagcc tctgtggact
+      361 taacaatttt ctcattgcat ttagccgggg tgtcttccat tctaggggca atcaatttta
+      421 ttacaacttc cctgaatatg aaacccccat caataacaca atatcaaaca cctttattcg
+      481 tatgatccgt attaattacc gccattcttt tactcctttc tctcccagtg cttgcagcgg
+      541 gtattacaat attgcttaca gatcgaaact tgaatactac attttttgac cctgctggag
+      601 gcggagatcc ggtattatac cagcatttat tttgattttt tgg
+//
+

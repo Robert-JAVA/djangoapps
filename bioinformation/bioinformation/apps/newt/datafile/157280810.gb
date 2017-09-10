@@ -1,0 +1,53 @@
+LOCUS       EU128720                 867 bp    mRNA    linear   VRT 22-SEP-2007
+DEFINITION  Notophthalmus viridescens Prod 1 mRNA, complete cds.
+ACCESSION   EU128720
+VERSION     EU128720.1  GI:157280810
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 867)
+  AUTHORS   da Silva,S.M., Gates,P.B. and Brockes,J.P.
+  TITLE     The newt ortholog of CD59 is implicated in proximodistal identity
+            during amphibian limb regeneration
+  JOURNAL   Dev. Cell 3 (4), 547-555 (2002)
+   PUBMED   12408806
+REFERENCE   2  (bases 1 to 867)
+  AUTHORS   Morais da Silva,S., Gates,P.B. and Brockes,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-AUG-2007) Biochemistry, University College London,
+            Gower Street, London WC1E6BT, UK
+FEATURES             Location/Qualifiers
+     source          1..867
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             73..393
+                     /note="Ly-6 family member"
+                     /codon_start=1
+                     /product="Prod 1"
+                     /protein_id="ABV29331.1"
+                     /db_xref="GI:157280811"
+                     /translation="MMLLPLSLFLVACLHSTTALKCFTRNGDDRTVTTCAEEQTRCLF
+                     VQLPYSEIQECKTVQQCAEVLEEVTAIGYPAKCCCEDLCNRSEQDFETTTQTTTLAFL
+                     DGPQ"
+ORIGIN      
+        1 ggcactgggg cgcacacctc gcgctgattt tacctggact cgaagcgttg agggtttcgt
+       61 cagctacaag acatgatgct tctaccactc tccttgtttc tggtggcatg cctgcactca
+      121 actacagcgt taaaatgctt caccagaaac ggagacgaca ggactgtgac cacctgcgcc
+      181 gaggaacaga ctcgatgcct cttcgtacaa ctgccatatt ctgagataca agaatgcaag
+      241 acggtgcaac agtgtgctga ggtgttagag gaagtcactg ccattggata tccagcaaag
+      301 tgctgctgcg aggatctctg caaccggagt gagcaagatt ttgagaccac cacccagacc
+      361 acaacactag cattcttgga tggaccacag tgacaccaaa acggcccaga cactgcattc
+      421 ccagcatcct aattgaagtg gggcataact gtgaacacat tctgtgcctt ttttgttttt
+      481 ccttcagctc ttccctagaa tttgggaacg ttttccctcc ttcctttata acactttttc
+      541 ttatgactgg tgtcctcaca caaccacctt ttaaggttgg aagtctacac taccgcagag
+      601 tagacaatgt ctcttatcaa cacgtgaact agctgccaaa gaatgctttg agtgtataaa
+      661 tgaatgcact tcggtatttt gataaactgt actaatgttt agaagttcag ctgcatagag
+      721 actcaccaac cacttatcat gctgcatctt caccactaag ttcactgctc gtcgagctca
+      781 taatgttgtg agcattcatt tattttgtga caaaatatcc atcatgttca tgctgtagat
+      841 acactaaaat aaacctcgtg ccgaatt
+//
+

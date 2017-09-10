@@ -1,0 +1,58 @@
+LOCUS       AB856885                 567 bp    DNA     linear   VRT 03-DEC-2013
+DEFINITION  Tylototriton yangi RAG1 gene for recombination activating protein
+            1, partial cds, specimen_voucher: KUHE:42282.
+ACCESSION   AB856885
+VERSION     AB856885.1  GI:562815282
+KEYWORDS    .
+SOURCE      Tylototriton yangi (Tiannan crocodile newt)
+  ORGANISM  Tylototriton yangi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Khonsue,W., Pomchote,P. and Matsui,M.
+  TITLE     Two new species of Tylototriton from Thailand (Amphibia: Urodela:
+            Salamandridae)
+  JOURNAL   Zootaxa 3737, 261-279 (2013)
+   PUBMED   25112754
+  REMARK    DOI:10.11646/zootaxa.3737.3.5
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 567)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2013) Contact:Koshiro Eto Kyoto University,
+            Graduate School of Human and Environmental Fac.;
+            Yoshida-Nihonmatsu-cho, Kyoto-shi, Kyoto 606-8501, Japan URL
+            :http://www.h.kyoto-u.ac.jp/jinkan/
+FEATURES             Location/Qualifiers
+     source          1..567
+                     /organism="Tylototriton yangi"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE:42282"
+                     /db_xref="taxon:1357719"
+                     /country="China"
+     gene            <1..>567
+                     /gene="RAG1"
+     CDS             <1..>567
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="BAO18752.1"
+                     /db_xref="GI:562815283"
+                     /translation="PLCLMLADESDHETLTAILSPLIAEREAMKGSELMLELGGILRT
+                     FKFVFRGTGYDEKLVREVEGLEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLE
+                     RYEMWRSNRHHESXDELRDRVKGVSAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIG
+                     EVFKNPNASKEERKRWQSTLDKHLRKKM"
+ORIGIN      
+        1 gcccctgtgc ctcatgctcg ctgatgaatc tgaccatgag acactaactg ccatcttgag
+       61 cccgctgata gcagaaagag aggccatgaa aggcagtgaa ctgatgcttg aacttggtgg
+      121 catcctcaga acatttaagt ttgtgttcag gggtacagga tatgatgaga agcttgtgag
+      181 agaggttgaa ggactcgagg cctcaggctc agtctatatc tgtacccttt gtgactcgac
+      241 acgccttgaa gcctcccaga acattgtact ccactccatc actcgaagtc acaaggagaa
+      301 ccttgagcgg tacgagatgt ggcggtccaa cagacaccat gagtcagycg acgaactgcg
+      361 ggacagagtg aagggggttt cagccaagcc cttcattgag accctccctt ccatcgatgc
+      421 tttgcactgt gacattggaa atgctgctga gttttacaag atattccaac tcgaaatagg
+      481 ggaggtattc aagaacccca acgcctcaaa agaggagaga aaaaggtggc agtcgactct
+      541 ggacaagcat ctgaggaaga agatgaa
+//
+

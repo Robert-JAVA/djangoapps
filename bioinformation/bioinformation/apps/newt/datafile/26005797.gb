@@ -1,0 +1,86 @@
+LOCUS       AB095018                2078 bp    mRNA    linear   VRT 03-DEC-2002
+DEFINITION  Cynops pyrrhogaster RPE65 mRNA for retinal pigment epithelium
+            abundant protein, complete cds.
+ACCESSION   AB095018
+VERSION     AB095018.1  GI:26005797
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Nakamura,K., Kikuchi,Y., Susaki,K., Chiba,C. and Saito,T.
+  TITLE     Retinal transdifferentiation in adult urodels: reproduction of
+            retinal stem cells in vivo
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2078)
+  AUTHORS   Chiba,C., Nakamura,K., Kikuchi,Y. and Saito,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-2002) Chikafumi Chiba, University of Tsukuba,
+            Institute of Biological Sciences; Tennoudai 1-1-1, Tsukuba, Ibaraki
+            305-8572, Japan (E-mail:chichiba@biol.tsukuba.ac.jp,
+            Tel:81-0298-53-4667(ex.4667), Fax:81-0298-53-6614)
+FEATURES             Location/Qualifiers
+     source          1..2078
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /dev_stage="adult"
+                     /country="Japan"
+     gene            1..2078
+                     /gene="RPE65"
+     CDS             90..1691
+                     /gene="RPE65"
+                     /codon_start=1
+                     /product="retinal pigment epithelium abundant protein"
+                     /protein_id="BAC41351.1"
+                     /db_xref="GI:26005798"
+                     /translation="MSSKVEHPAGGYKKLFETVEELASPITAHVTGRIPVWLTGSLLR
+                     CGPGLFEVGSEQFYHLFDGQALLHKFDFKEGHVTYHRRFIRTDTYVRAMTEKRIVITE
+                     FGTFAFPDPCKNIFSRFLSYFQGLEVTDNTLVNVYPVGEDYYACTETNYITKVNPETL
+                     ETIKKVDLCNYVSINGVTAHPLIENDGTVYNIGNCFGKHFSFAYNIVKIPPLQEDKED
+                     PINKAKVVVQFPCSERFKPSYVHSFGLTPNYIVFVEQPVKINLFKFLSSWSIWGANYM
+                     DCFESHETMGVWMHVAEKLTGEYLNIKYRTSAFNLFHHINTYEDHGFLIVDLCCWKGF
+                     EFIYNYLYLANMRENWEEVKRNAEKAPQPEVRRYVLPLDIHKVDTGKNLVNLPYTTAT
+                     AILRSDETIWLEPEVLFSGPRLAFEFPQINYKKFGGKDYTFAYGLGLNHFVPDRLSKL
+                     NVKTKEIWVWQEPDSYPSEPIFVSQPDAMEEDDGVVLSVIVNPGPGQKPAFLLILNAK
+                     DMSEIARAEVDINIPVTFHGMYKKA"
+ORIGIN      
+        1 aagcagtggt atcaacgcag agtggccatt acggccgggg gcatgctgaa gtgggacctg
+       61 ccggaggcac actctccatg cacgccagaa tgtcgagcaa agtggagcat cctgcaggtg
+      121 gatataagaa actttttgaa actgtggagg aattggcatc tccaataaca gcccatgtga
+      181 caggcagaat tcctgtttgg ctaactggaa gtctcctgag atgtggcccc gggctatttg
+      241 aagttggatc agagcaattc tatcatttgt ttgatgggca agccctattg cacaaatttg
+      301 attttaaaga gggccatgtt acatatcata ggaggtttat tcgaactgat acttatgtaa
+      361 gggcaatgac tgaaaaacgg attgtcataa cagaatttgg cacttttgct tttcctgatc
+      421 catgcaagaa tatattttcc agatttcttt cctatttcca aggattggag gttacagata
+      481 atactctggt taatgtttac cctgtcggag aggattacta tgcatgcact gaaaccaatt
+      541 acataacaaa ggttaaccca gagacactgg aaaccattaa gaaggtggat ctttgcaact
+      601 atgtttcaat aaatggagta acagctcacc ctctcatcga aaatgatggc actgtttaca
+      661 acatcggcaa ctgcttcgga aaacattttt catttgcgta caacattgtg aaaataccac
+      721 cgctccaaga agacaaagaa gatcctatta acaaagcgaa agtcgttgtg cagttcccgt
+      781 gcagtgaaag gtttaagcca tcctatgttc acagttttgg tctaactccg aactacattg
+      841 tctttgtgga gcaacccgtg aaaatcaact tgtttaagtt cctttcctcc tggagtattt
+      901 ggggagccaa ctacatggac tgcttcgaat ctcatgaaac aatgggggtg tggatgcatg
+      961 ttgctgaaaa actgacgggg gaatacctca acatcaaata caggacatca gcctttaacc
+     1021 tcttccatca catcaataca tatgaagacc atggattcct tattgtggat ctctgttgct
+     1081 ggaaaggatt tgaatttatc tacaactatc tatatttagc caatatgcga gaaaactggg
+     1141 aagaagtgaa gagaaatgca gagaaagcac cacaaccaga agttaggaga tatgttcttc
+     1201 cactggacat ccacaaggtt gacacaggca aaaatctagt caacttgcct tacacaacag
+     1261 ccacagcaat tctacgtagt gatgaaacaa tctggttaga accggaagtt ctcttctcag
+     1321 gaccgcgcct agcctttgag tttccacaga ttaactacaa gaagttcggg ggcaaggatt
+     1381 acacctttgc atatggcctc ggattaaatc actttgttcc tgacaggctc tctaagctga
+     1441 atgttaaaac aaaggagatc tgggtatggc aggaaccaga ttcataccct tcagaaccca
+     1501 tctttgtttc ccaaccagat gcgatggaag aggatgatgg agtggtgctg agtgtaatcg
+     1561 tcaaccctgg accaggacag aagcctgcat tcctcctaat attaaatgca aaagacatga
+     1621 gcgaaattgc tagagcagag gtcgacataa acattcccgt cacctttcac ggaatgtaca
+     1681 agaaagcttg attataaaaa ccattgtgta cgttttaagt tatcacctct gaataaatac
+     1741 tttatgtttc tacctaatcc ctgaactcac cactggtaat tcagtaacca ctcttgggat
+     1801 attaccatat tgtatatact ctaagtcttt gaccttacag tatgtgaaat tatattataa
+     1861 gacactatca catagtaata aaaactgaat tccactatat taaaatataa aaaaattatt
+     1921 agacattaga tataaatatt tcaggatcaa acttggaatt atgaaaacag ttgcatctgt
+     1981 atttaccacc atccgtactt attcatgtgt agtactgtag gatgaataaa attaatttca
+     2041 aatgtattgc ccaaaaaaaa aaaaaaaaaa aaaaaaaa
+//
+

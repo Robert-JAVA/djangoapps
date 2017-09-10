@@ -1,0 +1,51 @@
+LOCUS       DQ284399                 328 bp    DNA     linear   VRT 03-AUG-2012
+DEFINITION  Notophthalmus viridescens histone H3a gene, partial cds.
+ACCESSION   DQ284399
+VERSION     DQ284399.1  GI:90185039
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 328)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     The Amphibian Tree of Life
+  JOURNAL   Bull. Am. Mus. Nat. Hist. 297, 1-291 (2006)
+REFERENCE   2  (bases 1 to 328)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2005) Herpetology, Division of Vertebrate
+            Zoology, American Museum of Natural History, Central Park West at
+            79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMCC 106084"
+                     /db_xref="taxon:8316"
+     mRNA            <1..>328
+                     /product="histone H3a"
+     CDS             <1..>328
+                     /codon_start=2
+                     /product="histone H3a"
+                     /protein_id="ABD91461.1"
+                     /db_xref="GI:90185040"
+                     /translation="RKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREI
+                     RRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNL
+                     CAIHAKR"
+ORIGIN      
+        1 ccgcaagtcc accggaggga aagcgcctcg caagcagctg gccaccaagg ctgcccgcaa
+       61 gagcgcgcct gccaccgggg gagtcaagaa gcctcaccgc taccgtcccg gcaccgtggc
+      121 tctccgtgag atccgccgct accagaagtc cactgagctg ctcatccgca aactgccctt
+      181 ccagcgcttg gtgcgsgaga tcgcgcagga cttyaagacc gacctgcgtt tccagagctc
+      241 cgcagtcatg gccctgcagg aggccagcga ggcctacctg gtcgggctct ttgaggacac
+      301 caacctgtgc gccatccacg ccaagagg
+//
+

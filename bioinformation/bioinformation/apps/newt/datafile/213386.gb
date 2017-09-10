@@ -1,0 +1,38 @@
+LOCUS       NEWRGWA                  629 bp ss-RNA     linear   VRT 28-APR-1993
+DEFINITION  Newt 8S RNA gene, similar to Drosophila Glu-tRNA.
+ACCESSION   M12577
+VERSION     M12577.1  GI:213386
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 629)
+  AUTHORS   Endoh,H. and Okada,N.
+  TITLE     Total DNA transcription in vitro: a procedure to detect highly
+            repetitive and transcribable sequences with tRNA-like structures
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 83 (2), 251-255 (1986)
+   PUBMED   3455763
+COMMENT     Original source text: Newt DNA.
+FEATURES             Location/Qualifiers
+     source          1..629
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic RNA"
+                     /db_xref="taxon:8330"
+     misc_RNA        32..87
+                     /note="8S RNA"
+ORIGIN      
+        1 atttgataag tttctaaaag ggaagccagt gtggtccagt gggtaaggtc ccgacttcca
+       61 cccagacaac cagggttcaa atcccgggat cggcaccagg tgatggatga tggcgagaga
+      121 ggtaagttgg aggtcggcct gcatggtaag aaaaatgtgt gtgtgccgtg taagagtgga
+      181 gtcatgaatg gtgattgcag agtggttggt aagtgacatg ggtgtggtga gagcaagggg
+      241 caggatcagt gacaggtgtt aagtgagttg gagtggtgga gtcaggggta ggtgtagggg
+      301 gagtgcaggg ttagatgggt ggggagaggg ggagtgcagg gtaggagagt ggaggagctt
+      361 gggacagaga ggaggtgtgt cagagcagag ggtggggctg tatgtgtgca caagtggggt
+      421 gggtggagtc aggggatagg gggaggggga gtgcaggcat aagcgggtgg gatactaggg
+      481 acaaagaagg gggtcataga gggaggagga gcctggagca gagtggggcc cgatgtgggc
+      541 actcatgcag tggttctcta gcccacagta ggatgtgggg taccccaatt cttttcctac
+      601 actctctgat ttgggggggg ggggtggca
+//
+

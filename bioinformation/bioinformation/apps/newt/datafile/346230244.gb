@@ -1,0 +1,51 @@
+LOCUS       JN232961                 309 bp    DNA     linear   VRT 13-SEP-2011
+DEFINITION  Mesotriton alpestris haplotype H6 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   JN232961
+VERSION     JN232961.1  GI:346230244
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 309)
+  AUTHORS   Luznik,M., Varljen Buzan,E. and Krystufek,B.
+  TITLE     Mitochondrial sequences do not support the independent taxonomic
+            position of the extinct Alpine newt subspecies Mesotriton alpestris
+            lacusnigri
+  JOURNAL   Amphib-reptil. 32, 435-440 (2011)
+REFERENCE   2  (bases 1 to 309)
+  AUTHORS   Luznik,M., Varljen Buzan,E. and Krystufek,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2011) Institute for Biodiversity Studies, UP ZRS,
+            Garibaldijeva 1, Koper 6000, Slovenia
+FEATURES             Location/Qualifiers
+     source          1..309
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54263"
+                     /haplotype="H6"
+                     /country="Slovenia"
+     gene            <1..>309
+                     /gene="cytb"
+     CDS             <1..>309
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AEO21926.1"
+                     /db_xref="GI:346230245"
+                     /translation="SQITTGLFLAMHYTADTQLAFSSVAHICRDVNGGWFMRNMHING
+                     ASFFFICIYLHIGRGLRYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGAA
+                     V"
+ORIGIN      
+        1 tcacaaatta caacagggct attcttagca atacactata cagcagacac gcaactagct
+       61 ttctcgtctg tcgcccatat ctgccgagat gtcaatgggg gatgatttat acgcaatata
+      121 cacatcaacg gggcctcatt cttttttatt tgcatttatc ttcacattgg acggggcttg
+      181 cgctacggct cctacatatt taaagaaaca tggaacattg gggtaattct actactttta
+      241 gtaatagcca ccgcctttgt agggtatgtt ctaccatgag gacaaatatc attctgaggg
+      301 gctgcagtt
+//
+

@@ -1,0 +1,41 @@
+LOCUS       AB122113                 313 bp    DNA     linear   VRT 15-SEP-2007
+DEFINITION  Cynops pyrrhogaster DNA, highly repetitive sequence.
+ACCESSION   AB122113
+VERSION     AB122113.1  GI:46359696
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Kuro-o,M. and Suto,S.
+  TITLE     The highly repetitive DNA sequences in Cynops pyrrhogaster
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 313)
+  AUTHORS   Kuro-o,M. and Suto,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2003) Masaki Kuro-o, Hirosaki University, Faculty
+            of Biofunctional Science; 3 Bunkyo-cho, Hirosaki, Aomori 036-8561,
+            Japan (E-mail:kuroo@mb.infoaomori.ne.jp, Tel:81-172-39-3591,
+            Fax:81-172-39-3750)
+FEATURES             Location/Qualifiers
+     source          1..313
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /sex="female"
+                     /country="Japan:Chiba, Isumi"
+     repeat_region   1..313
+                     /rpt_family="Hin dIII"
+                     /rpt_type=tandem
+                     /rpt_unit_range=1..313
+ORIGIN      
+        1 agcttctctt ttgactgatt tagggcagga aaatgactct aaatacactt attttagttc
+       61 caaaagtgat aattcacatc caacagtcat ttacattcaa aagattaaac attcaaaaat
+      121 caccatcact ggccatctgg agaaagttcg acaggtccgg ggtcatcgtt tttcatgaaa
+      181 aaattgattt tttagattgt gcaaaaaatg attcaaaata tcatttatat catgcctcat
+      241 gttgaataac cactttttaa ggcctcacag tgtccaaaat tgccattttt acagactttt
+      301 cctcctactc aga
+//
+

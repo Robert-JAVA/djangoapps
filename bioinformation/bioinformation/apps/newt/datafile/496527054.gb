@@ -1,0 +1,64 @@
+LOCUS       AB769545                1035 bp    DNA     linear   VRT 10-MAY-2013
+DEFINITION  Echinotriton andersoni mitochondrial gene for NADH dehydrogenase
+            subunit 2, partial cds, specimen_voucher: KUHE:exp1952.
+ACCESSION   AB769545
+VERSION     AB769545.1  GI:496527054
+KEYWORDS    .
+SOURCE      mitochondrion Echinotriton andersoni (Ryukyu spiny newt)
+  ORGANISM  Echinotriton andersoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Echinotriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Matsui,M. and Nguyen,T.T.
+  TITLE     A New Species of Tylototriton from Northern Vietnam
+            (Amphibia:Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 32, 34-49 (2013)
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) Contact:Koshiro Eto Kyoto University,
+            Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Echinotriton andersoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE:exp1952"
+                     /db_xref="taxon:385653"
+                     /country="Japan"
+     CDS             1..>1035
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAN19749.1"
+                     /db_xref="GI:496527055"
+                     /translation="MNPYALSILLSSLAVGTIMTLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQAIASALVLFSSTTNAWATGEWTITTMTDNTSSSLLTIAL
+                     AIKLGIAPFHLWLPDVMQGLNLMTCLILATWQKLAPMSLMIMTSHQLNTNLLIVMAVL
+                     STMVGGWGGLNQTQMRKLMAYSSIAHLGWMTLILSFSPSLTTLNLTIYLMLTSSMFLM
+                     MMTMNSTNINKLSISWLKTPMMASSMMMTLMALGGLPPTSGFLPKWLILQEMTKQHLG
+                     PASTLIAMSALLSLFFYLRLAYAISLTTAPNTSNSNITWRMNCNQTQIPKTTITLTVM
+                     MLPITPALLMM"
+ORIGIN      
+        1 atgaacccat atgcactctc aattttatta tcaagcctag cagtaggaac aatcataaca
+       61 ctctcaagct cacactgatt cctagcatga gtaggcctag aaatcaatac attggcaatc
+      121 attccactta tgacaaaaat acaccatcca cgagcaacag aatcagccac aaaatacttt
+      181 ctaacgcaag ccatcgcatc agccttagtc ttattctctt caaccacaaa cgcatgagcc
+      241 acaggagaat gaacaattac cactataacc gacaatacat catcctccct cctaacaatt
+      301 gctttagcca tcaaactagg aatcgcccca tttcacctat gattaccaga tgttatacaa
+      361 ggattaaact taataacatg cctaatcctt gcaacatgac aaaaattagc cccaatatcc
+      421 ctaataatta taaccagcca tcaactaaac acaaacctgc taattgtaat agctgtatta
+      481 tcaacaatag ttggaggatg aggtggcctc aaccagacac aaatacgaaa actaatagca
+      541 tattcatcta ttgcccacct cgggtgaata actctaatcc tttctttctc cccaagctta
+      601 actactttaa acttaacaat ttacctaata ttaacctcat caatattctt aataataata
+      661 accataaact caacgaacat caataaactt tcaatttctt gactaaaaac gccaataatg
+      721 gcatcatcca taataataac cctaatagcc ctgggaggac taccaccaac ctcaggattc
+      781 ctaccaaaat gactaatttt acaagaaata actaaacaac acctgggacc cgcgtccacc
+      841 ctaattgcaa tatctgcgct actaagccta ttcttctacc tacgactagc atatgcaatc
+      901 tcattaacta ctgccccaaa cacctcaaac tctaatatca cctgacgaat aaactgcaac
+      961 caaacacaaa ttcccaaaac aacaattaca ttaaccgtaa taatattacc aattactcca
+     1021 gcactactaa taata
+//
+

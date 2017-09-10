@@ -1,0 +1,47 @@
+LOCUS       KM253360                 554 bp    DNA     linear   VRT 15-OCT-2014
+DEFINITION  Ichthyosaura alpestris isolate MAB432 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KM253360
+VERSION     KM253360.1  GI:696197418
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 554)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Evolutionary history of Ichthyosaura alpestris (Caudata,
+            Salamandridae) inferred from the combined analysis of nuclear and
+            mitochondrial markers
+  JOURNAL   Mol. Phylogenet. Evol. 81C, 207-220 (2014)
+   PUBMED   25263421
+REFERENCE   2  (bases 1 to 554)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2014) Ecologia de la Biodiversidad, Instituto de
+            Ecologia, UNAM, Mexico D. F., Distrito Federal 70-275, Mexico
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MAB432"
+                     /db_xref="taxon:54263"
+     rRNA            <1..>554
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgcctcttgc caaacacaat ataagaggtc ccgcctgccc agtgatcatt ttttaacggc
+       61 cgcggtatta tgaccgtgca aaggtagcgt aatcacttgt cttttaaata aagacccgta
+      121 tgaaaggcaa aacgaaagtt cgactgtctc tttaatccta tcagtgaaat ttatttctcc
+      181 gtgcagaagc ggagataatt atataagacg agaagaccct atggagcttc aaatacaaaa
+      241 ccaactacaa ccacattctt aaccaacagg caaaaagtta ataaatgtag tcatggttta
+      301 aattttcggt tggggcgacc acggagtaaa aattaacctc cacgacacac agtttagagc
+      361 aacacttcga aaactaaaac atttattttg atgatccact aagtgaccaa cgaaccaagt
+      421 taccctaggg ataacagcgc aatcctttct aagagtccat atcgacgaat gggtttacga
+      481 cctcgatgtt ggatcaggac acccaaatgg tgcagccgct attaaaggtt cgtttgttca
+      541 acgattaaag tcct
+//
+

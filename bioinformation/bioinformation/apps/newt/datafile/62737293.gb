@@ -1,0 +1,69 @@
+LOCUS       AY951457                1016 bp    DNA     linear   VRT 22-JUN-2005
+DEFINITION  Triturus vulgaris haplotype L38 NADH dehydrogenase subunit 2 (ND2)
+            gene, partial cds; and tRNA-Trp gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY951457
+VERSION     AY951457.1  GI:62737293
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 1016)
+  AUTHORS   Babik,W., Branicki,W., Crnobrnja-Isailovic,J., Cogalniceanu,D.,
+            Sas,I., Olgun,K., Poyarkov,N.A., Garcia-Paris,M. and Arntzen,J.W.
+  TITLE     Phylogeography of two European newt species - discordance between
+            mtDNA and morphology
+  JOURNAL   Mol. Ecol. 14 (8), 2475-2491 (2005)
+   PUBMED   15969729
+REFERENCE   2  (bases 1 to 1016)
+  AUTHORS   Babik,W. and Branicki,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2005) Comparative Anatomy, Institute of Zoology,
+            Jagiellonian University, Ingardena 6, Krakow 30-060, Poland
+FEATURES             Location/Qualifiers
+     source          1..1016
+                     /organism="Lissotriton vulgaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+                     /haplotype="L38"
+                     /country="Hungary: Pilis"
+     gene            <1..951
+                     /gene="ND2"
+     CDS             <1..951
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAX97948.1"
+                     /db_xref="GI:62737294"
+                     /translation="MGLEINTLAIIPLMTKMHHPRAAESATKYFLTQATASALILFST
+                     TINAWMTGEWTIMNMTNHIPTVILTLALAIKLGVAPFHLWLPDVLQGLNMLTCLILST
+                     WQKLAPMALMMLTSHQLNTNLLIAMALMSTIIGGWGGLNQTQMRKIMAYSSVAHLGWM
+                     ILVISFAPSLALLNLLIYLLLTSSMFLMLMTLNSTNTNKLSISWLKTPTLAASMMVTL
+                     MALGGLPPTSGFLPKWLILQEMTKQHLGALSALMAMSALLSLFFYIRLSYTISMTSPP
+                     NISNSSLTWRKKKNLTYVIPILITMSAAMMPITPTLLLLN"
+     tRNA            950..>1016
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 atagggctag aaattaatac actagctatt attcccctaa taactaaaat acaccaccct
+       61 cgagccgcag aatcagcaac aaaatacttt ttaacgcagg ccaccgcctc cgctttaatt
+      121 ttattctcta caaccattaa tgcatgaata acaggagaat gaaccattat aaatataact
+      181 aaccatattc caacagtaat tttaactctt gccctagcaa ttaaactagg ggttgctcca
+      241 ttccacctct gattaccaga cgtcttacaa ggtttaaaca tacttacatg cctaatctta
+      301 tcaacatgac aaaaactagc cccaatagca ctaatgatat taaccagcca tcagctaaac
+      361 acaaacctat tgattgcaat agcattaata tcgacaatta ttggggggtg ggggggttta
+      421 aaccagacac aaatacgaaa aattatggca tactcatccg tcgcacacct aggatgaata
+      481 atcttggtca tttccttcgc tcctagcctg gcactattaa acctgcttat ttaccttcta
+      541 ttaacttctt ccatgttttt aatattgata accctaaact ctacaaacac aaacaaactc
+      601 tcaatttcat gattaaaaac accaacgctt gcagcatcaa taatagttac cctcatggcc
+      661 ttaggaggcc ttccgccaac atctggattc ttgccaaaat gacttattct acaagagata
+      721 acaaaacaac accttggagc actatctgct ttaatagcca tatccgccct cctcagctta
+      781 ttcttttata ttcgactatc atacacaatc tccataacct ccccaccaaa tatctcaaac
+      841 tctagtctta cttgacgaaa gaagaaaaat ttaacatacg ttatcccaat tcttatcact
+      901 atatcagcag caataatgcc aattacccca acactcctac tactaaacta aggacttagg
+      961 atagcaagac caagggcctt caaggcctta agcagaagtt aaaatcttct agtctt
+//
+

@@ -1,0 +1,92 @@
+LOCUS       JX995369                2094 bp    mRNA    linear   VRT 15-APR-2013
+DEFINITION  Notophthalmus viridescens double-stranded RNA-specific editase 1
+            (ADARB1) mRNA, complete cds.
+ACCESSION   JX995369
+VERSION     JX995369.1  GI:478258977
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2094)
+  AUTHORS   Witman,N.M., Behm,M., Ohman,M. and Morrison,J.I.
+  TITLE     ADAR related activation of adenosine-to-inosine RNA editing during
+            regeneration
+  JOURNAL   Stem Cells Dev. (2013) In press
+   PUBMED   23534823
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2094)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2012) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: ApE-A plasmid editor v. 1.14
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2094
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..2094
+                     /gene="ADARB1"
+     CDS             1..2094
+                     /gene="ADARB1"
+                     /codon_start=1
+                     /product="double-stranded RNA-specific editase 1"
+                     /protein_id="AGI96390.1"
+                     /db_xref="GI:478258978"
+                     /translation="MDVDDEENMSSSSADVKENRNMDNVLPKDDGAQATGEGPQLSNG
+                     GSSRKRPLEEGNNGHSKFRPKKRKKMPGPILPKNALMQLNEIKPGLQYRLLSQSGHVH
+                     APVFIMIVKVNGQAFEGLWLTKKKAKLHAAEKALRSFVQFPNASEAHLAMGRTLSINT
+                     DFTSDQADFPDTLFNGFETPVQTDNNFYVGSNGNGSFNSTGDYSLPSSTGSSTLIQSP
+                     LPTPSPYPIASGKNPVMILNELRPGLKYEFISESGESHAKNFMMSVTVDGQTFEGSGR
+                     NKKLAKARAAQLSLASLFNMQLDQTPSRQPIPSEGLQLHLPQVLADAVARLVVDKFSD
+                     LTDNFTSPHARRKVLAGIVMTTGTDVKDAKVICVSTGTKCINGEYMSDRGLALNDCHA
+                     EIVARRSLLRFLYTELELFLSSKEEKQRSIFMKSERGGFKLKDTVRFHLYISTSPCGD
+                     ARIFSPHEAAQEDLGDRHPNRKARGQLRTKIESGEGTIPVRSNNTIQTWDGVLQGERL
+                     LTMSCSDKIARWNVVGIQGSLFSHFVEPIYFSSIILGSLYHGDHLSRAVYQRISEIED
+                     LPPLYTLNKPLLSGISNAEARQPGKAPNFSVNWTVGDNNLEVINATTGKDEMGRASRL
+                     CKHALYCRWVCLHSKLPANLRSRLSKSNLYYDSKQSAKEYHTAKECVFKAFQKAGLGA
+                     WVKKPSEQDQFSFSV"
+ORIGIN      
+        1 atggatgttg acgatgagga aaatatgagt tcaagcagcg ctgatgttaa agaaaaccgc
+       61 aacatggaca acgtcttgcc gaaggatgat ggggcacaag ctaccgggga aggccctcag
+      121 ctctctaatg ggggtagcag caggaaacgc ccgcttgagg agggaaacaa tgggcactcc
+      181 aagttccgcc ccaagaagag aaagaaaatg ccggggccaa ttttacccaa gaatgccttg
+      241 atgcaattga atgaaatcaa gccaggtttg caatacagat tactttctca aagtgggcat
+      301 gttcatgctc cagtgttcat tatgatcgtg aaagtcaatg gacaggcttt tgaggggctc
+      361 tggcttacca aaaaaaaggc taaacttcat gctgctgaaa aggccctgcg gtcttttgtt
+      421 caatttccca atgcatctga agcccatcta gcaatgggaa gaaccctttc tataaacaca
+      481 gacttcacat ctgaccaggc cgacttccca gataccctgt tcaatggatt tgaaacccca
+      541 gtgcagactg acaataactt ttatgtgggc tcaaatggaa atggctcatt caactcaact
+      601 ggggactaca gtttaccatc atctaccggc tccagcactc tgatccagtc ccctcttccc
+      661 actccatcac cgtatcccat agcaagtgga aaaaatcctg tcatgatcct caatgaattg
+      721 cggcctggcc taaaatacga gttcatctct gaaagtgggg aaagccacgc aaagaacttt
+      781 atgatgtcag tgactgtaga tggtcaaacg tttgaagggt caggcagaaa caagaaactt
+      841 gcaaaggctc gagcagcaca gttatctctt gcttccctct ttaatatgca gttggaccag
+      901 actccttccc gccagccaat tcccagtgag ggactacagt tgcatttgcc acaggtccta
+      961 gcagatgctg ttgcacgcct cgtagtagat aaattcagtg atctaactga taatttcacc
+     1021 tcgccccatg ctcgtagaaa agtgctggct gggattgtca tgacaacagg cacagatgtg
+     1081 aaggatgcta aggtgatctg cgtctctaca gggacaaagt gcatcaatgg agaatacatg
+     1141 agtgaccgtg gtcttgcctt aaatgactgt catgctgaaa ttgtagctcg caggtctctt
+     1201 ctgcgattcc tctacacaga acttgaactc tttttaagtt caaaagaaga gaagcaaaga
+     1261 tctatcttca tgaagtcaga acgtggtgga tttaagctga aggacactgt gcgatttcat
+     1321 ctgtacatca gcacctctcc atgtggggat gccagaatat tctcacccca tgaagctgca
+     1381 caagaggatt tgggagaccg acatccaaac cgcaaggcaa ggggacaact gcgcacaaaa
+     1441 atagagtctg gagagggaac cattcctgtc cgttcgaata acaccattca gacatgggat
+     1501 ggagtattgc aaggagagag gctgctcact atgtcctgca gtgacaagat agcaaggtgg
+     1561 aatgtagtag ggattcaagg atccttgttc agccactttg tggagcccat ttatttctcc
+     1621 agcataattc ttgggagttt gtatcacgga gaccatcttt ccagggcagt atatcagcga
+     1681 atttcagaga tagaagatct gccacccctc tataccctca acaaaccttt actcagtggc
+     1741 attagcaatg cagaagcccg ccagcctgga aaagccccca attttagtgt gaactggaca
+     1801 gtgggtgata acaacctgga agttataaat gctacgacag gcaaagatga gatgggccga
+     1861 gcatctcgcc tttgtaagca tgcactctac tgtcgttggg tatgccttca ctcaaagctt
+     1921 ccagcaaacc ttagatctcg gctcagcaaa tccaatctgt actatgattc taagcagtca
+     1981 gcgaaagaat atcacacagc caaagagtgt gtgttcaaag cattccagaa agcaggcctg
+     2041 ggtgcctggg tgaagaaacc gagcgagcaa gaccagttct ccttctcagt ctaa
+//
+

@@ -1,0 +1,45 @@
+LOCUS       DQ823401                 578 bp    DNA     linear   VRT 21-SEP-2007
+DEFINITION  Triturus helveticus voucher th1 beta-fibrinogen gene, intron 7.
+ACCESSION   DQ823401
+VERSION     DQ823401.1  GI:110084623
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 578)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Assessing the phylogenetic signal of the nuclear beta-fibrinogen
+            intron 7 in salamandrids (Amphibia: Salamandridae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) CIBIO/UP, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            Vairao, Vila do Conde 4485-661, Portugal
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="th1"
+                     /db_xref="taxon:256425"
+     gene            <1..>578
+                     /gene="beta-fibrinogen"
+     intron          1..578
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 gtatgtagtg ctccagccct catcagttta ttggtttaat gcaaggagca gccagggaag
+       61 gcccattaaa cagcaaagaa tgagagcatt ggcagcactg acattccact tccatgtttg
+      121 atcagacata gattcttgct tctcagcatt tctttcgagt tgtggcattc ttttagactg
+      181 ataggcactt caagacagac acatcattct agtgtgcctt tccacataat tccactgctg
+      241 gtgctcgttt tctggatagg acctcagata caactgagtt atacattttt taaaaaccca
+      301 gttctgagac ataaagcaga ccataacaga aaaccgtcac acgttcccac cttatacttt
+      361 actgtactga attaaactat tttattattt actacgttaa attatactgt acaacaggaa
+      421 tcaatattat aagttatgat atgttatgct ttgctatttt gtgcacgatc acacgtgcaa
+      481 gcacacatgc atacacatga ttgcttaaag tcttggaaat gcagaggcag gaagatgaac
+      541 acagtgtgct tgctaaattt caatgtcttc gtttttag
+//
+

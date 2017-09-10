@@ -1,0 +1,54 @@
+LOCUS       JN565400                 204 bp    DNA     linear   VRT 13-FEB-2012
+DEFINITION  Lissotriton vulgaris MHC class II antigen (Limv-DNB) gene,
+            Limv-DNB*097 allele, exon 2 and partial cds.
+ACCESSION   JN565400
+VERSION     JN565400.1  GI:357240076
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 204)
+  AUTHORS   Nadachowska-Brzyska,K., Zielinski,P., Radwan,J. and Babik,W.
+  TITLE     Interspecific hybridization increases MHC class II diversity in two
+            sister species of newts
+  JOURNAL   Mol. Ecol. 21 (4), 887-906 (2012)
+   PUBMED   22066802
+REFERENCE   2  (bases 1 to 204)
+  AUTHORS   Nadachowska-Brzyska,K., Zielinski,P., Radwan,J. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2011) Institute of Environmental Sciences,
+            Jagiellonian University, ul. Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..204
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     gene            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*097"
+     mRNA            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*097"
+                     /product="MHC class II antigen"
+     CDS             <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*097"
+                     /codon_start=1
+                     /product="MHC class II antigen"
+                     /protein_id="AET71835.1"
+                     /db_xref="GI:357240077"
+                     /translation="SQRVRLLFRWVYNRQQYVHFDSDVGYYEADMEAGEPSAKAWNSD
+                     EAYMVETRAQVDRFCRTNYRLMEG"
+     exon            <1..>204
+                     /gene="Limv-DNB"
+                     /allele="Limv-DNB*097"
+                     /number=2
+ORIGIN      
+        1 tctcagcggg tccggctcct gttccgctgg gtctacaacc ggcagcagta cgtgcacttc
+       61 gacagcgacg tggggtacta cgaggctgac atggaggccg gagagccgag tgcgaaggcc
+      121 tggaacagcg acgaggccta catggtggag acgcgggccc aggtggacag attctgcaga
+      181 accaactaca gactgatgga gggc
+//
+

@@ -1,0 +1,59 @@
+LOCUS       AM900468                 642 bp    DNA     linear   VRT 28-MAR-2008
+DEFINITION  Triturus cristatus mitochondrial partial nd4 gene for NADH
+            dehydrogenase subunit 4, isolate h01.
+ACCESSION   AM900468
+VERSION     AM900468.1  GI:161514046
+KEYWORDS    NADH dehydrogenase subunit 4; nd4 gene.
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Arntzen,J.W., Espregueira Themudo,G. and Wielstra,B.
+  TITLE     The phylogeny of crested newts (Triturus cristatus superspecies):
+            nuclear and mitochondrial genetic characters suggest a hard
+            polytomy, in line with the paleogeography of the centre of origin
+  JOURNAL   Contrib. Zool. 76 (4), 261-278 (2007)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2007) Arntzen J.W., Department of Vertebrates,
+            Naturalis, P. O. Box 9517, Leiden 2300 RA, THE NETHERLANDS
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="h01"
+                     /db_xref="taxon:8323"
+     gene            <1..>642
+                     /gene="nd4"
+     CDS             <1..>642
+                     /gene="nd4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="CAP12646.1"
+                     /db_xref="GI:161514047"
+                     /db_xref="GOA:A9J5Y9"
+                     /db_xref="InterPro:IPR001750"
+                     /db_xref="UniProtKB/TrEMBL:A9J5Y9"
+                     /translation="LLKLGGYGIIRITMILTPLTKEMAYPFMILALWGVVMTSLICMR
+                     QTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAVILMISHGLISSALFCLANLNYER
+                     THSRTLLLVRGAQAVMPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWSPWTIL
+                     ITGLGALITASYTLYMFLMTQRGPTPPHLGQINPSYTREHFLLMMHLAPMLLLI"
+ORIGIN      
+        1 ttgctcaagc ttgggggata tggcattatt cgaattacca taatccttac cccactaaca
+       61 aaagaaatgg catatccatt tataattcta gccttatgag gggtcgtgat aacaagccta
+      121 atctgcatac gacaaacaga ccttaagtcg ctaattgcat attcgtctgt aagccacata
+      181 ggcctggtca ttgccgctat tataattcaa acaccgtgaa gcctaacggg ggctgttatt
+      241 ttaatgatct cacacgggct tatttcatcc gccctatttt gcctagcaaa cctaaattat
+      301 gaacgaacgc acagtcgaac tctactatta gttcgagggg cccaggcagt cataccatta
+      361 atggcaactt ggtgactcat tgcaaattta tcaaatatag cacttcctcc aacaataaat
+      421 ctatgaggag agctgacaat tatagtctcg ctgtttaact gatccccctg gacaatccta
+      481 atcacgggct tgggggcctt aatcactgcc tcttacacct tatacatatt cctaataaca
+      541 caacgtggcc caaccccccc acatcttggc caaattaacc catcttacac tcgagaacac
+      601 ttcttactta taatacactt agcccctata ttactgctaa tt
+//
+

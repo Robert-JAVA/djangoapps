@@ -1,0 +1,70 @@
+LOCUS       AB019514                1392 bp    mRNA    linear   VRT 02-APR-1999
+DEFINITION  Cynops pyrrhogaster mRNA for newt Id2, complete cds.
+ACCESSION   AB019514
+VERSION     AB019514.1  GI:4587141
+KEYWORDS    newt Id2.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Shimizu-Nishikawa,K., Tazawa,I., Uchiyama,K. and Yoshizato,K.
+  TITLE     Expression of the helix-loop-helix type negative regulators of
+            differentiation during limb regeneration in urodele and anuran
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1392)
+  AUTHORS   Shimizu-Nishikawa,K., Tazawa,I. and Yoshizato,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-1998) Keiko Shimizu-Nishikawa, Hiroshima
+            University, Faculty of Science; Kagamiyama, Higashihiroshima,
+            Hiroshima 739-8526, Japan (E-mail:knishika@sci.hiroshima-u.ac.jp,
+            Tel:81-824-22-7151, Fax:81-824-22-7151)
+FEATURES             Location/Qualifiers
+     source          1..1392
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="limb blastema"
+                     /dev_stage="adult"
+     gene            1..1392
+                     /gene="newt Id2"
+     CDS             290..715
+                     /gene="newt Id2"
+                     /codon_start=1
+                     /product="newt Id2"
+                     /protein_id="BAA76631.1"
+                     /db_xref="GI:4587142"
+                     /translation="MKAFSPVRTVRRNSLSEHSLGVLARAKPPSPLEDPLNLLYNMND
+                     CYSKLRELVPSIPQNRKVSKMEILQHVIDYILDLQLALDSHPGPGMAAGGSGHIQQRS
+                     PSASRSPLSALNTDISILSLQASDFPSELLTNDSKPLYP"
+     polyA_site      1392
+                     /gene="newt Id2"
+                     /note="18 A nucleotides"
+ORIGIN      
+        1 catctgtcag acgctagtaa aagaagcctg cccgaggaag gacgtccact gaagcccgag
+       61 aaaagacagc tggtgttatt agctgtagtt gagacatctg ccgcccgtgg atggatatct
+      121 gctgtcacag gttacaggag tgacttgtgt cagaggagag gttccgggac gcggtaggct
+      181 ggccagcggc gaaatctcct ctaaccaagc tttggtcgga aggcaaggaa ggaggacaca
+      241 agtctgaact gtggacgaag gcagggtcta tctgacgccc ccgggagcca tgaaagcctt
+      301 tagcccggtg cgcaccgtgc ggcggaacag cctgtcggag cacagcctgg gggtcctggc
+      361 ccgcgccaag ccgccctcgc cgctggagga ccccctcaac ttactctaca acatgaatga
+      421 ctgctactcc aagctgcggg agctggtccc cagcatcccg cagaaccgga aggtcagcaa
+      481 gatggagatc ctccaacatg tcatcgacta catcctggac ctgcagctgg cgctcgactc
+      541 gcacccgggc ccgggcatgg cggcaggtgg cagcggccac attcagcaga ggtcgccctc
+      601 cgcctccagg agtccgctca gcgcccttaa cacggacatc agcatcctct ctctgcaggc
+      661 gtctgatttc ccctcggagt tattgacgaa tgacagcaag ccactgtatc cctgaaccca
+      721 cggtgttcag cctcacagat tttttttttc ttttgcacaa gactgcggca tcacgatcgc
+      781 ggagattttt tttgtgtgtg tcaatcacca ttatgggatc aacgttggaa tcaccattat
+      841 gggatcaacg ttggaatcac tagacttttg ttaataaaga tatgataccg tggaggataa
+      901 aagcctcctt tcccctgcta agttattcac cgacctctgg actgatcaca gtttatttat
+      961 gaagactcta cttctccagt ggggaaggct aactttttat atactattcc cagcatgggg
+     1021 agcggatacc ataaagacta ttttgttttg cttgatttct cccccccccc cccccataac
+     1081 gcagactttg cctgtttttg gacaacaaca aacaaaaaag gtggagcgtg aaccaaggga
+     1141 agagtccgag agttcagttt tcgatctgtg ttttactgtg ggtcggaaat gtagattttt
+     1201 gacatgcact aggctgactt ctgtgtacat agacgtataa accaagacgt ccctggcaac
+     1261 tcttgagtat ttacctgtat agcggcggag gtcgatttct gcatcaaaat gcgcaaatca
+     1321 tgctgaactt tttataaaag ttcggttgta aaacttaaca tttttatacg taaataaata
+     1381 aagtgtttat tg
+//
+

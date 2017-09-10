@@ -1,0 +1,46 @@
+LOCUS       NVU33755                 153 bp    mRNA    linear   VRT 02-OCT-1995
+DEFINITION  Notophthalmus viridescens paired-box protein NvPax-6 (pax-6) mRNA,
+            partial cds.
+ACCESSION   U33755
+VERSION     U33755.1  GI:1004366
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 153)
+  AUTHORS   Del Rio-Tsonis,K., Washabaugh,C.H. and Tsonis,P.A.
+  TITLE     Expression of pax-6 during urodele eye development and lens
+            regeneration
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 92 (11), 5092-5096 (1995)
+   PUBMED   7761453
+REFERENCE   2  (bases 1 to 153)
+  AUTHORS   Washabaugh,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Charles H. Washabaugh, Cell Biology and
+            Physiology, University of Pittsburgh School of Medicine, 3550
+            Terrace Street, Pittsburgh, PA 15261, USA
+FEATURES             Location/Qualifiers
+     source          1..153
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..153
+                     /gene="pax-6"
+     CDS             <1..>153
+                     /gene="pax-6"
+                     /function="DNA binding, transcriptional regulation"
+                     /note="paired-box containing protein"
+                     /codon_start=1
+                     /product="NvPax-6"
+                     /protein_id="AAA77685.1"
+                     /db_xref="GI:1004367"
+                     /translation="KILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIF
+                     AWEIRDR"
+ORIGIN      
+        1 aagattctgg gcaggtatta cgagacgggc tccatccggc cgagggccat cggaggcagc
+       61 aagcccaggg tggccacgcc cgaggtggtc agcaagatag cgcagtacaa gcgcgagtgt
+      121 ccgtccatct tcgcctggga aatcagagac agg
+//
+

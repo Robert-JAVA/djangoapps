@@ -1,0 +1,52 @@
+LOCUS       JQ435815                 486 bp    DNA     linear   VRT 13-MAY-2012
+DEFINITION  Cynops orientalis cytochrome oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   JQ435815
+VERSION     JQ435815.1  GI:386778519
+KEYWORDS    .
+SOURCE      mitochondrion Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 486)
+  AUTHORS   Krapal,A.-M., Popa,O.P., Iorgu,E.I. and Popa,L.O.
+  TITLE     DNA barcoding invasive species in the Romanian fauna
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 486)
+  AUTHORS   Krapal,A.-M., Popa,O.P., Iorgu,E.I. and Popa,L.O.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2012) Molecular Biology, 'Grigore antipa'
+            National Museum of Natural History, Sos. Kiseleff No. 1, Bucharest,
+            Sector 1 011341, Romania
+FEATURES             Location/Qualifiers
+     source          1..486
+                     /organism="Cynops orientalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>486
+                     /gene="COI"
+     CDS             <1..>486
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AFJ23843.1"
+                     /db_xref="GI:386778520"
+                     /translation="LLIGAELSKRGALLGDDQIYNVIVTAHPFVMLSFMVMPVMIGGF
+                     GNWFVPLMTGAPDMAFPRMNKMSFWLFPPSFLLLLASSGVEAGAGTGLTVYPPLAGNL
+                     AHAGASVDLTIFLLNLGGVSLIPGAINFITTSINIKPPSMKQYQKPLFVWSVLITAIP
+                     P"
+ORIGIN      
+        1 gtctcttaat tggagcggaa ctaagcaaac gaggggctct cctaggcgat gaccaaattt
+       61 ataatgtaat tgtaaccgcc catccttttg taatactctc ttttatagtc ataccagtaa
+      121 taattggagg atttgggaac tgatttgtgc cccttatgac cggggccccc gatatagcat
+      181 ttcctcgaat aaataaaata agcttctggc ttttcccgcc ctcatttctt ttacttctag
+      241 cttcctctgg tgtagaagca ggagcaggaa ctgggttaac cgtatacccc ccattggctg
+      301 gtaatcttgc ccatgcaggt gcctctgttg atctaaccat cttcttactt aacttgggag
+      361 gggtgtcctt aatcccgggg gcaattaact ttattacaac atcgattaat attaaacccc
+      421 cttccataaa gcaatatcaa aaacccctgt ttgtatggtc agttttaatt acggccatcc
+      481 cacctc
+//
+

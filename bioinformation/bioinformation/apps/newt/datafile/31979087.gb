@@ -1,0 +1,45 @@
+LOCUS       AY291453                 559 bp    DNA     linear   VRT 18-JUN-2003
+DEFINITION  Notophthalmus viridescens microsatellite Nvi 3 sequence.
+ACCESSION   AY291453
+VERSION     AY291453.1  GI:31979087
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 559)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Polymorphic microsatellite DNA loci from the red-spotted newt
+            (Notophthalmus viridescens)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 559)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2003) Savannah River Ecology Laboratory, Drawer
+            E, Aiken, SC 29802, USA
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /clone="1-2D"
+     primer_bind     83..101
+     repeat_region   150..219
+                     /note="microsatellite Nvi 3"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ac"
+     primer_bind     complement(339..355)
+ORIGIN      
+        1 acagaattgg caacagcatt gctgacttct tttasataca tttagtaggg acaacacagg
+       61 tagcastagt gcatgaaatt ctagcataat tcatccacat atgacaataa agcgcaagct
+      121 ttcctcacaa actctgtctt tctctcttta cacacacaca cacacacaca cacacacaca
+      181 cacacacaca tacacacaca cacacacaca cacacacacg tccaatatct atgaaattgt
+      241 gcaggtgtca ctcacacata aaccagtcaa aagtattcta actaaatatc cctcactcat
+      301 acctaaaaga cacagccctg taagtagttg aaatgtttta caaacaaaat gggtccagca
+      361 ggcaacaaca gctcaagcgt ccctcataca cacaaagttg acaaagtatt ggctttgaaa
+      421 cccaccttca tacaaaaaca gatacaacag aggaagcaac agcaaacgct atcctcgagc
+      481 atggaaaaga agtgccgcga aggaagcagc agtggaagct atccttaaac acacacaaaa
+      541 tgaataccta gtgtgcagt
+//
+

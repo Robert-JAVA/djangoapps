@@ -1,0 +1,121 @@
+LOCUS       KP181445                3090 bp    DNA     linear   VRT 17-DEC-2014
+DEFINITION  Lissotriton vulgaris isolate TLR09A_5045_B toll-like receptor 9A
+            (TLR9A) gene, partial cds.
+ACCESSION   KP181445
+VERSION     KP181445.1  GI:732552921
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 3090)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Constraint and adaptation in newt Toll-like receptor genes
+  JOURNAL   Genome Biol Evol (2014) In press
+   PUBMED   25480684
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 3090)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2014) Institute of Environmental Sciencs,
+            Jagiellonian University, Gronostajowa 7, Krakow, Malopolskie
+            30-387, Poland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GATK Read-Backed Phasing v. 2.6; Phase v.
+                                     2.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3090
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /isolate="TLR09A_5045_B"
+                     /db_xref="taxon:8324"
+     gene            <1..>3090
+                     /gene="TLR9A"
+     mRNA            <1..>3090
+                     /gene="TLR9A"
+                     /product="toll-like receptor 9A"
+     CDS             <1..>3090
+                     /gene="TLR9A"
+                     /codon_start=1
+                     /product="toll-like receptor 9A"
+                     /protein_id="AIZ71805.1"
+                     /db_xref="GI:732552922"
+                     /translation="SITGLICASLVMYTVQIGWATLPRFFPCDDTKNFTGVNCRRRDL
+                     EEIPPIKSPKVIEIDLYKNKLVLLANDSFLGVPNLQSLNLSWNCPPQSLQPDREPCKL
+                     TIDQNAFVELHHLQTLHLAGNSLTVIPRLPSNLIELNLEMNNIVHLEYQNMSGIIHLK
+                     ALYLGMNCYYQNPCYSNLTFTRDLFIDADSLELLSLKFNNLTSIPLGLPSTLVSLDLA
+                     ENKIPELRPSDFDNLTNLKYLDLRWNCQRCDHAAQPCFPCSNNSALHIHLDAFRNLRE
+                     LKELNLRGNSLRELPDSIFEPLANLQSLELSDNFLALVIANGTLFSKLPKMQNLSLNY
+                     NYKPLNTFSKLILSHAMKDMRSLRYISLNGYFFRNLDESGILPLLSLPNLQYITFRTN
+                     FIENVNLTLFHGFNHSRLIDLSENILTLSTSCKASQERETIDRPLRLSRETTLPEFYS
+                     SVDDNGRDTDSDEHPSFYFSYPACKHYSKTLDLSFNNIQRIDPEDFRDMKDIECLNLS
+                     YNYINQRLNGSQFSYLTSLKLLDVANNRFDLYYNKSFNELPHLEVLYLNSNQFQFMIQ
+                     GLGHSFNFLENMTSLKFLSLSYNTIGIRVSKQLNCPSLKVLVFRYNRLNIMWQGRKDT
+                     YINIFTNLTQLEILDISYNNLESIPPTVLESLPSSLKKLFITHNKLRIFHWEKMSSLP
+                     SLEILDLSHNVLIYLPNKTVSFGSNFTVLILEFNHITFLNNDFFANLTTLEYLNLRNN
+                     KIKLINENSFSNVLLQNLRSLDVSGNPLECTCEAHWFIQFLKTTKIAVEHVSNGMICD
+                     APDSKRGQYLFSIDPRSCQDIYGHLALMVTCSLAVLLTVLPVLKKLYGWDIWYGAHIL
+                     KALLRKGYSSCPSIDGYDAFIAFDSQQYAITDWVYNELVLRLEEKGSTQFRLCLEERD
+                     WVAGKSRIENLCDAVYKSKKTIFILGADGFASGVLRQTFFIAQQRLLDEKLDVVILVL
+                     LDNGMKMSKYLQARKRVCKKSIIQWPCNPKAQPYFWHSLRILLAQDSKKWYDSKIRSS
+                     "
+ORIGIN      
+        1 agcatcacag gtttgatttg tgcttctctt gtgatgtata ctgtgcagat tggctgggcc
+       61 acattgcctc ggttctttcc ctgtgatgat accaagaact tcaccggtgt caattgccgc
+      121 cgaagggatt tagaagaaat tccacctatc aagtctccta aagtgattga gattgacctc
+      181 tacaaaaata agctggttct gttagcgaat gactcatttt tgggagttcc aaatctccag
+      241 agccttaatt taagttggaa ctgtcctcct caaagtttac aacctgacag agagccctgc
+      301 aagctcacaa ttgaccaaaa tgcttttgta gaacttcacc acctacaaac tctgcaccta
+      361 gcaggtaata gcttgacagt gatccctcgg ctgccctcca atttgataga gttaaatttg
+      421 gagatgaaca atatagtaca tttggaatat cagaatatgt ctggaatcat tcacctgaaa
+      481 gctctgtatc ttggtatgaa ctgctactac cagaatccat gttactctaa tcttaccttc
+      541 accagggacc tcttcataga tgcagattcc ttggaactac tatcactaaa attcaacaac
+      601 ctcactagca taccattggg cctcccgtca actttggtca gcctggattt agcagaaaat
+      661 aagattccag aattaagacc ctcagatttt gacaacctta caaacctgaa gtatctcgac
+      721 ctgagatgga actgccaacg gtgcgaccac gctgctcagc cttgcttccc ttgttcaaat
+      781 aattcagccc ttcatatcca ccttgatgca ttccgtaatc ttagggagct taaagaattg
+      841 aatttaagag gaaactcttt acgagagctg ccagacagta tatttgagcc cttagctaat
+      901 ttacaaagtt tggaactttc tgacaacttt ctggctcttg tcatcgcaaa tggaacactt
+      961 ttttccaaac ttcccaaaat gcagaatctc agtctaaact ataactacaa gcctctgaac
+     1021 accttctcaa agctaattct ttcccatgcc atgaaggata tgcgctcgct aagatacatt
+     1081 tcactcaacg gatatttctt cagaaacctt gatgaaagtg gcattttacc acttttaagt
+     1141 ctaccaaacc ttcagtacat tactttcagg acaaacttca ttgaaaatgt aaatctgacc
+     1201 ctctttcacg ggttcaatca ttctcgactt attgatttgt ctgaaaacat actaacgctt
+     1261 tccacatcct gcaaggcatc tcaagagagg gaaacaatag acagaccact gagactttcc
+     1321 cgcgaaacta ccctgcctga attttacagt tctgtggatg ataacggaag agatacagat
+     1381 agtgatgagc acccttcttt ttattttagc taccctgcat gtaagcacta cagtaagact
+     1441 cttgatctgt ccttcaataa catccagaga atagacccag aggattttag agatatgaaa
+     1501 gatattgagt gcctcaatct tagttataat tacattaacc aacgcttgaa tggaagtcag
+     1561 ttttcatatt tgacatcgct aaagctcttg gatgtcgcca acaacaggtt tgacttgtac
+     1621 tacaacaaaa gctttaatga gcttccccat ctggaggttc tataccttaa ttccaaccaa
+     1681 ttccagttta tgatacaggg tttgggtcac agctttaatt tccttgaaaa tatgacctct
+     1741 ctaaagttct tgagcttgtc gtataataca ataggcatta gggtatccaa acagctaaac
+     1801 tgtccttcac tcaaggtatt ggtcttcaga tataatcgtt tgaacataat gtggcaggga
+     1861 aggaaggata cctacattaa catttttacc aacctgacgc aattagaaat tttggacatt
+     1921 tcatataaca atttggaaag catcccacca actgtgcttg aatctctgcc tagcagctta
+     1981 aaaaagctat ttataacaca taacaagttg aggattttcc actgggaaaa gatgagttct
+     2041 ctccccagct tggaaatcct ggacctgagc cataatgttc ttatatattt acccaacaaa
+     2101 actgtgtctt ttggaagtaa cttcactgtt cttatccttg aattcaatca tataacattt
+     2161 ttaaacaatg atttcttcgc aaatttgacc actctggaat atcttaactt gagaaataac
+     2221 aagatcaaat tgataaatga aaacagcttt tcgaatgtcc tcctccagaa ccttcgttca
+     2281 cttgacgtga gtggaaatcc tttagagtgc acctgtgagg cacactggtt tatccagttt
+     2341 ttaaagacaa caaaaatagc agttgagcat gtttcaaatg gtatgatatg tgatgcacca
+     2401 gattctaaac ggggacagta tctgttctcc attgaccctc gttcctgcca ggatatatat
+     2461 ggccatttgg cattaatggt cacatgttca ctagcagtat tactaacagt tttaccagtc
+     2521 ttaaagaaac tgtatggatg ggacatctgg tatggggcac atatcttgaa ggcattactt
+     2581 aggaaaggct actcttcatg cccaagtatt gatgggtatg atgcatttat tgcatttgac
+     2641 tcacaacagt atgccataac ggattgggtc tataatgagc ttgttcttcg tttggaagag
+     2701 aaaggaagca cacaatttag actctgctta gaagaaaggg actgggtagc tggtaagtct
+     2761 aggattgaga acctgtgtga tgctgtttac aagagcaaga agaccatctt catccttggt
+     2821 gcagatggat ttgcttctgg ggtactgagg caaaccttct ttatagctca gcagaggcta
+     2881 ctagacgaga agctggacgt ggttattctt gtgctgttag acaacgggat gaagatgtcc
+     2941 aaatacttgc aagccagaaa gagagtgtgc aagaagtcga tcattcaatg gccctgcaac
+     3001 ccaaaagctc agccttactt ttggcactcc ttgcgcattc ttctggcaca agatagcaag
+     3061 aaatggtatg attctaaaat aagaagcagc
+//
+

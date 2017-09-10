@@ -1,0 +1,92 @@
+LOCUS       AF115388                2675 bp    mRNA    linear   VRT 09-JUL-2001
+DEFINITION  Notophthalmus viridescens radical fringe protein (nrFng) mRNA,
+            partial cds.
+ACCESSION   AF115388
+VERSION     AF115388.1  GI:4204692
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2675)
+  AUTHORS   Cadinouche,M.Z., Liversage,R.A., Muller,W. and Tsilfidis,C.
+  TITLE     Molecular cloning of the Notophthalmus viridescens radical fringe
+            cDNA and characterization of its expression during forelimb
+            development and adult forelimb regeneration
+  JOURNAL   Dev. Dyn. 214 (3), 259-268 (1999)
+   PUBMED   10090152
+REFERENCE   2  (bases 1 to 2675)
+  AUTHORS   Cadinouche,M.Z.A., Liversage,R.A., Muller,W. and Tsilfidis,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-1998) Ophthalmology, Eye Research Institute of
+            Canada, 399 Bathurst Street, Toronto, ON M5T 2S8, Canada
+FEATURES             Location/Qualifiers
+     source          1..2675
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..>2675
+                     /gene="nrFng"
+     CDS             198..1388
+                     /gene="nrFng"
+                     /codon_start=1
+                     /product="radical fringe protein"
+                     /protein_id="AAD10827.1"
+                     /db_xref="GI:4204693"
+                     /translation="MNFSCLGLSKICFLVSVIFCTFLLLFIPKTKTPWRPRTYPQPRP
+                     PPLFNATCGKQFALPGIEHAQQKLPTHTTDITHFEDPGNVEDWRAYILGRENPDEKHE
+                     GPTDNPGEHKSVLASSINSSKDALEFEDLFIAVKTTRKYHKTRLDLLLQTWISRAKQQ
+                     TFIFTDGEDQDLRQRAGIQVINTNCSAMHTRQALCCKMAVEYDKFIESERKWFCHVDD
+                     DNYVNLFSLRHLLASFSHSQDVYLGRPSLDHPIEAIERVKSDGSASVRFWFATGGAGF
+                     CISRGLALKMSPWASMGNFITTAELVRLPDDCTIGYIIEGLLGVKMHHTPLFHSHLEN
+                     LQRLPLQSVLKQVTLSYGGPDNKRNVVSVGGIFSLENDPTRFRTVHCLLYPDTHWCPP
+                     RKTR"
+ORIGIN      
+        1 gaattccgta tcggaatttt aacatcgtct gttggaaggt cccctcaatt tgtggcttgg
+       61 cagatgggat tgaagaggaa gcataggaac tgaagctgga aggccagtaa taatgtacaa
+      121 aaggaagtgt aggatgtaac acaatgccac ctgaacctgt catggcatca gctcagggtg
+      181 ctgagctggg ctgaagaatg aacttctctt gccttgggct tagcaaaatc tgtttcctgg
+      241 tctctgtgat cttttgcact tttcttctgc tattcatacc taaaactaag actccctgga
+      301 ggcccagaac ctatccgcag ccacgaccgc cacctttgtt taatgccacc tgtggcaaac
+      361 agtttgcact cccaggaatt gaacatgcgc aacagaagct tccgacgcac actacagaca
+      421 tcacacattt tgaagaccct ggtaacgtag aagattggcg ggcctacatc ctgggcagag
+      481 aaaacccaga cgagaagcat gaaggtccta cagataaccc tggagaacac aaaagtgttc
+      541 tggcttcatc cattaactca tcgaaggatg ctctagagtt tgaggacctc tttattgcag
+      601 tgaaaactac aaggaagtac cacaaaaccc gcctggacct acttctgcag acatggatat
+      661 caagagccaa acaacagaca ttcatattta ctgatggtga agaccaagat ctgcgtcaaa
+      721 gggcaggaat tcaagtgata aacaccaact gctcggccat gcacacacgc caagctctct
+      781 gctgcaagat ggctgtggaa tatgacaagt tcattgaatc ggaacgaaaa tggttctgtc
+      841 atgtggatga tgacaattac gtgaacttgt tctccctgcg gcatctgttg gcatcttttt
+      901 cccacagcca ggacgtatat cttggacgtc ccagtctaga ccatcccatt gaagctattg
+      961 agagagtgaa gagtgatgga tccgcatctg tgaggttctg gtttgctaca ggaggtgccg
+     1021 gcttctgtat aagcagaggg cttgctctga aaatgagtcc ctgggccagt atgggtaatt
+     1081 tcatcaccac tgcagagctg gttcgcctcc cagatgactg cacaatcggt tacatcattg
+     1141 aggggctgtt aggcgtgaag atgcatcaca cccccttatt ccattctcat ctggagaacc
+     1201 tgcagagact tcccctgcag tctgtcctca aacaggtaac tctgagttat gggggtcctg
+     1261 acaacaaacg caacgttgta agcgttggag gtattttcag cctggaaaat gatccaacta
+     1321 ggtttagaac tgttcactgt ctgctctacc ctgatacaca ctggtgccct cccagaaaga
+     1381 cccgttgact tgacttcctt gtgggagatg cttacagctg tttggtgctt caaagataag
+     1441 gcgactggat atgaggaata aaggcctatt ttgtcactaa aaggaacctt gctatactcc
+     1501 ttttccagct tgcagtttca acaccatgaa ttgcttttgt gcacatctgg aataggcttt
+     1561 ttccatcaaa ccagtatgtg aatctaagat gagcattgag agagctcagg aagatctgaa
+     1621 atgcagaact ggggaaagca gtaatcaagt ttagtaatcg aggaaggggt gagtgaatcg
+     1681 gtgtggagtt taaggtccct agagatttat ggaagtgtaa tggaatctga tttgggaaca
+     1741 tgatgaagaa aatattccca acttaaatga tttagaagga gccagtgtaa taacttggca
+     1801 atctctgtac aagccatgcc cacactccca caccgccaaa aaggaagatg catactgtgc
+     1861 ctacatctcg cacccaatgg gtattgctgt gcattcattc atctctactc cacatctctg
+     1921 ccaatctatc agtgttgact agcactgcca aaaacttagc aaaacaagca gccggcagta
+     1981 gagattgtta gcaaccatga acaaatatgc tggcacccat gcgtggtaat caccggaact
+     2041 ggtgaggcca gcacaagaac atatgtagtt actggtggca aaattgttgt caacaaaagg
+     2101 aaacagacag cagctgggat gagcaacgtt aaatgtgtaa ccagtgctgc cttcacatgt
+     2161 cattgactgc aatagggact aatgatgtct gtatcaaggc atgaccaaaa atgtgtgcca
+     2221 aggttaccag gactcaagcc acacagcata agggatcaac ttggttagca acttggatcg
+     2281 gttttatttg cacttgcagt atgcatgacc agcagaaacc catagtacca gaagacctgc
+     2341 atcacctgcc ctgccttcac cctagcatga actacaatgg ccactagagg tacctggatc
+     2401 caagagtgtg ggtaagtcat tgggacccac aggtgaactg gggctagctt ttccagcagc
+     2461 tagcatatat tgaagctact gctatcaata gttaggagta atggtgctag ctcctggggt
+     2521 ccaacctgca ctatccaatt tctggcatca aaatataact tgcacctggg aataacgttg
+     2581 gcaacaccag ctcatgtcaa tcacctgagc attgcctgta gtataattgc cagagcataa
+     2641 tttgtcaggg actgtcattg ccagtactag aattc
+//
+

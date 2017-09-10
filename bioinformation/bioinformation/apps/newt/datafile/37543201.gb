@@ -1,0 +1,52 @@
+LOCUS       AY079499                 401 bp    DNA     linear   VRT 31-DEC-2004
+DEFINITION  Paramesotriton fuzhongensis isolate FZ06 NADH dehydrogenase subunit
+            4 (ND4) gene, partial cds; mitochondrial gene for mitochondrial
+            product.
+ACCESSION   AY079499
+VERSION     AY079499.1  GI:37543201
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton fuzhongensis (Wanggao warty newt)
+  ORGANISM  Paramesotriton fuzhongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 401)
+  AUTHORS   Yuan,Z., Lu,S., Pang,J., Yang,D. and Zhang,Y.
+  TITLE     Molecular Phylogeny of the Genus Paramesotriton
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 401)
+  AUTHORS   Yuan,Z., Lu,S., Pang,J., Yang,D. and Zhang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2002) Kunming Institute of Zoology, the Chinese
+            Academy of Sciences, No. 32, East Jiaochang Road, Kunming, Yunnan
+            650223, P. R. China
+FEATURES             Location/Qualifiers
+     source          1..401
+                     /organism="Paramesotriton fuzhongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="FZ06"
+                     /db_xref="taxon:189295"
+                     /country="China: Fuchuan, Guangxi"
+     gene            <1..>401
+                     /gene="ND4"
+     CDS             <1..>401
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAL92511.1"
+                     /db_xref="GI:37543202"
+                     /translation="TMMLLPLTWLTSPKWLWTYFVMNSSIIAMMSLMWLNLPFEFSSF
+                     TNMLMSVDTTSSPLLVLTCWLLPLMTLASQQHLKMNPLPRQRTYLIMLTLLQASLIIA
+                     FSSTELIMFYIAFETTLIPTLIIITRWGNQV"
+ORIGIN      
+        1 aactataata ctactacccc taacatgact aacaagccca aaatgactat gaacctactt
+       61 tgtaataaat agctccatta ttgcaataat aagcctaata tggttaaatc ttccctttga
+      121 attttcaagc tttacaaata tactaatatc cgtagataca acttcatcgc cactgctagt
+      181 acttacgtgc tgacttctcc cccttataac actagctagc caacagcacc taaaaataaa
+      241 cccactccct cgacaacgaa cctacctaat tatattaaca ctcctgcaag catccctaat
+      301 tattgctttt tcttcgacag aattaattat attttatatt gcctttgaaa cgaccctcat
+      361 ccctactcta attattatta cccgctgagg aaatcaagtc g
+//
+

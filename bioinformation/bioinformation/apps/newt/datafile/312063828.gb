@@ -1,0 +1,52 @@
+LOCUS       HM462070                 475 bp    DNA     linear   VRT 20-NOV-2010
+DEFINITION  Tylototriton hainanensis voucher MVZ 230352 proopiomelanocortin
+            (POMC) gene, partial cds.
+ACCESSION   HM462070
+VERSION     HM462070.1  GI:312063828
+KEYWORDS    .
+SOURCE      Tylototriton hainanensis (Hainan knobby newt)
+  ORGANISM  Tylototriton hainanensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 475)
+  AUTHORS   Stuart,B.L., Phimmachak,S., Sivongxay,N. and Robichaud,W.G.
+  TITLE     A new species in the Tylototriton asperrimus group (Caudata:
+            Salamandridae) from central Laos
+  JOURNAL   Zootaxa 2650, 19-32 (2010)
+REFERENCE   2  (bases 1 to 475)
+  AUTHORS   Stuart,B.L., Phimmachak,S., Sivongxay,N. and Robichaud,W.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2010) North Carolina Museum of Natural Sciences,
+            11 West Jones Street, Raleigh, NC 27601, USA
+FEATURES             Location/Qualifiers
+     source          1..475
+                     /organism="Tylototriton hainanensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ 230352"
+                     /db_xref="taxon:385675"
+     gene            <1..>475
+                     /gene="POMC"
+     mRNA            <1..>475
+                     /gene="POMC"
+                     /product="proopiomelanocortin"
+     CDS             <1..>475
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="proopiomelanocortin"
+                     /protein_id="ADQ27281.1"
+                     /db_xref="GI:312063829"
+                     /translation="KFGRKNSTSGNTAGNKREELPSNPMVSLFTTSESQSSGAHDSSK
+                     EGEGMERQDSKRSYSMEHFRWGKPVGRKRRPIKVYPNGVEDESSESYPLDLKRDLSLG
+                     IDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERSQT"
+ORIGIN      
+        1 caagttcggc agaaagaaca gcaccagtgg gaatactgca ggaaataaga gagaggagct
+       61 ccctagcaat ccaatggtca gcctcttcac cacatcagag agccagagca gcggcgccca
+      121 tgacagcagc aaagagggtg agggcatgga aaggcaagat agcaaacgct cctattccat
+      181 ggagcacttc cggtggggga aaccagtcgg caggaagagg aggcccatca aggtgtaccc
+      241 caacggcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggatt gactaccccg aatatgactc ccaagaaggc ctggaaaata atgaggtgat
+      361 gatgggccta gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaagcgct atggtgggtt catgacccct gagcggagtc aaacc
+//
+

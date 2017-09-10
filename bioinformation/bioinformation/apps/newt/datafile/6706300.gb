@@ -1,0 +1,84 @@
+LOCUS       AJ271167                1585 bp    mRNA    linear   VRT 14-JAN-2000
+DEFINITION  Notophthalmus viridescens mRNA for connective tissue growth factor
+            (ctgf gene).
+ACCESSION   AJ271167
+VERSION     AJ271167.1  GI:6706300
+KEYWORDS    connective tissue growth factor; CTGF gene.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Cash,D.E., Gates,P.B., Imokawa,Y. and Brockes,J.P.
+  TITLE     Identification of newt connective tissue growth factor as a target
+            of retinoid regulation in limb blastemal cells
+  JOURNAL   Gene 222 (1), 119-124 (1998)
+   PUBMED   9813273
+REFERENCE   2  (bases 1 to 1585)
+  AUTHORS   Gates,P.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2000) Gates P.B., Biochemistry, University
+            College London, Gower Street London, WC1E 6BT, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..1585
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="forelimb blastema"
+                     /dev_stage="Adult"
+                     /country="USA"
+     gene            1..1585
+                     /gene="ctgf"
+     CDS             137..1180
+                     /gene="ctgf"
+                     /codon_start=1
+                     /product="connective tissue growth factor"
+                     /protein_id="CAB65965.1"
+                     /db_xref="GI:6706301"
+                     /db_xref="GOA:Q9PT80"
+                     /db_xref="InterPro:IPR000867"
+                     /db_xref="InterPro:IPR000884"
+                     /db_xref="InterPro:IPR001007"
+                     /db_xref="InterPro:IPR006207"
+                     /db_xref="InterPro:IPR006208"
+                     /db_xref="InterPro:IPR012395"
+                     /db_xref="InterPro:IPR017891"
+                     /db_xref="UniProtKB/TrEMBL:Q9PT80"
+                     /translation="MSAGMGALRLPLLLAVALLSWVSCAQDCSGECRCPNKPPECPAG
+                     TSLVMDGCGCCKVCAKQLGELCTEKDVCDPHRGLFCDFGSRVNKKIGVCTAKDGAPCV
+                     FGGMVYRSGESFQSSCKYQCTCLDGGVGCVPLCGVDVRLPSPDCPFPRRVKQLGKCCE
+                     EWVCDQPKEQTRVGPALAVYRQEETYGPDSSLMRANCLVQTTEWSACSKTCGMGISTR
+                     VTNDNEMCRLEKQSRLCMVRPCEADLEENIKKGKKCIRTPKISKPVKFELSGCTSVKT
+                     YRAKFCGVCTDGRCCTPHRTATLPVEFKCPDGEVMKKKMMFIKTCACHYNCPGDNDIF
+                     ESMYYRKMYGDMA"
+ORIGIN      
+        1 ggaattcggc acgaggcgat ttctccgccc agtcagaccc acccgaaaag gacgctttcc
+       61 cccgagctag ggaagaaagg agcgagattt gacttgacag gagctgtcct gctgcacgcc
+      121 gaccgccgcc gagaacatgt ctgcggggat gggagccctc cggctgccgc tgctgctcgc
+      181 cgtcgctctg ctctcctggg tgtcctgtgc ccaggattgc agtggtgagt gtcggtgccc
+      241 gaacaagccc cctgagtgcc cagcgggcac cagcctggtg atggacggtt gtggctgctg
+      301 caaggtctgt gccaagcagc tgggtgagct ctgcaccgag aaggacgtct gcgacccaca
+      361 cagggggctc ttctgtgatt tcggctctcg agtcaacaag aaaataggag tttgcactgc
+      421 taaggacggc gctccctgcg tgtttggggg aatggtgtat cgaagtggcg agtccttcca
+      481 gagcagctgc aagtaccagt gcacctgtct ggatggaggt gttgggtgcg tcccgctctg
+      541 tggcgtcgat gtgcgtctcc ccagcccaga ttgccccttc ccacgaagag tcaagcagtt
+      601 aggcaaatgc tgtgaagaat gggtctgcga ccagcccaaa gagcagacaa gagttggacc
+      661 tgcactagct gtgtacagac aggaagaaac ctatgggccg gattcttcct tgatgcgtgc
+      721 caactgcctg gtccagacta cggaatggag tgcctgctcg aagacatgcg gcatgggcat
+      781 ctccaccagg gtgaccaacg acaatgaaat gtgtcgactg gagaaacaga gccgcctgtg
+      841 catggtcaga ccctgtgagg cagacctgga ggagaacatt aagaaaggca agaagtgcat
+      901 tcgtaccccc aagatctcca agccagtcaa gtttgagctg tctggctgca ccagcgtgaa
+      961 gacataccgc gccaagttct gcggggtctg caccgacggg cgttgctgca caccccacag
+     1021 aaccgccacc ctgcccgtgg agttcaagtg ccccgacggc gaggtgatga agaagaagat
+     1081 gatgttcatc aagacctgtg cctgccacta caactgcccc ggggacaacg acatcttcga
+     1141 atccatgtac tacaggaaga tgtacgggga catggcctaa ggcaccacgt gaccaaagag
+     1201 actccatttt gatctctgca tctcaaccct gactgtgacg tcaatagcac aagacattat
+     1261 tcaagtttaa gtcaaaacca gttgtctatt gagcacaatc attggttatg aactaaacat
+     1321 atggacggtg agaccacaag gcagctgcag aaccttctgc acagtagggg acaccccagg
+     1381 ccactaggac aaatactgta cgcacacaaa aatgcagtat gacgtagtgt tccctgcacg
+     1441 tggtagtttg tgttccaccc atttacctaa ctggaaacgg ttggtgcgta cgaactgact
+     1501 tgatgtcggt aaaaactgaa acccaaacct gttgcgccct gtttggtacc aggcgaaggc
+     1561 gttctgttag acaggagagc acagt
+//
+

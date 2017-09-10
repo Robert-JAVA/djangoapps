@@ -1,0 +1,51 @@
+LOCUS       KJ703137                 316 bp    DNA     linear   VRL 29-NOV-2014
+DEFINITION  Bosca's newt virus isolate GA11001 hypothetical protein gene,
+            partial cds.
+ACCESSION   KJ703137
+VERSION     KJ703137.1  GI:725539474
+KEYWORDS    .
+SOURCE      Bosca's newt virus
+  ORGANISM  Bosca's newt virus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 316)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Catastrophic declines of host communities due to an introduced and
+            indiscriminate virus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 316)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2014) UCL Genetics Institute, University College
+            London, Gower Street, London, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Bosca's newt virus"
+                     /mol_type="genomic DNA"
+                     /isolate="GA11001"
+                     /host="Natrix maura"
+                     /db_xref="taxon:1574221"
+                     /country="Spain: Pontillon"
+                     /collection_date="2011"
+     CDS             <1..>316
+                     /note="CMTVorf59R"
+                     /codon_start=2
+                     /product="hypothetical protein"
+                     /protein_id="AIY30291.1"
+                     /db_xref="GI:725539475"
+                     /translation="AALVQRLIEADGIAHIIPTTATVVQKVKKTKRPAVFSKVDSELK
+                     LIPCPGREHMLMDEATGLVFLDEDPSTAVGFIEHGEVFGLDSEHMTVCKNMGIRYSWT
+                     EDI"
+ORIGIN      
+        1 ggccgctcta gtccaacgcc tcatagaggc agacggcata gctcacatta tcccaaccac
+       61 cgccacggtg gtccaaaagg taaaaaagac taaaagacca gcagtctttt ccaaggtgga
+      121 ctctgagctg aagctgatac catgtcccgg cagagagcac atgctgatgg acgaggccac
+      181 cggtttggtg tttttggacg aagatcccag caccgccgtg ggtttcatcg agcacggaga
+      241 agtgtttggc ctggacagtg agcacatgac tgtgtgtaaa aacatgggca tcaggtacag
+      301 ctggactgaa gatatc
+//
+

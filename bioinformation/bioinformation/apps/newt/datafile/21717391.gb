@@ -1,0 +1,74 @@
+LOCUS       AB065284                1719 bp    mRNA    linear   VRT 11-JUL-2002
+DEFINITION  Cynops pyrrhogaster ngn mRNA for neurogenin related protein,
+            complete cds.
+ACCESSION   AB065284
+VERSION     AB065284.1  GI:21717391
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Nakamura,K., Susaki,K., Chiba,C. and Saito,T.
+  TITLE     Expression of Neurogenin-related Gene during Retinal Regeneration
+            in the Adult Newt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1719)
+  AUTHORS   Nakamura,K., Susaki,K., Chiba,C. and Saito,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2001) Chikafumi Chiba, Inst. of Biol. Sci. Univ.
+            of Tsukuba; Tennoudai 1-1-1, Tsukuba, Ibaraki 305-8572, Japan
+            (E-mail:chichiba@biol.tsukuba.ac.jp, Tel:81-298-53-4919,
+            Fax:81-298-53-6614)
+FEATURES             Location/Qualifiers
+     source          1..1719
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="embryo"
+     gene            1..1719
+                     /gene="ngn"
+     CDS             149..811
+                     /gene="ngn"
+                     /codon_start=1
+                     /product="neurogenin related protein"
+                     /protein_id="BAC02928.1"
+                     /db_xref="GI:21717392"
+                     /translation="MSFKTESSYSDYETSSQMSYCLSDEEDRSSSLHTPSPGHLSPTA
+                     QTPGGAPDEAAAKKPRRGRCRVKSEAIQHSIKKNRRVKANDRERNRMHSLNYALDKLR
+                     CILPSFPDDTKLTKIETLRFANNYIWALTETLRLADLTQEKSGKEMLLPSSYLGAAAP
+                     PSPGSDAGSWLSTSSPQSMCASSPGSPATSEDYCYGGASEALYSFPTELAHNIACFSQ
+                     YR"
+ORIGIN      
+        1 ggcacgaggc tgacagcagc agagatcact tagcagacaa gaggagtcgc gtgccccttg
+       61 tgggacatca agtatctgaa gcctgcctga ctcatactgg gagcacttgg tagaaaactt
+      121 gggcggacag cacaacttta cgagaatcat gtctttcaag acagagagca gctactccga
+      181 ctacgagacc tccagccaga tgtcctactg cctctcggat gaggaggacc gaagcagcag
+      241 tctccacacc ccgtctccag ggcacctgag ccccaccgcg cagacccccg gaggcgcgcc
+      301 agacgaggcg gcggcgaaga agccacggcg gggccgctgc agggtgaaga gcgaggcgat
+      361 acagcacagc atcaagaaga accggcgcgt caaggccaat gaccgcgagc gcaaccgcat
+      421 gcacagcctg aactacgcgc tggacaagct gcgctgcatc cttcccagct tcccggacga
+      481 taccaagctt actaagatcg agacgctgcg cttcgccaat aactacatct gggcgctgac
+      541 cgaaaccctg cggctggctg acctgaccca ggaaaagtca gggaaggaga tgctgctgcc
+      601 ctcctcctac ctgggcgccg cggccccgcc cagccccggc tccgacgccg gctcctggct
+      661 ctcgacctcg tcgccacagt ctatgtgcgc ttccagcccc ggcagccctg ccacctccga
+      721 ggactactgc tacgggggtg ccagcgaggc gctctacagc ttccccacag agctggcgca
+      781 caacatcgcc tgcttcagcc agtaccgcta gctctgagcc ggggttcgga caatccagac
+      841 actgccttaa gcacctagtg cggccagtga cctcagcgca acgcacctgt gcctgtcact
+      901 acaaacggga ctttttgctc gtgcacatgg gcatgtaatt ccaaaatgta aaagagaaga
+      961 tgtggagcgg attggtggga tctgggacgc cgggaagaat tgttgacatg ttagcgggcc
+     1021 tcccggtgat tctctctgtg tcccagactg ccagtccgac gcgctctaca tgcagacagg
+     1081 gctgtttgtg cctcactttg cgtgcattgg gtacaactgt gtgccatgta gagcagtttt
+     1141 actctgtcta gaagctgagg ggacttcaca gcagtctttt ttagttctca acatttccct
+     1201 tcttgcactt tctaatctgc acaaaacttt ccttgttgat tctcctgaaa ctgacccatg
+     1261 agtcttttaa gtgtctttaa atacaatgga gcgaaataag aagagaaaag ggctgatgtg
+     1321 gtgctttcag gagaggtgaa aggtcaattt tacaatttgt agaactctaa tgaagtaaaa
+     1381 cgagcactaa aatgaggttt gagcgtcccg acaatacagt gaaaggactt taagaaaaaa
+     1441 aagacaaaag ccagcttcat gtattatgca ttttgacctc cagtgctgct gccttccatt
+     1501 ttgaggggac ttggctctgc agactcgggc attcaacgga taagcgtgat attactgttt
+     1561 aatttattca agatggtcca ttcagatcaa aatgtatttt ttgtacataa agagtatatt
+     1621 atattattat gcgtgtaatc aaaatgtaat ttttcgtacc tcgaatattt tgtgcaaata
+     1681 aaatgtttaa cattttttac taaaaaaaaa aaaaaaaaa
+//
+

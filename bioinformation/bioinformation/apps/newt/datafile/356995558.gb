@@ -1,0 +1,75 @@
+LOCUS       AB074259                1905 bp    mRNA    linear   VRT 15-NOV-2011
+DEFINITION  Cynops pyrrhogaster sox3 mRNA for transcription factor SOX3,
+            complete cds.
+ACCESSION   AB074259
+VERSION     AB074259.1  GI:356995558
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Takashima,S.
+  TITLE     Molecular cloning and expression pattern of newt sox genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1905)
+  AUTHORS   Takashima,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2001) Contact:Shou Takashima The Noguchi
+            Institute; 1-8-1 Kaga, Itabashi, Tokyo 173-0003, Japan
+FEATURES             Location/Qualifiers
+     source          1..1905
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /country="Japan"
+     gene            1..1905
+                     /gene="sox3"
+     CDS             35..964
+                     /gene="sox3"
+                     /codon_start=1
+                     /product="transcription factor SOX3"
+                     /protein_id="BAL14716.1"
+                     /db_xref="GI:356995559"
+                     /translation="MYSMLETDIKSSMTQPSPGSGATGPNGKSGSGGNSDQDRVKRPM
+                     NAFMVWSRGQRRKMAQENPKMHNSEISKRLGADWKLLSDAEKRPFIDEAKRLRAVHMK
+                     EYPDYKYRPRRKTKTLLKKDKYSLPGGLLAAAAGGTSPGGGAQRLDAAYAHMNGWSNS
+                     AYSLMQEQLGYGQHPAMGGAQLQPLHHRYDMGGLQYSPMMSSAQSYMSAAASTYSMAP
+                     MYGQQGGAATAPGMSLGAIVKSEPSSPPPPGMTAHAQRACLGDLRDMISMYLPPGGDT
+                     AEQQSLQGGRLHSVHHQHYQSAGVNGTVPLTHI"
+ORIGIN      
+        1 gctgctaggc gctgttccgc agtctgcact caccatgtac agcatgctgg agaccgacat
+       61 caagagctcc atgacccagc ccagtccggg ctctggcgct acgggcccta acggcaagag
+      121 tggctccgga ggcaactcgg atcaggaccg ggtcaagagg cccatgaacg ccttcatggt
+      181 ctggtcccgc ggccagaggc ggaaaatggc gcaggagaac cccaagatgc acaactctga
+      241 gatcagcaag cgcctaggcg ccgactggaa gctgctcagt gacgccgaga agaggccctt
+      301 catagacgag gccaagcgcc tgcgggcagt gcacatgaag gagtaccccg actacaagta
+      361 ccggccacgg cgcaagacca agaccctgct caagaaggac aagtactcgc tgcccggagg
+      421 gctcttggca gcggcggcgg gagggaccag ccctggtggc ggcgcacagc gcctcgacgc
+      481 tgcctacgcg cacatgaacg gctggagcaa cagcgcctac tccctgatgc aggagcagct
+      541 gggctacgga cagcacccgg ccatgggcgg cgcacagctg cagcctctcc accaccgcta
+      601 cgacatgggc ggcctgcagt acagccccat gatgagctca gcacagagct acatgagcgc
+      661 cgccgcctcc acctacagca tggcacccat gtacgggcag cagggcggcg ctgccaccgc
+      721 cccgggcatg agcctgggcg ccatagtcaa gagcgagcct agctccccac ctccacccgg
+      781 catgacagca cacgcccagc gtgcctgcct cggggacctg cgggacatga tcagcatgta
+      841 cctgccgccc gggggagaca cagccgagca gcagagcctg cagggcgggc ggctccacag
+      901 cgtgcaccac caacactacc aaagcgcggg tgtgaacggc acggtgcccc tcacccacat
+      961 ttgacaatga gcccctagcc tacgagactg gcacctgaga gtccgaccag ggacacctgg
+     1021 cgggtactcc gacttcggac acctgccggg cacccgaact ccgaacactg ctgcctgtga
+     1081 ccaagaaaac cgaatggggt ccccggccct ggaagcccga ggggcgctct ccatcacgct
+     1141 gtggtatgct ggcgcaaact ggcgagcaag actttgttta cctggcagga tcgctaaggc
+     1201 agaggggccc aaaaagtttg aaaactttat ataagcacaa ccatccttcg tgtgtgccct
+     1261 gtccaagact gagatctccg ttgccgaact cttctgctag attagcaggc gtcgaagaat
+     1321 gtaattaaca ggctgagaac aggcatgtgt agatgacctt tttgtacaga aagtttgcgc
+     1381 aaacttagag cacaatgttt cacgcgcacc aggcgcttgc gtagttttac acacgcgaag
+     1441 ccctggttgt tccaagatcc ttattgtttt gaaataaggg ccaggtatct tcagttttta
+     1501 gaagggaaaa tgagcctaac gaatttaccc caatccaatg tttacatttc ttgccccgct
+     1561 ctctccgagc accccttggg gggttgtcca caacactagc gttttttgtc ttagactgct
+     1621 tttgacttca aaacagaaac acaaactgtg cgggtcgcaa aagttttttc ttttaattta
+     1681 tagtataaat gtgtatttgt ttatccccat cccaccaccc tgtaaaaagt tgtacattat
+     1741 tttctttctg tatgtgaatt tttatctgtg aaatgttgac atatcaagac tcatgcttta
+     1801 gttttttatt gggtttctaa atggttttat gttaaaactt taaaatttaa aaagcgatat
+     1861 gaataaattt tttgttacgg aaccttaaaa aaaaaaaaaa aaaaa
+//
+

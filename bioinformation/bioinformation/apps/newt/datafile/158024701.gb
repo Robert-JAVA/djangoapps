@@ -1,0 +1,55 @@
+LOCUS       EU030699                 469 bp    DNA     linear   VRT 31-OCT-2007
+DEFINITION  Triturus carnifex isolate car_22_1 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   EU030699
+VERSION     EU030699.1  GI:158024701
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 469)
+  AUTHORS   Horak,A. and Maletzky,A.
+  TITLE     Hybridization and introgression between two species of crested
+            newts (Triturus cristatus and T. carnifex) along contact zones in
+            Germany and Austria: morphological and molecular data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 469)
+  AUTHORS   Maletzky,A., Mikulicek,P., Franzen,M., Goldschmid,A., Gruber,H.-J.
+            Jr., Horak,A. and Kyek,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2007) Department of Organismic Biology,
+            University of Salzburg, Hellbrunnerstr. 34, Salzburg A-5020,
+            Austria
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="car_22_1"
+                     /db_xref="taxon:8326"
+                     /country="Austria"
+     gene            <1..>469
+                     /gene="cytb"
+     CDS             <1..>469
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABW08164.1"
+                     /db_xref="GI:158024702"
+                     /translation="QSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLY
+                     YGSYMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGDSLV
+                     QWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPTGMSSNQ"
+ORIGIN      
+        1 caatcggcat tttcatctgt tgctcacatt tgccgagatg taaactacgg ctggctagta
+       61 cgaaacatcc acgctaacgg ggcctcacta ttttttatct gcatctactt acacatcgga
+      121 cgcggcctgt actacggctc atacatattt aaagagactt gaaacattgg cgtcatctta
+      181 ctattcttgg ttatagctac tgctttcgtt gggtatgtcc tgccatgagg acaaatatca
+      241 ttttgaggcg ccacagttat taccaacctt ctatcagcta ttccgtattt aggagactct
+      301 cttgtccaat gaatctgggg gggcttttca gtagataagg caacactcac ccgatttttt
+      361 gcatttcact tcctgttccc attcttaatc gcaggggcta gcattgttca cctgctcttc
+      421 ttacaccaaa ctgggtcaaa caacccaaca ggtatatctt ctaaccagg
+//
+

@@ -1,0 +1,69 @@
+LOCUS       AK388628                1058 bp    mRNA    linear   HTC 06-JUL-2012
+DEFINITION  Dugesia japonica cDNA, clone: Dj_aH_000_00450HH.full, full-insert
+            sequence, expressed in adult head.
+ACCESSION   AK388628
+VERSION     AK388628.1  GI:393794031
+KEYWORDS    HTC.
+SOURCE      Dugesia japonica
+  ORGANISM  Dugesia japonica
+            Eukaryota; Metazoa; Platyhelminthes; Rhabditophora; Seriata;
+            Tricladida; Continenticola; Geoplanoidea; Dugesiidae; Dugesia.
+REFERENCE   1
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Comparative transcriptome analysis between planarian Dugesia
+            japonica and other platyhelminth species
+  JOURNAL   BMC Genomics 13 (1), 289 (2012)
+   PUBMED   22747887
+  REMARK    DOI:10.1186/1471-2164-13-289
+            Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1058)
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2011) Contact:Kiyokazu Agata RIKEN Center for
+            Developmental Biology, Genome Resource and Analysis Unit; 2-2-3
+            Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan
+COMMENT     BrainEST
+            (RIKEN CDB Extensive EST Project for Brain Evolution and
+            Development)
+            <purpose>
+            The project of the RIKEN CDB Extensive EST Project for Brain
+            Evolution and Development (BrainEST) aims to develop a gene
+            database to represent brain evolution and development. Gene sets
+            involved in brain development and function are collected from
+            juveniles of sponges, brain, neural tube and related tissues of a
+            variety of organisms including planula larva of jellyfish,
+            Convolutidae, planarian, arrow worm, squid, lancelet, lamprey,
+            newt, turtle, crocodile, snake, and chicken, collaborating with
+            many laboratories. The goal of the BrainEST project is to provide a
+            fundamental database to investigate brain evolution and development
+            by combination with other environmental data.
+FEATURES             Location/Qualifiers
+     source          1..1058
+                     /organism="Dugesia japonica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6161"
+                     /clone="Dj_aH_000_00450HH.full"
+                     /tissue_type="head fragments"
+                     /clone_lib="planarian head cDNA library"
+                     /dev_stage="adult"
+ORIGIN      
+        1 taaatatgct cagatatact tccagatgtt cagatatgat tgaacatgct aattatgatc
+       61 agctcaactc agatctactc aaatcaactc aaatgtgctc tgatatgctc aaacaagata
+      121 aatatgctca gatatacttc cagatgttca gatatgattg aacatgctaa ttatgatcag
+      181 ctcaacctga gatctactca aatcaactca aatgtgctct gatatgctca aacaagataa
+      241 atatgctcag atatacttcc agatgttcag atatgattga acatgctaat tatgatcagc
+      301 tcaactcaga tctactcaag tcaactcaca tgtgctctga tatgctcaaa caagataaat
+      361 ttgctcagat atacttccag atgttcagat atgattgaac atgctaatta tgatcagctc
+      421 aactgagatc tactcaaatc aactcaaatg tgctctgata tgctcaaaca agataaatat
+      481 gctcagatat acttccagat gttcagatat gattgaacat gctaattatg atcagctcaa
+      541 ctcagatcta cccaaatcac cgtatttcaa aaggttcaga ccagattgaa cattctaact
+      601 atgatcaaga gaatgcaact ctactcaaac gaactcctaa atgctaaatg gactcagtta
+      661 ttatattctt aaatagtctt cggtagacta aataatgtca gaaatattca actatcatca
+      721 gatctttctg aatgtgctca ttgtcctcaa tgtgcttgat tattttcaga tatattcaaa
+      781 tatactcatg tactctcaaa gaaatgttaa atgatacgat cacgtaaatg ggtttccaaa
+      841 cgattaatga aaactgaaaa acatttcttc aggtgctctt aaataaatct ataatgatat
+      901 tatgctctca gccaagatca cagaaaacct tatgcactcc aatagaacca gataaatgaa
+      961 atcatattct catcactaga actgatactt attttatgta tcttgtgtca tagttaatgt
+     1021 aataaatatt tatatcgtta aaaaaaaaaa aaaaaaac
+//
+

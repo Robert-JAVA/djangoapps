@@ -1,0 +1,94 @@
+LOCUS       HM154990                2193 bp    mRNA    linear   VRT 01-JUL-2011
+DEFINITION  Cynops orientalis KIF3A mRNA, complete cds.
+ACCESSION   HM154990
+VERSION     HM154990.1  GI:304367613
+KEYWORDS    .
+SOURCE      Cynops orientalis (Chinese fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 2193)
+  AUTHORS   Xu,N., Hu,J.-R. and Yang,W.-X.
+  TITLE     Cloning and characterization of kinesin-like KIF3A gene (co-kif3a)
+            in the testis of Chinese fire-bellied newt, Cynops orientalis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2193)
+  AUTHORS   Xu,N., Hu,J.-R. and Yang,W.-X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2010) The Sperm Laboratory, College of Life
+            Sciences, Zhejiang University, 388 Yu Hang Tang Road, Hangzhou,
+            Zhejiang 310058, PR China
+FEATURES             Location/Qualifiers
+     source          1..2193
+                     /organism="Cynops orientalis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:137245"
+                     /tissue_type="testis"
+                     /note="common: Chinese fire-bellied newt"
+     5'UTR           1..56
+     CDS             57..2132
+                     /note="kinesin-like protein; involved in anterograde
+                     transport of membrane-bound organelles in neurons
+                     andmelanosomes, mediates transport between the endoplasmic
+                     reticulum and the Golgi; transports protein complexes
+                     within cilia and flagella required for their
+                     morphogenesis; determines left-right asymmetry; Co-KIF3A"
+                     /codon_start=1
+                     /product="KIF3A"
+                     /protein_id="ADM26621.1"
+                     /db_xref="GI:304367614"
+                     /translation="MPVNKYEKPESNDNVKVVVRCRPLNEREKAMSSKIAVHVDEMRG
+                     TIAVHKLDSPNDPPKTFTFDTVFGIDSKQLDVYNLTARPIIDSVLEGYNGTIFAYGQT
+                     GTGKTFTMEGVRAVPELRGIIPNSFAHVFGHIAKAEGDTRFLVRVSYLEIYNEEVRDL
+                     LGKDQTQRLEVKERPDVGVYIKDLSAYVVNNADDMDRIMTLGHKNRSVGATNMNEHSS
+                     RSHAIFTITIECSEKGVDGNIHVRMGKLHLVDLAGSERQRKTGATGQRLKEATKINLS
+                     LSTLGNVISALVDGKSTHVPYRNSKLTRLLQDSLGGNSKTMMCANIGPADYNYDETIS
+                     TLRYANRAKNIKNKARINEDPKDALLRQFQKEIEDPKRKLEDGEGISGSDLSGSDEDD
+                     DGEVGENGEKKKRRRDLAGKKKVSPDKMAEMQAKIDEERKALEAKLDMEEEGRNKARA
+                     ELERREKDLLKAQQDHQSLLEKLSALEKKVIVGGVDLLAKAEEQEKLLEESNKELEER
+                     RRRGEQLRKELEEKEQERLDIEEKYTSLQEEAQGKTKKLKKVWTMLMAAKSEMADLQQ
+                     EHQREIEGLLENIRQLSRELRLQMLIIDNFIPQEYQEMVENYVHWNEDIGEWQLKCVA
+                     YTGNNMRKQTPVPDKKEKDPFEVDLSHVYLAYTEESLRQSLMKLESPRTSKGKSRPKT
+                     SRRRRDFRF"
+     3'UTR           2133..2193
+ORIGIN      
+        1 acatggggca cctagcgagg ttagggaagc tttcctgcgc cacccgagcg ttaacaatgc
+       61 cggtcaacaa atatgagaag cctgaatcca atgataatgt caaggttgtg gtacgatgcc
+      121 gtcccttgaa cgaaagggag aaggctatgt catcgaagat cgctgttcat gtggatgaaa
+      181 tgagagggac gattgccgtt cataagttgg actcacccaa cgacccacca aagactttta
+      241 cattcgacac agtttttgga atagacagta aacagcttga tgtctataac ttaactgcaa
+      301 ggcccatcat tgactctgtc cttgaaggct acaacggcac catttttgct tatggacaaa
+      361 cgggaacagg aaaaacattc acaatggaag gtgttcgagc agtcccagaa cttcggggaa
+      421 taattccaaa ttcctttgct catgtatttg ggcatattgc aaaggcagag ggagacacaa
+      481 ggtttttggt cagagtctct tatttggaaa tttacaatga agaagtacgg gatttgcttg
+      541 gaaaagacca gactcagagg ttagaggtta aagaaagacc tgatgtaggt gtttacatca
+      601 aggatctgtc ggcatacgtt gtaaacaacg cagatgatat ggacaggata atgaccctag
+      661 gacacaaaaa tcggtctgtt ggtgccacca acatgaatga gcatagctct cgttcccatg
+      721 cgatctttac aattaccatt gaatgcagtg agaagggggt ggatggaaac attcatgttc
+      781 gaatgggcaa gctgcacctt gtagatcttg cgggttcaga aagacaaaga aaaaccggcg
+      841 ccaccgggca acgtctgaaa gaagcaacca aaattaatct ttccctttcg actcttggta
+      901 atgtcatttc tgccttggtg gatggaaaga gtacccatgt accatatcgt aattctaaac
+      961 tgactcggct gcttcaggac tccttgggtg gaaattccaa gaccatgatg tgtgcaaaca
+     1021 ttggacctgc agactataat tatgacgaaa caatcagcac attacgatat gccaaccgtg
+     1081 ccaaaaatat taagaataag gccaggatta atgaagatcc aaaggatgct ctgttgcggc
+     1141 agtttcagaa ggaaattgaa gaccccaaaa gaaaacttga agacggagaa gggatttcag
+     1201 gttctgacct cagtggttct gacgaggatg atgatggaga ggttggtgag aatggagaaa
+     1261 agaagaagag acgtagagat ctagcaggca aaaagaaggt ttccccggat aagatggcag
+     1321 agatgcaggc aaagattgat gaggaaagga aagcgctgga agctaaactg gacatggagg
+     1381 aagaagggcg aaacaaagcc agagcggaac ttgaaagacg agagaaagac cttcttaagg
+     1441 ctcaacaaga tcatcagtct ctcctagaaa aactgtctgc attggagaag aaggttattg
+     1501 tgggaggtgt cgacttgcta gcaaaagcag aggagcagga gaaacttctt gaagagtcaa
+     1561 ataaggagct tgaggaacgt aggaggaggg gagaacagct acggaaggaa cttgaggaaa
+     1621 aagagcaaga acgattagat attgaagaga agtatacatc tctgcaggaa gaagcccagg
+     1681 gcaaaacaaa gaagctgaag aaagtgtgga caatgcttat ggctgcaaag tccgagatgg
+     1741 cagatctgca gcaagaacat cagagagaaa ttgaaggtct tttggagaac atcagacaac
+     1801 tcagccgaga acttcgcctt cagatgctta tcattgataa tttcatccct caagaatacc
+     1861 aggaaatggt ggaaaattat gttcactgga acgaagacat tggagaatgg caattaaaat
+     1921 gtgtcgccta caccggaaat aacatgagga agcagacacc agtgccagat aaaaaggaaa
+     1981 aagatccttt tgaggtggac ctttctcatg tttacttggc ttacaccgag gagagcctta
+     2041 ggcagtcatt gatgaagctg gaaagtccaa gaacatctaa aggaaaatca agacccaaaa
+     2101 ctagcaggcg gagaagggat ttcaggttct gacctcagtg gttctgacga ggatgatgat
+     2161 ggagaggttg gtgagaatgg aaaaaaaaaa aaa
+//
+

@@ -1,0 +1,39 @@
+LOCUS       EF029943                 355 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Neurergus crocatus isolate NC04 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EF029943
+VERSION     EF029943.1  GI:116745385
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus crocatus (Lake Urmia newt)
+  ORGANISM  Neurergus crocatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   Ozdemir,N., Uzum,N., Avci,A. and Olgun,K.
+  TITLE     Phylogeny of Neurergus crocatus and Neurergus strauchii in Turkey
+            Based on Morphological and Molecular Data
+  JOURNAL   Herpetologica 65 (3), 280-291 (2009)
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   Ozdemir,N., Olgun,K., Avci,A. and Uzum,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2006) Department of Biology, Rize University,
+            Fener, Rize 53100, Turkey
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /organism="Neurergus crocatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NC04"
+                     /db_xref="taxon:213851"
+     rRNA            <1..>355
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcttagccat aaactttgat ttatccgcct gagtactacg agcaacagct taaaactcaa
+       61 aggacttggc ggtgctctac acccacctag aggagcctgt tctataatcg ataatccacg
+      121 ataaacctca ccatctattg ccaatacagc ctatatacca ccgtccagcc caccctataa
+      181 gggcataaca gtaggcacaa ctatagacat aaaaacgtca ggtcaaggtg tagcaaataa
+      241 gacgggaaga aatgggctac attttctaac ctagaaaaac acggaaaagt ctatgaaaca
+      301 agactattaa ggaggattta gcagtaaaaa gaaaaaagag agttcttttt aaggc
+//
+

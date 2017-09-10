@@ -1,0 +1,43 @@
+LOCUS       NVU14758                 108 bp    mRNA    linear   VRT 03-FEB-1996
+DEFINITION  Notophthalmus viridescens clone NvHoxX homeoprotein mRNA, partial
+            cds.
+ACCESSION   U14758
+VERSION     U14758.1  GI:704351
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 108)
+  AUTHORS   Washabaugh,C.H., Wallace,J.L., Del Rio-Tsonis,K. and Tsonis,P.A.
+  TITLE     Cloning of homoeobox sequences expressed in the intact and the
+            regenerating newt eye
+  JOURNAL   Gene 158 (2), 301-302 (1995)
+   PUBMED   7607558
+REFERENCE   2  (bases 1 to 108)
+  AUTHORS   Washabaugh,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-1994) Charles H. Washabaugh, Dept. Cell Biology
+            and Physiology, University of Pittsburgh, 3550 Terrace Street,
+            Pittsburgh, PA 15261, USA
+FEATURES             Location/Qualifiers
+     source          1..108
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="NvHoxX (unclassified)"
+                     /tissue_type="eye"
+                     /dev_stage="adult"
+     CDS             <1..>108
+                     /function="DNA binding, transcriptional regulation"
+                     /codon_start=1
+                     /product="homeoprotein"
+                     /protein_id="AAA86682.1"
+                     /db_xref="GI:704352"
+                     /translation="LEKEFYYNHYITAQRKEELVTTLGLTSRQIKIWFQN"
+ORIGIN      
+        1 ctagaaaagg agttctatta caatcattac atcacggctc agcggaagga agaattggtc
+       61 accactctgg gcctcacatc acgacagata aagatctggt ttcagaac
+//
+

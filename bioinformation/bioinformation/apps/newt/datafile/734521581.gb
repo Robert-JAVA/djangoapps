@@ -1,0 +1,70 @@
+LOCUS       KM516755                 942 bp    DNA     linear   VRL 10-MAR-2015
+DEFINITION  Neurergus crocatus ranavirus eukaryotic initiation factor 2 alpha
+            subunit-like protein (vIF-2alpha) gene, partial cds.
+ACCESSION   KM516755
+VERSION     KM516755.1  GI:734521581
+KEYWORDS    .
+SOURCE      Neurergus crocatus ranavirus
+  ORGANISM  Neurergus crocatus ranavirus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 942)
+  AUTHORS   Stohr,A.C., Lopez-Bueno,A., Blahak,S., Caeiro,M.F., Rosa,G.M.,
+            Alves de Matos,A.P., Martel,A., Alejo,A. and Marschang,R.E.
+  TITLE     Phylogeny and differentiation of reptilian and amphibian
+            ranaviruses detected in Europe
+  JOURNAL   PLoS ONE 10 (2), E0118633 (2015)
+   PUBMED   25706285
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 942)
+  AUTHORS   Stoehr,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Fachgebiet fuer Umwelt und Tierhygiene,
+            Universitaet Hohenheim, Garbenstr. 30, Stuttgart,
+            Baden-Wuerttemberg 70599, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Staden (Gap) v. v4.11.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..942
+                     /organism="Neurergus crocatus ranavirus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin"
+                     /host="Neurergus crocatus (Lake Urmia newt)"
+                     /db_xref="taxon:1585658"
+                     /country="Germany"
+                     /collection_date="Jun-2011"
+                     /note="imported from Iraq"
+     gene            235..>942
+                     /gene="vIF-2alpha"
+     CDS             235..>942
+                     /gene="vIF-2alpha"
+                     /codon_start=1
+                     /product="eukaryotic initiation factor 2 alpha
+                     subunit-like protein"
+                     /protein_id="AJA05998.1"
+                     /db_xref="GI:734521582"
+                     /translation="MAHNRFYSEILPRQGDVTMCRVLPHSDSWDEGVYVSMMEYGNVE
+                     GYVAIGVENHRAIRKRFRKLAPGAEMCITVLRVDREKGYVDLDDRAVNADQAYECCSR
+                     YQLRRTEMAVAERAAEYAGVKGSAVSDFLDETVRALRPGSLMSRTGCLKISSDLKQLL
+                     KEFGAEAGLDRVGRAEAVVRVPGAFFGPVLRGVTNAYDAMKEMRPDSGVNVAVYPPER
+                     GVVAVTVMAGDSEAAYWG"
+ORIGIN      
+        1 acacatgaca ttttaggcca aagattttct cagaaagcag agggtggcca aaccggacct
+       61 ctggtacggt tctgacgaag aggactcttg cagagaggac tctgaggact gcgcgttcta
+      121 ctagaggact agcgtaaatc gggggtgggc ggggaccaaa aaaaggggtt aaaaatgagg
+      181 tatacttttg caaggagtaa attactctaa aactactgtc tgttatatgg aaatatggca
+      241 cacaacaggt tttacagcga gatactccca agacaaggag acgttacaat gtgcagagtc
+      301 ttgcctcatt cagactcttg ggacgaaggc gtttacgtgt ccatgatgga gtacggaaac
+      361 gtagagggtt acgtggccat cggcgtcgaa aaccacaggg ccattaggaa gaggttcagg
+      421 aaacttgccc caggcgctga aatgtgcata acggtcctca gggtagaccg cgaaaagggc
+      481 tacgtggatc tggacgacag ggccgtgaat gccgatcagg cgtacgagtg ttgctccagg
+      541 taccagctga ggaggacgga gatggcggtc gcagagcggg cggcagagta cgctggagta
+      601 aagggatctg cagtctctga ctttttggac gagaccgtga gggccctgag acccggctcc
+      661 ctgatgtcta gaacgggatg tctaaagatc tcttccgacc tgaagcagct cctgaaagag
+      721 tttggcgcag aggccggcct cgacagagtc ggtcgggccg aggctgtcgt gagagttcct
+      781 ggcgccttct ttgggcccgt cctaagaggt gtgacgaatg cctacgacgc aatgaaggag
+      841 atgaggccag actctggggt gaatgtggcc gtttaccctc ccgaacgcgg ggttgtggct
+      901 gtgactgtga tggccggcga ctctgaggcg gcgtactggg gg
+//
+

@@ -1,0 +1,71 @@
+LOCUS       AY951653                 835 bp    DNA     linear   VRT 22-JUN-2005
+DEFINITION  Triturus italicus NADH dehydrogenase subunit 4 (ND4) gene, partial
+            cds; tRNA-His and tRNA-Ser genes, complete sequence; and tRNA-Leu
+            gene, partial sequence; mitochondrial.
+ACCESSION   AY951653
+VERSION     AY951653.1  GI:62737685
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   Babik,W., Branicki,W., Crnobrnja-Isailovic,J., Cogalniceanu,D.,
+            Sas,I., Olgun,K., Poyarkov,N.A., Garcia-Paris,M. and Arntzen,J.W.
+  TITLE     Phylogeography of two European newt species - discordance between
+            mtDNA and morphology
+  JOURNAL   Mol. Ecol. 14 (8), 2475-2491 (2005)
+   PUBMED   15969729
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   Babik,W. and Branicki,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2005) Comparative Anatomy, Institute of Zoology,
+            Jagiellonian University, Ingardena 6, Krakow 30-060, Poland
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323755"
+                     /country="Italy"
+     gene            <1..683
+                     /gene="ND4"
+     CDS             <1..683
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:683,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAX98144.1"
+                     /db_xref="GI:62737686"
+                     /translation="AVLLKLGGYGIIRISIILTPLTKEMSYPFMILALWGIVMTSLIC
+                     MRQTDLKSLIAYSSVSHMGLVIAAILIQTPWSLTGAIILMISHGLISSALFCLANLNY
+                     ERTHSRTLLLVRGTQAALPLMATWWLFANLSNMALPPSTNLWGELTIMVSLFNWSPWT
+                     IMITGIGTLITASYTLYMFLMTQRGPVPNHLLTLNPSHTREHFLVVMHLMPMLLLIFK
+                     PALISGMFS"
+     tRNA            684..752
+                     /product="tRNA-His"
+     tRNA            753..820
+                     /product="tRNA-Ser"
+     tRNA            821..>835
+                     /product="tRNA-Leu"
+ORIGIN      
+        1 agccgtcctg cttaagctag gaggatatgg aattatccga atttctatta tcctcacccc
+       61 cttaactaaa gagatatcat acccatttat aatcctggcc ttatgaggaa ttgtaataac
+      121 gagcttaatc tgcatacgac agacagattt gaagtctctt attgcatact cctctgttag
+      181 ccacatagga ctagtaattg ctgctatttt aattcaaaca ccatgaagcc ttacgggagc
+      241 cattatttta ataatctcac acggacttat ctcatcagcc ctattctgcc tggcaaatct
+      301 aaactatgaa cgaacccaca gccgaaccct attactagtt cgggggacac aagcagccct
+      361 cccccttatg gcaacctggt gactatttgc aaatctctca aacatagccc tccctccatc
+      421 aacaaacctt tgaggagaat tgacaattat agtctcccta tttaactgat ccccttgaac
+      481 aattataatt acaggaattg ggactttaat tacggcctcc tatacactct atatattctt
+      541 aataacacaa cgaggcccag tcccaaatca tctcctcaca ttaaacccgt ctcatactcg
+      601 cgaacacttc cttgtggtaa tacatttaat acctatactt ttattaatct ttaaacctgc
+      661 tcttatctca gggatattct catgtgcgta taattttaaa aaaatattag attgtgattc
+      721 taaaaatgaa agttaaaccc tctctactca ccaagaagaa ttatgaaata cagagactgc
+      781 taattatctg accctaaagt taaaatcttt agtcttctta acttttaaag gataa
+//
+

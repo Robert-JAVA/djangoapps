@@ -1,0 +1,57 @@
+LOCUS       FM877015                 476 bp    DNA     linear   VRT 18-MAY-2009
+DEFINITION  Pleurodeles waltl partial ighvVI.d gene for immunoglobulin heavy
+            chain variable domain, exon 1.
+ACCESSION   FM877015
+VERSION     FM877015.1  GI:215414284
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Bascove,M., Huin-Schohn,C., Gueguinou,N., Tschirhart,E. and
+            Frippiat,J.P.
+  TITLE     Spaceflight-associated changes in immunoglobulin VH gene expression
+            in the amphibian Pleurodeles waltl
+  JOURNAL   FASEB J. 23 (5), 1607-1615 (2009)
+   PUBMED   19141535
+REFERENCE   2  (bases 1 to 476)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2008) Frippiat J.P., Lab of Experimental Biology
+            and Immunology, Nancy-University, Bvd des Aiguillettes BP239,
+            Vandoeuvre-les-Nancy, F-54506, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..476
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /germline
+     gene            <162..>476
+                     /gene="ighvVI.d"
+     CDS             <162..>476
+                     /gene="ighvVI.d"
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain variable domain"
+                     /protein_id="CAT00559.1"
+                     /db_xref="GI:215414285"
+                     /translation="VLCQVTLLESGPGTVKPSETLKLTCKVTGYSISSGYCWNWIRQA
+                     PGKGLEWLGGICHEGSTYYSESLKSRLSATRDTSLNEFYLQMSNMRAEDTATFYCARE
+                     SQW"
+     exon            162..476
+                     /gene="ighvVI.d"
+                     /number=1
+ORIGIN      
+        1 aagcaaaagg agacgagata attccagaaa aacatgagtc ctgtgcactt gtgcctgtgt
+       61 ggtctccttt ttgcatcagg tacggagttc attaagactg tagaaaacat attcatgggt
+      121 tattttgcgt gtctaatgtt attcttttta aatctccagg tgttctgtgc caggtgacgc
+      181 tgctggagtc cggccctggg accgtgaagc cctcggagac tcttaaactg acctgtaaag
+      241 tcaccggtta ttccatcagc agcggctact gttggaactg gatccggcag gctcccggga
+      301 aggggctgga gtggttggga ggaatctgtc atgaaggcag cacatactac tccgagtctc
+      361 tcaagagtcg gctgtcagcc accagagata catctttaaa tgaattctac ctgcagatga
+      421 gtaacatgag agcagaggac acggccacgt tttactgtgc tcgagagtca cagtgg
+//
+

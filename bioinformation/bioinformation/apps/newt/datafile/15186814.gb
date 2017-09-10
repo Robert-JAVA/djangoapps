@@ -1,0 +1,58 @@
+LOCUS       AF295675                 703 bp    DNA     linear   VRT 24-APR-2002
+DEFINITION  Paramesotriton caudopunctatus isolate Pcau1 cytochrome b (cytb)
+            gene, partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF295675
+VERSION     AF295675.1  GI:15186814
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton caudopunctatus (Guizhou warty newt)
+  ORGANISM  Paramesotriton caudopunctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 703)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Relationships of the Salamandrid Genera Paramesotriton,
+            Pachytriton, and Cynops Based on Mitochondrial DNA Sequences
+  JOURNAL   Copeia 2001 (4), 997-1009 (2001)
+REFERENCE   2  (bases 1 to 703)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-AUG-2000) Museum of Vertebrate Zoology, University of
+            California at Berkeley, 3101 Valley Life Sciences Building,
+            Berkeley, CA 94720, USA
+FEATURES             Location/Qualifiers
+     source          1..703
+                     /organism="Paramesotriton caudopunctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pcau1"
+                     /db_xref="taxon:164969"
+     gene            <1..>703
+                     /gene="cytb"
+     CDS             <1..>703
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAK91153.1"
+                     /db_xref="GI:15186815"
+                     /translation="NSFTDLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADT
+                     QSAFSSVAHICRDVNHGWLVRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGV
+                     ILLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGSLVEWVWGGFSVDKATL
+                     TRFFAFHFLLPFLIAGMSIIHLLFLHETGSNNPTGIPSNQDKISFHPYFSYKDLLGFL
+                     LALLILALIALITPNL"
+ORIGIN      
+        1 caactcattc actgacctgc caacgccatc aaacatctca tactgatgaa acttcggctc
+       61 ccttctagga atctgcctga ttacacaaat cgtcaccggc ctattcttgg caatacacta
+      121 tacagcagat acacaatcag ccttctcatc cgtagcccac atctgccgag acgttaacca
+      181 cggatgactg gtacgaaata ttcatgctaa tggagcctca ttctttttta tctgcatcta
+      241 cctacacatc ggacgaggcc tctactatgg atcatatata ttcaaagaaa catgaaatat
+      301 tggcgtaatc ctactattac tagttatagc cactgccttt gttggatatg tcctcccatg
+      361 aggacaaata tcattttgag gggcttcagt tatcacaaat ctcctctcag ccatcccgta
+      421 tgttgggggt tccctagtag agtgagtctg gggggggttc tcagtagaca aagctactct
+      481 tacacggttc ttcgcatttc atttcctgct accattccta attgcaggaa taagcatcat
+      541 tcacctatta tttctacacg aaaccggatc taacaaccca acaggaatcc cctctaacca
+      601 agataaaatt tcctttcacc catatttttc ttataaagat ttactaggct ttttactagc
+      661 actcctcatc ttagcattaa ttgccctcat tacaccaaac ctg
+//
+

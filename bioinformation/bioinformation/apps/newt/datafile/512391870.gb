@@ -1,0 +1,57 @@
+LOCUS       KC665968                 530 bp    DNA     linear   VRT 22-JUN-2013
+DEFINITION  Calotriton arnoldi haplotype 3 recombinase activating protein 1
+            (RAG1) gene, partial cds.
+ACCESSION   KC665968
+VERSION     KC665968.1  GI:512391870
+KEYWORDS    .
+SOURCE      Calotriton arnoldi (Montseny brook newt)
+  ORGANISM  Calotriton arnoldi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 530)
+  AUTHORS   Valbuena-Urena,E., Amat,F. and Carranza,S.
+  TITLE     Integravie phylogeography of Calotriton newts (Amphibia,
+            Salamandridae), with special remarks on the conservation of the
+            endangered Montseny brook newt (Calotriton arnoldi). Plos One
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 530)
+  AUTHORS   Valbuena-Urena,E., Amat,F. and Carranza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2013) Unitat de Zoologia, Departament de Biologia
+            animal, biologia vegetal i ecologia, Universitat Autonoma de
+            Barcelona, Campus de la UAB, Cerdanyola del Valles, Barcelona
+            08193, Spain
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Calotriton arnoldi"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:342570"
+                     /haplotype="3"
+     gene            <1..>530
+                     /gene="RAG1"
+     mRNA            <1..>530
+                     /gene="RAG1"
+                     /product="recombinase activating protein 1"
+     CDS             <1..>530
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombinase activating protein 1"
+                     /protein_id="AGO01371.1"
+                     /db_xref="GI:512391871"
+                     /translation="NRHHESVDELRDRVKGVSAKPFIETLPCIDALHCDIGNAAEFYK
+                     IFQLEIGEVFKNPKASKEERKRWQSTLDKHLRKKMNLKPIMRMNGNFARKLMSQETIE
+                     AVCELVPSEARRTALRELMELYLKMKPVWRSSCPSKECPELLCQYSYNSQRFAELLST
+                     KFKYRYEGKITNYFHKT"
+ORIGIN      
+        1 aacagacacc atgagtcggt cgacgagctg cgggacagag tgaagggggt ctcagccaag
+       61 cccttcattg agaccctccc ttgcatcgat gccttgcact gcgacattgg caatgctgct
+      121 gagttttaca agatattcca actcgaaata ggggaggtct tcaagaaccc caaagcctca
+      181 aaagaggaga gaaagaggtg gcagtctact ctagacaagc atctgaggaa gaagatgaac
+      241 ttgaagccca taatgagaat gaacggtaat tttgcaagga aactgatgtc ccaagagacc
+      301 attgaggcgg tctgtgagct ggtcccctct gaggcacggc ggactgccct acgcgaactc
+      361 atggagctgt acctgaaaat gaagccagtc tggcgatcct catgcccaag caaggagtgc
+      421 ccagaactcc tctgccagta cagctacaac tctcaacgct ttgcagagct tctttcaacc
+      481 aagttcaagt accgatatga gggcaaaatc acaaattatt tccacaagac
+//
+

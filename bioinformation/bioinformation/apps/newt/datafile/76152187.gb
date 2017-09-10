@@ -1,0 +1,45 @@
+LOCUS       DQ158059                 118 bp    DNA     linear   VRT 18-JAN-2006
+DEFINITION  Triturus helveticus clone Thel.b13 HOXB13 (Hoxb13) gene, partial
+            cds.
+ACCESSION   DQ158059
+VERSION     DQ158059.1  GI:76152187
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 118)
+  AUTHORS   Mannaert,A., Roelants,K., Bossuyt,F. and Leyns,L.
+  TITLE     A PCR survey for posterior Hox genes in amphibians
+  JOURNAL   Mol. Phylogenet. Evol. 38 (2), 449-458 (2006)
+   PUBMED   16198128
+REFERENCE   2  (bases 1 to 118)
+  AUTHORS   Mannaert,A., Roelants,K., Bossuyt,F. and Leyns,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2005) Biology Department, Vrije Universiteit
+            Brussel, Pleinlaan 2, Brussels 1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:256425"
+                     /clone="Thel.b13"
+     gene            <1..>118
+                     /gene="Hoxb13"
+                     /note="Hoxb-13"
+     mRNA            <1..>118
+                     /gene="Hoxb13"
+                     /product="HOXB13"
+     CDS             <1..>118
+                     /gene="Hoxb13"
+                     /codon_start=2
+                     /product="HOXB13"
+                     /protein_id="ABA39782.1"
+                     /db_xref="GI:76152188"
+                     /translation="SKSQLRELEKEYATNKFITKDRRRHISTATSLSERQITI"
+ORIGIN      
+        1 cagcaaaagc cagctgcgag agctggagaa ggagtatgcc accaacaagt tcatcaccaa
+       61 ggacaggcgc aggcatatct ccactgccac cagcctctct gagagacaaa tcactatc
+//
+

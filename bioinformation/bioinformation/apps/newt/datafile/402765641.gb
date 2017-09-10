@@ -1,0 +1,86 @@
+LOCUS       JX543512                2187 bp    mRNA    linear   VRT 11-DEC-2013
+DEFINITION  Pachytriton labiatus forkhead box P2 mRNA, complete cds.
+ACCESSION   JX543512
+VERSION     JX543512.1  GI:402765641
+KEYWORDS    .
+SOURCE      Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 2187)
+  AUTHORS   Song,X., Wang,Y. and Tang,Y.
+  TITLE     Rapid Diversification of FoxP2 in Teleosts through Gene Duplication
+            in the Teleost-Specific Whole Genome Duplication Event
+  JOURNAL   PLoS ONE 8 (12), E83858 (2013)
+   PUBMED   24349554
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2187)
+  AUTHORS   Song,X., Wang,Y. and Tang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2012) Herpetology, CIB, No.9 Section 4, Renmin
+            Nan Road, Chengdu, Sichuan 610041, China
+FEATURES             Location/Qualifiers
+     source          1..2187
+                     /organism="Pachytriton labiatus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:156859"
+     CDS             1..2187
+                     /note="FoxP2"
+                     /codon_start=1
+                     /product="forkhead box P2"
+                     /protein_id="AFQ97665.1"
+                     /db_xref="GI:402765642"
+                     /translation="MMQESATETISNSSMNQNGMSTLSSQLDAGSRDGRSSGDTSSEV
+                     STVELLHLQQQQALQAARQILLQQQSSGLKSPKGNDKQRPLQVPVSVAMMTPQVITPQ
+                     QMQQILQQQVLSPQQLQALLQQQQAVMLQQQQLQEFYKKQQEQLHLQLLQQQQQQQQQ
+                     QQQQQQQHQQQQQQQQQQQQQHPGKQAKEQQQLAAQQLVFQQQLLQMQQLQQQQHLLN
+                     LQRQGLISIPSSQSSLPVQPLPQAGLSPAEIQQLWKEVTGVHSMEENGIKHGGLDLTT
+                     NNSSSTTSSNTSKASPPITHHCLVNGQSSVLNARRDSSSHEEVGASHTLYGHGVCKWP
+                     GCESICEDFGQFLKHLNNEHALDDRSTAQCRVQMQVVQQLEIQLSKERERLQAMMTHL
+                     HMRPSEPKPSPKPLNLVSNVTMSKNMLETSPQSLPQTPTTPTAPLTPITQGASVITPS
+                     SVPNVGAIRRRHSDKYNIPMSSEIAPNYEFYKNADVRPPFTYATLIRQAIMESTDRQL
+                     TLNEIYSWFTRTFAYFRRNAATWKNAVRHNLSLHKCFVRVENVKGAVWTVDEAEYQKR
+                     RSQKITGSPTLVKNIPTSLGYGAALNASLQAALAESSLPLLGNPGLLNNTPSGLLQAV
+                     HEDLNGSLDHIDSNGNISPGCSPQPHISFQFLLTPLDKRIIPVPCHSTLRLLQCLQRH
+                     SVHIKEEPMMAEDEDCPMSLVTTANHSPELEDDREIEEEPLSEDLE"
+ORIGIN      
+        1 atgatgcagg aatctgcaac agagacaata agcaacagtt caatgaatca aaatggaatg
+       61 agcactctaa gcagccaatt agatgctggc agcagagatg gaagatcaag tggtgacacg
+      121 agcagtgaag taagcacagt ggaactgctg catctgcaac aacagcaggc actccaggca
+      181 gcgagacaga ttcttctaca gcagcagagc agtggactga aatctcccaa gggcaacgac
+      241 aaacagagac cactgcaggt tcctgtgtca gtggccatga tgactccgca ggtgatcacc
+      301 cctcagcaaa tgcagcagat tcttcagcag caggtgttgt ctccacagca gctccaagca
+      361 cttctccagc agcaacaagc agtgatgctg cagcagcaac aactccaaga gttttacaag
+      421 aaacagcaag aacagttaca tcttcagctt ttgcagcaac agcaacaaca gcagcaacaa
+      481 cagcaacagc agcagcaaca acatcaacag cagcagcagc aacaacaaca acaacaacag
+      541 caacacccag gaaagcaagc aaaagagcag cagcagttgg cagcccagca gcttgtcttc
+      601 caacagcagc ttctccagat gcaacaactc cagcaacagc aacatctgct gaacctgcaa
+      661 cggcaggggt taatatctat cccatctagc cagtcctcgc tccctgttca gcctcttcca
+      721 caagctggcc taagccctgc tgaaattcag cagttgtgga aagaagtgac cggagtccac
+      781 agcatggagg aaaatggcat caaacatgga gggcttgacc tcactactaa caattcctct
+      841 tctactacct cctccaacac ttccaaagca tcgccaccaa taacacacca ttgcttagtc
+      901 aatggacagt cctctgttct aaatgctcga agagacagct cgtcacatga agaggtaggg
+      961 gcctctcata cgctatatgg ccatggagtt tgcaaatggc cagggtgtga aagcatttgt
+     1021 gaagattttg gacagtttct aaagcacctt aataatgaac acgcattgga tgacagaagt
+     1081 actgctcagt gtcgggtcca aatgcaagtg gttcaacagt tagaaataca gctttctaaa
+     1141 gaacgggaac gtcttcaggc gatgatgacc cacttgcaca tgcgaccctc agagcccaag
+     1201 ccatctccaa aacctcttaa tctggtgtct aatgtcacaa tgtctaagaa catgctggag
+     1261 acctccccac agagtttacc tcaaacccct actacaccaa ctgctccact taccccaatt
+     1321 acccaaggag cctcagtaat taccccatcc agtgtaccca atgttggagc cattcgaaga
+     1381 cgacattccg acaaatacaa catcccaatg tcatcagaaa ttgctccgaa ctacgagttt
+     1441 tataagaatg cagatgtcag gcctcctttt acttatgcaa ccctcataag acaggctatc
+     1501 atggaatcaa ctgacaggca gttaacgctt aatgaaattt acagctggtt cacgcggaca
+     1561 ttcgcttact tcaggcgaaa cgcagcaaca tggaagaatg ctgtgcgtca caacctaagc
+     1621 ctgcataagt gttttgttcg agtggagaat gtgaaagggg cagtgtggac agtagatgaa
+     1681 gccgagtacc agaagcgaag gtcacagaag atcacaggaa gcccaacgtt agtcaaaaac
+     1741 attcctacca gcctaggtta tggggcagca cttaatgcaa gtttgcaggc tgcattggca
+     1801 gagagtagtt taccattgct tggtaaccct ggtttgttga acaacacacc ctctggttta
+     1861 ctgcaggcag ttcacgaaga cttgaacggt tcattggatc acatcgacag caacgggaat
+     1921 atcagcccgg gctgttcccc tcagcctcat atatcattcc agttccttct cactcctctt
+     1981 gacaaaagga tcatcccagt cccctgtcat tccactttga gattgctcca gtgcctacaa
+     2041 cgacattcag tccatatcaa agaagagccc atgatggcag aggatgaaga ctgtccaatg
+     2101 tccttggtca caacagcgaa ccacagtcca gaactggaag atgacagaga gatagaggaa
+     2161 gagcctttat ctgaggatct ggaataa
+//
+

@@ -1,0 +1,86 @@
+LOCUS       AJ309135                1664 bp    mRNA    linear   VRT 15-APR-2005
+DEFINITION  Triturus carnifex partial mRNA for putative nucleolin (nnuc gene).
+ACCESSION   AJ309135
+VERSION     AJ309135.1  GI:20067396
+KEYWORDS    nnuc gene; nucleolin.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Denti,M.A., Barsacchi,G., Gall,J.G. and Tabler,M.
+  TITLE     A study of the intracellular localisation and nature of Satellite 2
+            transcripts in the newt ovary
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1664)
+  AUTHORS   Denti,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-2001) Denti M.A., Plant Molecular Biology,
+            Institute of Molecular Biology and Biotechnology, FORTH, P.O. Box
+            1527 Vassilika Vouton, Heraklion, Crete, GR-71110, GREECE
+FEATURES             Location/Qualifiers
+     source          1..1664
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+                     /sex="female"
+                     /tissue_type="ovary"
+                     /dev_stage="adult"
+                     /country="Italy"
+     gene            <1..1664
+                     /gene="nnuc"
+     CDS             <1..1017
+                     /gene="nnuc"
+                     /codon_start=1
+                     /product="putative nucleolin"
+                     /protein_id="CAC84501.1"
+                     /db_xref="GI:20067397"
+                     /db_xref="GOA:Q8QFS6"
+                     /db_xref="HSSP:1CVJ"
+                     /db_xref="InterPro:IPR000504"
+                     /db_xref="InterPro:IPR012677"
+                     /db_xref="UniProtKB/TrEMBL:Q8QFS6"
+                     /translation="LKLNGAAILGLETEMARAQSYDSSIKTKKERTERILFAKNLPYS
+                     TTADDLRKVFENAVNIRILASNKKGTSRGAASIEFKSAAETENALKEKQGADVGGRQI
+                     DLHYAGEKSTNMQSDLETVVVKNLAFKATESSLQNVFKNAVSIRIPKDDSGRSQGFAL
+                     VEYPNKKSARKAMESHKNVEIEGRHICLELQGAPSEKSKTLFVRGLSADTTEETLKEA
+                     FDGAVGTRIVTDRDSGASKGFGFVDFSTAEDASAAKEAMEDGEIDGNKVTVEFAQSKR
+                     ERVKGGGSGKIIKGKGGNAGIGRGTFRGGRGTEKAVKKMNPVEEAREVVEPSLKSEGK
+                     NQTD"
+     3'UTR           <1018..1664
+                     /gene="nnuc"
+     regulatory      <1621..1626
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="nnuc"
+ORIGIN      
+        1 ctgaaactaa atggggcggc aattcttggt ttggaaaccg agatggccag agctcaaagc
+       61 tacgacagca gcataaaaac caagaaagaa aggactgaaa gaattttgtt tgccaagaat
+      121 ctgccataca gcacaacagc tgatgatctg cgaaaagttt ttgagaatgc ggtaaatata
+      181 agaattctcg cttcaaataa aaaaggcact agcagaggcg ctgcatccat agaattcaag
+      241 tctgcagcag agacggagaa tgctctaaag gagaagcaag gggccgatgt tggaggcaga
+      301 caaattgatt tacactacgc aggtgaaaag agtacaaata tgcagagtga tttggagact
+      361 gtggtcgtga aaaacctagc atttaaagcc actgaatcgt ctctccagaa cgttttcaag
+      421 aacgcagtat ccattagaat accaaaagat gattcaggca gatcccaagg atttgccttg
+      481 gttgagtatc ccaacaagaa aagtgcaagg aaagcaatgg aatcgcacaa aaatgtagaa
+      541 atcgaaggca ggcacatctg cctggaactc cagggcgcac catcagagaa atcaaaaact
+      601 ttgtttgtca gaggactctc agctgacaca acagaagaaa cgttgaaaga agcctttgat
+      661 ggggctgtag gaaccagaat agtcactgac cgagatagtg gagcatccaa aggatttggg
+      721 tttgtggatt tctccactgc tgaggatgcc agtgcagcaa aagaagcaat ggaagatggg
+      781 gaaatagatg gtaacaaggt gacagtagag tttgcccagt ccaaaagaga acgtgtaaaa
+      841 ggaggaggta gtggtaaaat aattaaagga aaaggaggaa atgctggaat aggcagagga
+      901 acgtttcgtg gtggtagagg tactgaaaaa gcagtaaaaa agatgaatcc cgtggaagag
+      961 gcaagggaag tggtggagcc cagtctgaag tcggaaggaa aaaatcaaac tgactgagta
+     1021 acacctcccc tccccccccc cccccatcct ttatcctgct acataggaat caagatttta
+     1081 ttggtgttca tattggctca tcacctcctt caactgccgt gttttatgca ataccattag
+     1141 ttctccttag cttgttgggc gaccacgctt tgtattctac gacttgctgg ctcaccatgg
+     1201 aatgtggaaa ataaaactac aggtccaaga atgcaattag ctggtagata agaagccagg
+     1261 actagctaat agtattacac atgatggagt atatactggt ctcgttctga taaccatcta
+     1321 tgaaactgta tgtgattgga tgggcaggcc ttaatgttgt cacctgaaac tattgcaccc
+     1381 taatgggatc agaattggca gcagttcttt tttgctggat tcttgctata gggacttctt
+     1441 attttaaacg agtgctgaat atgggaagta attttcaact tgtcatctat aacattttat
+     1501 tgtgtgagaa tatgattgtg ctttccctgt tttttttcta tgtgcctgta ctaaaaagat
+     1561 gtacaaataa gtgttgcgta tgcctgagaa accttctttt gaaggtttta tggtctgggc
+     1621 aataaacccg atcaaagatt taaaaaaaaa aaaaaaaaaa aaaa
+//
+

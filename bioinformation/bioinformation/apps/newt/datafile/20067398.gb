@@ -1,0 +1,73 @@
+LOCUS       AJ309136                1244 bp    mRNA    linear   VRT 02-APR-2002
+DEFINITION  Triturus carnifex partial mRNA for putative ribozyme binding
+            protein 1 (rzBP1 gene).
+ACCESSION   AJ309136
+VERSION     AJ309136.1  GI:20067398
+KEYWORDS    ribozyme binding protein 1; rzBP1 gene.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Denti,M.A., Barsacchi,G., Gall,J.G. and Tabler,M.
+  TITLE     A study of the intracellular localisation and nature of Satellite 2
+            transcripts in the newt ovary
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1244)
+  AUTHORS   Denti,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-2001) Denti M.A., Plant Molecular Biology,
+            Institute of Molecular Biology and Biotechnology, FORTH, P.O. Box
+            1527 Vassilika Vouton, Heraklion, Crete, GR-71110, GREECE
+FEATURES             Location/Qualifiers
+     source          1..1244
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+                     /sex="female"
+                     /tissue_type="ovary"
+                     /dev_stage="adult"
+                     /country="Italy"
+     gene            <1..>1244
+                     /gene="rzBP1"
+     CDS             <1..>1242
+                     /gene="rzBP1"
+                     /function="unknown"
+                     /codon_start=2
+                     /product="putative ribozyme binding protein 1"
+                     /protein_id="CAC84502.1"
+                     /db_xref="GI:20067399"
+                     /db_xref="UniProtKB/TrEMBL:Q8QFS5"
+                     /translation="DFQEFKETKSEINVMKIANNVEKDNNEVIQEKLRRNKTGKLNDL
+                     SEVVVEDVLRENSNNLLHAVEQTIRLLDVKEFGRAEVPLRELATIGYLVRQGVSENQI
+                     NESLYRTNQFPALRTPDSQNALVQLVEREGYGSLITQVLTEETTTDESIVAATVGFRA
+                     FMRMVELQHTTVEELILNLLQKISDPEHGRFAEVTEGNFEDLEADMVTTELPTGVFPI
+                     KTEEEIETMALQDIQKFKVSPELAVTTNVCEEHAEQSFVHDYFIGNNHESIASIQDKS
+                     SAEVFISTNETSYVPETNTGNLTKKNVELEDNVIAGSLSNISRVLHQNTQDNNVQDSS
+                     FLPFSQKLELQYLDVDSKNKFDSSFEIIAGDLTEAPHLEMVLSGMTMEEPHTEVIKEK
+                     KSILPQDESSKNRKKLKKKKK"
+ORIGIN      
+        1 agatttccaa gaatttaaag aaaccaaaag tgaaataaat gttatgaaaa tagcaaacaa
+       61 tgtagaaaaa gataataacg aagttattca agaaaaattg agaagaaaca aaacaggaaa
+      121 actaaatgat ctctctgaag tagttgttga agatgttctt agagaaaaca gtaataactt
+      181 acttcatgcg gttgaacaaa cgataagact tttagacgtc aaagaatttg gaagagctga
+      241 agttccatta agagaattgg ctacaatcgg ttatctagtc cgtcaaggag tgtctgaaaa
+      301 tcaaataaat gaaagtctct atcgaactaa tcagttccca gcattgcgca ccccagattc
+      361 tcaaaatgct ttagttcagt tggtggaaag ggaaggctat ggttcactta taacgcaagt
+      421 ccttaccgaa gaaacaacaa ctgatgaaag cattgtagca gctacagttg gctttcgagc
+      481 ttttatgaga atggttgaac ttcagcatac aacagttgag gaactgatcc taaacttgct
+      541 ccagaagatt tccgaccccg agcatgggag attcgcagaa gttactgaag gcaactttga
+      601 agaccttgaa gctgatatgg tcactactga gttaccaact ggtgttttcc caataaaaac
+      661 agaagaagaa atcgaaacaa tggcattaca agatattcaa aaatttaaag tttctccaga
+      721 attggctgtt actacgaacg tttgtgaaga acatgcagaa caaagtttcg tacatgatta
+      781 ctttattggg aataatcatg aaagtattgc aagtattcaa gataaaagtt cagctgaagt
+      841 ttttatctct actaatgaaa cttcatatgt tcctgaaacg aatacaggaa atctaacaaa
+      901 aaaaaacgtt gaactcgaag acaatgttat tgctggctct ctttctaaca tatcaagagt
+      961 gcttcatcaa aacactcaag acaataatgt tcaagattct tcatttctcc ctttctcaca
+     1021 gaaacttgaa ctacaatatt tagatgttga ctcaaaaaat aaattcgata gctcatttga
+     1081 aataatagcc ggagacttga ccgaagctcc acacttggaa atggttttat ctggaatgac
+     1141 aatggaagaa ccacacacag aagtgattaa agaaaaaaaa tcaatattac cacaagatga
+     1201 gagtagcaaa aacagaaaaa aattaaaaaa aaaaaaaaaa aaaa
+//
+

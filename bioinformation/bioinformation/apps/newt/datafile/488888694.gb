@@ -1,0 +1,54 @@
+LOCUS       KC733395                 491 bp    DNA     linear   VRT 31-MAR-2014
+DEFINITION  Tylototriton asperrimus voucher GZNU20070615004 proopiomelanocortin
+            (POMC) gene, partial cds.
+ACCESSION   KC733395
+VERSION     KC733395.1  GI:488888694
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 491)
+  AUTHORS   Yang,C.-Z. and Gu,X.-M.
+  TITLE     Phylogenetic relationships of Tylototriton (Caudata: Salamandridae)
+            based on Partial Nuclear gene and Mitochondrial DNA Gene Sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 491)
+  AUTHORS   Yang,C.-Z. and Gu,X.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2013) School of Life Sciences, Guizhou Normal
+            University, No. 116 BaoshanBeiLu, Guiyang, Guizhou 550001, China
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GZNU20070615004"
+                     /db_xref="taxon:385674"
+     gene            <1..>491
+                     /gene="POMC"
+     mRNA            <1..>491
+                     /gene="POMC"
+                     /product="proopiomelanocortin"
+     CDS             <1..>491
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="proopiomelanocortin"
+                     /protein_id="AGL08643.1"
+                     /db_xref="GI:488888695"
+                     /translation="KFGRKNSTSGNTAGNKREELPSNPMVSLFTTSESQSSGAHDSSK
+                     EGEGMERQDSKRSYSMEHFRWGKPVGRKRRPIKVYPNGVEDESSESYPLDLKRDLSLG
+                     IDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERRQTPL
+                     MTL"
+ORIGIN      
+        1 caagttcggc agaaagaaca gcaccagtgg gaatactgca ggaaataaga gagaggagct
+       61 ccctagcaat ccaatggtca gcctcttcac cacatcagag agccagagca gcggcgccca
+      121 tgacagcagc aaagagggtg agggcatgga aaggcaagat agcaaacgct cctattccat
+      181 ggagcacttc cggtggggga aaccagtcgg caggaagagg aggcccatca aggtgtaccc
+      241 caacggcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggatt gactaccccg aatatgactc ccaagaaggc ctggaaaaca atgaggtgat
+      361 gatgggccta gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaagcgct atggtgggtt catgacccct gagcggagac aaacccctct
+      481 aatgactcta t
+//
+

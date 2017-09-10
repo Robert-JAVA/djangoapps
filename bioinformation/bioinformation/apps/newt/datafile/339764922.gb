@@ -1,0 +1,41 @@
+LOCUS       JN048435                 255 bp    DNA     linear   VRT 18-APR-2012
+DEFINITION  Mesotriton alpestris clone CopTa9 microsatellite sequence.
+ACCESSION   JN048435
+VERSION     JN048435.1  GI:339764922
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 255)
+  AUTHORS   Prunier,J., Kaufmann,B., Grolet,O., Picard,D., Pompanon,F. and
+            Joly,P.
+  TITLE     Skin swabbing as a new efficient DNA sampling technique in
+            amphibians, and 14 new microsatellite markers in the alpine newt
+            (Ichthyosaura alpestris)
+  JOURNAL   Mol Ecol Resour 12 (3), 524-531 (2012)
+   PUBMED   22248363
+REFERENCE   2  (bases 1 to 255)
+  AUTHORS   Prunier,J., Kaufmann,B., Grolet,O., Picard,D. and Joly,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUN-2011) CNRS, UMR5023 Ecologie des Hydrosystemes
+            Naturels et Anthropises, 43, Boulevard du 11 Novembre 1918,
+            Villeurbanne F-69622, France
+FEATURES             Location/Qualifiers
+     source          1..255
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54263"
+                     /clone="CopTa9"
+     repeat_region   1..255
+                     /rpt_type=tandem
+                     /satellite="microsatellite"
+ORIGIN      
+        1 acactaccaa tttctgaacg ctaaaacccc cttagacaat atgtatcctt attatactag
+       61 atagatagat agatagatag atagatagat agatagatag atagatagat agatatgaat
+      121 agagggagag agagaggata aaatgactta cgatgtgaaa gcataaaatc ttacctttgt
+      181 tgttaaagat cccgatgtaa cttccacttc atagatgtaa aacagcctca atgtaatgcc
+      241 tacaatgtaa agatt
+//
+

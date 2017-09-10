@@ -1,0 +1,181 @@
+LOCUS       AB689012                2710 bp    DNA     linear   VRT 27-APR-2012
+DEFINITION  Tylototriton asperrimus mitochondrial DNA, trnL(UUR) - cox1 region,
+            isolate: TK-2009-pet_trade-Ta01.
+ACCESSION   AB689012
+VERSION     AB689012.1  GI:385296136
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1
+  AUTHORS   Kurabayashi,A., Nishitani,T., Katsuren,S., Oumi,S. and Sumida,M.
+  TITLE     Mitochondrial genomes and divergence times of crocodile newts:
+            Inter-islands distribution of Echinotriton andersoni and the origin
+            of a unique repetitive sequence found in Tylototriton mt genomes
+  JOURNAL   Genes Genet. Syst. 87 (1), 39-51 (2012)
+   PUBMED   22531793
+REFERENCE   2  (bases 1 to 2710)
+  AUTHORS   Kurabayashi,A. and Sumida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2011) Contact:Atsushi Kurabayashi Hiroshima
+            University, Institute for Amphibian Biology, Graduate school of
+            Science; 1-3-1, Kagamiyama, Higashihiroshima, Hiroshima 739-8526,
+            Japan URL :http://home.hiroshima-u.ac.jp/~amphibia/sumida/
+FEATURES             Location/Qualifiers
+     source          1..2710
+                     /organism="Tylototriton asperrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TK-2009-pet_trade-Ta01"
+                     /isolation_source="pet trade individual, preserved in
+                     IABHU"
+                     /db_xref="taxon:385674"
+     gene            1..75
+                     /gene="trnL(UUR)"
+     tRNA            1..75
+                     /gene="trnL(UUR)"
+                     /product="tRNA-Leu"
+                     /note="codons recognized: UUR"
+     gene            76..1044
+                     /gene="nad1"
+                     /gene_synonym="ND1"
+     CDS             76..1044
+                     /gene="nad1"
+                     /gene_synonym="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="BAM14028.1"
+                     /db_xref="GI:385296137"
+                     /translation="MHILQTLINPLLYIIPILLAVAFLTLVERKVLGYMQLRKGPNIV
+                     GPMGLLQPIADGVKLFIKEPIRPSTSSQTLFIMMPMMALTLALMIWIPLPMPFMLSNL
+                     NLGLLFLLAISSLAVYSILGSGWSSNSKYALIGALRAVAQTISYEVTLGLILLCLILM
+                     TGSFTLMSFNTLQEPMWLVLPTWPMAAMWFTSTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSTILFLGTTINHLQPEMLTINLMMKTSALSIMFLW
+                     VRASYPRFRYDQLMHLIWKNFLPITIGLTLMHISLPILMSGVPPAL"
+     gene            1044..1114
+                     /gene="trnI"
+     tRNA            1044..1114
+                     /gene="trnI"
+                     /product="tRNA-Ile"
+     gene            complement(1117..1187)
+                     /gene="trnQ"
+     tRNA            complement(1117..1187)
+                     /gene="trnQ"
+                     /product="tRNA-Gln"
+     gene            1190..1259
+                     /gene="trnM"
+     tRNA            1190..1259
+                     /gene="trnM"
+                     /product="tRNA-Met"
+     gene            1260..2303
+                     /gene="nad2"
+                     /gene_synonym="ND2"
+     CDS             1260..2303
+                     /gene="nad2"
+                     /gene_synonym="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAM14029.1"
+                     /db_xref="GI:385296138"
+                     /translation="MNPYALSILLSSLAMGTITTLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSAITNAWATGEWTIITMNDNTSTFILTIAL
+                     SIKLGIAPFHLWLPDIMQGLNLTTCLILTTWQKLAPMSLMIMTSHQLNTSLLITMAML
+                     STVVGGWGGLNQTQMRKMMAYSSIAHLGWMTLVLSFSPSLTALNLMIYLMLTSSMFLM
+                     MMTLTATNMNKLSTSWLKTPLLASLMMITLMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     TVSTLMAMSALLSLFFYLRLSYAISLTTAPNTSNSNMTWRVSHNQMQTLPTMITLTTM
+                     MLPITPTLLAMLN"
+     gene            2302..2370
+                     /gene="trnW"
+     tRNA            2302..2370
+                     /gene="trnW"
+                     /product="tRNA-Trp"
+     gene            complement(2372..2440)
+                     /gene="trnA"
+     tRNA            complement(2372..2440)
+                     /gene="trnA"
+                     /product="tRNA-Ala"
+     gene            complement(2441..2513)
+                     /gene="trnN"
+     tRNA            complement(2441..2513)
+                     /gene="trnN"
+                     /product="tRNA-Asn"
+     rep_origin      2514..2557
+                     /note="light-strand replication origin (OL);
+                     nucleotide motif:hairpin-structure with CCGGC motif"
+     gene            complement(2548..2613)
+                     /gene="trnC"
+     tRNA            complement(2548..2613)
+                     /gene="trnC"
+                     /product="tRNA-Cys"
+     gene            complement(2614..2680)
+                     /gene="trnY"
+     tRNA            complement(2614..2680)
+                     /gene="trnY"
+                     /product="tRNA-Tyr"
+     gene            2682..>2710
+                     /gene="cox1"
+                     /gene_synonym="CO1"
+                     /gene_synonym="COI"
+     CDS             2682..>2710
+                     /gene="cox1"
+                     /gene_synonym="CO1"
+                     /gene_synonym="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="chytochrome c oxidase subunit I"
+                     /protein_id="BAM14030.1"
+                     /db_xref="GI:385296139"
+                     /translation="MMITRWLFST"
+ORIGIN      
+        1 gttaagatgg cagagccagg caattgcaaa agacctaagc cctttcaccc agaggttcaa
+       61 ctcctcttct taactatgca catcctacaa acactaatca acccactatt atatatcatc
+      121 ccaatcctac tagctgtggc attcctcaca ctagttgaac gaaaagtgtt aggatatata
+      181 caactccgca aaggcccaaa catcgtagga ccaatagggt tgttacaacc aatcgccgac
+      241 ggagtaaaac tatttattaa agaacccatc cgaccatcca catcctcgca gaccttgttc
+      301 atcataatgc ctataatagc actaacactg gcactaataa tttgaatccc tcttccaatg
+      361 ccatttatat tatcaaatct taaccttgga ctattgttcc tattagctat ctcaagttta
+      421 gctgtgtact caatccttgg ctcaggctga tcatccaact caaaatatgc actaatcggg
+      481 gcgctacgcg cagtagcaca aaccatctca tatgaggtaa cactaggact gatcctccta
+      541 tgtcttattt taataacagg aagctttacc cttataagct tcaacacact gcaagagcca
+      601 atatgacttg ttttaccaac atgaccaata gcagcgatat ggtttacctc aaccctggcg
+      661 gaaacaaatc gagccccatt tgatttaaca gaaggagaat cagagctagt ctcaggcttc
+      721 aatgtggagt atgccggagg accattcgca ctattctttc tagcagaata ctcaaatatc
+      781 ttattaataa acaccctctc caccatctta ttcctgggaa caacaattaa tcacctacaa
+      841 ccagaaatac ttacaattaa cctaataata aaaacatccg ccctatcaat tatattttta
+      901 tgagtacgag catcataccc gcgattccgc tatgaccaat taatacacct tatctgaaaa
+      961 aactttctgc caatcacaat cggattgaca ttaatacaca tctctctgcc aattttaata
+     1021 tccggagttc caccggcact ataggatatg tgcccgaaag atagggctta ctttgataga
+     1081 gtagcacaca gaggttcaaa ccctctcatc tcctgtataa aaaaatagga ttcgaaccta
+     1141 ccccaaggag atcaaaaccc ctcgtgctcc cactacacca ctttttacta gtaaaataag
+     1201 ctaaactaag cttttgggcc cataccccaa acatgttggt taaaatcctt cttttactaa
+     1261 tgaacccata tgccctgtca attctattat cgagcctggc aataggaaca attacaactc
+     1321 tttcaagctc ccactgattc ctcgcatgag ttggcctaga aattaacacg ctggcaatca
+     1381 tcccactaat aacaaaaata caccacccac gagcaacaga atcagccaca aaatacttcc
+     1441 taacacaagc caccgcatca gccttaatct tattttctgc aatcacaaac gcatgggcca
+     1501 caggagaatg aacaattatt accatgaacg ataacacatc aacatttatc ttaacaatcg
+     1561 ccctatccat taagctggga atcgccccat ttcacctatg actaccagac atcatacaag
+     1621 ggctaaacct aacaacatgt ttaatcctta caacatgaca aaaactagcc ccaatatcac
+     1681 taataatcat aaccagccat caattaaaca caagcctact aattacaata gccatattat
+     1741 caacagtagt tggggggtgg gggggcctta accaaacaca aatacgaaaa ataatagcat
+     1801 actcatccat cgcccacctc ggatgaataa cactagtcct atctttctcc ccaagcttaa
+     1861 cggccctgaa cctcataatt taccttatac taacctcatc aatattttta ataataataa
+     1921 ccctgaccgc aacaaatata aacaaacttt caacatcttg actaaaaaca ccactactag
+     1981 catcattaat aataattaca cttatagccc taggaggcct acccccgacc tcaggcttct
+     2041 taccaaaatg actaattcta caagaaataa ctaaacagca cctagagacc gtatccacac
+     2101 taatggctat atctgcccta ctaagcctgt tcttctacct acgactgtcg tatgcaatct
+     2161 cattaactac tgcaccaaac acctcaaact ccaacataac ctgacgagta tctcacaacc
+     2221 aaatacaaac tctcccaaca ataatcacac taaccacaat aatattaccg atcacaccaa
+     2281 cactactagc aatactaaac taaagactta ggataataag accaaagacc ttcaaagtct
+     2341 taagcagaag ttaaaccctt ctagtctttg ataaaacctg caggactcta ccccacatct
+     2401 tctgaatgca acccagacac tttaattaag ctaaagcctt ctagactagc aggctctaac
+     2461 cccgcgacct tttagttaac agctaaacgc tcaatccaac aagctttagt ctacttctcc
+     2521 cgcttgttgg ggggaaaaaa gcgggagaag ccccggcaga agtaactctg ctctttaaaa
+     2581 tttgcaattt tatatgctaa acatcacaag acttggtaaa aaaagggctt aacctttata
+     2641 acaagggcta caatcttgca cctatttcgg ccattttacc agtgataatc acccgatgac
+     2701 tattctccac
+//
+

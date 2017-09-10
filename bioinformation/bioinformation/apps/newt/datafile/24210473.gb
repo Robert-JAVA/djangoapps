@@ -1,0 +1,62 @@
+LOCUS       AB078503                 919 bp    mRNA    linear   VRT 22-OCT-2002
+DEFINITION  Cynops pyrrhogaster NwtCx43 mRNA for connexin-43, partial cds.
+ACCESSION   AB078503
+VERSION     AB078503.1  GI:24210473
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Kuwata,O., Fukutomi,A. and Saito,T.
+  TITLE     Gap junction protein connexins in regenerating neural retina
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 919)
+  AUTHORS   Kuwata,O., Fukutomi,A. and Saito,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2002) Osamu Kuwata, University of Tsukuba,
+            Institute of Biological Sciences; 1-1-1 Tennodai, Tsukuba, Ibaraki
+            305-8572, Japan (E-mail:okuwata@biol.tsukuba.ac.jp,
+            Tel:81-298-53-4919, Fax:81-298-53-6614)
+FEATURES             Location/Qualifiers
+     source          1..919
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="retina"
+                     /dev_stage="adult"
+     gene            <1..>919
+                     /gene="NwtCx43"
+     CDS             <1..>919
+                     /gene="NwtCx43"
+                     /note="gap junction protein"
+                     /codon_start=3
+                     /product="connexin-43"
+                     /protein_id="BAC22078.1"
+                     /db_xref="GI:24210474"
+                     /translation="LDKVQAYSTAGGKVWLSVLFIFRILLLGTAVESAWGDEQSAFRC
+                     NTQQPGCENVCYDKSFPISHVRFWVLQIIFVSTPTLAYLAHVFYLMRKEEKLNKKADD
+                     LKIIQNDGADVELHLKQIEIKKFKYGLEVHGKVKMRGGLLHTYIASIFLKSIFEVGFL
+                     LIQWYIYGFTLSAIYTCEREPCPHKVDCFLSRPTEKTIFIWFMLVVSLVSLGLNIIEL
+                     FYVCFKSVKDRIKGRSDPYSTASAAVSPVKDCGTQKYTYFNGCSSPTAPLSPMSPPGY
+                     KLVTSDRNASSCRNYNKQASEQNWANYSA"
+ORIGIN      
+        1 ttcttgacaa ggttcaggcc tactctacgg ctggagggaa ggtatggctc tctgtgctct
+       61 tcatattccg catccttctc ctgggcaccg cagtggagtc cgcctggggg gacgagcagt
+      121 ccgccttccg ctgcaacact cagcaacccg gttgtgagaa cgtctgctac gacaagtcgt
+      181 tccccatctc ccatgtgcgg ttctgggtgc tacagatcat cttcgtctcg acgccaaccc
+      241 tggcgtacct ggctcatgtc ttctatttga tgcggaagga ggagaaactc aacaagaagg
+      301 ctgatgacct caaaataatc cagaacgatg gggctgatgt agaacttcac cttaagcaga
+      361 ttgaaattaa gaaattcaaa tatggcctgg aagtgcatgg caaggttaag atgcgtgggg
+      421 ggctcttgca cacctacatt gcaagcatct tcttgaaatc tatattcgag gtgggatttt
+      481 tactcatcca gtggtacatt tatgggttta ctctgagtgc catttacaca tgcgaaagag
+      541 aaccctgccc acataaagtg gactgcttcc tctcaaggcc cactgagaag acaattttca
+      601 tctggttcat gctggtggtg tctcttgtat cccttggctt aaacatcatc gaactgttct
+      661 atgtctgctt caaaagtgtc aaggatcgca tcaaagggag gagcgatccc tactctacgg
+      721 ccagtgctgc agtgagcccc gtcaaagact gtggaaccca gaagtacaca tatttcaatg
+      781 gctgttcttc acccaccgcg cctttgtctc ccatgtcccc tccaggatac aagcttgtca
+      841 ccagtgacag gaatgcttcg tcgtgccgca attacaacaa gcaggccagt gaacagaact
+      901 gggccaacta cagcgcaga
+//
+

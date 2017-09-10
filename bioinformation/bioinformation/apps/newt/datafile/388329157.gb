@@ -1,0 +1,47 @@
+LOCUS       JX043884                 476 bp    DNA     linear   VRT 30-OCT-2012
+DEFINITION  Triturus marmoratus isolate Tm_1282_SJDeserto beta-fibrinogen (FGB)
+            gene, intron.
+ACCESSION   JX043884
+VERSION     JX043884.1  GI:388329157
+KEYWORDS    .
+SOURCE      Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 476)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Is dispersal guided by the environment? A comparison of
+            interspecific gene flow estimates among differentiated regions of a
+            newt hybrid zone
+  JOURNAL   Mol. Ecol. 21 (21), 5324-5335 (2012)
+   PUBMED   23013483
+REFERENCE   2  (bases 1 to 476)
+  AUTHORS   Espregueira Themudo,G., Neiman,A.M. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2012) Netherlands Centre for Biodiversity
+            Naturalis, P.O. Box 9517, Leiden 2300, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..476
+                     /organism="Triturus marmoratus"
+                     /mol_type="genomic DNA"
+                     /isolate="Tm_1282_SJDeserto"
+                     /db_xref="taxon:8328"
+                     /country="Portugal"
+                     /lat_lon="40.14 N 7.191944444 W"
+     gene            <1..>476
+                     /gene="FGB"
+                     /note="beta-fibrinogen"
+     intron          <1..>476
+                     /gene="FGB"
+ORIGIN      
+        1 agttaattgg tttaatgcaa ggagcagcca gggcacatta aatacctaag aatgagagca
+       61 ttggctgcac tgacatcccc cttccatgtt tgatcagaga tagattctcg cttctcagca
+      121 tttctttcga gttgtggcat tcttttagac tgatagccac ttcaagacag acacatcgtt
+      181 ctagtgttcc tttccgcata attccactgc tggtgttcgt tttctgcaaa ggactacaga
+      241 tacagatgcg ttatatatat attttttaaa acagttctta gacctaaaga agactacctt
+      301 anntacttta atatactgaa gtaaactatt ttattaatta ctacgttaaa ctgtactgta
+      361 caacaggaat cagtattata agttatgcta tgttatgctt tgctattttg tgcatgaaca
+      421 caaacgcatg cacacatgca tacacatgat tgcttcgagt cttggaaatg cagggg
+//
+

@@ -1,0 +1,48 @@
+LOCUS       EU213038                 241 bp    mRNA    linear   VRT 26-MAY-2009
+DEFINITION  Pleurodeles waltl cytochrome P450 family 26 subfamily B polypeptide
+            1 mRNA, partial cds.
+ACCESSION   EU213038
+VERSION     EU213038.1  GI:163717350
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 241)
+  AUTHORS   Wallacides,A., Chesnel,A., Chardard,D., Flament,S. and Dumond,H.
+  TITLE     Evidence for a conserved role of retinoic acid in urodele amphibian
+            meiosis onset
+  JOURNAL   Dev. Dyn. 238 (6), 1389-1398 (2009)
+   PUBMED   19347951
+REFERENCE   2  (bases 1 to 241)
+  AUTHORS   Helene,D., Amand,C., Angelina,W., Dominique,C. and Stephane,F.
+  TITLE     RA triggers meiosis entry in the urodele amphibian Pleurodeles
+            waltl
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 241)
+  AUTHORS   Helene,D., Amand,C., Angelina,W., Dominique,C. and Stephane,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2007) EA3442, Faculte des Sciences, Boulevard des
+            Aiguillettes, Vandoeuvre les Nancy 54500, France
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..>241
+                     /codon_start=1
+                     /product="cytochrome P450 family 26 subfamily B
+                     polypeptide 1"
+                     /protein_id="ABY40727.1"
+                     /db_xref="GI:163717351"
+                     /translation="VFKTHLLGRPLIRVTGAENVRKILMGEHSLVSTEWPRSTRTLLG
+                     PNSLANSIGDIHRNKRKVFSKIFSHEALESYLPKIQ"
+ORIGIN      
+        1 gtgtttaaga cgcatttgtt gggccggccc ctaatccgag tgacaggagc agaaaacgtc
+       61 cgcaagattc tgatgggtga gcacagcctg gtgagcactg aatggcctcg cagcacaagg
+      121 acgttacttg ggcccaacag cttggccaac tccatcggag acatacaccg caacaagagg
+      181 aaggtgttct ccaagatctt cagccacgag gcactagaga gttacctgcc caagatccag
+      241 c
+//
+

@@ -1,0 +1,54 @@
+LOCUS       NVIHBOX34A               679 bp    DNA     linear   VRT 28-APR-1993
+DEFINITION  Newt homeobox protein (HBox-3.4) gene, 3' end.
+ACCESSION   M84001
+VERSION     M84001.1  GI:213397
+KEYWORDS    homeobox protein.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 679)
+  AUTHORS   Belleville,S., Beauchemin,M., Tremblay,M., Noiseux,N. and Savard,P.
+  TITLE     Homeobox-containing genes in the newt are organized in clusters
+            similar to other vertebrates
+  JOURNAL   Gene 114 (2), 179-186 (1992)
+   PUBMED   1351019
+COMMENT     Original source text: Notophthalmus viridescens (library: EMBL3)
+            DNA.
+FEATURES             Location/Qualifiers
+     source          1..679
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /tissue_lib="EMBL3"
+     gene            1..440
+                     /gene="HBox-3.4"
+     intron          1..225
+                     /gene="HBox-3.4"
+     CDS             <226..440
+                     /gene="HBox-3.4"
+                     /codon_start=3
+                     /product="homeobox protein"
+                     /protein_id="AAA49397.1"
+                     /db_xref="GI:555494"
+                     /translation="TDGKRSRTSYTRYQTLELEKEFHFNRYLTRRRRIEIANNLCLNE
+                     RQIKIWFQNRRMKWKKDSKLKIKDSL"
+     misc_feature    234..413
+                     /gene="HBox-3.4"
+                     /note="homeobox"
+ORIGIN      
+        1 agtacaacca catgctataa tgccgtccta atgtttttca atgcttctgc gtctttattg
+       61 tctaagttgg ccagaggtgt gagaaatata ttcttcttag accttccata tggagatatg
+      121 gaactaaaat cacacacaaa agtttatttt atatgttgcc gtttaattta aacaaacttc
+      181 aatcagtgtt ttttttcaca acggtacgcc ttttgcccgt tacagaaaca gacggaaaac
+      241 gatcccggac cagctacacg cgctatcaga ccttggagct agagaaggaa tttcatttta
+      301 atagatatct cactcgccgg aggcgcattg agatcgccaa caacctctgc ctgaacgagc
+      361 gacaaatcaa gatttggttt cagaaccgcc ggatgaaatg gaaaaaggat tccaaactta
+      421 aaattaagga ctccctctaa agattgcaga gacctttgtt ccgttcccca tggatgtacc
+      481 tactaaaact gtttcatttt tttgcggtgg ggtggggggg aggcagtgct ttgggtagat
+      541 ggtttgtttg agacaaggtg cacacttaaa agaaacgcat ctccggcttc ttatttaaaa
+      601 gtcctaaata cttagatttt tgaaaaatgt attgtataat agttattggt ttgaagtcaa
+      661 tgttttaggc tataataaa
+//
+

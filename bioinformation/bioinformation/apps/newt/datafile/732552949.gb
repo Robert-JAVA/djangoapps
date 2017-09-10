@@ -1,0 +1,68 @@
+LOCUS       KP180885                1452 bp    DNA     linear   VRT 17-DEC-2014
+DEFINITION  Lissotriton montandoni isolate TLR09B_1500_1658_B toll-like
+            receptor 9B (TLR9B) pseudogene, partial sequence.
+ACCESSION   KP180885
+VERSION     KP180885.1  GI:732552949
+KEYWORDS    .
+SOURCE      Lissotriton montandoni (Carpathian newt)
+  ORGANISM  Lissotriton montandoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 1452)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Constraint and adaptation in newt Toll-like receptor genes
+  JOURNAL   Genome Biol Evol (2014) In press
+   PUBMED   25480684
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1452)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2014) Institute of Environmental Sciencs,
+            Jagiellonian University, Gronostajowa 7, Krakow, Malopolskie
+            30-387, Poland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GATK Read-Backed Phasing v. 2.6; Phase v.
+                                     2.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1452
+                     /organism="Lissotriton montandoni"
+                     /mol_type="genomic DNA"
+                     /isolate="TLR09B_1500_1658_B"
+                     /db_xref="taxon:323754"
+     gene            <1..>1452
+                     /gene="TLR9B"
+                     /note="toll-like receptor 9B"
+                     /pseudogene="allelic"
+ORIGIN      
+        1 tgtgatgaca ccaacaactc cacccttgtg aactgccgga acaggaatta aaaaattatt
+       61 ccatccatta aatctcaaaa tgtgaggaag ctggacctta gttgtaacca ccttgaacat
+      121 atagctaatt actctttatc agggattccc aatcttctgt ctctcaattt aagttggaac
+      181 tgtgcacctg gtaaagtgcg agctgaaggc gaaacatgca aatttacaat cgagcgcaat
+      241 gctttaactg gactctgtta tttagagaat ctaacacttg caggtaatag cttgactgtg
+      301 gtgccttggc tgcctcctag cttaaaactg ttggatttgg aaatgaacaa tatagttatg
+      361 ttgggatttc acaacatatc cggcttagtt aatcttagac agctctatct tggcatgaac
+      421 tgcttctatc ggaacccatg taactcttca tttactttct tgaagaacat gttcaaagat
+      481 gcaaaatctt tgagaacatt atcattgaaa tttaacaacc ttacaagtgt tcctttaggc
+      541 cttccaccta atctgctcta tcttgacatt tcagaaaacc aaatagctga agtaaagcac
+      601 tctgactttg acaatcttac caaactggaa tacctggatc tgcaatggaa ctgccaacga
+      661 tgtgaccatg cttcacaacc ttgttttcca tgtgctaaca actctgccct tcagatccac
+      721 cctgatgcat tcaatcacct ccaaaacctt cgtgttttga gcctcagagg taactctctg
+      781 cacaaaatca atgactcttt gtttgtgcct ttaaccaacc taagatcatt ggatgtatcc
+      841 gacaactttc tggcatatgc tattgcaaat gggacatttt tctccaagct tagtaaggtc
+      901 acaagtttgc gtctgaacta taactttgtg cctggaatgg tatttacaaa attgaggctc
+      961 tctccagcct ttgcacatat gcgctcacta agataccttt atctcgatgg atacttattt
+     1021 gggcaattgg ataaaaaagg aatagaacct ctcctgatgc tcccagatct acaaatgata
+     1081 accttcagaa ctaacctcat tgaccaagtg aacttgactc tcttcgctaa cgtcccaagc
+     1141 ctgaagttca ttgatttgtc tcgaaatatt ttaacacttg ccgaactatg tgagagaacc
+     1201 caatgctaca cagaaacctc gccactaagc ctgtcccatg aaataacttt ttctgaatac
+     1261 tatcctcact ggaggtattc aacaggaggt agggacaccc ttcaacacca tacttactat
+     1321 tttaactttc catcctgcag aaactatagc aggtcgcttg acttgtcctt taataacatc
+     1381 aaagaaattg aatcagagtt cttcaaaggt ctggacgata tccagtgcct caatcttagc
+     1441 tgtaatttca tc
+//
+

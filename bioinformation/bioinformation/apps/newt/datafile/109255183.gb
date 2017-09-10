@@ -1,0 +1,43 @@
+LOCUS       DQ641943                 283 bp    mRNA    linear   VRT 24-JUN-2006
+DEFINITION  Notophthalmus viridescens transcription factor Oct4 mRNA, partial
+            cds.
+ACCESSION   DQ641943
+VERSION     DQ641943.1  GI:109255183
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 283)
+  AUTHORS   Makarev,E.O. and Tsonis,P.A.
+  TITLE     Expression analysis of newt homologies (Notophthalmus viridescens)
+            of genes Oct4 and Sox2 in eye
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 283)
+  AUTHORS   Makarev,E.O. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2006) Biological, University of Dayton, 300
+            College Park, Dayton, OH 45469, USA
+FEATURES             Location/Qualifiers
+     source          1..283
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /PCR_primers="fwd_seq: cagctgtccttcaagaac, rev_seq:
+                     gccgccggttgcagaa"
+     CDS             <1..>283
+                     /codon_start=1
+                     /product="transcription factor Oct4"
+                     /protein_id="ABG27017.1"
+                     /db_xref="GI:109255184"
+                     /translation="QLSFKNMCKLKPLLQRWLNEADNTQNMEQLCNMEQMLAQARKRK
+                     RRTSIENNVKGTLENFFQKCSKPGPQEIYQIAEDLSLEKDVVRVWFCNRR"
+ORIGIN      
+        1 cagctgtcct tcaagaacat gtgcaagttg aagcctcttt tacaacgatg gctcaacgag
+       61 gctgacaaca cacaaaatat ggaacagttg tgcaatatgg aacaaatgct ggctcaggct
+      121 cggaagagga agcgccggac cagcattgag aacaacgtga aaggcactct agaaaacttc
+      181 ttccaaaagt gttcaaagcc tggaccccaa gagatctatc agattgctga agacctcagt
+      241 ctggaaaaag atgtagtccg tgtctggttc tgcaaccggc ggc
+//
+

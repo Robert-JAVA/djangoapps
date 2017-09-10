@@ -1,0 +1,45 @@
+LOCUS       FJ588051                 422 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 22 beta-fibrinogen gene,
+            intron 7.
+ACCESSION   FJ588051
+VERSION     FJ588051.1  GI:222142872
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 422)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 422)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..422
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="22"
+     gene            <1..>422
+                     /gene="beta-fibrinogen"
+     intron          <1..>422
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 aaagaatgag agcattggca gcgctgacat cccacttcca tttttgatca gacatagatt
+       61 cttgcttctc agcatttctt tcgagttgtg gcattcttgt agactgatag gtactttaag
+      121 acagacacat cattctagtg tgcctttcca cataattcca ctgctggcgc tcgttttctg
+      181 gaaatgacct cagatacaac tgagttatac atttttaaaa aacccagttc tgagacataa
+      241 agcagaccat tacagaaaac cgtcacacgt tcccacctta tactttactg tactgaagta
+      301 aactatttta ttatttacta cgttaaatta tactgtacaa caggaatcaa tattataagt
+      361 tatgatatgt tatgctttgc tattttgtgc atgatcacac gtgcaagcac acatgcatac
+      421 ac
+//
+

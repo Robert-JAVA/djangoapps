@@ -1,0 +1,61 @@
+LOCUS       AB437408                 885 bp    mRNA    linear   VRT 21-NOV-2008
+DEFINITION  Cynops pyrrhogaster lp2 mRNA for liocalin-type prostaglandin D
+            synthase-like protein, complete cds.
+ACCESSION   AB437408
+VERSION     AB437408.1  GI:213656660
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Iwasa,T., Mandula,G., Urano,K., Takahashi,T., Sawada,K., Okano,K.
+            and Nakamura,T.
+  TITLE     Lipocalin family proteins expressed in the Bowman's gland of the
+            newt olfctory epithelium
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 885)
+  AUTHORS   Iwasa,T., Takahashi,T. and Sawada,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-2008) Contact:Tatsuo Iwasa Muroran Institute of
+            Technology, Department of Materials Science and Engineering;
+            Mizumoto 27-1, Muroran, Hokkaido 050-8585, Japan
+FEATURES             Location/Qualifiers
+     source          1..885
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /clone_lib="lambda Zap-II newt olfactory epithelium cDNA"
+     gene            1..885
+                     /gene="lp2"
+     CDS             85..633
+                     /gene="lp2"
+                     /note="Cp-Lip"
+                     /codon_start=1
+                     /product="liocalin-type prostaglandin D synthase-like
+                     protein"
+                     /protein_id="BAG84576.1"
+                     /db_xref="GI:213656661"
+                     /translation="MFVLWVSLGLALTSLLQVEAMDVPVVKDFETDKFLGRWYSVVVA
+                     SNCTQFMKMKSMLKMPVNVITAHENGDLDVRMGFPGKDGCMKKDMYYQMISPGRYTQS
+                     TATQTEVRIVETDYKHTAIEYSRKVSELEVVSVMVKLYAREADVHPGVFTLFKMLMEG
+                     LGLTEENMVVLPHDVECVPGTF"
+ORIGIN      
+        1 ggcacgagga gagcccataa ctgagaaccc cgaaacagcc cagctaccaa gagatacagc
+       61 gaggccaaca ccaagtaaac catcatgttt gtgctgtggg taagcctggg cctagccctg
+      121 acaagccttc ttcaggttga agcgatggat gtcccagtgg tgaaagactt tgaaactgac
+      181 aagtttctag gaaggtggta ctcagtcgtg gtggcatcaa actgcactca atttatgaag
+      241 atgaaatcga tgttgaagat gcctgtgaac gtgatcaccg cgcatgaaaa tggggacctg
+      301 gatgttcgca tgggcttccc ggggaaagat ggatgcatga agaaggacat gtactaccag
+      361 atgatcagcc caggccgcta cactcaaagc actgctacac agactgaagt ccggattgta
+      421 gagacagact ataagcatac cgccattgag tactcacgca aggtctccga attagaagtg
+      481 gtcagcgtca tggtgaaact gtatgctaga gaagctgatg tgcaccctgg agtctttact
+      541 ctcttcaaga tgttgatgga aggacttgga ctcacagagg aaaacatggt ggttctgcct
+      601 cacgatgtgg aatgtgtacc tggaaccttt tagggtgccc ggaagagaaa ggtcctctgc
+      661 tgataatggt ggactaacac ggctgccaga gccacgaccc taagagcaca gcgaacattt
+      721 actcccccag acaactttct ctggttggtc gatttattcc agcctctcaa attctgatga
+      781 tccctgccca ggggcggcga gacactggag cccctttgct gctttgagat gatacttctc
+      841 tgtacccaca ataaatgctt tcaaatcaaa aaaaaaaaaa aaaaa
+//
+

@@ -1,0 +1,31 @@
+LOCUS       X06097                   235 bp    DNA     linear   VRT 18-MAR-1991
+DEFINITION  Notophthalmus viridescens 5S rRNA gene.
+ACCESSION   X06097
+VERSION     X06097.1  GI:64114
+KEYWORDS    5S ribosomal RNA; ribosomal DNA.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 235)
+  AUTHORS   Kay,B.K. and Gall,J.G.
+  TITLE     5S ribosomal RNA genes of the newt Notophthalmus viridescens
+  JOURNAL   Nucleic Acids Res. 9 (23), 6457-6469 (1981)
+   PUBMED   6275363
+COMMENT     Data kindly reviewed (12.OCT.1988) by GALL J.
+FEATURES             Location/Qualifiers
+     source          1..235
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /clone="p5S 10"
+     rRNA            32..151
+                     /note="5S rRNA gene"
+ORIGIN      
+        1 agctaattct ccaaacgtca atgctgggtt tgcttacggc cataccaccc tgaaagcacc
+       61 tgatctcgtc tgatctcaga agttaagcag ggtcgggcct ggttagtacc tggatgggag
+      121 accgccttgg aataccaggt gctgtaggct tttgaacttt ttattttttc ctttaagtga
+      181 agtggattgc atgtctcttt gctatggaca gcacagaagt cgagtgaaaa aagct
+//
+

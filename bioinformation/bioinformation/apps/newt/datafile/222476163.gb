@@ -1,0 +1,47 @@
+LOCUS       FJ526226                 500 bp    DNA     linear   VRT 01-MAY-2009
+DEFINITION  Triturus carnifex isolate 678 Etzmandorf fibrinogen beta chain
+            gene, intron 7.
+ACCESSION   FJ526226
+VERSION     FJ526226.1  GI:222476163
+KEYWORDS    .
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 500)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     A combination of techniques proves useful in the development of
+            nuclear markers in the newt genus Triturus
+  JOURNAL   Mol Ecol Resour 9 (3), 1160-1162 (2009)
+   PUBMED   21564844
+REFERENCE   2  (bases 1 to 500)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2008) Department of Zoology, Naturalis, P.O. Box
+            9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..500
+                     /organism="Triturus carnifex"
+                     /mol_type="genomic DNA"
+                     /isolate="678 Etzmandorf"
+                     /db_xref="taxon:8326"
+                     /country="Austria"
+                     /lat_lon="48.65 N 15.75 E"
+     gene            <1..>500
+                     /gene="fibrinogen beta chain"
+     intron          <1..>500
+                     /gene="fibrinogen beta chain"
+                     /number=7
+ORIGIN      
+        1 agttaattgg tttaatgcaa ggagcagcca ggacacatca aacacctaag aatgagagca
+       61 ttggcagcac tgacatcccg cttccatgtt tgatcagaga tagattctcg cttctcagca
+      121 tttctttcga gttgtggcat tcttttagac tgatagccac ttcaagacag acgcatcgtt
+      181 ctagtgttcc tttccgcata attccactgc tggtgttcgt tttctgcaaa ggactacaga
+      241 tacagatgca ttatatatat ttttttaaaa acagttctta gacataaaga agactattag
+      301 cgaaaaccgc cacacgttcc caccttatac tttagtatac tgaagtaaat tattttatta
+      361 attactacgt taaactgtac tgtacaacag gaatcagtat tataagttat gctatgttat
+      421 gctttgctat tttgtgcatg aacacacatg catgcacaca tgcatacaca tgcttgcttc
+      481 gagtcttgga aatgcagggg
+//
+

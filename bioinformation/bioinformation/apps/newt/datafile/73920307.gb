@@ -1,0 +1,49 @@
+LOCUS       DQ092222                 302 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Triturus italicus isolate E1806.18 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ092222
+VERSION     DQ092222.1  GI:73920307
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 302)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 302)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..302
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1806.18"
+                     /db_xref="taxon:323755"
+     gene            <1..>302
+                     /gene="cytb"
+     CDS             <1..>302
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAZ94096.1"
+                     /db_xref="GI:73920308"
+                     /translation="SLLGICLITQILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWL
+                     VRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNVGVVLLFLVMATAFVGYVLP"
+ORIGIN      
+        1 gttcacttct aggaatctgc ctaattacac aaatccttac aggcctcttc ctagccatac
+       61 actatacagc agacacacaa tcagcatttt catcagtagc ccacatctgc cgagatgtca
+      121 attatgggtg actagtacga aacatccacg ccaacggtgc ctccttcttc tttatttgta
+      181 tttatctaca tattggacga ggcctctact atggctctta tatatttaaa gagacatgaa
+      241 acgttggtgt agttctttta tttctggtca tagccaccgc ctttgtagga tatgtcctcc
+      301 cg
+//
+

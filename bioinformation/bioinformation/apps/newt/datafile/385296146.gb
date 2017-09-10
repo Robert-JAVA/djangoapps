@@ -1,0 +1,112 @@
+LOCUS       AB689015                 992 bp    DNA     linear   VRT 27-APR-2012
+DEFINITION  Tylototriton kweichowensis mitochondrial DNA, cob - trnP region,
+            isolate: TK-2009-pet_trade-Tk01.
+ACCESSION   AB689015
+VERSION     AB689015.1  GI:385296146
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton kweichowensis (red-tailed knobby newt)
+  ORGANISM  Tylototriton kweichowensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Kurabayashi,A., Nishitani,T., Katsuren,S., Oumi,S. and Sumida,M.
+  TITLE     Mitochondrial genomes and divergence times of crocodile newts:
+            Inter-islands distribution of Echinotriton andersoni and the origin
+            of a unique repetitive sequence found in Tylototriton mt genomes
+  JOURNAL   Genes Genet. Syst. 87 (1), 39-51 (2012)
+   PUBMED   22531793
+REFERENCE   2  (bases 1 to 992)
+  AUTHORS   Kurabayashi,A. and Sumida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2011) Contact:Atsushi Kurabayashi Hiroshima
+            University, Institute for Amphibian Biology, Graduate school of
+            Science; 1-3-1, Kagamiyama, Higashihiroshima, Hiroshima 739-8526,
+            Japan URL :http://home.hiroshima-u.ac.jp/~amphibia/sumida/
+FEATURES             Location/Qualifiers
+     source          1..992
+                     /organism="Tylototriton kweichowensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TK-2009-pet_trade-Tk01"
+                     /isolation_source="pet trade individual, preserved in
+                     IABHU"
+                     /db_xref="taxon:385676"
+     gene            <1..784
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /pseudo
+     CDS             <1..320
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /pseudo
+                     /codon_start=2
+                     /transl_except=(pos:320,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b apoenzyme"
+                     /protein_id="BAM14035.1"
+                     /db_xref="GI:385296147"
+     repeat_region   41..519
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /note="Rep1"
+                     /rpt_type=tandem
+     gene            321..388
+                     /gene="trnT"
+     tRNA            321..388
+                     /gene="trnT"
+                     /product="tRNA-Thr"
+     misc_feature    389..519
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /note="Noncoding region (1) (T-P Noncoding region specific
+                     in caudate mtDNAs)"
+                     /pseudo
+     repeat_region   520..961
+                     /note="Rep2"
+                     /rpt_type=tandem
+     CDS             520..784
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /note="pseudogene of cytochrome b apoenzyme"
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=2
+     gene            785..850
+                     /gene="trnT"
+                     /pseudo
+     tRNA            785..850
+                     /gene="trnT"
+                     /product="tRNA-Thr"
+                     /note="pseudogene of transfer RNA-Thr"
+                     /pseudo
+     misc_feature    851..961
+                     /note="Noncoding region (2) (T-P Noncoding region specific
+                     in caudate mtDNAs)"
+     gene            complement(962..>992)
+                     /gene="trnP"
+     tRNA            complement(962..>992)
+                     /gene="trnP"
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 ctttctattt gcttacgcaa tccttcgctc tattccgaac aagctcggag gagtgatggc
+       61 cctgcttata tccatcctaa tcttaataat cttcccatta ctacatacat caaaacagcg
+      121 aagcctgata ttccgaccaa tctcgcaaat cctattttga tccatggtag caaacaccct
+      181 tattttaacc tgaatcggag gaaagccagt agaaccccca tttatcgaaa tcggacaaat
+      241 tgcctctatc ctatacttct cactgtttat tgtcctaatc ccaatagcag ggctattaga
+      301 aaataaattg ataaaatgat gcccgagtag tttaaataaa atatcggtct tgtaagccga
+      361 agatgaaaac taacacattc ttcgggcggc cacccgggct ccgccgccac aataatcaaa
+      421 gagcgccggc ccacacaacc gggcattgcc ccaaaacaat cccctaaacc aaggcagtac
+      481 cccctacctg cttgcaccat ccttcactct attccgaaca agctgggaag agtgatggcc
+      541 ctgcttatac ccatcctaat cttaataatc ttcccattac tacatacatc gaagcagtcg
+      601 aagcctgata ctccaaccaa cctcgcaaat cctaccccaa tccatggcaa caaacaccac
+      661 tattctaacc tgaattggag gaaagccagt agaggacccc caattggaca attgccttgt
+      721 cctactctaa ttgccactta tcgtcctatc caataagagc tacagaaaat aattgataaa
+      781 atataccaac taacttaaat aaaatatcaa ccctgtaagc cgaaaaatga aaactaacac
+      841 tcttcgggcg gccacccagg ctccgccgcc acaataatca aagagctcca gcccacacaa
+      901 ccgggcaccg ccccaaaaca gccccagacc ccaggccacc caccccacac aaaaaatttt
+      961 atcaagaggg aaagattttc acttccgcca tt
+//
+

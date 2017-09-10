@@ -1,0 +1,55 @@
+LOCUS       KC665954                 374 bp    DNA     linear   VRT 22-JUN-2013
+DEFINITION  Calotriton arnoldi haplotype 1 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   KC665954
+VERSION     KC665954.1  GI:512391842
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton arnoldi (Montseny brook newt)
+  ORGANISM  Calotriton arnoldi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 374)
+  AUTHORS   Valbuena-Urena,E., Amat,F. and Carranza,S.
+  TITLE     Integrative Phylogeography of Calotriton Newts (Amphibia,
+            Salamandridae), with Special Remarks on the Conservation of the
+            Endangered Montseny Brook Newt (Calotriton arnoldi)
+  JOURNAL   PLoS ONE 8 (6), E62542 (2013)
+   PUBMED   23750201
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 374)
+  AUTHORS   Valbuena-Urena,E., Amat,F. and Carranza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2013) Unitat de Zoologia, Departament de Biologia
+            animal, biologia vegetal i ecologia, Universitat Autonoma de
+            Barcelona, Campus de la UAB, Cerdanyola del Valles, Barcelona
+            08193, Spain
+FEATURES             Location/Qualifiers
+     source          1..374
+                     /organism="Calotriton arnoldi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:342570"
+                     /haplotype="1"
+     gene            <1..>374
+                     /gene="cytb"
+     CDS             <1..>374
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGO01357.1"
+                     /db_xref="GI:512391843"
+                     /translation="LKIINSSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFLAMH
+                     YTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYYGSYLFKET
+                     WNIGVILLFLVMATAFVGYVLP"
+ORIGIN      
+        1 tactaaaaat cattaacagc tcatttattg acctcccaac accgtcaaat atctcatact
+       61 gatgaaactt cggctctctt cttggagttt gtctaattac acaaatcctc acaggtcttt
+      121 tcttggcaat acactacaca gcagacacac aatcagcatt ttcatctgtt gcccatattt
+      181 gtcgagatgt taactatggc tgactagtac gaagcaccca cgccaacgga gcctcactat
+      241 ttttcatttg tatttacctg cacattggac gaggcctata ttacggatca tacctattta
+      301 aagaaacctg aaacatcggc gtgatcttac tattcttagt catggcaact gcctttgtcg
+      361 gatatgtcct gccc
+//
+

@@ -1,0 +1,67 @@
+LOCUS       LC017831                 988 bp    DNA     linear   VRT 17-MAR-2015
+DEFINITION  Tylototriton yangi mitochondrial ND2 gene for NADH dehydrogenase
+            subunit 2, partial cds, specimen_voucher: NMNS:3114.
+ACCESSION   LC017831
+VERSION     LC017831.1  GI:770075084
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton yangi (Tiannan crocodile newt)
+  ORGANISM  Tylototriton yangi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Rao,D.Q., Matsui,M. and Eto,K.
+  TITLE     Taxonomic Relationship between Tylototriton daweishanensis Zhao,
+            Rao, Liu, Li and Yuan, 2012 and T. yangi Hou, Li and Lu, 2012
+            (Amphibia: Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 34, 67-74 (2015)
+  REMARK    DOI:10.5358/hsj.34.67
+REFERENCE   2  (bases 1 to 988)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2015) Contact:Koshiro Eto Kyoto University, Human
+            and Environmental studies; Yoshida-Nihonmatsu, Sakyoku, Kyoto,
+            Kyoto 606-8501, Japan URL :http://www.h.kyoto-u.ac.jp/jinkan
+FEATURES             Location/Qualifiers
+     source          1..988
+                     /organism="Tylototriton yangi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NMNS:3114"
+                     /db_xref="taxon:1357719"
+                     /country="China"
+     gene            <1..>988
+                     /gene="ND2"
+     CDS             <1..>988
+                     /gene="ND2"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAQ59591.1"
+                     /db_xref="GI:770075085"
+                     /translation="TITTLSSSHWFLAWMGLEINTLAMIPLMTKMHHPRSTESATKYF
+                     LTQAAASALILFSTITNAWATGEWTIITMNDNLSTFMLTIALAIKLGVAPFHLWLPDV
+                     MQGLNLTTCLILATWQKLAPMSLMIMTSHQLNTNLLITMAVLSAVIGGWGGLNQTQIR
+                     KMMAYSSIAHLGWMTLVLSFSPNLTTLNLMIYLMLTSSMFLMMTTLNSTNINKLSTSW
+                     LKTPLLASSMMITLMALGGLPPTSGFLPKWLILQEMTKQHLGAVSTLMAMSALLSLFF
+                     YLRLSYTISLTTAPNTSSSNMTWRMAHNQMQILPMMITLTTMMLPITPTLLTM"
+ORIGIN      
+        1 aacaattaca accctctcaa gctcccattg atttctggca tgaatagggc tagaaattaa
+       61 tacactagca ataatcccgc taataacaaa aatacaccac ccacgatcaa cagaatcagc
+      121 cacaaaatac ttcctaacgc aagccgccgc atcagcctta atcctatttt ctacaatcac
+      181 aaacgcatgg gccacaggag aatgaacaat tatcaccata aatgacaacc tatcaacatt
+      241 tatattaaca attgccctag ccattaaact tggagtcgcc ccttttcatc tatgactacc
+      301 agacgtcata caagggctaa acctaacaac atgcctaatc cttgcaacat gacaaaaatt
+      361 agccccaata tccttaataa ttataaccag ccaccaatta aacacaaacc tgctaattac
+      421 aatagccgta ttatcagcag taattggagg atgaggggga cttaaccaaa cacaaatccg
+      481 aaagataata gcatattcat ctattgccca cctcggatga ataacactag tcctatcttt
+      541 ctccccaaat ttaacaaccc ttaacctaat aatttaccta atactaacat catcaatgtt
+      601 cttaataata acaaccctaa actcaacaaa tattaacaaa ctttcaacat cttgactgaa
+      661 gaccccacta ctagcatcat caataataat tacactcatg gccctagggg gcctaccccc
+      721 cacatcagga ttcctaccaa aatgacttat cctacaagaa ataaccaaac agcacctagg
+      781 agctgtttcc acactaatag ctatatctgc actactaagc ctattcttct acctacgact
+      841 atcatatacg atctcactaa ctaccgcacc aaacacatca agctccaaca taacctgacg
+      901 aatagcccac aaccaaatac aaatcctacc aataataatt acactaacta caataatact
+      961 accgatcaca ccaacactac taacaata
+//
+

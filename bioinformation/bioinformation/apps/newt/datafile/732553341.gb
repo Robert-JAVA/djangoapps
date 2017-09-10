@@ -1,0 +1,107 @@
+LOCUS       KP181511                2502 bp    DNA     linear   VRT 17-DEC-2014
+DEFINITION  Lissotriton vulgaris isolate TLR13_5045_B toll-like receptor 13
+            (TLR13) gene, partial cds.
+ACCESSION   KP181511
+VERSION     KP181511.1  GI:732553341
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 2502)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Constraint and adaptation in newt Toll-like receptor genes
+  JOURNAL   Genome Biol Evol (2014) In press
+   PUBMED   25480684
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2502)
+  AUTHORS   Babik,W., Dudek,K., Fijarczyk,A., Pabijan,M., Stuglik,M.,
+            Szkotak,R. and Zielinski,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2014) Institute of Environmental Sciencs,
+            Jagiellonian University, Gronostajowa 7, Krakow, Malopolskie
+            30-387, Poland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GATK Read-Backed Phasing v. 2.6; Phase v.
+                                     2.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2502
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /isolate="TLR13_5045_B"
+                     /db_xref="taxon:8324"
+     gene            <1..>2502
+                     /gene="TLR13"
+     mRNA            <1..>2502
+                     /gene="TLR13"
+                     /product="toll-like receptor 13"
+     CDS             <1..>2502
+                     /gene="TLR13"
+                     /codon_start=1
+                     /product="toll-like receptor 13"
+                     /protein_id="AIZ72011.1"
+                     /db_xref="GI:732553342"
+                     /translation="PHPKITLLLSWALSVAVQALLLEAYGYSKCIFNNTDATGANCTG
+                     YGIVNLTAAIAQLPNRTRWLDASHNSIRMLEVETFSHLSSLQRLSLTSNRIGEIQEGA
+                     FRHLEGLNFLDLSNNRIRSLDPLYFAGLQSLQVLQISYNTIYSLHANSLKPFVSLQEL
+                     DLSFNPISNFSLVAEAIQGLTKLSTLHLTCIGIFDLKAVQNLTLLPNIQHLFLDKNNI
+                     TILDFTSYVLPSLQYLDVTRNNMTAVNVSSFHNVPNLVEVVFDQNPLNISQIYGFPLT
+                     NLTALHWSSMRPAFGEDISAACQLLQTLPNLNLLDIQHSKIRSRDLNFIGNCTKLTTI
+                     NLSTSSLGKLEKNAFQSFRSLETLYLNKCKLTQIDPGAFNNLKYLHTLVVERNRLKEL
+                     EKLVFRPLKKLQNLDLSKNFLTLINPKGFLGLSGLKNLTLRNCKIVIVTRDTFTYVRK
+                     LVFLDLSSNSLTLIKHRTFEKLNKLEILLLTGNRISAIQTLGFKGLHSLRYLSLSRNH
+                     IYKLDPDRFQFLRGLSALDLSMNKLISWNKYPNPSPFQELQSLKVLDLSFQEKTDQFS
+                     FPNQLFKGLQSLENLNLRGNPSIFFQNLSLLPLDNLTELDLSDMYPSGLFKFSSDLLR
+                     STRKLKYLKLDSNSFNDLPEDAFANLDSLEILSLRDNTLTNISEKLVGNLAALTYLDV
+                     YMNPLLCSCENVWFQNWSNSNPRVQVPLIQSFSCFGKFEETISFTEQDLSFCNNDIPR
+                     ILFLCTFTFTLLTMIASILTVKLRWVLIYFYCMLRAWCEKKFHKEVRAHQFDAFVSCC
+                     SEDEPWVMENLLLNLETLGPRNYRLCFKPRDFLPGE"
+ORIGIN      
+        1 cctcatccaa aaatcactct cctgctttct tgggctctgt cggtcgctgt tcaggctctg
+       61 ctgcttgaag catatgggta ctccaagtgt atattcaaca acacggacgc aacaggtgct
+      121 aactgcaccg gatatggcat tgttaactta acagctgcta ttgctcagct cccaaacagg
+      181 accagatggt tggacgcttc ccataattcg attagaatgt tggaagtaga aacattttcc
+      241 cacttgagca gtctccagag attatcactg accagtaacc gaattggtga aattcaggaa
+      301 ggagcatttc gacatcttga aggactcaat ttccttgatc tgagcaacaa tcgtattcgc
+      361 tcactggatc ccttgtactt tgcaggactt caaagtctcc aggttttaca aataagttac
+      421 aacactattt acagtttaca tgcaaattcc ctgaagccat ttgttagttt acaagagctt
+      481 gatctgtctt ttaaccccat ctctaatttt tctcttgtgg cagaagctat ccaaggcttg
+      541 accaaattat ccacactgca tctgacatgt attggcattt ttgacttaaa agctgtccag
+      601 aatctcactc ttttgccaaa tatccagcac ctgttcttgg ataaaaacaa cattaccatt
+      661 ctggacttca caagttatgt gttgcccagc ctgcaatatc tagatgtaac acggaacaac
+      721 atgactgcag tgaacgttag ttcattccat aatgtaccta atctggtaga ggtggtcttt
+      781 gatcagaacc cacttaacat atcgcagatc tatggattcc ccctaaccaa cctcactgcc
+      841 ctacactggt cgagcatgcg acctgctttc ggagaagaca taagtgctgc ttgtcaactg
+      901 ctccagactt tgcctaacct gaacctcttg gatattcaac actccaaaat tagatctcgt
+      961 gatcttaact tcattggcaa ctgtactaaa ctcaccacta tcaatttgtc cactagctca
+     1021 cttggaaagt tagaaaagaa tgctttccag tcctttagat cccttgagac cctttaccta
+     1081 aataagtgca aattgactca gatagaccct ggagcattta ataatctgaa atacctgcac
+     1141 actcttgttg tggaacgtaa tcggcttaaa gaacttgaaa agttggtctt cagaccacta
+     1201 aagaagctcc aaaatctgga cctctcaaaa aactttttaa cccttatcaa cccaaaggga
+     1261 ttccttggct tatcaggact caagaatctg accctgcgga actgtaaaat agtgatcgta
+     1321 actcgggaca cctttacgta tgtgaggaaa cttgttttct tagatcttag cagcaatagc
+     1381 ctgactctga ttaagcacag aacttttgag aaactaaata aacttgaaat attactactg
+     1441 acaggaaata ggatctcagc aatacaaacc ttaggcttca aaggccttca ttctctccgc
+     1501 tacctctccc tatcgagaaa ccacatttat aagctagacc ctgaccggtt ccaatttctt
+     1561 aggggccttt ctgctttaga ccttagtatg aacaaactaa tctcatggaa caagtatccg
+     1621 aaccccagtc cttttcagga acttcagtct ctcaaagtac tagatctaag ttttcaggaa
+     1681 aaaactgacc agtttagttt tccaaaccag ctgtttaaag ggctgcagag tcttgaaaat
+     1741 ctaaacctcc gtggtaaccc aagcatattt ttccaaaacc tttcactgct ccctcttgat
+     1801 aacctcactg aactggatct gtctgacatg tacccaagtg gcctattcaa gtttagctca
+     1861 gatctacttc ggagcaccag gaaactcaag tatcttaagc tggatagcaa ctcttttaac
+     1921 gacctccccg aggacgcttt tgccaatttg gattctttgg agatcctgtc tctgagagac
+     1981 aatactttga caaatatcag tgagaagttg gtgggaaatc tggctgcact cacatacctg
+     2041 gatgtttaca tgaacccact cttgtgctct tgtgagaacg tttggttcca gaattggtca
+     2101 aacagtaacc cccgtgtgca agtgccttta attcaatctt ttagttgctt tggaaaattt
+     2161 gaggagacca ttagcttcac agaacaggat ctgtccttct gcaacaatga catcccaagg
+     2221 atcttattcc tttgtacttt tacattcact ctgttgacca tgattgcctc aattctaacg
+     2281 gtaaagttga gatgggtttt aatttatttc tactgcatgc ttagagcgtg gtgtgagaag
+     2341 aaattccata aggaagtccg ggctcatcag tttgacgcct ttgtatcatg ttgttcggaa
+     2401 gacgagccct gggtgatgga gaaccttctg ctcaaccttg agacactagg cccgcggaac
+     2461 taccgcctct gcttcaagcc cagggatttt ctgcctgggg aa
+//
+

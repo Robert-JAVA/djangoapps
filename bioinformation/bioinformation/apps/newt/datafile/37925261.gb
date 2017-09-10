@@ -1,0 +1,53 @@
+LOCUS       AY233139                 307 bp    DNA     linear   VRT 19-MAY-2004
+DEFINITION  Paramesotriton fuzhongensis isolate SN02011 cytochrome b (cytb)
+            gene, partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY233139
+VERSION     AY233139.1  GI:37925261
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton fuzhongensis (Wanggao warty newt)
+  ORGANISM  Paramesotriton fuzhongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 307)
+  AUTHORS   Lu,S., Yuan,Z.G., Pang,J., Yang,D., Yu,F., McGuire,P., Xie,F. and
+            Zhang,Y.P.
+  TITLE     Molecular phylogeny of the genus Paramesotriton (Caudata:
+            Salamandridae)
+  JOURNAL   Biochem. Genet. 42 (5-6), 139-148 (2004)
+   PUBMED   15260140
+REFERENCE   2  (bases 1 to 307)
+  AUTHORS   Lv,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-2003) The Department of Herpetology, Chengdu
+            Institute of Biology, Chinese Academy of Sciences, Chengdu,
+            Shichuan 610041, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..307
+                     /organism="Paramesotriton fuzhongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SN02011"
+                     /db_xref="taxon:189295"
+                     /country="China: Fuchuan, Guangxi"
+     gene            <1..>307
+                     /gene="cytb"
+     CDS             <1..>307
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAP75493.1"
+                     /db_xref="GI:37925262"
+                     /translation="FGSLLGICLITQVITGLFLAMHYTADTQSAFSSVAHICRDVNHG
+                     WLMRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVMLLLLVMATAFVGYVLP
+                     "
+ORIGIN      
+        1 cttcggttct cttctaggaa tttgcctaat tacacaagtc attacaggcc tattcttagc
+       61 aatacactat acagcagaca cacaatcagc cttttcatct gtagcccaca tctgccgaga
+      121 cgtcaaccac ggatggttaa tacgaaacat tcacgctaat ggagcctcat tcttcttcat
+      181 ttgtatttac ctgcatatcg gacggggcct atactacgga tcatacatat ttaaagagac
+      241 gtggaatatt ggtgtaatac tactactact agttatagcc actgcctttg tcggatacgt
+      301 cctccca
+//
+

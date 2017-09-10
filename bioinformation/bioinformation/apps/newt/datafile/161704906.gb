@@ -1,0 +1,77 @@
+LOCUS       EU275787                1449 bp    DNA     linear   VRT 14-DEC-2007
+DEFINITION  Pleurodeles poireti recombination activating protein 1 (RAG1) gene,
+            partial cds.
+ACCESSION   EU275787
+VERSION     EU275787.1  GI:161704906
+KEYWORDS    .
+SOURCE      Pleurodeles poireti (Algerian ribbed newt)
+  ORGANISM  Pleurodeles poireti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1449)
+  AUTHORS   Vieites,D.R., Min,M.S. and Wake,D.B.
+  TITLE     Rapid diversification and dispersal during periods of global
+            warming by plethodontid salamanders
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (50), 19903-19907 (2007)
+   PUBMED   18077422
+REFERENCE   2  (bases 1 to 1449)
+  AUTHORS   Vieites,D.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Museum of Vertebrate Zoology and Department
+            of Integrative Biology, University of California Berkeley, 3101
+            VLSB, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..1449
+                     /organism="Pleurodeles poireti"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:235673"
+                     /db_xref="taxon:226889"
+     gene            <1..>1449
+                     /gene="RAG1"
+     mRNA            <1..>1449
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1449
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="ABX76625.1"
+                     /db_xref="GI:161704907"
+                     /translation="LHALRTAEKALLPGYHPFEWLPPLKNVSSNTEVGIINGLSGLMQ
+                     SVDEYPVDTISKRFRYDVALVSTLKDMEEDILEGLKTHELDDYLSGPFTVVIKESCDG
+                     MGDVSEKHGCGPVVPEKAVRFSFTIMTIGVHHNKDNVRIFEESKPNSELCCKPLCLML
+                     ADESDHETLTAILSPLIAEREAMKGSELMLELGGILRTFKFVFRGTGYDEKLVREVEG
+                     LEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEMWRSNRHHESADELRDR
+                     VKGVSAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNASKEERKRWQSTL
+                     DKHLRKKMNLKPIMRMNGNFARKLMSQETVEAVCELIHSEERRVAVRELMDMYLKMKP
+                     VWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIER
+                     DGSIGAWASEGNESGNKLFRRFRKMNARQSKF"
+ORIGIN      
+        1 tctgcatgct ctccgcacag ccgagaaagc cctcttgcca ggctaccacc cttttgaatg
+       61 gctgcctcct ctgaaaaatg tatcttctaa cacagaagtg ggcatcatca atgggctatc
+      121 cggtctgatg cagtctgtcg atgaataccc tgtagatact atctcaaaac ggtttaggta
+      181 tgatgttgcg ctagtctcca ctctgaagga catggaggag gacattctgg aaggcctgaa
+      241 aactcatgaa ctggacgact acttgagtgg tccattcacg gtggtcatca aggagtcttg
+      301 tgacgggatg ggtgatgtca gtgaaaagca tggctgtgga ccagtggttc cagaaaaggc
+      361 agttcgtttc tcgttcacaa tcatgaccat tggcgtccat cacaacaaag acaatgtgag
+      421 gatttttgaa gaaagcaagc cgaactcaga gctgtgctgc aagcccctgt gcctcatgct
+      481 cgctgatgaa tctgaccatg agacactaac cgccatcttg agcccactga tagcagaaag
+      541 agaggctatg aaaggcagtg aactgatgct tgaacttggt ggcatcctca gaacatttaa
+      601 gtttgtgttc aggggtacag gatatgatga gaagcttgtg agagaggttg aaggactcga
+      661 ggcctcaggc tcagtctata tctgtaccct ttgtgactcg acgcgccttg aagcctccca
+      721 gaacattgta ctccactcca tcactcgaag tcacaaggag aaccttgagc ggtacgagat
+      781 gtggcggtcc aaccgacacc atgagtcagc cgacgaactg cgggacagag tgaagggggt
+      841 ttcagccaag cccttcatcg agaccctccc ttccatcgat gctttgcact gtgacattgg
+      901 aaatgccgct gagttttaca agatattcca actcgaaata ggggaggtat tcaagaaccc
+      961 caacgcctca aaagaggagc gaaaaaggtg gcagtcgact ctggacaagc atctgaggaa
+     1021 gaagatgaac ttgaagccca taatgagaat gaacggtaat tttgcaagga aactgatgtc
+     1081 ccaggagact gttgaagcgg tctgtgagct gatccactca gaggaacggc gggtggctgt
+     1141 acgcgaactc atggacatgt acctaaaaat gaagccagta tggcggtcct cttgcccaag
+     1201 caaggagtgc ccagaactcc tctgccagta cagctacaac tctcaacgct tcgcagagct
+     1261 tctttcaacc aagttcaagt accgatatga gggcaaaatc acaaactatt tccacaagac
+     1321 actggcccac gttcctgaga taattgagcg agatgggtct atcggtgcct gggcaagtga
+     1381 agggaatgaa tcaggtaaca agctcttcag gcgtttcagg aaaatgaatg ccaggcagtc
+     1441 taagtttta
+//
+

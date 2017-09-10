@@ -1,0 +1,56 @@
+LOCUS       AY523736                 547 bp    DNA     linear   VRT 18-APR-2005
+DEFINITION  Pleurodeles waltl recombinase activating protein (RAG-1) gene,
+            partial cds.
+ACCESSION   AY523736
+VERSION     AY523736.1  GI:49887044
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Roelants,K. and Bossuyt,F.
+  TITLE     Archaeobatrachian paraphyly and pangaean diversification of
+            crown-group frogs
+  JOURNAL   Syst. Biol. 54 (1), 111-126 (2005)
+   PUBMED   15805014
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Roelants,K. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2004) Biology, Unit of Ecology and Systematics,
+            Vrije Universiteit Brussel, Pleinlaan 2, Brussels B-1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VUB 0508"
+                     /db_xref="taxon:8319"
+     gene            <1..>547
+                     /gene="RAG-1"
+     mRNA            <1..>547
+                     /gene="RAG-1"
+                     /product="recombinase activating protein"
+     CDS             <1..>547
+                     /gene="RAG-1"
+                     /codon_start=2
+                     /product="recombinase activating protein"
+                     /protein_id="AAT68852.1"
+                     /db_xref="GI:49887045"
+                     /translation="GCGPVVPEKAVRFSFTIMTIGVHHNKDNVRIFEESKPNSELCCK
+                     PLCLMLADESDHETLTAILSPLIAEREAMKGSELMLELGGILRTFKFVFRGTGYDEKL
+                     VREVEGLEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEMWRSNRHHESA
+                     DELRDRVKGVSAKPFIETLPSI"
+ORIGIN      
+        1 tggctgtgga ccagtggttc cggaaaaggc agttcgtttc tcgttcacaa tcatgaccat
+       61 tggcgtccat cacaacaaag acaatgtgag gatttttgaa gaaagcaagc caaactcaga
+      121 gctgtgctgc aagcccctgt gcctcatgct cgctgatgaa tctgaccatg agacactaac
+      181 cgccatcttg agcccactga tagcagaaag agaggccatg aaaggcagtg aactgatgct
+      241 tgaacttggt ggcatcctca gaacatttaa gtttgtgttc aggggtacag gatatgatga
+      301 gaagcttgtg agagaggttg aaggcctcga ggcctcaggc tcagtctata tctgtaccct
+      361 ttgtgactcg acgcgccttg aagcctccca gaacattgta ctccactcca tcactcgaag
+      421 tcacaaggag aaccttgagc ggtacgagat gtggcggtcc aaccgacacc atgagtcagc
+      481 cgacgaactg cgggacagag tgaagggggt ttcagccaag cccttcatcg agaccctccc
+      541 ttccatc
+//
+

@@ -1,0 +1,57 @@
+LOCUS       EAU55945                 666 bp    DNA     linear   VRT 06-JUN-2002
+DEFINITION  Euproctus asper cytochrome b (CYT-b) gene, mitochondrial gene
+            encoding mitochondrial protein, partial cds.
+ACCESSION   U55945
+VERSION     U55945.1  GI:1326192
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 666)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Mitochondrial DNA rates and biogeography in European newts (genus
+            Euproctus)
+  JOURNAL   Syst. Biol. 46 (1), 126-144 (1997)
+   PUBMED   11975350
+REFERENCE   2  (bases 1 to 666)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-1996) A. Caccone, Biology, Yale University, PO
+            Box 208104, New Haven, CT 06520-8104, USA
+FEATURES             Location/Qualifiers
+     source          1..666
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+     gene            1..666
+                     /gene="CYT-b"
+     CDS             1..>666
+                     /gene="CYT-b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB00560.1"
+                     /db_xref="GI:1326193"
+                     /translation="MAHIMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRG
+                     LYYGSYLFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGVSSNQDK
+                     ISFH"
+ORIGIN      
+        1 atggcccaca tcatacgaaa aactcaccca ctactaaaaa tcattaacaa ctcatttatt
+       61 gacctcccaa caccgtcaaa catctcatac tgatggaact tcggctctct tcttggaatt
+      121 tgtctaatta cacaaatcct cacaggtctt ttcttggcaa tacactacac agcagacaca
+      181 caatcagcat tctcatctgt tgcccatatt tgccgagatg ttaactacgg ctgactagta
+      241 cgaagcaccc acgccaacgg agcctcatta ttcttcattt gtatttacct acatattgga
+      301 cgcggcctat attacggatc atacctgttt aaagagacct gaaacatcgg tgtaatcttg
+      361 ctattcttag tcatggcaac tgcctttgtc ggatatgtcc tgccctgagg gcagatatca
+      421 ttttgagggg ccacagtcat caccaacctt ctctctgctg tcccatattt aggagactct
+      481 ctagtacaat gaatctgagg cggattttca gtagacaaag caacacttac acgattcttc
+      541 gcatttcact ttttattccc gttcttgatt gcaggaacaa gcatcgttca cctattattt
+      601 ctacatcaaa caggatcaaa taacccaaca ggagtctctt ctaatcagga caaaatttct
+      661 tttcac
+//
+

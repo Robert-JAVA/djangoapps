@@ -1,0 +1,106 @@
+LOCUS       KM099425                2898 bp    DNA     linear   VRT 23-DEC-2014
+DEFINITION  Cynops pyrrhogaster RPE65 (RPE65) gene, promoter region and partial
+            cds.
+ACCESSION   KM099425
+VERSION     KM099425.1  GI:734593834
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 2898)
+  AUTHORS   Casco-Robles,M.M., Miura,T. and Chiba,C.
+  TITLE     The newt (Cynops pyrrhogaster) RPE65 promoter: molecular cloning,
+            characterization and functional analysis
+  JOURNAL   Transgenic Res. (2014) In press
+   PUBMED   25490979
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2898)
+  AUTHORS   Casco-Robles,M.M., Miura,T. and Chiba,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-JUL-2014) Life and Environmental Sciences, University
+            of Tsukuba, 1-1-1 Tennoudai, Tsukuba, Ibaraki 305-8577, Japan
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Viewer v. 7.0
+            Sequencing Technology :: 3130 ABI Sequencer
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2898
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /clone="cpRPE65_2.8"
+                     /dev_stage="adult"
+                     /country="Japan"
+                     /collection_date="05-May-2014"
+     gene            <1..>2898
+                     /gene="RPE65"
+     regulatory      <1..2839
+                     /regulatory_class="promoter"
+                     /gene="RPE65"
+     regulatory      2808..2813
+                     /regulatory_class="TATA_box"
+                     /gene="RPE65"
+     mRNA            2840..>2898
+                     /gene="RPE65"
+                     /product="RPE65"
+     CDS             2889..>2898
+                     /gene="RPE65"
+                     /codon_start=1
+                     /product="RPE65"
+                     /protein_id="AJA30079.1"
+                     /db_xref="GI:734593835"
+                     /translation="MSS"
+ORIGIN      
+        1 aacctctcca cgcttttggg caagagactg gtccttttca cagttacaat ggcaccagca
+       61 gcactgaaaa catgctcaga agagacactt gcgacagggg aagccagata cgttatcgcc
+      121 agcctgctga tcactggcca ttggcttctt ttcccatacc aatacaccaa tgggtttcga
+      181 tccatgaaga cctctgttgt gtcatccaga taggcctgga ccatctgctc aatgctcagg
+      241 ggtgttccga tttgctgggc ctcttttgcc tttgcatcag cactggattt atcataccca
+      301 caccgtagaa accaatcaat taccgattgt actgtggctg atgatcctgt tcttgctgtt
+      361 gttgatgtta ttggtagtgt tggtgactac tgggagccaa acgcactgcc ctcaggctct
+      421 gaagtagcac ttgcctctgg atgccctgta gtacttgtta tggcctgggg tggcgggcct
+      481 ctaattacca gccgtttgtt ttcgaagtca gtggcttcct cagctatcaa agtttcatac
+      541 ttggcaacat ccacttctga aaaaggaatt actgccttac tgttcagaaa tactttgtac
+      601 cgtggatcca aaattgtggc agtaatgtaa tgttcatttg acacaatctt attttgaatc
+      661 cttgtatttt cagctaagcg aatggctaag gagttcgcca aataatatgc gtcttgtttg
+      721 tcatccacac ctgcgtacat ttcagacacc tccttcagct gttgctctag catgtgcaac
+      781 aatgggatag cttggcccat agtacagtcc tccctgttga cttcacgtgt gaagacctca
+      841 aaaggaagta gcatctctgt caggcattta acgaggtccc attggcccaa ctcaacggtc
+      901 atgcctctca cagtaggatc ccctagtctt gtgatgacat aagcattgag tggtacgtac
+      961 tgctcaaaca gacgatcaag catgtaataa gttgagttcc aacgtgttgg cacctcctgg
+     1021 atgagtgctt tgactggcat tttatgctga tgttgaatga ccctcagctg cttccgggct
+     1081 ttaaaagaat ggctgaaatg tgtgcatatt tttctgcagg tggtcagtaa gttgctgact
+     1141 ttgtcttgat ttttcagaaa gtcttgaaca acaatgttaa tgcagtacgc caaacacggg
+     1201 accctgaaat agccaccaac gtccatagct ttaactatat tactgccatt gtccgtggca
+     1261 acaaaaccaa tgttaagcct cttgggagca gccactcaaa gatcttgctt ttaaactctt
+     1321 ccaaaatgtt tgcagcagta tgagatttct ccatggcaaa catggctaca gttgcatgtt
+     1381 tgcgagtggc attaaaaatc tcagcggtgt caacacctgc agatatcttt tctctaaccc
+     1441 ccacaaaaga gatccagtgt gcagtgatgc acatgtaatc attggcttgg caactggtcc
+     1501 acatgtctgt tgtcaggtgg atactctgaa cagcactctg cttcaaggct tttccaacca
+     1561 attccagcac gtcgtgatgt agtgctggaa cagcaactct ggcgaaatag tagcggctgg
+     1621 gaaccttcca ttttgggcag atggctgtca caaattccag aaaacccacc ccttcaacaa
+     1681 aagaaaaagg gagaaggttc agcgctaaca ttttagccag ctttgcattg tacaaacgtg
+     1741 ctattgggtg tttgcgttcg tactgcccct ccaccctagt taacaatgta aatttctttt
+     1801 tttcttttgt gcagttacat ttgtgaccag tttcacaatt taagtgattt tataaccgtg
+     1861 aaaaatataa ttgatcaaaa tatactagtc cgcctccaaa cacactattt tatcattgaa
+     1921 aaagacaaaa aaaattcgtt tggatttaat gtttaatgga cattattatg acaacgcatt
+     1981 tttttaactt gaaattctca attttactca aaggttgtaa tgattaaagg cttcttggcc
+     2041 gtgtccatgc aaaggactat gtacaaggaa acagtttgta ggcaaatcta cagcaccatc
+     2101 atctacatgt actttagacc tttatgctaa ggtgaccaga ttctaaaaac cgaaagctgt
+     2161 gaatgaccta tcaaatacat taaagtcgga ttacagtttt tatgtctcgc tagcgatgca
+     2221 gcgcaaagcg ctgctcgcta gcgagatcta ttgtcgtcgc ctggagtttg gaagggggac
+     2281 aggcgatgtg cacgctcaca gcgcccggac aacccatgtg cacgcttccg gcgtctcttt
+     2341 cagacagccg atgtgcacgc taatggcgtg tctttctgcg tgtgcacacg gcgcccggac
+     2401 aggccatgtg cacactcatg gtgtctgttt cagacagccg atgtgcacgc tcatggcgtc
+     2461 tttcagcgtg cgccttacag acaagcgatg tgcacttgta cggcagcatg gcggcgtgca
+     2521 ttcgctttcc gcagtggttt ttattattct tgcctcacac cagttacaca atgcatgact
+     2581 acaatctgca gtttcttttt tttttttgta atccctttgt ggctgcatcg gatttagaga
+     2641 tcttgaactt tccaaagccg tccttgagca taaagaaacg aggcaataaa agcggagagc
+     2701 caagaggatt ccggccctga atgcaacttc tcttcgcatc cgcatccctc attggacgtc
+     2761 tgggtttgtt aagactgtta ttcatcccac tggactctga atccggataa atactgagct
+     2821 ggagtctgcg ccgggactcg catgctgaag tgggacctgc cggaggcgca ctctccatgc
+     2881 acgccagaat gtcgagca
+//
+

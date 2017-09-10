@@ -1,0 +1,86 @@
+LOCUS       SMRHSC90R               2093 bp    mRNA    linear   VRT 15-MAR-1996
+DEFINITION  Pleurodeles waltlii 90kDa heat shock protein (HSC90) mRNA, partial
+            cds.
+ACCESSION   L32987
+VERSION     L32987.1  GI:496248
+KEYWORDS    heat shock protein; heat shock protein 90kDa.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2093)
+  AUTHORS   Coumailleau,P., Billoud,B., Sourrouille,P., Moreau,N. and
+            Angelier,N.
+  TITLE     Evidence for a 90 kDa heat-shock protein gene expression in the
+            amphibian oocyte
+  JOURNAL   Dev. Biol. 168 (2), 247-258 (1995)
+   PUBMED   7729567
+COMMENT     Original source text: Pleurodeles waltlii oocyte cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..2093
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /map="chromosome 7"
+                     /dev_stage="oocyte"
+                     /germline
+     gene            1..2093
+                     /gene="HSC90"
+     CDS             <1..1629
+                     /gene="HSC90"
+                     /codon_start=1
+                     /product="heat shock protein 90"
+                     /protein_id="AAA92343.1"
+                     /db_xref="GI:496249"
+                     /translation="EDQSEYLEEKRVKEVVKKHSQFIGYPITLYLEKEREKEISDDEA
+                     EEEKVEEKKDEEEAPKEEEDKPKIEDVGSDDEEDGKEKKKKKTKKIKEKYIDQEELNK
+                     TKPIWTSNPDDISQEEYGEFYKSLTNDWEDHLAVKHFSVEGQLEFRALLFIPGRAPFD
+                     LFENKKKKNNIKLYVRRVFIMDSCDELIPEYLNFVPGVVDSEDLPLNISREMLQQSKI
+                     LKVIRKNIVKKCELTFCELAEDKDNYKKFYEAFSKNLKLGIHEDSANRKKLSELLRYH
+                     TSQTGDEMASLTEYVSRMKETQKAIYYITGESKEQVANSAFVERVRKRGFEVVYMTEP
+                     IDEYCVQQLKEFDGKTLVSVTKEGLELPEDEEEKKKMEESKSKFENLCKLMKEILDKK
+                     VEKVTVSNRLVSSPCCIVTSTYGWTANMERIMKAQALRDNSTMGYMMAKKHLEINPDH
+                     PIVETLRQKAEADKNDKAVKDLVVLLFETALLSSGFSLEDPQTHSNRMYRMIKLGLGI
+                     DEDEVAVEEPVAATTDEIPPLEEDEDASRMEEVD"
+     regulatory      2082..2087
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="HSC90"
+ORIGIN      
+        1 gaggaccaga gcgagtacct ggaggagaag cgtgtcaagg aggtggtgaa gaagcactcc
+       61 cagtttatcg gttaccccat caccctttac ctggagaagg agcgcgagaa ggagatcagc
+      121 gacgacgagg ccgaggagga aaaggtggag gagaagaaag acgaagagga ggcccccaag
+      181 gaggaggagg acaagcccaa gatcgaggac gtgggctcgg acgacgagga ggacggcaag
+      241 gagaagaaga agaagaagac gaagaagatc aaggagaagt acatcgacca ggaggagctg
+      301 aacaagacca agcccatctg gacgagcaac ccggacgaca tcagccagga ggagtacggg
+      361 gagttctaca agagcctgac caacgactgg gaggaccacc tggccgtcaa gcacttctcg
+      421 gtggagggcc agctcgagtt ccgcgctctc ctcttcatcc ccggccgagc gcccttcgac
+      481 ctcttcgaga acaagaagaa aaagaacaac atcaagctgt acgtgcgccg agtcttcatc
+      541 atggacagct gcgacgagct catcccggag tacctgaact tcgtgcccgg cgtggtggac
+      601 tcggaggact tgcccctgaa catctcccgc gagatgctgc agcaaagcaa gatcctgaag
+      661 gtcatccgca agaacatcgt caagaagtgt gagctcacct tctgcgagct ggccgaggac
+      721 aaggacaact acaagaagtt ctacgaggcc ttctccaaga acctcaagct tggaatccac
+      781 gaggactctg ccaaccggaa gaagctgtca gagctgctgc gttaccacac ctcccagact
+      841 ggtgatgaga tggcatctct cacagaatac gtctcccgca tgaaggagac ccagaaggcc
+      901 atatattaca tcactggaga gagcaaggag caagtggcaa actctgcgtt tgtggagcgt
+      961 gtccggaagc gcggcttcga ggtggtgtac atgaccgaac ccatcgatga gtactgtgtc
+     1021 cagcagttga aggagtttga tggaaagacc ctcgtctctg tgaccaagga gggcctggag
+     1081 ctgccagagg atgaggaaga aaaaaagaaa atggaggaga gcaaatccaa gttcgagaac
+     1141 ctgtgcaagc ttatgaagga gattttggac aagaaggttg agaaggtgac tgtttccaac
+     1201 cgccttgtct cttcgccctg ctgcattgtg accagtacct atgggtggac cgccaacatg
+     1261 gaaaggatta tgaaggcaca ggctcttcgc gacaactcca ccatgggcta catgatggcc
+     1321 aagaagcact tagaaatcaa ccctgaccac ccaattgtgg agaccctccg gcagaaggcg
+     1381 gaggcagata aaaatgacaa agcggttaag gaccttgtag tcctactgtt tgagacggcg
+     1441 ctgctgtcat ctggcttctc tctggaagac ccccagacgc actcaaaccg catgtacaga
+     1501 atgatcaagc ttgggttagg aattgatgag gatgaagttg ctgtagagga acctgtagct
+     1561 gccacgacag atgagatccc acctctggag gaggatgaag atgcatcccg aatggaggag
+     1621 gttgattaaa gcactgcagg ctgtctaaca ccaggcatgc tgcggcaatt tttcaaaatg
+     1681 actccttgca attgctacac gcctctgttc tagtgtttgt gcccgtttgt ttttctggcg
+     1741 aaagggttgg agaggttact gggcggggta aggctctaac gtagaggcct gcgtgcatca
+     1801 agacgaatgg cgtccagcca gctgctgctt tttctcaccc cggagtagtc gggtgttggg
+     1861 ggccgatggg caggtagagc ccacggctgc cacgatagtg aggtagttta caccacagta
+     1921 agtcggtgtt gtcctccctt tactgctgga cccagcatct tgaatgttcc ctgcatctct
+     1981 gggacagacc ccaacctgct cttttaggac aaaggtgagt ccactcttcc cagaagttgt
+     2041 aattgttgca atttttgttc cattgaaatt aaaatataaa gaataaagaa ttc
+//
+

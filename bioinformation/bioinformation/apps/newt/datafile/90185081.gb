@@ -1,0 +1,52 @@
+LOCUS       DQ284420                 328 bp    DNA     linear   VRT 03-AUG-2012
+DEFINITION  Pleurodeles waltl histone H3a gene, partial cds.
+ACCESSION   DQ284420
+VERSION     DQ284420.1  GI:90185081
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 328)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     The Amphibian Tree of Life
+  JOURNAL   Bull. Am. Mus. Nat. Hist. 297, 1-291 (2006)
+REFERENCE   2  (bases 1 to 328)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2005) Herpetology, Division of Vertebrate
+            Zoology, American Museum of Natural History, Central Park West at
+            79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH A168418"
+                     /db_xref="taxon:8319"
+                     /note="pet trade"
+     mRNA            <1..>328
+                     /product="histone H3a"
+     CDS             <1..>328
+                     /codon_start=2
+                     /product="histone H3a"
+                     /protein_id="ABD91482.1"
+                     /db_xref="GI:90185082"
+                     /translation="RKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREI
+                     RRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNL
+                     CAIHAKR"
+ORIGIN      
+        1 ccgcaagtcc accggaggga aggcgcctcg caagcagctg gccaccaagg ctgcccgcaa
+       61 gagcgcgcct gccaccggag gagtcaagaa gcctcaccgc tacaggcccg ggaccgtggc
+      121 tctccgcgag atccgccgct accagaagtc caccgagctg ctcatccgca agctgccctt
+      181 ccagcgcctg gtgcgggaga tcgcgcagga cttcaagacc gacctgcgct tccagagctc
+      241 ggccgtcatg gccctgcagg aggccagcga ggcctacctg gtcgggctct ttgaggacac
+      301 caacttgtgc gccatccacg ccaagagg
+//
+

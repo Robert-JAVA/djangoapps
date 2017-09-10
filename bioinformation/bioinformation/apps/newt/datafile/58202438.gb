@@ -1,0 +1,60 @@
+LOCUS       AY691731                 783 bp    DNA     linear   VRT 26-MAR-2007
+DEFINITION  Notophthalmus viridescens voucher UTA 56597 cytochrome b (cytb)
+            gene, partial cds; mitochondrial.
+ACCESSION   AY691731
+VERSION     AY691731.1  GI:58202438
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 783)
+  AUTHORS   Chippindale,P.T., Bonett,R.M., Baldwin,A.S. and Wiens,J.J.
+  TITLE     Phylogenetic evidence for a major reversal of life-history
+            evolution in plethodontid salamanders
+  JOURNAL   Evolution 58 (12), 2809-2822 (2004)
+   PUBMED   15696758
+REFERENCE   2  (bases 1 to 783)
+  AUTHORS   Chippindale,P.T., Bonett,R.M., Baldwin,A.S. and Wiens,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Biology, University of Texas
+            at Arlington, 501 S. Nedderman Dr., Arlington, TX 76019, USA
+FEATURES             Location/Qualifiers
+     source          1..783
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UTA 56597"
+                     /db_xref="taxon:8316"
+     gene            <1..>783
+                     /gene="cytb"
+     CDS             <1..>783
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAW67271.1"
+                     /db_xref="GI:58202439"
+                     /translation="THPLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQIITGLF
+                     LAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYLHIGRGLYYGSYM
+                     FKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDALVQWIWG
+                     GFSVDKATLTRFFAFHFLFPFMIAGASIVHLLFLHETGSNNPTGMTSNPDKIAFHPYF
+                     SYKDILGFLLMLLILLLISLLTPNLLGDPENFTPANPLVTPPH"
+ORIGIN      
+        1 acgcaccccc tactaaaaat cattaataat tcatttattg acctaccaac accatcaaat
+       61 atctcatact gatgaaattt tggctctctc cttggagttt gcttaattac acaaattatt
+      121 acaggcctat tccttgcaat acactacaca gcagacacgc aatcagcatt ctcatcagta
+      181 gcccacattt gccgagacgt aaattatggc tgattagtac gaaacatcca cgccaacgga
+      241 gcttcatttt tctttatctg tatttacctg cacatcggac gaggcttgta ctacggatcc
+      301 tatatattta aagaaacctg aaacatcggt gtcatcctac tattcctagt catagccacc
+      361 gcttttgtag gatacgtcct cccatgaggc caaatatcat tttgaggcgc tacagtcatt
+      421 acaaacctat tatcagcaat tccatatata ggagatgcac tagtacagtg aatttgaggc
+      481 ggattttcag tagacaaagc taccctgacc cgatttttcg catttcactt cttatttcca
+      541 tttataattg caggggcaag tattgtccac ttactttttc ttcatgaaac cggatcaaat
+      601 aatccaacag gaataacatc aaatccggac aaaattgcat ttcacccata cttctcatac
+      661 aaagatattt taggttttct attaatactt ttaattttac tactaatttc cctattaaca
+      721 ccaaaccttc tcggagaccc agaaaatttt actccagcaa acccgctagt tacccctcca
+      781 cac
+//
+

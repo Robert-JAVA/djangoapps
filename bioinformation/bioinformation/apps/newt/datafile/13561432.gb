@@ -1,0 +1,131 @@
+LOCUS       AF296619                2041 bp    DNA     linear   VRT 03-OCT-2013
+DEFINITION  Triturus vulgaris NADH dehydrogenase subunit I (ND1) gene, partial
+            cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence;
+            NADH dehydrogenase subunit II (ND2) gene, complete cds; tRNA-Trp,
+            tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete
+            sequence; and cytochrome c oxidase subunit I (COI) gene, partial
+            cds; mitochondrial genes for mitochondrial products.
+ACCESSION   AF296619
+VERSION     AF296619.1  GI:13561432
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 2041)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Molecular phylogenetics and historical biogeography among
+            salamandrids of the 'true' salamander clade: rapid branching of
+            numerous highly divergent lineages in Mertensiella luschani
+            associated with the rise of Anatolia
+  JOURNAL   Mol. Phylogenet. Evol. 18 (3), 434-448 (2001)
+   PUBMED   11277635
+REFERENCE   2  (bases 1 to 2041)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2000) Dept. of Biology, Washington University,
+            Campus Box 1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2041
+                     /organism="Lissotriton vulgaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CAS:HERP:182922"
+                     /db_xref="taxon:8324"
+     gene            <1..381
+                     /gene="ND1"
+     CDS             <1..381
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAK30313.1"
+                     /db_xref="GI:13561434"
+                     /translation="TNRAPFDLTEGESELVSGFNVEYAGGPFALFFLAEYSNILLMNT
+                     LSAVLFFGPTMNHLQPEMLTINLIIKASALSILFLWVRASYPRFRYDQLMHLIWKNFL
+                     PFTIAMTLVHISLPITISGIPPFF"
+     tRNA            381..451
+                     /product="tRNA-Ile"
+     tRNA            453..523
+                     /product="tRNA-Gln"
+     tRNA            524..592
+                     /product="tRNA-Met"
+     gene            593..1633
+                     /gene="ND2"
+     CDS             593..1633
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAK30312.1"
+                     /db_xref="GI:13561433"
+                     /translation="MSPYALSMLMSSLAVGTVITMSSHHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRAAESATKYFLTQATASALILFSTTINAWMTGEWTIVNMTNHTPTVILTLAL
+                     AIKLGIAPFHLWLPDVLQGLNMLTCLILSTWQKLAPMALMMLTSHQLSANLLIAMALM
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVISFAPSLALLNLLIYLVLTSSMFLM
+                     LMTLNSTNTNKLSISWLKTPTLAASMMITLMALGGLPPTSGFLPKWLILQEMTKQHLG
+                     ALSAMMAMSALLSLFFYIRLSYTISMTSPPNISNSSLTWRKKKNLTYVIPTLIVMSAT
+                     MMPITPTLLLLN"
+     tRNA            1632..1700
+                     /product="tRNA-Trp"
+     tRNA            1702..1770
+                     /product="tRNA-Ala"
+     tRNA            1771..1842
+                     /product="tRNA-Asn"
+     rep_origin      1843..1879
+                     /note="light strand replication origin"
+     tRNA            1877..1942
+                     /product="tRNA-Cys"
+     tRNA            1943..2010
+                     /product="tRNA-Tyr"
+     gene            2012..>2041
+                     /gene="COI"
+     CDS             2012..>2041
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AAK30314.1"
+                     /db_xref="GI:13561435"
+                     /translation="MMITRWLFST"
+ORIGIN      
+        1 acaaaccgag ccccctttga ccttaccgaa ggagaatctg aactagtctc cggatttaac
+       61 gtagagtacg cagggggccc atttgcactg ttctttttag ccgaatactc gaatatctta
+      121 ttaataaata ccctttcagc agtcctattc tttggcccaa caataaatca cctacaacca
+      181 gaaatattaa ccattaacct gattattaaa gcatccgcac tctccatcct tttcttatga
+      241 gtccgcgcat cttacccccg ctttcggtat gatcaactaa tacaccttat ctgaaaaaat
+      301 tttctcccct tcacaatcgc aataacccta gtccacattt ctctcccgat tacaatctca
+      361 ggtatccccc cctttttcta ggatatgtgc ccgaaagata ggggtcactt tgatagagtg
+      421 accaatagag gttcaaaccc tctcatctcc tgttaaaaaa ataggactcg aacctaccct
+      481 gaggagatca aaacccctcg tgcatccact acaccatttt ttaagcaaga taagctaagt
+      541 aaagcttttg ggcccatacc ccaaatatgt tggtggaaac cttctcttgc taatgagccc
+      601 ttatgcactt tcaatgttaa tatcaagcct ggcagtagga acagtcatca ccatatccag
+      661 ccatcactgg tttttagcat gaatagggtt agaaattaat acactagcta ttattcctct
+      721 aataactaaa atacaccacc ctcgagccgc agaatccgca acaaagtact ttttaacgca
+      781 ggccaccgcc tccgctttaa ttttattctc tacaaccatt aatgcatgaa taacaggaga
+      841 atgaaccatt gtaaatataa caaatcatac tccaacagta attttaactc ttgccctagc
+      901 aattaaacta gggattgctc cattccacct ttgattacca gacgttttac aaggtttaaa
+      961 catacttaca tgcctaatct tgtcaacatg acaaaaacta gctccaatag cactaataat
+     1021 attgaccagc catcagctaa gcgcaaacct gttaattgca atagcactaa tatcaacaat
+     1081 tattgggggg tgggggggtc taaaccaaac acaaatacga aaaattatag catactcatc
+     1141 catcgcacac ctaggctgaa taatcttagt catttccttc gctcctagcc tagcactatt
+     1201 aaacctgctc atttacctcg tattaacttc ttctatattt ttaatattaa tgaccctaaa
+     1261 ctctacaaac acaaacaaac tctcaatttc atgactaaaa acaccaacgc ttgcagcatc
+     1321 aataataatt actctcatgg ccttaggggg gcttccgcca acatctggat tcttgccaaa
+     1381 atgacttatt ttacaagaga taacaaaaca gcaccttgga gcactatctg ctataatagc
+     1441 tatatccgcc ctcctcagct tgttctttta tatccgacta tcatacacaa tctccatgac
+     1501 ctccccacca aacatctcaa actctagtct tacttgacga aagaagaaaa atttaacgta
+     1561 tgttatccca actcttattg ttatatcagc aacaataatg ccaattaccc caacactcct
+     1621 actactaaac taaagactta ggatagcaag accaagggcc ttcaaagcct taagcagaag
+     1681 ttaaaatctt ctagtctttg ataagacctg caggactcta ccccacatct tctgaatgca
+     1741 acccagacac tttaattaag ctaaaacctt ctagactagc aagcttttac cctgcgacct
+     1801 tttagttaac agctaaacgc tcaatcaccg agctttaatc tacttctccc gcttgtttag
+     1861 aggaaaaaag cgggagaagc cccggcagaa actactctac tctttaaaat ttgcaatttt
+     1921 atatgctgaa catctcgagg cttgataaaa aaaggacttt aacctttata acaagggcta
+     1981 caaccttgcg cctacttcgg ccattttacc cgtgataatc actcgatgac tattttctac
+     2041 a
+//
+

@@ -1,0 +1,45 @@
+LOCUS       TCHMTCYTBE               375 bp    DNA     linear   VRT 16-AUG-1994
+DEFINITION  Taricha granulosa (6.T.g.SAM) mitochondrial cytochrome b gene,
+            partial cds.
+ACCESSION   L22875
+VERSION     L22875.1  GI:530244
+KEYWORDS    cytochrome b.
+SOURCE      mitochondrion Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 375)
+  AUTHORS   Tan,A.-M. and Wake,D.B.
+  TITLE     Phylogeny and biogeography of the newt genus Taricha (Caudata,
+            Salamandridae), inferred from mitochondrial cytochrome b DNA
+            sequences. II. The species T. granulosa and T. rivularis, with a
+            discussion of evolution in the genus
+  JOURNAL   Unpublished
+COMMENT     Original source text: Mitochondrion Taricha granulosa (organelle
+            Mitochondrion Taricha granulosa) DNA.
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Taricha granulosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8321"
+     CDS             <1..>375
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAA32092.1"
+                     /db_xref="GI:530245"
+                     /translation="HPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFL
+                     AMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMF
+                     KETWNIGVILLFLVMATAFVGYV"
+ORIGIN      
+        1 cacccactta taaaaattat caataactca tttattgacc tcccaacgcc atcgaacatc
+       61 tcctattgat gaaacttcgg ctccctcctc ggggtgtgcc taatcacaca aatcctcaca
+      121 ggcctcttcc tagcaataca ctacacagca gacactcaat cggcattctc atcagtagcc
+      181 cacatctgcc gagatgtaaa ctatggctga ctagtacgaa atatccacgc caacggggcc
+      241 tccctctttt tcatctgcat ctacctgcac atcggacgtg gcttatacta tggctcctac
+      301 atgtttaaag aaacctgaaa cattggcgtt attttactct tcctggtaat agccaccgct
+      361 ttcgtggggt acgtc
+//
+

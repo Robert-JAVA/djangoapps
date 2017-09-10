@@ -1,0 +1,63 @@
+LOCUS       JQ653380                 658 bp    DNA     linear   VRT 03-MAY-2013
+DEFINITION  Triturus cristatus haplotype Tcri24 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   JQ653380
+VERSION     JQ653380.1  GI:401622975
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Crnobrnja-Isailovic,J., Litvinchuk,S.N., Reijnen,B.T.,
+            Skidmore,A.K., Sotiropoulos,K., Toxopeus,A.G., Tzankov,N., Vukov,T.
+            and Arntzen,J.W.
+  TITLE     Tracing glacial refugia of Triturus newts based on mitochondrial
+            DNA phylogeography and species distribution modeling
+  JOURNAL   Front. Zool. 10 (1), 13 (2013)
+   PUBMED   23514662
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B. and Arntzen,J.W.
+  TITLE     Tracing Glacial Refugia of Triturus Newts based on a Mitochondrial
+            DNA Phylogeography and Ecological Niche Modeling
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 658)
+  AUTHORS   Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2012) Netherlands Centre for Biodiversity -
+            Naturalis, P.O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri24"
+     CDS             <1..>658
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AFP95668.1"
+                     /db_xref="GI:401622976"
+                     /translation="ILAAVLLKLGGYGIIRITMILAPLTKEMAYPFMILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMTQTPWSLTGAVILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVMPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTILITGLGTLITASYTLYMFLMTQRGPTPPHLGQINPSYTREHFLLMMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctggcag cagtattgct taagcttgga ggatatggca ttattcgaat taccataatc
+       61 cttgccccac taacaaaaga aatagcatat ccgtttataa ttctagcctt atgaggggtc
+      121 gtgataacaa gcctaatctg catacgacaa acagacctta agtcgctaat tgcgtattcg
+      181 tctgtaagcc acataggcct agtcattgcc gctattataa ctcaaacacc gtgaagccta
+      241 acgggggctg ttattttaat gatctcacac gggcttattt catcagccct attttgccta
+      301 gcaaacctaa attatgaacg aacgcacagt cgaactctac tattagttcg aggggcccag
+      361 gcagtcatac cattaatggc aacttggtga ctcattgcaa acttatcaaa tatagcactt
+      421 cctccaacaa taaatctatg aggagagctg acaattatag tctcgctgtt taactgatcc
+      481 ccctgaacaa tcctaatcac gggcttgggg accttaatca ctgcctctta cactctatac
+      541 atattcctaa taacacaacg gggcccaacc cccccacatc ttggccaaat taacccatct
+      601 tacactcgag aacacttctt acttataata cacttagccc ctatattact gctaattc
+//
+

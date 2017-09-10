@@ -1,0 +1,64 @@
+LOCUS       DQ491743                 697 bp    DNA     linear   VRT 18-SEP-2006
+DEFINITION  Triturus boscai isolate 4_7 NADH dehydrogenase subunit 4 (nad4)
+            gene, partial cds; and tRNA-His gene, partial sequence;
+            mitochondrial.
+ACCESSION   DQ491743
+VERSION     DQ491743.1  GI:94692285
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   Martinez-Solano,I., Teixeira,J., Buckley,D. and Garcia-Paris,M.
+  TITLE     Mitochondrial DNA phylogeography of Lissotriton boscai (Caudata,
+            Salamandridae): evidence for old, multiple refugia in an Iberian
+            endemic
+  JOURNAL   Mol. Ecol. 15 (11), 3375-3388 (2006)
+   PUBMED   16968276
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2006) Biodiversidad y Biologia Evolutiva, Museo
+            Nacional de Ciencias Naturales, CSIC, c/ Jose Gutierrez Abascal, 2,
+            Madrid, Madrid 28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="4_7"
+                     /db_xref="taxon:323757"
+                     /country="Portugal: Barqueiros, Odemira"
+     gene            <1..652
+                     /gene="nad4"
+     CDS             <1..652
+                     /gene="nad4"
+                     /codon_start=1
+                     /transl_except=(pos:652,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ABF46843.1"
+                     /db_xref="GI:94692286"
+                     /translation="IIRISALLTPLMKEMSYPFLVLALWGVVMTSLICMRQTDLKSLI
+                     AYSSVSHMGLVIAAILIQTPWSLTGAIILMISHGLISSALFCLANLNYERTHSRTLLL
+                     VRGAQATLPLMATWWLFANLSNMALPPSMNLWGELTIMVSLFNWSPWTIMITGVGTLV
+                     TAAYTLYMFLMTQRGPIPHYLTSIYPSHTREHFLITMHLMPMLLLIFKPALISGMFS"
+     tRNA            653..>697
+                     /product="tRNA-His"
+ORIGIN      
+        1 attatccgca tctctgctct cctcacccct ttaataaaag aaatatcata cccattctta
+       61 gtcttagccc tatgaggggt agtaataaca agcctgatct gcatacgtca aacagacctg
+      121 aagtcgctta ttgcttactc atctgttagt cacataggac tagtaattgc cgctattttg
+      181 attcaaaccc catgaagcct cactggagcc attattctaa taatctcaca tggactaatc
+      241 tcatccgctc tattttgcct agcaaactta aactatgaac gaactcacag ccgaaccctc
+      301 ttactagttc ggggggccca agcaactcta ccgcttatgg ccacttgatg actgtttgca
+      361 aatttatcga acatggctct gcccccatca ataaacctct gaggagaact gacaattata
+      421 gtgtccttgt ttaactggtc cccttgaaca atcataatta ctggggtcgg aacactagtt
+      481 acagctgcct acacattata catattctta ataacacaac gaggcccaat cccccactat
+      541 ctcacttcaa tttacccctc gcacacccga gagcatttcc ttattactat acacttaata
+      601 cctatattat tgctaatttt caaacctgcc ctcatttcag gaatgttctc atgtgcatat
+      661 aatttaaaaa aatactagat tgtgattcta gaaatga
+//
+

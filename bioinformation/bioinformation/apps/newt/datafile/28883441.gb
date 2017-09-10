@@ -1,0 +1,53 @@
+LOCUS       AY196292                 372 bp    DNA     linear   VRT 08-MAR-2003
+DEFINITION  Euproctus asper SSe_90 cytochrome b (cytb) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY196292
+VERSION     AY196292.1  GI:28883441
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 372)
+  AUTHORS   Garcia-Paris,M., Alcobendas,M., Buckley,D. and Wake,D.B.
+  TITLE     Dispersal of viviparity across contact zones in Iberian populations
+            of fire salamanders (Salamandra) inferred from discordance of
+            genetic and morphological traits
+  JOURNAL   Evolution 57 (1), 129-143 (2003)
+   PUBMED   12643573
+REFERENCE   2  (bases 1 to 372)
+  AUTHORS   Garcia-Paris,M. and Buckley,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2002) Museo Nacional de Ciencias Naturales.
+            CSIC., Jose Gutierrez Abascal 2, Madrid 28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /clone="SSe_90"
+                     /country="Spain: Huesca, Zuriza"
+     gene            <1..>372
+                     /gene="cytb"
+     CDS             <1..>372
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAO46992.1"
+                     /db_xref="GI:28883442"
+                     /translation="PLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFLA
+                     MHYTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYYGSYLFK
+                     ETWNIGVILLFLVMATAFVGYV"
+ORIGIN      
+        1 ccactactaa aaatcattaa caactcattt attgacctcc caacaccgtc aaacatctca
+       61 tactgatgga acttcggctc tcttcttgga gtttgtctaa ttacacaaat cctcacaggt
+      121 cttttcttgg caatacacta cacagcagac acacaatcag cattctcatc tgttgcccat
+      181 atttgccgag atgttaacta cggctgacta gtacgaagca cccacgccaa cggagcctca
+      241 ttattcttca tttgtattta cctacatatt ggacgcggcc tatattacgg atcatacctg
+      301 tttaaagaga cctgaaacat cggtgtaatc ttgctattct tagtcatggc aactgccttt
+      361 gtcggatatg tc
+//
+

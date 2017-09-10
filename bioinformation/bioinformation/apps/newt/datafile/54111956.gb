@@ -1,0 +1,79 @@
+LOCUS       AY751785                1947 bp    mRNA    linear   VRT 16-MAY-2006
+DEFINITION  Taricha granulosa delta opioid receptor mRNA, complete cds.
+ACCESSION   AY751785
+VERSION     AY751785.1  GI:54111956
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 1947)
+  AUTHORS   Bradford,C.S., Walthers,E.A., Stanley,D.J., Baugh,M.M. and
+            Moore,F.L.
+  TITLE     Delta and mu opioid receptors from the brain of a urodele
+            amphibian, the rough-skinned newt Taricha granulosa: cloning,
+            heterologous expression, and pharmacological characterization
+  JOURNAL   Gen. Comp. Endocrinol. 146 (3), 275-290 (2006)
+   PUBMED   16375901
+REFERENCE   2  (bases 1 to 1947)
+  AUTHORS   Walthers,E.A., Bradford,C.S. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2004) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..1947
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     CDS             433..1536
+                     /note="G-protein coupled receptor; DOR"
+                     /codon_start=1
+                     /product="delta opioid receptor"
+                     /protein_id="AAV28690.1"
+                     /db_xref="GI:54111957"
+                     /translation="MELSTMSGAGLYPDFLFYNATSFNFNGSLNETRPFPVKNITSIV
+                     IAIAITALYSVVCVVGLLGNILVMYGIVRYTKMKTATNIYIFNLALADALATSTLPFQ
+                     SAKYLMETWPFGELLCKVVLSIDYYNMFTSIFTLTMMSVDRYVAVCHPVRALDFRTPV
+                     KAKIINVCIWILSSIIGVPIMVMAVTKTDKAGTTYCTLQFPGPEGYWDTVTKICVFIF
+                     AFLVPVLVITICYGLMILRLKSVRLLSGSKEKDRNMRRITRMVLVVVAAFIICWTPIH
+                     IFVIVWTMVDIDKKNPFVIASWHFCIALGYTNSSLNPVLYAFLDENFKRCFRDFCLPF
+                     RARMEQSSFTRAKNATRERVSTCAPSDVMNKPV"
+ORIGIN      
+        1 acactctgag gcacctcagc cccgcattgc ttcgttctca ttgaatggcc ggagccactt
+       61 ctctacagac cgactctgga gcacagcacc acagcactgg tcccttagcg gcacaggagg
+      121 acctgcgtct cttcctgcac atactctgag gcttcacacc acaggaccgc tcccttctca
+      181 ccaaagaacc cttgtctcaa gctgcccgca cactgagaca caatctaatt ctcaccacag
+      241 gacagtgcct cgttcgtaca cactcagact cggaggcacg gcacccctgg ctgctccctt
+      301 ctctcgaagg acccgggagc gcctctccag cccggggggg actgcaggaa gaatcttatc
+      361 ccgtggcctc cgctgaggct gtgctgagca gcctccaccg tgtcaggcta ggacaggaga
+      421 gcgttgggaa gtatggagct gtccaccatg tctggtgctg gactctaccc cgacttcctt
+      481 ttctacaatg ccacgagctt caacttcaac gggagcctga atgaaaccag accgttcccg
+      541 gtgaagaaca tcacgtccat cgtcatcgcg atcgccatca cggcgctgta ctccgtggtg
+      601 tgcgtggtgg ggctgctcgg gaacatcctg gtcatgtacg gcatcgtcag atatacaaaa
+      661 atgaagacag ccaccaatat ctacattttt aacctggcgc tagcagatgc cctcgccaca
+      721 agcaccctac cgttccagag cgccaagtat ctgatggaga cctggccttt tggggagctg
+      781 ctctgtaagg tagtgctatc cattgactac tacaacatgt tcaccagcat atttaccctc
+      841 actatgatga gtgtggaccg ctatgtggcc gtctgccatc cagtgcgggc gttggacttt
+      901 cgtactccag tcaaagccaa gatcatcaat gtctgcatct ggatcctgtc ctccatcatt
+      961 ggggtgccca ttatggtgat ggcggttacc aagacggaca aagctggcac cacttattgt
+     1021 accctgcagt tcccaggccc cgaaggttac tgggacacag tcaccaagat ctgtgtcttc
+     1081 atctttgctt tcctggttcc tgtcctggtg atcaccatct gctacggtct catgatcctc
+     1141 cgcctgaaga gtgtgcgtct gctctctggc tccaaagaga aagaccgcaa tatgagaagg
+     1201 atcacccgca tggtcttggt ggtggtagca gccttcatca tctgctggac acccatccac
+     1261 atcttcgtca tagtctggac catggtggac atcgacaaga agaatccctt tgtgatcgcc
+     1321 agttggcact tctgcattgc ccttggctac actaacagta gcctcaatcc tgtcctctac
+     1381 gcctttctgg atgagaactt caaacgctgc ttccgtgact tctgtctgcc cttccgtgcc
+     1441 aggatggagc agagtagctt cacacgggcc aagaacgcca cccgggagcg tgtgtctacc
+     1501 tgcgctccat cagatgttat gaacaagccg gtatgactag acatggacaa ccgccgacgc
+     1561 ggctcccgca gcaggaggga agagctgcaa tcagaagtga ctcaaatctc aactacagaa
+     1621 ttctagcatt aggagctggg gctgcaggga aagtggagga acctaagctg ctgccacatg
+     1681 cctcagtact gatgagacaa agaacagagt tggggcactc aagcattcag ccaagttatt
+     1741 aactgcaacc cagctctaaa agcagccctg tgcctcaaga cggggggttc tactggggcc
+     1801 cacagcaccc acagttccag ctcttgcacc ccagagtgga tgagttaaag gttcgcattt
+     1861 tgcctttcta ctgaggagaa gcacagggaa gcacgagaaa tcaaagatgg ctgccacaat
+     1921 aaatctaaaa cgtgaaaaaa aaaaaaa
+//
+

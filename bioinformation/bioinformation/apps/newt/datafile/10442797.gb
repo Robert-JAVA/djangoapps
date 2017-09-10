@@ -1,0 +1,45 @@
+LOCUS       AY005401                  94 bp    DNA     linear   VRT 05-JUL-2002
+DEFINITION  Cynops orientalis doublesex-related protein Dmrt7b (Dmrt7b) gene,
+            partial cds.
+ACCESSION   AY005401
+VERSION     AY005401.1  GI:10442797
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 94)
+  AUTHORS   Ren,L., Cheng,H., Guo,Y., Huang,X., Liu,L. and Zhou,R.
+  TITLE     Evolutionary conservation of doublesex-related gene family in
+            amphibians, reptiles and birds
+  JOURNAL   Chin. Sci. Bull. 46 (23), 1992-1994 (2001)
+REFERENCE   2  (bases 1 to 94)
+  AUTHORS   Ren,L. and Zhou,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2000) Genetics, Wuhan University, Luojiasan,
+            Wuhan, Hubei 430072, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..94
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+                     /tissue_type="blood"
+     gene            <1..>94
+                     /gene="Dmrt7b"
+     mRNA            <1..>94
+                     /gene="Dmrt7b"
+                     /product="doublesex-related protein Dmrt7b"
+     CDS             <1..>94
+                     /gene="Dmrt7b"
+                     /note="DM domain"
+                     /codon_start=2
+                     /product="doublesex-related protein Dmrt7b"
+                     /protein_id="AAG15573.1"
+                     /db_xref="GI:10442798"
+                     /translation="VLSWLKGHKRYCRFKDCTCDKCILIIERQRV"
+ORIGIN      
+        1 ggtgctgtcg tggctgaagg gccacaagcg ctactgccgc ttcaaggact gcacctgcga
+       61 caagtgcatc ttgatcatcg aacgccaacg ggtc
+//
+

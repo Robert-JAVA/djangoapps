@@ -1,0 +1,100 @@
+LOCUS       JX854461                2473 bp    DNA     linear   VRT 18-MAR-2013
+DEFINITION  Tylototriton shanjing haplotype H5 cytochrome b (cytb) gene,
+            partial cds; D-loop and tRNA-Phe gene, complete sequence; and 12S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   JX854461
+VERSION     JX854461.1  GI:460425085
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton shanjing
+  ORGANISM  Tylototriton shanjing
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 2473)
+  AUTHORS   Yu,G., Zhang,M., Rao,D. and Yang,J.
+  TITLE     Effect of Pleistocene Climatic Oscillations on the Phylogeography
+            and Demography of Red Knobby Newt (Tylototriton shanjing) from
+            Southwestern China
+  JOURNAL   PLoS ONE 8 (2), E56066 (2013)
+   PUBMED   23424644
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2473)
+  AUTHORS   Yu,G., Zhang,M., Rao,D. and Yang,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2012) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, the Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..2473
+                     /organism="Tylototriton shanjing"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:356254"
+                     /haplotype="H5"
+     gene            <1..>753
+                     /gene="cytb"
+     CDS             <1..>753
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGH13143.1"
+                     /db_xref="GI:460425086"
+                     /translation="SFIDLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADTY
+                     SAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVI
+                     LLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYMGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGVMSNGDKIPFHPYFSYKDILGFLL
+                     MLLTLMLISLLTPNLLGDPENFTPANPLVTPPH"
+     gap             754..853
+                     /estimated_length=unknown
+     D-loop          854..1587
+                     /note="control region"
+     tRNA            1588..1656
+                     /product="tRNA-Phe"
+     rRNA            1657..>2473
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tcattcatcg accttccaac accgtcaaac atctcgtatt gatgaaactt tggctccctt
+       61 cttggcatct gcctcatcac acaaattgta acaggattat ttctagcaat acactacaca
+      121 gcagacacat actcggcatt ctcatcagtt gcccacatct gtcgagacgt aaattacgga
+      181 tgacttgtac gaaacattca cgcaaacgga gcctcactat tcttcatttg catctacctt
+      241 cacattggac gaggcctata ctacggatct tacatgttta aagaaacatg aaacatcgga
+      301 gtaattttat tactcctagt catggccaca gcctttgtcg gatacgtcct cccatgagga
+      361 caaatatcct tctgaggggc cacagtcatt acaaacctgc tatcagcagt cccgtacatg
+      421 ggagactcac tagtacaatg aatctgaggt ggcttctcag tagataaagc caccctaacc
+      481 cgattcttcg cattccactt cctattccca ttcctgattg ccggagcaag cattgtccac
+      541 ctcttattcc tccacgaaac aggctcaaac aacccaacag gagttatatc aaacggagac
+      601 aaaatcccat tccacccata cttctcatac aaagacattc tagggtttct actaatacta
+      661 ctaaccctaa tactcatctc attattaacc ccaaacctct tgggagaccc agaaaacttt
+      721 acccctgcaa acccactagt aacccccccg cacnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      781 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      841 nnnnnnnnnn nnnttgtttt cctaagatca gagtagcgcg gaggacatat tatgtatata
+      901 ggacattaat tgacttgcca tatggctagt gttttagtat tattaggatc cataatctaa
+      961 ttttcaggcg ggaaaccacc aacccgccca caacgaccct cgttccaaaa tttccaggac
+     1021 ctcaattgta gagtgtttta cgtttatttt caacagctgg ttgtgaatct atggacaaac
+     1081 ctagtagagt ttctatcatt tatctttaag aggcctctgg taaaatgctt tcaatatcgt
+     1141 cgtacccttg accccgcata actgttttgg attgcatttg gtattttttt ctctctgtga
+     1201 ggtcaatgcc ccatacagtc ttgagccggc acacctgggc ctaaatctga gcatgcctgc
+     1261 agatgtatat ttaacagata ttgaatgggg tgcataatat tcatgttagt tagacataat
+     1321 cattttttcc ctctaaagca agagacatat tcttttccta tttccccccg gagctagttt
+     1381 ttctaagaat acttattttg aatatcatct aattctattt tttgattaac ccccccaccc
+     1441 ccaaatgtta gtctcatcag tatgtacaac tctttagtca acccccgaaa ctaaaaagac
+     1501 cttcatactt acgacattag gtttatgcta gaaaaatacc acttttttta aaagtttttt
+     1561 gattgttatt acagtgttac actgtaagtt aatgtagctt atattaaagc atagcactga
+     1621 aaatgctaag atagatttta aaacatctca tgaacacaaa ggtttggtcc tagccttact
+     1681 attaatttta actacaccta cacatgcaag tatcagcacc cccgtgaaaa tgccctctac
+     1741 aaccaataag taaatgagga gcggatatca ggcaccactt ctgccaaaga catcttgtta
+     1801 agccacgccc ccaagggaac tcagcagtga taaacattga aaaataagcg aaacaagctt
+     1861 gaaccagtga tagtaaatag agtcggtaaa tctcgtgcca gccaccgcgg ttatacgaga
+     1921 gactcaagtt aataaaatcg gcccaaaggg tggttagaga tcacaataaa tagaactaaa
+     1981 aactaactct gctgtcgcac gcaatagtta taaacaaaca caacatcgaa agaaattcta
+     2041 caaaataaac ttgaacccac gacagttagg agacaaactg ggattagata ccccactatg
+     2101 cctaaccata aactttgacc aatccgccag agtactacga gcaacagctt aaaactcaaa
+     2161 ggacttggcg gtgctctaca cccacctaga ggagcctgtt ctataatcga taatccccga
+     2221 taaacctcac catctgttgc caatacagcc tatataccac cgtccagccc gccctccaaa
+     2281 ggataaacag caggcacaac tataaacata aaaacgtcag gtcaaggtgt agcacataag
+     2341 atgggaagaa atgggctaca ttttctaacc tagaaaacac gaaagagttt gtgaaacaaa
+     2401 actccaaagg aggatttagc agtaaaaaga aaaaagagcg ttctttttaa gccggcaatg
+     2461 gagcgcgcac aca
+//
+

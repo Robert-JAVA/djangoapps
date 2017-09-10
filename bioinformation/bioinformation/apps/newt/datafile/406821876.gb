@@ -1,0 +1,57 @@
+LOCUS       JX293134                 393 bp    DNA     linear   BCT 30-SEP-2012
+DEFINITION  Chryseobacterium sp. KM GroEL (groEL) gene, partial cds.
+ACCESSION   JX293134
+VERSION     JX293134.1  GI:406821876
+KEYWORDS    .
+SOURCE      Chryseobacterium angstadtii
+  ORGANISM  Chryseobacterium angstadtii
+            Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales;
+            Flavobacteriaceae; Chryseobacterium.
+REFERENCE   1  (bases 1 to 393)
+  AUTHORS   Failor,K.C., Kirk,K.E., Krebs,J.E., Smith,K.A., Harstead,K.,
+            Thompson,C.A. and Newman,J.D.
+  TITLE     MLSA in the Flavobacteriaceae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 393)
+  AUTHORS   Failor,K.C., Kirk,K.E., Krebs,J.E., Smith,K.A., Harstead,K.,
+            Thompson,C.A. and Newman,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUL-2012) Biology, Lycoming College, 700 College
+            Place, Williamsport, PA 17701, USA
+FEATURES             Location/Qualifiers
+     source          1..393
+                     /organism="Chryseobacterium angstadtii"
+                     /mol_type="genomic DNA"
+                     /strain="KM"
+                     /isolation_source="newt tank"
+                     /culture_collection="LycoCC:01200"
+                     /db_xref="taxon:558151"
+                     /lat_lon="41.246 N 77.002 W"
+                     /collected_by="K. Mistiszyn"
+                     /identified_by="K. Mistiszyn"
+                     /PCR_primers="fwd_name: groEL 55f, fwd_seq:
+                     gtngcnaargarathga, rev_name: groEL 190r, rev_seq:
+                     tcraaytgcatnccytc"
+     gene            <1..>393
+                     /gene="groEL"
+     CDS             <1..>393
+                     /gene="groEL"
+                     /note="heat shock protein 60 family chaperone"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GroEL"
+                     /protein_id="AFS60449.1"
+                     /db_xref="GI:406821877"
+                     /translation="ELEDRVENMGAQMVKEVASKTNDIAGDGTTTATVLAQAIVREGL
+                     KNVAAGANPMDLKRGIDKAVTAVVENLKSQSKTVGDSTEMVKQVASVSANNDETIGSL
+                     IAEAFGKVGKEGVITVEEAKGIDTTVDVV"
+ORIGIN      
+        1 gaacttgaag acagagtaga aaatatgggt gcgcaaatgg taaaagaagt ggcatccaaa
+       61 actaatgata tcgcaggaga cggtactact accgctactg tattggcaca ggctatcgta
+      121 agagaaggtc ttaaaaacgt agcagcaggt gcaaacccaa tggatttgaa aagaggtatc
+      181 gacaaagcag taactgcagt ggttgaaaac cttaaatctc aatccaaaac tgttggagat
+      241 tctacagaaa tggtgaagca ggtagcttca gtttctgcga acaacgacga aactatcgga
+      301 tctcttattg ctgaagcttt cgggaaagta ggtaaagaag gggtaatcac tgtagaagaa
+      361 gctaaaggta tcgatacaac agtagatgtt gta
+//
+

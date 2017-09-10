@@ -1,0 +1,63 @@
+LOCUS       X14226                   666 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  Pleurodeles waltlii mRNA for larval alpha-globin.
+ACCESSION   X14226
+VERSION     X14226.1  GI:64255
+KEYWORDS    alpha-globin; globin.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 666)
+  AUTHORS   Flavin,M., Valentin,C., Meunier-Rotival,M. and Cohen-Solal,M.
+  TITLE     Nucleotide sequence of a cDNA encoding a larval alpha-globin chain
+            of the amphibian Pleurodeles waltlii
+  JOURNAL   Nucleic Acids Res. 17 (7), 2850 (1989)
+   PUBMED   2717411
+REFERENCE   2  (bases 1 to 666)
+  AUTHORS   Cohen Solal,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-1989) Cohen Solal M.M., Unite Inserm U91, Hopital
+            Henri Mondor, 94010 Creteil, France
+FEATURES             Location/Qualifiers
+     source          1..666
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /clone="L9, L13 and L47"
+                     /dev_stage="larval"
+     CDS             46..474
+                     /note="unnamed protein product; alpha-globin (AA 1 - 142)"
+                     /codon_start=1
+                     /protein_id="CAA32442.1"
+                     /db_xref="GI:64256"
+                     /db_xref="GOA:P11896"
+                     /db_xref="InterPro:IPR000971"
+                     /db_xref="InterPro:IPR002338"
+                     /db_xref="InterPro:IPR002339"
+                     /db_xref="InterPro:IPR009050"
+                     /db_xref="InterPro:IPR012292"
+                     /db_xref="InterPro:IPR018331"
+                     /db_xref="UniProtKB/Swiss-Prot:P11896"
+                     /translation="MVLSAEEKALVVGLCGKISGHCDALGGEALDRLFASFGQTRTYF
+                     SHFDLSPGSADVKRHGGKVLSAIGEAAKHIDSMDQALSKLSDLHAYNLRVDPGNFQLL
+                     SHCIQAVLAAHFPADFTPQCQAAWDKFLAAVSAVLTSKYR"
+     misc_feature    648..653
+                     /note="pot. polyA signal"
+     polyA_site      666
+                     /note="polyA site"
+ORIGIN      
+        1 tccatctttg gtcgaccctg agcccgccag cactcaactc tcaagatggt tctgtcagct
+       61 gaagaaaagg ccctggtggt cggcctctgc ggaaagatct ctggccactg cgatgccctc
+      121 ggaggtgaag ccttggacag gctgtttgcc agcttcggcc agacgaggac ctacttcagc
+      181 cacttcgacc tctccccggg ctctgctgac gtgaaacgac atggaggcaa ggtcctaagc
+      241 gccatcggtg aagcagccaa gcacatcgac agcatggacc aggccctgtc taaactgagc
+      301 gatctgcacg cctacaacct ccgcgtggac cccggaaatt tccagctgct gtctcactgc
+      361 attcaggctg tgctggctgc ccacttccct gccgacttca cccctcagtg ccaggctgcc
+      421 tgggacaagt tcctggccgc agtgtctgcc gtcctgacct ccaagtacag ataaactgtg
+      481 gtcgtacctc aggaagaccg tctacagcaa aacaagatga ccttcaggat ggtacacata
+      541 gaagcttgta gaaagctaag agagcctaca atcccttttg tagaacagtc attattttgt
+      601 gctacctgct ccatcagatg tggtcaattg tttcttttgt acatcttaat aaaactgtga
+      661 aacttc
+//
+

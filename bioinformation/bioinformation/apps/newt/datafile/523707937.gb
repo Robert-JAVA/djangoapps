@@ -1,0 +1,67 @@
+LOCUS       KC165358                 765 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis potassium voltage-gated channel, subfamily F
+            member 1 (KCNF-1) gene, partial cds.
+ACCESSION   KC165358
+VERSION     KC165358.1  GI:523707937
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 765)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 765)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..765
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>765
+                     /gene="KCNF-1"
+     mRNA            <1..>765
+                     /gene="KCNF-1"
+                     /product="potassium voltage-gated channel, subfamily F
+                     member 1"
+     CDS             1..>765
+                     /gene="KCNF-1"
+                     /codon_start=1
+                     /product="potassium voltage-gated channel, subfamily F
+                     member 1"
+                     /protein_id="AGQ56363.1"
+                     /db_xref="GI:523707938"
+                     /translation="MEFWRVNVDLLDDCCKSLLSEKKEEMEEIALRVQTILDDLGVDT
+                     TESRWKRCQKYIWKFIEKPESSFPARVVAVLSFLFILISSVVMCVGTIPELQVEDSEG
+                     NRVEHPVLDSIETACIGWFTLEYVLRLISSPNKLHFALSFMNIIDALAILPFYVSLIL
+                     THLGATLMELTNVQQAIQALRIMRIARIFKLARHSSGLQTLTYALKSSFKELGLLLMY
+                     LAVGIFVFSAVGYTMEQSHPDTLFKSIPHSFWWAIIT"
+ORIGIN      
+        1 atggagttct ggagagtcaa cgttgacctg ttggatgact gctgcaagag tctgctcagc
+       61 gagaagaagg aggagatgga ggagatcgcg ctcagggtgc agaccatcct ggatgaccta
+      121 ggggtggaca ccaccgaaag ccgctggaag cgatgccaaa agtacatctg gaagttcatc
+      181 gagaagccag agtcgtcgtt tccagctagg gtcgtcgctg ttttatcctt tctcttcatt
+      241 ctcatctctt ctgtggtcat gtgtgttggg acgatccccg agctccaggt agaggactcg
+      301 gaggggaacc gcgtggagca ccctgtgctg gacagcattg agacagcctg catcggttgg
+      361 ttcaccctgg agtatgtcct gcgccttatc tcctccccga acaaactaca ctttgcactg
+      421 tcgttcatga atattataga tgccttggcc attctgccat tctatgtcag tctgatcttg
+      481 acacacttag gggccacttt gatggagctc acaaatgtgc agcaagcgat ccaagcccta
+      541 agaatcatga gaattgcacg gattttcaaa ttagcgcgtc actcatcagg gcttcaaact
+      601 ctgacatatg cgctcaaaag tagcttcaag gagcttggcc tgcttctcat gtacttggct
+      661 gtcggcattt ttgtcttctc agccgtgggg tacaccatgg aacagagtca cccggacact
+      721 ttgtttaaga gcatccctca ctccttttgg tgggccatca taacg
+//
+

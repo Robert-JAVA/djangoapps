@@ -1,0 +1,61 @@
+LOCUS       EF526213                 605 bp    mRNA    linear   VRT 22-JAN-2009
+DEFINITION  Taricha granulosa prepro-mesotocin mRNA, complete cds.
+ACCESSION   EF526213
+VERSION     EF526213.1  GI:145687897
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 605)
+  AUTHORS   Searcy,B.T., Walthers,E.A., Heppner,B.L., Thompson,R.R. and
+            Moore,F.L.
+  TITLE     Identification of mesotocin and vasotocin nucleotide sequences in
+            two species of urodele amphibian
+  JOURNAL   Gen. Comp. Endocrinol. 160 (2), 111-116 (2009)
+   PUBMED   19063891
+REFERENCE   2  (bases 1 to 605)
+  AUTHORS   Heppner,B., Searcy,B.T., Walthers,E.A. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2007) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..605
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     CDS             43..420
+                     /note="prepro-hormone"
+                     /codon_start=1
+                     /product="prepro-mesotocin"
+                     /protein_id="ABP88921.1"
+                     /db_xref="GI:145687898"
+                     /translation="MAYSSVVFLVFCLLALSSACYIQNCPIGGKRSVLDVMDIRKCIP
+                     CGPRNKGHCFGPNICCGDELGCYFGTSETMRCQEENYLPSPCESGRKSCGSNGGSCAA
+                     SGICCNNESCTMDQACDQDSAFS"
+     sig_peptide     43..99
+     mat_peptide     100..126
+                     /product="mesotocin"
+     mat_peptide     136..417
+                     /product="neurophysin I"
+     misc_signal     127..135
+                     /note="cleavage signal"
+     regulatory      583..588
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 aaaacgctga ttttgaacga agagcgtgcc gcagaagcaa ccatggcgta tagcagcgtc
+       61 gtcttcctcg tattctgcct cttggccttg tcttcagcct gctacatcca aaactgcccc
+      121 atcggtggca agaggtcggt cctggatgtg atggatatcc ggaagtgcat cccctgtgga
+      181 cccaggaaca aaggccactg ctttgggccc aacatttgtt gtggtgacga gctggggtgc
+      241 tactttggga catcagaaac aatgaggtgc caagaggaaa actacctgcc ctcgccttgt
+      301 gagtctggaa gaaaatcttg tggaagcaat ggcggaagct gcgctgcctc tggcatctgc
+      361 tgcaacaacg agagctgcac gatggaccaa gcatgcgacc aggattccgc gttttcctag
+      421 accggctgca gcaacttctg ttttttcgag aaaaaaaata aaaaaataag ggagatgtcg
+      481 caaaacacag tgctgtcgcc gaaacatgta aaaatctgca ttgcatatac attcatttgc
+      541 agctgtatac tttccgggca gtatgcctaa acatgtaaaa ccaataaaaa catcttgtaa
+      601 caaat
+//
+

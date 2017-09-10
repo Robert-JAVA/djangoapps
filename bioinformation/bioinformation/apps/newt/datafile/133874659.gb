@@ -1,0 +1,57 @@
+LOCUS       EF453368                 744 bp    mRNA    linear   VRT 26-MAR-2007
+DEFINITION  Pleurodeles poireti brain-derived neurotrophic factor (BDNF) mRNA,
+            complete cds.
+ACCESSION   EF453368
+VERSION     EF453368.1  GI:133874659
+KEYWORDS    .
+SOURCE      Pleurodeles poireti (Algerian ribbed newt)
+  ORGANISM  Pleurodeles poireti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 744)
+  AUTHORS   Tettamanti,G., Bernardini,G., Chini,V., de Eguileor,M. and
+            Gornati,R.
+  TITLE     BDNF gene during vertebrate evolution
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 744)
+  AUTHORS   Tettamanti,G., Bernardini,G., Chini,V., de Eguileor,M. and
+            Gornati,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2007) Structural and Functional Biology,
+            University of Insubria, via J.H. Dunant, 3, Varese 21100, Italy
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Pleurodeles poireti"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:226889"
+     gene            1..744
+                     /gene="BDNF"
+     CDS             1..744
+                     /gene="BDNF"
+                     /note="neurotrophin"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="ABO40794.1"
+                     /db_xref="GI:133874660"
+                     /translation="MTILFLTMVISYFSCMKAAPMKEAGIRGQGSLAYPGLRTHGTLE
+                     SIGGPKGSSRGGLPSLADTFEQVIEEMLEDEQSMRPSEENKDADMFTSRVMLSSQVPL
+                     EPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTASDKKTAVDMS
+                     GQTVTVLEKVPVPKGQLKQYFYETKCNPMGYMKEGCRGIDKRYWNSQCRTTQSYVRAL
+                     TMDNKKKVGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 atgaccatcc ttttccttac tatggttatt tcatacttca gttgcatgaa agctgccccc
+       61 atgaaagaag ccggcatcag aggacaaggc agcttggcgt acccaggtct gaggacccac
+      121 gggactctgg agagcatagg tgggcctaaa ggcagttcaa gaggagggtt gccctcacta
+      181 gcagacactt ttgaacaagt cattgaggag atgcttgaag atgagcagag catgaggccc
+      241 agtgaggaga acaaggacgc ggacatgttt acatctcgag taatgctgag cagtcaagtg
+      301 cctttggagc cccctcttct ctttctgctg gaggagtaca aaaactactt ggatgctgca
+      361 aatatgtcca tgagggtccg acgtcactct gaccccgccc gccgtgggga gctgagtgtg
+      421 tgtgacagta ttagtgagtg ggtgacggca tctgacaaaa agactgctgt ggacatgtcg
+      481 gggcagacgg taactgttct agaaaaagtt ccagtaccca aaggccaact gaagcaatac
+      541 ttctacgaga ccaaatgcaa ccctatgggt tacatgaagg agggctgcag gggcattgac
+      601 aagaggtact ggaactcaca gtgccgaact actcagtcgt atgtgcgcgc gctcaccatg
+      661 gataacaaga agaaagtggg ctggcggttt atcagaatag acacttcatg tgtatgtaca
+      721 ttgaccatta aaaggggaag atag
+//
+

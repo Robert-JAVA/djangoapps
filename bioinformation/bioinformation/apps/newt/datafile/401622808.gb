@@ -1,0 +1,57 @@
+LOCUS       JQ240248                 658 bp    DNA     linear   VRT 05-SEP-2012
+DEFINITION  Triturus macedonicus haplotype Tmac11 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   JQ240248
+VERSION     JQ240248.1  GI:401622808
+KEYWORDS    .
+SOURCE      mitochondrion Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B. and Arntzen,J.W.
+  TITLE     Postglacial species displacement in Triturus newts deduced from
+            asymmetrically introgressed mitochondrial DNA and ecological niche
+            models
+  JOURNAL   BMC Evol. Biol. 12, 161 (2012)
+   PUBMED   22935041
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2011) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P.O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus macedonicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385668"
+                     /haplotype="Tmac11"
+     CDS             <1..>658
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AFP95585.1"
+                     /db_xref="GI:401622809"
+                     /translation="ILAAVLLKLGGYGIIRITMILTPLTKEMAYPFMILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAVILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTVLITGLGALITASYTLYVFLMTQRGPTPPHLGQISPSHTREHFLLVMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctagcag cagtattgct taagcttggg ggatatggaa ttattcgaat tactatgatt
+       61 cttaccccat taacaaaaga aatagcatat ccctttataa ttctagcctt atgaggggtc
+      121 gtgataacga gcctaatttg catacgacaa acagacctta aatcgctaat tgcatattcg
+      181 tccgtaagcc acataggcct agtcattgcc gctattataa tccaaacacc gtgaagccta
+      241 acaggagctg ttattttaat aatctcacac ggacttattt catcagccct attttgcctg
+      301 gcaaacctaa attatgaacg aacgcacagt cgaactctgt tattagttcg gggggcccag
+      361 gcagtcctac cactaatggc aacctggtga ctcattgcaa atttatcaaa catagcactt
+      421 cccccaacaa taaacctatg aggagagctg acaattatgg tctcgctgtt taactggtca
+      481 ccctgaacag ttctaatcac gggtttgggg gccttaatta ctgcctctta taccctatac
+      541 gtgttcttaa taacacaacg gggcccaacc ccaccgcatc ttggccaaat tagtccatct
+      601 cacactcgag aacacttctt acttgtaata cacctagccc ctatactcct actaattc
+//
+

@@ -1,0 +1,76 @@
+LOCUS       AB530730                1141 bp    DNA     linear   VRT 06-MAR-2010
+DEFINITION  Cynops ensicauda mitochondrial cytb gene for cytochrome b, complete
+            cds, specimen_voucher: KUHE50098.
+ACCESSION   AB530730
+VERSION     AB530730.1  GI:283131540
+KEYWORDS    .
+SOURCE      mitochondrion Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Ota,H. and Matsui,M.
+  TITLE     Phylogeny and phylogeography of the sword-tailed newt, Cynops
+            ensicauda (Amphibia: Caudata), as revealed by nucleotide sequences
+            of mitochondrial DNA
+  JOURNAL   Mol. Phylogenet. Evol. 54 (3), 910-921 (2010)
+   PUBMED   19900570
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Tominaga,A., Ota,H. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2009) Contact:Atsushi Tominaga National Institute
+            for Environmental Studies, Research Center for Environmantal Risk;
+            Onogawa 16-2, Tsukuba, Ibaraki 305-8506, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Cynops ensicauda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE50098"
+                     /db_xref="taxon:102207"
+                     /haplotype="H007"
+                     /tissue_type="liver"
+                     /country="Japan:Kagoshima, Amami-shi, Kasari-cho, Usyuku"
+     gene            1..1141
+                     /gene="cytb"
+     CDS             1..1141
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA."
+                     /codon_start=1
+                     /transl_except=(pos:1141,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAI63497.1"
+                     /db_xref="GI:283131541"
+                     /translation="MAPITRKTHPMLKIINNSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLVRNIHANGASFFFICIYLHIGRG
+                     MYYGSYLFKETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGVSMIHLLFLHETGSNNPTGIPSSQDK
+                     ISFHPYFSYKDLLGFLLALLILLLISLIVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMFIPMLHTSKQRSLMFRSTSQTLFWLLVANTF
+                     ILTWIGGMPVESPFTEVGQVASVLYFLLFIIVIPLVGLWENKLMKW"
+ORIGIN      
+        1 atggccccca ttacacgaaa aactcaccct atgttaaaaa tcattaacaa ctcatttatt
+       61 gacctgccaa cgccatcaaa catctcatat tgatgaaact tcggctccct cttaggggtt
+      121 tgcctgatca cacaaatcat tacagggcta ttcctagcaa tacactatac agcagacaca
+      181 cagtcagcct tctcgtctgt ggcccacatc tgccgagacg ttaaccacgg gtgactagta
+      241 cgaaacatcc acgctaatgg agcctcgttt ttctttattt gcatttacct gcatattgga
+      301 cgaggtatat actacggatc atacttgttc aaagagacat gaaacattgg cgtagtactc
+      361 ttactgttgg ttatagctac tgcctttgtt ggatatgttc tcccatgagg acaaatatca
+      421 ttttgagggg cttccgtcat cacaaacctc ctctcagcca tcccatatgt tgggggttcc
+      481 ctagtagagt gagtctgggg ggggttctcc gtagacaaag ccactctaac acggtttttc
+      541 gcattccatt tcctgctacc attcctaatt gcaggggtaa gcataattca cctattgttc
+      601 ctacatgaaa ccggatcaaa taacccaaca ggaatcccct ccagccaaga taaaatctct
+      661 tttcacccgt atttttccta taaagacctt ctggggtttt tattagccct ccttatctta
+      721 ctactgatct ccctcatcgt accaaatctg ctcgtagacc cagaaaactt tattccagca
+      781 aacccactta tagcaccccc tcatattaaa ccagagtgat atttcctgtt tgcctacgcc
+      841 attctgcgat caattcctaa taaactaggg ggagttattg cacttctaat atctatctta
+      901 attcttatat ttatcccaat actacataca tcaaaacaac gaagtctaat attccgctct
+      961 acatcccaaa ctttgttttg acttctagta gcaaatacct ttattcttac ctgaatcgga
+     1021 ggaataccag ttgaatcccc atttactgaa gttggacaag tcgcctcagt tctttacttc
+     1081 ctactcttca ttatcgtaat cccattagtt ggattatgag aaaacaaact tataaaatga
+     1141 t
+//
+

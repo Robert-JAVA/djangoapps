@@ -1,0 +1,44 @@
+LOCUS       DQ092269                 557 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Triturus italicus isolate E1806.18 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ092269
+VERSION     DQ092269.1  GI:73920397
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 557)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 557)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..557
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1806.18"
+                     /db_xref="taxon:323755"
+     rRNA            <1..>557
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgcctcttgc ccctccacag tataagaggt cccgcctgcc cagtgatcaa ttttaacggc
+       61 cgcggtatta tgaccgtgca aaggtagcgt aatcacttgt cttttaaata aagacccgta
+      121 tgaaaggcaa aacgaaagtt caactgtctc tttaatctag tcagtgaaat taatctttcc
+      181 gtgcagaagc ggagataccc ctataagacg agaagaccct atggagcttt aaataaaaat
+      241 taaccatact tttattacct acctacgggc aaaaaataaa aatgtatgac tataattaaa
+      301 attttcggtt ggggcgaccg cggaagaaaa gccatcctcc gcgatagaaa atctagaaca
+      361 acagttcaag acttaaaata tttgttataa atgatccact aagtgatcaa cgaaccaagt
+      421 taccctaggg ataacagcgc aatcctttct aagagtccat atcgacgaat gggtttacga
+      481 cctcgatgtt ggatcaggac accccagtgg tgcagccgct attaaaggtt cgtttgttca
+      541 acgattaaag tcctacg
+//
+

@@ -1,0 +1,69 @@
+LOCUS       AY951506                1010 bp    DNA     linear   VRT 22-JUN-2005
+DEFINITION  Triturus boscai haplotype Tb2 NADH dehydrogenase subunit 2 (ND2)
+            gene, partial cds; and tRNA-Trp gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY951506
+VERSION     AY951506.1  GI:62737391
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 1010)
+  AUTHORS   Babik,W., Branicki,W., Crnobrnja-Isailovic,J., Cogalniceanu,D.,
+            Sas,I., Olgun,K., Poyarkov,N.A., Garcia-Paris,M. and Arntzen,J.W.
+  TITLE     Phylogeography of two European newt species - discordance between
+            mtDNA and morphology
+  JOURNAL   Mol. Ecol. 14 (8), 2475-2491 (2005)
+   PUBMED   15969729
+REFERENCE   2  (bases 1 to 1010)
+  AUTHORS   Babik,W. and Branicki,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2005) Comparative Anatomy, Institute of Zoology,
+            Jagiellonian University, Ingardena 6, Krakow 30-060, Poland
+FEATURES             Location/Qualifiers
+     source          1..1010
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323757"
+                     /haplotype="Tb2"
+                     /country="Portugal: Mirador de la Curota"
+     gene            <1..945
+                     /gene="ND2"
+     CDS             <1..945
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAX97997.1"
+                     /db_xref="GI:62737392"
+                     /translation="IGLEINTLAIIPLMTKMQHPRATESATKYFLTQATASALVLFAT
+                     AMNAWMTGEWTITGMTSYMPTTILTIALAIKLGVAPFHMWLPDVLQGLNMLTCLILST
+                     WQKLAPIALLILTSHQLNTNLLIIMAFMSTIVGGWGGLNQTQMRKIMAYSSIAHLGWM
+                     VLVLSFAPKLTLLNLAIYLVLTSSMFMMLMTFNSTSLNKLSTSWLKAPTMAASMMITL
+                     MALGGLPPTSGFLPKWMILQEMTSHHLGTLSAMMAMSALLSLFFYLRLSYAISMTSPP
+                     NISNSNLTWRKKKSLTYIIPTLTTLSTMMMPITPTLLN"
+     tRNA            944..>1010
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 atcggattag aaattaatac actagccatt attccgctaa taaccaaaat acaacacccc
+       61 cgagccacag agtcagcaac aaaatacttc ctaacacagg ccaccgcctc cgctttagtt
+      121 ctattcgcca cagccataaa cgcatgaata acaggagagt gaaccattac tggtataact
+      181 agttatatac caacaacaat cttgaccatt gccctagcaa ttaaactagg agtggccccc
+      241 tttcacatat ggctgccaga tgtcctacag gggcttaaca tgctcacatg cctaattctt
+      301 tctacatgac aaaaattagc tccaattgca ctacttatct taaccagcca tcagctgaac
+      361 acaaatttat taattattat ggcattcatg tctacaattg taggaggatg agggggactg
+      421 aatcaaacac aaatacgaaa gattatagca tactcctcca ttgcacactt aggttgaata
+      481 gtcttagttt tatcctttgc cccaaaatta acactattaa acctggccat ctaccttgta
+      541 ctaacctctt ctatatttat aatactgatg acctttaact ccacaagcct aaataaatta
+      601 tcaacttcat gactgaaagc gccaacaatg gcagcatcaa taataattac ccttatagcc
+      661 ctaggagggc ttcccccaac atcaggattc ctaccaaagt gaataatcct tcaggaaata
+      721 acaagccacc accttgggac actatctgcc ataatagcta tgtctgccct attaagctta
+      781 tttttttacc ttcgactatc gtacgcaatc tcaataacct cccctcccaa tatctcaaac
+      841 tctaacctca cctgacgaaa gaagaaaagt ctaacctaca ttatcccaac tcttaccaca
+      901 ctatccacaa taataatgcc aatcacacca acattattaa actaaagact taggataaca
+      961 agaccaaagg ccttcaaagc cttaagcaga agttaaaacc ttctagtctt
+//
+

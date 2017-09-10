@@ -1,0 +1,70 @@
+LOCUS       JX237748                1173 bp    DNA     linear   VRT 12-NOV-2012
+DEFINITION  Paramesotriton hongkongensis voucher MVZ 230368 cytochrome b (cytb)
+            gene, complete cds; mitochondrial.
+ACCESSION   JX237748
+VERSION     JX237748.1  GI:410992518
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+  ORGANISM  Paramesotriton hongkongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1173)
+  AUTHORS   Wu,Y., Wang,Y. and Hanken,J.
+  TITLE     New species of Pachytriton (Caudata: Salamandridae) from the
+            Nanling Mountain Range, southeastern China
+  JOURNAL   Zootaxa 3388, 1-16 (2012)
+REFERENCE   2  (bases 1 to 1173)
+  AUTHORS   Wu,Y., Wang,Y. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2012) Organismic and Evolutionary Biology,
+            Harvard University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1173
+                     /organism="Paramesotriton hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ 230368"
+                     /db_xref="taxon:164972"
+     gene            9..1149
+                     /gene="cytb"
+     CDS             9..1149
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:1149,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFV95393.1"
+                     /db_xref="GI:410992519"
+                     /translation="MAPITRKTHPMLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLFPFLIAGMSIIHLLFLHETGSNNPTGIPSNQDK
+                     IPFHPYFSYKDLLGFFLALLTLMLIALITPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMLIPMLHTSKQRSLMFRSTSQILFWLLAANTL
+                     ILTWIGGMPVEPPFTEIGQIASILYFLLFILMVPLIGLWENKLMKW"
+ORIGIN      
+        1 taaaaacaat ggcccctatt acacgaaaaa ctcaccccat attaaaaatt attaataact
+       61 catttatcga cctgccaaca ccatcaaaca tctcatattg atgaaacttc ggctctcttc
+      121 tagggatttg tctaattaca caaattatta cgggcttatt cctggcaatg cactatacag
+      181 cagatacaca atcagccttt tcatctgtag cccacatttg ccgagacgtc aaccatgggt
+      241 gactaatacg aaacattcac gctaatgggg cctcattctt ctttatttgc atttacctac
+      301 atatcggacg gggcctatac tacggatcat acatattcaa agagacatga aatattggcg
+      361 taatacttct actgctagtt atagccactg cctttgttgg atatgtcctc ccatgaggac
+      421 aaatatcatt ttgaggggcc tcggttatca caaatctcct ctcagccatc ccttatgttg
+      481 ggggttccct agtagagtga gtctgggggg ggttctcagt agacaaagct accctgacac
+      541 ggttcttcgc atttcacttc ctattcccct tcctaattgc aggaataagc attatccacc
+      601 tgttattttt acacgaaacc ggatccaata acccaacagg aatcccctct aaccaagaca
+      661 aaatcccctt tcacccatac ttttcctata aagatttact gggctttttt ctggcactcc
+      721 tcaccttaat attaattgcc cttattacac caaatctact agtagaccca gaaaacttta
+      781 tcccagcaaa cccactaata gcaccccctc acattaaacc agaatgatac ttcctatttg
+      841 cctacgctat cttacgatcg atcccaaata agctgggagg ggtcattgca cttctaatgt
+      901 ctatcttgat ccttatactt atccctatat tacacacatc aaaacaacga agtctgatgt
+      961 tccgctctac atcccaaatc ttattttgac tcctagcagc aaataccctg attttgactt
+     1021 gaattggggg aataccagtt gaacccccat tcactgaaat tgggcagatc gcctctatcc
+     1081 tttacttcct actttttatt cttatagttc cactaattgg cctatgagaa aacaaactta
+     1141 taaaatgata cctagatagt ttaaacaaaa cat
+//
+

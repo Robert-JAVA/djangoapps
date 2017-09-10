@@ -1,0 +1,63 @@
+LOCUS       AY701979                 825 bp    DNA     linear   VRT 03-OCT-2005
+DEFINITION  Salamandrella keyserlingii isolate Vladivostok_4-1 cytochrome b
+            gene, partial cds; mitochondrial.
+ACCESSION   AY701979
+VERSION     AY701979.1  GI:56684430
+KEYWORDS    .
+SOURCE      mitochondrion Salamandrella keyserlingii (Siberian salamander)
+  ORGANISM  Salamandrella keyserlingii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 825)
+  AUTHORS   Berman,D.I., Derenko,M.V., Maliarchuk,B.A., Grzybowski,T.,
+            Kriukov,A.P. and Miscicka-Sliwka,D.
+  TITLE     Genetic polymorphism of Siberian newt (Salamandrella keyserlingii,
+            Caudata, Amphibia) in its range and the cryptic species of the newt
+            S. schrenckii from Primorie
+  JOURNAL   Dokl. Biol. Sci. 403, 275-278 (2005)
+   PUBMED   16358571
+REFERENCE   2  (bases 1 to 825)
+  AUTHORS   Derenko,M.V., Berman,D.I., Malyarchuk,B.A., Grzybowski,T.,
+            Kryukov,A.P. and Miscicka-Sliwka,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUL-2004) Genetics Laboratory, Institute of
+            Biological Problems of the North, Portovaya Str., 18, Magadan
+            685000, Russia
+FEATURES             Location/Qualifiers
+     source          1..825
+                     /organism="Salamandrella keyserlingii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Vladivostok_4-1"
+                     /db_xref="taxon:288315"
+                     /haplotype="Vladivostok-1"
+                     /country="Russia: Primorskiy Kray"
+     CDS             <1..>825
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAW22132.1"
+                     /db_xref="GI:56684431"
+                     /translation="LKIINGSFVDLPTPSNLSSLWNFGSLLGICLIAQIATGLFLAMH
+                     YTADTSSAFSSVAHICRDVNYGWLMRNIHANGASFFFICIYLHIGRGLYYGSYMYKET
+                     WNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDSLVQWIWGGFSV
+                     DKATLTRFFAFHFLFPFLIVGASIVHLLFLHETGSNNPTGISSNMDKVPFHPYFSYKD
+                     AIGFLTMLTALFMLSMLTPDLLGDPDNFTPANPLVTPPHIQPEWYFLFAYAXLRSIP"
+ORIGIN      
+        1 actaaaaatc atcaacggat catttgtaga ccttcctacc ccttcaaatc tctcatcatt
+       61 gtgaaatttt ggctcacttc ttggaatttg cctgattgca caaatcgcca caggcctatt
+      121 tctcgccata cattatacag ctgacacatc ttcagccttc tcatccgtag cccatatttg
+      181 ccgagatgta aattacggat gattaatacg aaatattcac gccaacggag catcattctt
+      241 tttcatctgc atctacctcc atattggacg aggactttac tacggttcat atatatataa
+      301 ggaaacctga aatattgggg tagttttact ctttctagta atagcaactg cctttgtagg
+      361 ctatgttctc ccctgaggac agatatcctt ttgaggcgct acagttatta caaacttatt
+      421 atcagcaatt ccttacatag gagactcact tgttcaatga atttggggtg ggttttctgt
+      481 agataaggct acacttaccc gattctttgc atttcatttt ttattcccat ttttaattgt
+      541 aggagcaagc attgttcacc tactattcct tcatgaaaca ggctcaaata accccacagg
+      601 aatttcttca aacatggata aagtcccatt tcacccatac ttctcatata aagatgcaat
+      661 cggattccta acaatgctca cagcactatt tatattatca atactaaccc cagatttact
+      721 aggcgaccca gacaatttta cacctgccaa ccctctagtg actccccctc acatccaacc
+      781 agagtggtac tttttatttg catatgctnt tttacgatct atccc
+//
+

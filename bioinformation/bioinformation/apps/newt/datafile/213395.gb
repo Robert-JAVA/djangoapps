@@ -1,0 +1,45 @@
+LOCUS       NVIHBOX28B               270 bp    DNA     linear   VRT 28-APR-1993
+DEFINITION  Newt homeobox protein (HBox-2.8) gene, partial cds.
+ACCESSION   M84002
+VERSION     M84002.1  GI:213395
+KEYWORDS    homeobox protein.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 270)
+  AUTHORS   Belleville,S., Beauchemin,M., Tremblay,M., Noiseux,N. and Savard,P.
+  TITLE     Homeobox-containing genes in the newt are organized in clusters
+            similar to other vertebrates
+  JOURNAL   Gene 114 (2), 179-186 (1992)
+   PUBMED   1351019
+COMMENT     Original source text: Notophthalmus viridescens (library: EMBL3)
+            DNA.
+FEATURES             Location/Qualifiers
+     source          1..270
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /tissue_lib="EMBL3"
+     gene            1..270
+                     /gene="HBox-2.8"
+     CDS             1..270
+                     /gene="HBox-2.8"
+                     /codon_start=1
+                     /product="homeobox protein"
+                     /protein_id="AAA49396.1"
+                     /db_xref="GI:213396"
+                     /translation="GSRRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLDLTER
+                     QVKVWFQNRRMKHKRQTQCKENQNGEGKGKGLEEGDRSEDEEEKAL"
+     misc_feature    4..183
+                     /gene="HBox-2.8"
+                     /note="homeobox"
+ORIGIN      
+        1 ggatcccggc gcctgcggac cgcctacacc aacacgcagc tcctggagct ggagaaggag
+       61 ttccacttca acaagtacct ctgccggccg aggagggtgg agatcgccgc cctgctggac
+      121 ctgaccgagc ggcaggtgaa ggtttggttc cagaaccgcc gcatgaagca caaacgccag
+      181 acccagtgca aggagaacca gaacggggaa ggcaagggca aagggctgga ggaaggggac
+      241 aggagcgaag acgaggaaga gaaagccctc
+//
+

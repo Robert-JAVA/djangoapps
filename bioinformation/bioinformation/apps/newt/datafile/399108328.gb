@@ -1,0 +1,44 @@
+LOCUS       JQ733901                 390 bp    DNA     linear   VRT 05-AUG-2012
+DEFINITION  Lissotriton boscai clone Ltb17 microsatellite sequence.
+ACCESSION   JQ733901
+VERSION     JQ733901.1  GI:399108328
+KEYWORDS    .
+SOURCE      Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 390)
+  AUTHORS   Sequeira,F., Silva-Ferreira,A. and Lopes,S.
+  TITLE     Microsatellite markers for the Iberian endemic Bosca's newt,
+            Lissotriton boscai (Caudata, Salamandridae)
+  JOURNAL   Conserv Genet Resour 4 (3), 715-717 (2012)
+REFERENCE   2  (bases 1 to 390)
+  AUTHORS   Sequeira,F., Silva-Ferreira,A. and Lopes,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2012) Departamento de Biologia, Centro de
+            Investigacao em Biodiversidade e Recursos Geneticos da Universidade
+            do Porto, CIBIO/UP, Campus Agrario de Vairao, Rua Padre Armando
+            Quintas, Vairao, Porto 4485-661, Portugal
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..390
+                     /organism="Lissotriton boscai"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323757"
+                     /clone="Ltb17"
+     repeat_region   1..390
+                     /rpt_type=tandem
+                     /satellite="microsatellite"
+ORIGIN      
+        1 gacacagcgt taaccaatcc tcccaacttt ccccctagta cagcactatt cacccatgac
+       61 tcagtcatat cagagagggc ctctaaagta gatcaattta ctcatataac ctaactgtca
+      121 caaaaaatgt gtggtcacca tggcctccaa tactgtaaca ctgattcaaa gtttaacaat
+      181 actttaatac cccatacatt gatagtgaca tacacaaagc aaaaaaacat caaaactttg
+      241 agccagaagg caactatcta ttagtcgcag gtagatagat agatagatag atagatagat
+      301 agatagatag atagatagat agatagatag ataaatcttt attcgccatt tcatttaaca
+      361 ccataaaagt acactaaaag acttttaaaa
+//
+

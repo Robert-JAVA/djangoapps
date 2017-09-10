@@ -1,0 +1,61 @@
+LOCUS       KJ855094                 742 bp    DNA     linear   VRT 07-MAR-2015
+DEFINITION  Salamandrella tridactyla brain-derived neurotrophic factor (BDNF)
+            gene, partial cds.
+ACCESSION   KJ855094
+VERSION     KJ855094.1  GI:763819496
+KEYWORDS    .
+SOURCE      Salamandrella tridactyla (Schrenck's Siberian newt)
+  ORGANISM  Salamandrella tridactyla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 742)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V. and Denisova,G.A.
+  TITLE     Phylogenetic Relationships among Asiatic Salamanders of the Genus
+            Salamandrella Based on Variability of Nuclear Genes
+  JOURNAL   Russ. J. Genet. 51 (1), 91-97 (2015)
+REFERENCE   2  (bases 1 to 742)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V. and Denisova,G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2014) Genetics Laboratory, Institute of
+            Biological Problems of the North, Portovaya street, 18, Magadan
+            685000, Russia
+FEATURES             Location/Qualifiers
+     source          1..742
+                     /organism="Salamandrella tridactyla"
+                     /mol_type="genomic DNA"
+                     /isolate="24"
+                     /db_xref="taxon:476251"
+                     /country="Russia: Ussuri region"
+     gene            <1..742
+                     /gene="BDNF"
+     mRNA            <1..>741
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..741
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AJQ31857.1"
+                     /db_xref="GI:763819497"
+                     /translation="TILFLTMVISYFSCMKAAPMKEASIRGQGSLAYPGLRTHGTLES
+                     IGGPKSSSRGGLTSLADTFEQVIEEMLEEEQSMRPSEENKDADLFTSRVMLSSQVPLE
+                     PPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTASDKKTAVDMSG
+                     QTVTVLEKVPVPKGQLKQYFYETKCNPMAYMKEGCRGIDKRYWNSQCRTTQSYVRALT
+                     MDNKKKVGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 accatccttt tcctgactat ggttatttca tacttcagtt gcatgaaagc tgcccccatg
+       61 aaagaagcca gcatcagagg acaaggcagc ttggcttacc caggtctccg gacccatggg
+      121 actctggaga gcataggtgg gcctaaaagc agctcaagag gagggctgac ctccttggca
+      181 gacaccttcg agcaagtcat cgaggagatg ctggaagagg agcagagcat gaggcccagc
+      241 gaggaaaaca aagacgccga cttgttcacg tctcgagtca tgctcagcag tcaagtgcct
+      301 ttagagcccc ccctcctctt cctcctggag gagtacaaaa actacttgga tgcagcaaac
+      361 atgtccatgc gggtgcggcg tcactccgac cccgcccgcc gcggcgagct gagcgtgtgc
+      421 gacagtatta gcgagtgggt gacggcgtca gacaaaaaga ccgccgtgga catgtcgggg
+      481 cagactgtaa ccgttctcga aaaagtccca gttcccaaag gccaactgaa gcaatacttc
+      541 tacgagacca aatgcaaccc catggcctac atgaaggagg gctgcagggg catagacaag
+      601 aggtattgga actcccagtg ccgaactacg cagtcctacg tgcgggcgct caccatggat
+      661 aacaaaaaga aagtcggctg gcggttcatc cggatagaca cttcctgtgt atgcacactg
+      721 accattaaaa ggggaagata ga
+//
+

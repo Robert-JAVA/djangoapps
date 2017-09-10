@@ -1,0 +1,85 @@
+LOCUS       OAU33049                1196 bp    mRNA    linear   MAM 19-SEP-1995
+DEFINITION  Ovis aries Antennapedia-type homeotic factor Hox C6 mRNA, complete
+            cds.
+ACCESSION   U33049
+VERSION     U33049.1  GI:988251
+KEYWORDS    .
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+REFERENCE   1  (bases 1 to 1196)
+  AUTHORS   Cosby,N.C., Hernandez-Ledezma,J., Mathialagan,N. and Roberts,R.
+  TITLE     Identification of an Antennapedia-type homeotic factor in the
+            preimplantation ruminant conceptus
+  JOURNAL   Mol. Reprod. Dev. (1995) In press
+REFERENCE   2  (bases 1 to 342)
+  AUTHORS   Cosby,N.C., Hernandez-Ledezma,J., Mathialagan,N. and Roberts,R.
+  TITLE     Identification of an Antennapedia-type homeotic factor in the
+            preimplantation ruminant conceptus
+  JOURNAL   Mol. Reprod. Dev. (1995) In press
+REFERENCE   3  (bases 1 to 1196)
+  AUTHORS   Cosby,N.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-1995) Neal C. Cosby, University of
+            Missouri-Columbia, 158 Animal Science Research Center, Columbia, MO
+            65211, USA
+FEATURES             Location/Qualifiers
+     source          1..1196
+                     /organism="Ovis aries"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9940"
+                     /cell_type="trophoblast"
+                     /dev_stage="embryo"
+     5'UTR           <1..12
+     CDS             13..474
+                     /function="unknown"
+                     /note="Antennapedia-type homeotic factor"
+                     /codon_start=1
+                     /product="Hox C6"
+                     /protein_id="AAA75473.1"
+                     /db_xref="GI:988252"
+                     /translation="MLSNCRQNTLGHNTQTSIAQDFSSEQGRTAPQDQKASIQIYPWM
+                     QRMNSHSGVGYGADRRRGRQIYSRYQTLELEKEFHFNRYLTRRRRIEIANALCLTERQ
+                     IKIWFQNRRMKWKKESNLTSTLSGGGGGAAADSLGGKEEKREETEEEKQKE"
+     misc_feature    129..144
+                     /note="encodes IYPWM pentapeptide; The IYPWM motif is
+                     found in many but not all Antennapedia-type homeotic
+                     factors"
+     misc_feature    187..368
+                     /note="encodes homeodomain, DNA-binding motif; Ovine Hox
+                     C6 contains a homeodomain of the Antennapedia type and it
+                     is most similar to mammalian (human and mouse) homeotic
+                     factors Hox C6 and vertebrate (frog and newt) hox c6"
+     repeat_region   388..403
+                     /note="Gly repeat"
+                     /function="unknown"
+                     /rpt_type=direct
+     3'UTR           475..>1196
+                     /note="The 3'UTR contains no identifiable polyA site but
+                     does contain two, A-rich regions (n=15 and n=19) at the
+                     3'end of the 3'UTR"
+ORIGIN      
+        1 ggggagaaag acatgctctc aaactgcaga caaaacacct taggacataa cacacagacc
+       61 tcaatcgctc aggattttag ttctgagcag ggcaggactg cgccccagga ccagaaagcc
+      121 agtatccaga tttacccctg gatgcagcga atgaattcgc acagtggggt cggctatgga
+      181 gcggaccgga ggcgcggtcg ccaaatctac tcgaggtacc agacgctgga actggagaag
+      241 gaatttcact tcaaccgcta cctaacgcgg cgccggcgca tcgagatcgc caacgcgctc
+      301 tgcctgaccg agcgacagat caagatctgg ttccagaacc gccggatgaa gtggaaaaaa
+      361 gagtctaacc tcacgtccac gctctcaggg ggcggcggag gggccgcggc tgacagcctg
+      421 ggcggaaaag aggaaaagcg ggaagagaca gaggaggaga agcagaaaga gtgaccagga
+      481 ctgtccctgc cacccctctt tctcctgctc cctcgctgcc cccataccct cctaatcaca
+      541 cactcgatat ttatcactgg cacaattgat gtgtttggac tccctgagac aaaattaggg
+      601 agtcaaatat ggacctgaag agtcaactct ggacgccccc ctccctcacc gcacaaactc
+      661 ttttcaccag gcgcctcctc ctcctcgctc cctcgctagc tcgttctcgg ctcgtctgca
+      721 ggccccttcg cccgcccagg ccttggggct cgtcctgaac ctcgctttag actccacaga
+      781 tctccctcca aacgaggact tggcctccca ccccctcggc gccccccatc tccgcccccg
+      841 cgcagagagc cggctcccgg gccccggggc tctgctcccg gcctcggggc ctcgcagccg
+      901 ggagggcggg aggcaggagg gcgtcggggc cccacagcag cccccagggc ctccccgcag
+      961 cccctgcccg gcccctctgc cccagcaaat gcccagccca ggcgaattgt atttaaagaa
+     1021 tcctgggggt cattatggca tattacaaac tgtgaccgtt tctgtgtgaa tatttttagc
+     1081 tgtatttgtg gtctctgtat ttatatttat gtttagcacc gtccgtgttc caatcccatc
+     1141 ttaaaaagga aaaaaaaaaa aaaagaggga aaattacaaa aaaaaaaaaa aaaaaa
+//
+

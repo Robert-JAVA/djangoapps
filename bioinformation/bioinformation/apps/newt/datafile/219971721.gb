@@ -1,0 +1,97 @@
+LOCUS       FJ445746                2416 bp    mRNA    linear   VRT 20-NOV-2012
+DEFINITION  Pleurodeles waltl vasa-like protein mRNA, complete cds.
+ACCESSION   FJ445746
+VERSION     FJ445746.1  GI:219971721
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2416)
+  AUTHORS   Al-Asaad,I., Dumond,H., Chardard,D., Chesnel,A. and Flament,S.
+  TITLE     Busulfan-mediated germ cell depletion does not alter gonad
+            differentiation in the urodele amphibian Pleurodeles waltl
+  JOURNAL   Sex Dev 6 (4), 188-200 (2012)
+   PUBMED   22584671
+REFERENCE   2  (bases 1 to 2416)
+  AUTHORS   Kleinclauss,A., Wallacides,A., Chesnel,A., Flament,S. and Dumond,H.
+  TITLE     Germline specification in Pleurodeles waltl
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2416)
+  AUTHORS   Kleinclauss,A., Wallacides,A., Chesnel,A., Flament,S. and Dumond,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) EA3442, Universite Nancy 1, Boulevard des
+            Aiguillettes, Vandoeuvre 54505, France
+FEATURES             Location/Qualifiers
+     source          1..2416
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /sex="males; females"
+                     /tissue_type="gonad"
+                     /dev_stage="larvae"
+     CDS             1..2184
+                     /note="RNA helicase"
+                     /codon_start=1
+                     /product="vasa-like protein"
+                     /protein_id="ACL68521.1"
+                     /db_xref="GI:219971722"
+                     /translation="MADEDWDSELTAGPSFSFTPSFPKLETEKAFNYNERSNKGGEGE
+                     FPKNDGPSRRGFGANRGFGFKRGNRSDEEGSNLFGRGGFKGRNEDSGSDYGKGDSNGP
+                     QRNGGFSRRSFRDGNVEEEFGDKSAGRGFGHSENNFAQRRGRGTGARGTHGGFGRRDE
+                     NNDEESQSGFGSRGGFGYESRGRGGGFRGRGDENNDEENQSSFGSRGGFGIQTCYEGR
+                     GRGSGFRGRGGYKGRNEDVGSDSGQFKNDYTLKSDEDRENDDKPARVTYVPPPPPDTE
+                     DGIFAHYQTGINFDKYDDILTDVSGINPPPAILTFEEANLPETLTRNISKAGYVKLTP
+                     VQKYSIPIVLAKRDLMACAQTGSGKTAAFLLPILAHMMRDGVAPHSLDLQEPEAIIVA
+                     PTRELINQIFLDARKFAYGTCIKPVVVYGGTQTFHSLRQIYQGCNILCATPGRLIDII
+                     KREKIGLTKLRYLVLDEADRMLDMGFGPDMKVLVNSPGMPSKEDRQTLMFSATFPERI
+                     QSLAKEFLKSDYLFVVVGQVGGACSDVEQIIIPVGQHGKKDKLVEILQGLGIERTMVF
+                     VKTKKRASIHGDRLQKEREEALADFRFGKCNVLVATNVAARGLDIENVQHVIIYDLSD
+                     NIEEYVHRIGRTGRCGNVGKAITFFDTDDNEDRTVARSLVKVLSDAQQEVPAWLEEVA
+                     FSASGTFSSIGSTFASVDSRRGVSHVPGGHAQSAFATAEDDASWD"
+     3'UTR           2185..2416
+ORIGIN      
+        1 atggcagatg aagactggga ttcggaattg acagcgggtc caagcttctc atttacacct
+       61 tcatttccaa agctggaaac tgaaaaggcc tttaactata atgaaagatc caataaaggt
+      121 ggagagggtg agtttcccaa aaacgatggg cctagtcgaa gaggctttgg tgccaacaga
+      181 ggttttggat tcaagagagg caatcggtcc gatgaagaag gatctaacct ttttggtaga
+      241 ggtggattca aaggcagaaa tgaagattct ggatcagatt atggaaaagg tgatagtaat
+      301 ggccctcaaa gaaatggtgg tttttccagg agaagtttta gagatggaaa tgtagaagag
+      361 gagtttggag ataagagcgc tggtagagga tttggccatt ctgaaaataa ttttgctcaa
+      421 agaagaggaa gaggaactgg agccagaggc acacatggag gatttggccg aagggatgaa
+      481 aataatgatg aagaaagtca gtcgggcttt ggatcaagag gtggatttgg ttatgagagt
+      541 cgaggacgag gaggcggttt tcgaggaaga ggggatgaaa ataatgatga agaaaatcag
+      601 tctagcttcg gatcaagagg tggatttggt attcaaacat gttatgaggg tcgaggacga
+      661 ggcagcggtt ttcgaggaag aggtggctac aagggcagaa atgaagatgt tggttcagac
+      721 tctggacaat ttaaaaatga ctatactttg aagtcggatg aggacaggga gaatgatgat
+      781 aaaccagcca gggtgactta tgtgccgcct ccgcctcctg atactgaaga tggcatattt
+      841 gctcattatc agactggtat taactttgac aagtatgatg acatcctcac cgatgtcagt
+      901 ggaattaatc cgccgccagc aatactgaca tttgaagaag caaatcttcc tgaaacactg
+      961 accagaaaca tttctaaagc tggatatgtg aaacttactc cagttcagaa atacagtatt
+     1021 ccaattgtgc tagccaaacg tgatttaatg gcttgtgcgc agaccggttc tgggaaaaca
+     1081 gcagccttcc ttttaccaat cctggctcac atgatgcggg acggagttgc tcctcacagt
+     1141 ttagatctgc aagaacctga agcaataatt gtagctccga caagagaact aatcaaccag
+     1201 atctttcttg atgctagaaa gtttgcatat ggaacctgta taaaaccagt agtggtatat
+     1261 ggtggaacac aaacctttca ttctctgcgc cagatatatc aaggctgcaa tatactgtgt
+     1321 gcaactccag gaagactgat tgatataatt aagcgtgaaa agattggact gaccaaatta
+     1381 aggtacctag tattagatga ggctgatcgc atgcttgata tgggctttgg tcctgacatg
+     1441 aaggttttag tcaacagccc aggaatgcca tctaaagaag atcgtcaaac attgatgttc
+     1501 agtgctacat ttcctgaaag aatacagagc ttggctaaag aattcttaaa gtctgattat
+     1561 ttatttgttg ttgttggaca agttggcggt gcctgtagcg atgttgagca aataataatt
+     1621 ccagttggcc aacatgggaa aaaagacaaa ttggttgaaa tcctgcaagg cttggggatt
+     1681 gaaaggacca tggtttttgt gaaaacaaaa aaaagagcta gtattcatgg tgatcggcta
+     1741 cagaaagaga gggaagaagc acttgcagat tttcgttttg ggaaatgcaa tgttctagtt
+     1801 gctactaatg tggctgctag aggcctggat attgaaaatg ttcagcatgt aattatttac
+     1861 gacctttctg acaacattga agaatatgtt catagaattg gacgcactgg tcgttgtgga
+     1921 aatgtcggaa aagcaattac attctttgac acagatgata atgaggaccg cactgtagca
+     1981 cgctccttgg tgaaggtgtt atcagatgcc caacaagaag ttccagcgtg gctagaagag
+     2041 gtagcattta gtgcttctgg aacattcagt tcaattggaa gtacatttgc ctcagtagac
+     2101 agtagaaggg gtgtatcaca cgtccccgga gggcatgctc agtctgcatt tgctactgct
+     2161 gaagatgatg catcatggga ttgactgaaa agcaaccaaa acatgtctat gcaacaaatc
+     2221 tactactgag aaagttacag aaagactgtt tgctcgattt cccattaata aaagctcagt
+     2281 tatgctttat aaagtgtcgt tatcacctgt ggaatttact tttctgtaga cttaatggct
+     2341 ggatctttac attctgtaaa gtattatata tagttgcccg ttaataaaat gtttgtgtac
+     2401 caaaaaaaaa aaaaaa
+//
+

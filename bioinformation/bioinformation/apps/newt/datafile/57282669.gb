@@ -1,0 +1,43 @@
+LOCUS       AJ609563                 418 bp    DNA     linear   VRT 07-JAN-2005
+DEFINITION  Triturus cristatus mitochondrial DNA, partial D-loop, strain IIIa.
+ACCESSION   AJ609563
+VERSION     AJ609563.1  GI:57282669
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Poschadel,J.R., Plath,M. and Guillaume,O.
+  TITLE     Caught in caves? Relationships between cave dwelling and surface
+            populations of the Pyrenean mountain newt Euproctus asper
+            (Salamandridae, Urodela) inferred from d-loop sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 418)
+  AUTHORS   Poschadel,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2003) Poschadel J.R., Zoological Institute,
+            University of Hamburg, Martin-Luther-King-Platz 3, Hamburg 20146,
+            GERMANY
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="IIIa"
+                     /isolation_source="buccal swab"
+                     /db_xref="taxon:8323"
+                     /tissue_type="mucus membrane"
+                     /country="Germany:Brandenburg"
+     D-loop          <1..>418
+ORIGIN      
+        1 ttttaccgtt atttttgtaa cgcggagaca tactatgtat aatagtgcat tcatctactt
+       61 gccaaacgcc tttgttttgg tattattagg atttttaacc taaccctcag gcgagaaacc
+      121 agcaacccgc ccaccacgat actcgtttcg aagtttcaag gacctcaatt gtagagtgac
+      181 ttcttattaa ttatactggc agctggttac gaatctatgg gcattaccct aggcggtcta
+      241 tcatttatct ttaagaggcc tagcatctaa gtatcattta attactagat ggcccatgac
+      301 aagcataact gatctaaatc acatctttgc cttttttttt ctctgtgaag tcaatccccc
+      361 ataaagtctt gagccggcgt tataaactta aatctgaaca tgaactgcaa atgtatag
+//
+

@@ -1,0 +1,92 @@
+LOCUS       AJ010793                1767 bp    mRNA    linear   VRT 08-FEB-2000
+DEFINITION  Triturus carnifex mRNA for Newt Ovary Ribozyme-Associated protein.
+ACCESSION   AJ010793
+VERSION     AJ010793.1  GI:5824310
+KEYWORDS    NORA gene; Ovary Ribozyme-Associated protein.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Denti,M.A., Martinez de Alba,A.E., Sagesser,R., Tsagris,M. and
+            Tabler,M.
+  TITLE     A novel RNA-binding protein from Triturus carnifex identified by
+            RNA-ligand screening with the newt hammerhead ribozyme
+  JOURNAL   Nucleic Acids Res. 28 (5), 1045-1052 (2000)
+   PUBMED   10666442
+REFERENCE   2  (bases 1 to 1767)
+  AUTHORS   Denti,M.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-1998) Institute of Molecular Biology and
+            Biotechnology, Foundation for Research and Technology-HELLAS, P.O.
+            Box 1527 Vassilika Vouton, Heraklion, Crete GR-71110, GREECE
+FEATURES             Location/Qualifiers
+     source          1..1767
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+                     /sex="female"
+                     /tissue_type="ovary"
+                     /dev_stage="adult"
+     gene            1..1767
+                     /gene="NORA"
+     mRNA            1..1767
+                     /gene="NORA"
+                     /product="Newt Ovary Ribozyme-associated protein"
+     5'UTR           1..131
+                     /gene="NORA"
+     CDS             132..1331
+                     /gene="NORA"
+                     /codon_start=1
+                     /product="Newt Ovary Ribozyme-Associated protein"
+                     /protein_id="CAB54141.1"
+                     /db_xref="GI:5824311"
+                     /db_xref="InterPro:IPR019385"
+                     /db_xref="UniProtKB/TrEMBL:Q9PVZ8"
+                     /translation="MAEVEDGEVSDSDSDMKVAVPAVVVERDPQEQKSFLICTDRSLQ
+                     NIALPLPSSSSYRTTKGAVSSDESASDSDDEVRSLWKRQKQVNLPPKPEPLPFVLGYS
+                     RPAAPPMKKMNNIWGSVLQDQSQDLVASELGILGMDGQLDMSRQSEAYNYILAKKLME
+                     KEKKIGGEEMAILDKELDEYMNEEKNEDKKPAHKGEENGHAHLKRKRPVKERLGERLE
+                     MDFKGRFEITEEDTEDKVADEIAFRLREPKKDLISKVVQTIGKKKAIELMMETAEVEE
+                     NGGLFVMNGSRRRTPGGVYLNLLKNTPSVTVEQIKVIFHSENQKECESKKAAKKRRRH
+                     IFALKMKQAIKGINLQEHDASRETFASDTNEALASLDDIHDGHVEMRVDPEDAIEIDH
+                     CQDLETF"
+     3'UTR           1332..1767
+                     /gene="NORA"
+     regulatory      1736..1741
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="NORA"
+ORIGIN      
+        1 attcttcagc gtcgacctag cattcattag agcgggacta gactccatat tggagtgggg
+       61 agttaccata gatgccccat tccgttgtgt gaggcagcac cagcgaaggc gttgaggctc
+      121 cgaggaagaa gatggcggag gtggaggatg gcgaggtctc cgactcagat tcggatatga
+      181 aagtcgctgt tccagccgtg gtggtggaga gagatccgca agaacagaaa tctttcttga
+      241 tttgcacaga tcgaagtctt caaaacatcg ccttacccct tccttctagt tccagttatc
+      301 gcacaaccaa gggtgcagtt tcaagtgatg aaagtgcttc ggactctgat gatgaagtcc
+      361 gttccctgtg gaaacgacaa aagcaggtta atctgcctcc taaacctgaa cccttaccct
+      421 ttgttttagg gtattcaagg ccagctgcac cccccatgaa aaaaatgaac aatatctggg
+      481 gctctgttct acaggatcag agtcaagatt tagtagcatc agagcttgga atattgggca
+      541 tggatgggca gcttgatatg agccggcagt ctgaggccta caattatatt ctggctaaga
+      601 aattaatgga aaaagaaaaa aaaataggag gggaggagat ggcaatcttg gataaagagc
+      661 tggatgagta tatgaacgag gaaaaaaatg aggataagaa accagcccac aaaggggagg
+      721 aaaatggaca tgcccatctc aaacgaaagc ggcctgtgaa agaaaggctg ggggaacgat
+      781 tggaaatgga cttcaaagga cgatttgaga tcacagagga agataccgaa gacaaagttg
+      841 ctgatgaaat tgctttccgc cttagagaac caaaaaagga tttaatatcc aaggttgttc
+      901 agaccattgg aaagaaaaaa gcaatcgagc taatgatgga aactgcggaa gtggaggaaa
+      961 acggaggcct gtttgtaatg aacggcagta gaagaagaac tccaggtggc gtttacctca
+     1021 atttgttaaa aaacaccccc agtgtcacag tagaacaaat caaggttatc ttccattcgg
+     1081 aaaaccaaaa ggaatgtgag agcaagaaag ctgccaaaaa aaggcgacga cacatttttg
+     1141 cactgaagat gaagcaggcc attaaaggca tcaaccttca agaacacgat gcatcacgag
+     1201 aaacgtttgc gagtgacacg aatgaggcct tggcatccct tgatgatatt catgatggac
+     1261 atgttgaaat gagggtggac ccagaggatg ccattgaaat tgatcattgt caggatctgg
+     1321 aaactttttg atctgaaata tgtttattga cgcaacaaaa tgagctgaga gaaaactgtt
+     1381 aacattggca tttgtttaaa tctgcaattt tatagctgtg ctttcatccc agaaagaagc
+     1441 aatgtggaaa gagaaagttt tgtctgtatg tacgaagaaa tagcttaatt ttatttcgaa
+     1501 gcaatgtgat tcatcggcaa gggaaaatgt aggatgttgc ctgcctaagt gttttcccat
+     1561 cttgtaagcc gtaatcaact aaaacgtatc ggcagttcca aattcaggca acgctttcag
+     1621 aaaaaaacaa tatcctgcat ttcatagttc cttatactag tctgcataac acatttgaaa
+     1681 cgcgattaac ttctggccag gatcaattat ccgaaatctg attcaatgca aatgtaataa
+     1741 aatgtgtttt tcatttaaaa aaaaaaa
+//
+

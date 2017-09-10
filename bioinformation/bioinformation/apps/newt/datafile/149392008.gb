@@ -1,0 +1,45 @@
+LOCUS       X86286                   436 bp    DNA     linear   VRT 25-JUN-2007
+DEFINITION  Notophthalmus viridescens mitochondrial partial 16S rRNA gene.
+ACCESSION   X86286
+VERSION     X86286.2  GI:149392008
+KEYWORDS    16S ribosomal RNA; 16S rRNA gene.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 436)
+  AUTHORS   Hay,J.M., Ruvinsky,I., Hedges,S.B. and Maxson,L.R.
+  TITLE     Phylogenetic relationships of amphibian families inferred from DNA
+            sequences of mitochondrial 12S and 16S ribosomal RNA genes
+  JOURNAL   Mol. Biol. Evol. 12 (5), 928-937 (1995)
+   PUBMED   7476139
+REFERENCE   2  (bases 1 to 436)
+  AUTHORS   Hedges,S.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-1995) Hedges S. B., The Pennsylvania State
+            University, Biology, 208 Erwin W. Mueller Laboratory, University
+            Park, Pennsylvania, USA, 16802
+COMMENT     On Jun 22, 2007 this sequence version replaced gi:1050672.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>436
+                     /gene="16S rRNA"
+     rRNA            <1..>436
+                     /gene="16S rRNA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgtctttaaa taaagcctgt atgaaaggca aaacgaaagt tcaactgtct ctttaatcca
+       61 atcaatgaaa ttaatctttc cgtgcagaag cggaaataga aatataagac gagaagaccc
+      121 tatggagctt taaatataaa attaactata ccattaaact acaaatccac ggataaaata
+      181 ataacattag ctataatttg aattttcggt tggggcgacc acggagaaaa aataatcctc
+      241 cgagataata gtttagaatt acacttcaaa aattaaaaca tttattataa atgatccact
+      301 aagtgaccaa cgaaccaagt taccctaggg ataacagcgc aatcctttct aagagtccat
+      361 atcgacgaat gggtttacga cctcgatgtt ggatcaggac atcctaatgg tgcagccgct
+      421 attaaaggtt ngttng
+//
+

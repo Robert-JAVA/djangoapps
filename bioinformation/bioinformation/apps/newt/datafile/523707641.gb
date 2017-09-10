@@ -1,0 +1,69 @@
+LOCUS       KC165504                 945 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis missing oocyte meiosis regulator-like protein
+            (MIOS) gene, partial cds.
+ACCESSION   KC165504
+VERSION     KC165504.1  GI:523707641
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 945)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 945)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..945
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>945
+                     /gene="MIOS"
+     mRNA            <1..>945
+                     /gene="MIOS"
+                     /product="missing oocyte meiosis regulator-like protein"
+     CDS             <1..>945
+                     /gene="MIOS"
+                     /codon_start=1
+                     /product="missing oocyte meiosis regulator-like protein"
+                     /protein_id="AGQ56215.1"
+                     /db_xref="GI:523707642"
+                     /translation="YDPECLLAVGQANGRVVLTSLGQDHNSKCKDLIGKEFVPKHARQ
+                     CNTLAWNPLDSNWLAAGLDKHRADFSVLIWDISSKYVPDVAVPLEKVRLAAGEAEAGL
+                     VVTKPLYELGQNDACLSLCWLPRDQKLLLAGMHRNLAIFDLRNTSQKMFVNTKAVQGV
+                     TVDPYFHDRVASFFEGQVAIWDLRKFEKPVLTLTEQPKPLTKVAWCPTRTGLLATLTR
+                     DSNIIRLYDMQHTPTPIGDETEPTIIERSVQPCENYIASFAWHPTSQNRMVVVTPTRS
+                     MSDFTVFERISLAWSPTTSLMWACGRHLYECTEEVKTGS"
+ORIGIN      
+        1 tatgacccag agtgcctctt ggcagttggg caagcaaatg gccgagttgt tctgaccagc
+       61 cttggccaag atcacaactc taaatgcaaa gacttgattg gaaaagagtt tgttccaaag
+      121 catgctcgac aatgtaatac cttagcatgg aatccactgg acagcaattg gcttgctgca
+      181 ggccttgata agcatcgagc agacttttca gttttgatct gggatatcag cagcaaatat
+      241 gtgcccgatg tcgctgttcc tttggagaaa gtgaggcttg cagctggtga ggctgaagct
+      301 gggttggttg taaccaaacc cctgtatgaa ctaggtcaga atgatgcctg tctctctctt
+      361 tgctggcttc cacgggacca aaagttactt ttagctggta tgcatcgaaa tctggcaata
+      421 tttgacttaa gaaatacaag ccaaaagatg tttgttaata caaaagcggt tcaaggagtg
+      481 actgtggacc cctacttcca tgatcgagtt gcatcattct ttgaagggca ggttgcaata
+      541 tgggatcttc gaaaatttga aaaaccggtt ttaactctga cagagcaacc taaaccctta
+      601 accaaggtgg catggtgtcc aaccagaact ggtctgctag ctaccttaac cagggacagt
+      661 aacattattc gactgtatga tatgcagcac acgccgactc ccattggaga tgaaactgag
+      721 cctactataa ttgaaagaag tgttcagccc tgtgagaact atattgcttc atttgcatgg
+      781 catccaacca gccagaacag aatggtagtt gtgactccta caaggtccat gtcggacttc
+      841 actgtctttg agaggatttc tcttgcttgg agtcccacta cctctttgat gtgggcatgt
+      901 gggaggcact tgtatgagtg cacagaagaa gtgaagaccg gctca
+//
+

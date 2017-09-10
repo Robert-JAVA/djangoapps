@@ -1,0 +1,67 @@
+LOCUS       GU982454                1041 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus marmoratus haplotype Tmar02 NADH dehydrogenase subunit 2
+            gene, complete cds; mitochondrial.
+ACCESSION   GU982454
+VERSION     GU982454.1  GI:299773947
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 1041)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 1041)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..1041
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8328"
+                     /haplotype="Tmar02"
+     CDS             1..1041
+                     /note="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADJ39044.1"
+                     /db_xref="GI:299773948"
+                     /translation="MSPYALSMLMSSLAAGTVITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALLLFATTMNAWLTGEWTIMSMTSYAPMTILTIAL
+                     AIKLGIAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLILTNHQLNANLLILMALA
+                     SAIIGGWGGLNQTQTRKIMAYSSIAHLGWMTLVVSFSPNLALLNLAIYLMMTSSMFMG
+                     LMSLNATSVNKLSISWLKTPTLAISTMAGLMSLGGLPPLSGFLPKWLILQEMTKHHLG
+                     TISAMMALSALLSLFFYLRLSYVISMTSPPNISNSNLTWRKKNNLPLIIPMLIVLSTM
+                     LMPITPMLLMKN"
+ORIGIN      
+        1 atgagcccct atgcactatc aatgctaata tcaagcctag ctgctggaac agtcatcaca
+       61 ctatcgagct cccactgatt cctagcttga ataggactag aaattaatac actagctatt
+      121 atcccgctaa taactaagat acaccaccca cgagccacag aatccgcaac aaaatacttc
+      181 ttaacacaag ccacagcttc cgcccttctt ctattcgcca ccactataaa cgcatgactg
+      241 acaggagaat ggactattat aagcataacc agctatgccc ctatgacaat cttaacaatt
+      301 gccctagcaa ttaaactagg gatcgccccc tttcatcttt gactaccaga tgtcttgcaa
+      361 ggcctagata taataacatg cttaatcctc tcaacatgac aaaaactcgc cccaatagcc
+      421 cttttaattt taacaaacca ccaacttaat gccaatctac ttatcctaat agccctagca
+      481 tccgcaatca tcgggggatg agggggccta aatcaaaccc aaacgcggaa aattatagca
+      541 tactcatcta ttgcacacct tggctgaatg accctagttg tctccttttc cccaaacctg
+      601 gcgctactaa acctagcaat ttatcttata ataacttcat ccatatttat agggctcata
+      661 tccctaaacg ctacaagcgt gaataaacta tcaatctcct gactaaaaac accaacacta
+      721 gcaatctcaa caatagcagg tctcatatcc cttggaggcc tccctccact atcaggattt
+      781 ttaccaaaat gactaatcct gcaagaaata actaaacacc acttaggaac tatctccgcc
+      841 ataatagcct tatcagccct tctaagtctc tttttctacc tccgcttatc ttatgtaatc
+      901 tcaataacct ccccccccaa catttcaaac tctaacttaa cctgacggaa gaaaaacaac
+      961 ttacccctaa ttatcccaat attaattgta ttatctacca tactaatacc aattacacct
+     1021 atactactaa taaaaaacta a
+//
+

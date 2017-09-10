@@ -1,0 +1,65 @@
+LOCUS       PWU65434                 929 bp    mRNA    linear   VRT 08-DEC-1997
+DEFINITION  Pleurodeles waltl homeodomain-containing protein (PANF) mRNA,
+            partial cds.
+ACCESSION   U65434
+VERSION     U65434.1  GI:1762770
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 929)
+  AUTHORS   Kazanskaya,O.V., Severtzova,E.A., Barth,K.A., Ermakova,G.V.,
+            Lukyanov,S.A., Benyumov,A.O., Pannese,M., Boncinelli,E.,
+            Wilson,S.W. and Zaraisky,A.G.
+  TITLE     Anf: a novel class of vertebrate homeobox genes expressed at the
+            anterior end of the main embryonic axis
+  JOURNAL   Gene 200 (1-2), 25-34 (1997)
+   PUBMED   9373136
+REFERENCE   2  (bases 1 to 929)
+  AUTHORS   Kazanskaya,O.V., Zaraisky,A.G., Severtzova,E.A., Barth,K.A. and
+            Wilson,S.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-1996) Shemyakin and Ovchinnikov Institute of
+            Bioorganic Chemistry, Russian Academy of Sciences, Miklukho-Maklaja
+            16/10, Moscow 117984, Russia
+FEATURES             Location/Qualifiers
+     source          1..929
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /tissue_type="forebrain"
+                     /dev_stage="embryo"
+     gene            <1..929
+                     /gene="PANF"
+     CDS             <1..560
+                     /gene="PANF"
+                     /note="expressed in the embryonic forebrain"
+                     /codon_start=3
+                     /product="homeodomain-containing protein"
+                     /protein_id="AAB88393.1"
+                     /db_xref="GI:1762771"
+                     /translation="FRHALQTSAEGPKPSGCSFTIESILGLDKKEAAAVLKPHRPWLD
+                     PCTNGEGSGSPYIRLFEVSSESPMQSGGRTEPTQRNAGEEMQSPATERESCRRDLSWY
+                     RGRRPRTAFSRTQIETLESIFRLNSYPGIDIREELAEKLDLDEDRIQIWFQNRRAKLK
+                     RSHRESQFLMVKNTFSTELQELDHS"
+ORIGIN      
+        1 gcttccgcca cgcgctgcag acgagcgccg agggtcccaa gccctccggg tgctccttca
+       61 ccatcgagag cattctggga ctggacaaga aggaggctgc ggcggtcctc aagcctcaca
+      121 ggccctggct ggatccgtgc accaatgggg agggatcggg cagtccctac atccgccttt
+      181 tcgaggtgtc cagtgaaagc cccatgcaga gcgggggtcg tacggagccc acccaaagga
+      241 atgcgggcga agagatgcag agcccggcta cagagaggga gtcttgccga agggacctca
+      301 gctggtaccg aggtcggagg ccgaggacag ccttcagcag aacccagatt gaaacgctgg
+      361 agagtatttt caggctgaac tcgtatcccg gcattgacat tcgagaggag ctggccgaaa
+      421 agctagattt ggacgaggac cggatccaga tttggttcca aaaccggcgt gcaaagctta
+      481 aacggtccca tcgagaatct cagttcctaa tggtgaaaaa cacgttttct acagaactgc
+      541 aggagttaga tcacagctag acacagacac catgcgaata gatatgtcct tccatgatgc
+      601 tcatctaaca ctcgtcttct gaattgttac aatattttga aatgctttat ttcatctcct
+      661 tgaaattcga tgtaaaaatg taaatactat atgttacgtg gaaatgcact tttgtacaaa
+      721 gcagattttt tttctatata ctttgttata aggttgcaga gaaattgcta tttttaccga
+      781 agcaggacgt gcatttgatg ttcagagaat cccaaatgtt aatttgaaac gtgaagaaaa
+      841 ataaaacaca aagggtttct tgggaaagtt tcctaatgtg atgccatccc taacatgcat
+      901 tgtctgaata aaaaacattt tctaatggt
+//
+

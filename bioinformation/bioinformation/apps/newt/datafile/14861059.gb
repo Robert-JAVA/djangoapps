@@ -1,0 +1,73 @@
+LOCUS       AB041732                1283 bp    mRNA    linear   VRT 21-NOV-2003
+DEFINITION  Cynops pyrrhogaster DNASE1 mRNA for deoxyribonuclease I precursor,
+            complete cds.
+ACCESSION   AB041732
+VERSION     AB041732.1  GI:14861059
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Takeshita,H., Yasuda,T., Iida,R., Nakajima,T., Mori,S., Mogi,K.,
+            Kaneko,Y. and Kishi,K.
+  TITLE     Amphibian DNases I are characterized by a C-terminal end with a
+            unique, cysteine-rich stretch and by the insertion of a serine
+            residue into the Ca2+-binding site
+  JOURNAL   Biochem. J. 357 (PT 2), 473-480 (2001)
+   PUBMED   11439097
+REFERENCE   2  (bases 1 to 1283)
+  AUTHORS   Yasuda,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2000) Toshihiro Yasuda, Gunma University School
+            of Medicine, Department of Legal Medicine; 3-39-22, Showa-machi,
+            Maebashi, Gunma 371-8511, Japan
+            (E-mail:tyasuda@akagi.sb.gunma-u.ac.jp, Tel:81-27-220-8031,
+            Fax:81-27-220-8035)
+FEATURES             Location/Qualifiers
+     source          1..1283
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="pancreas"
+     gene            1..1283
+                     /gene="DNASE1"
+     CDS             66..1130
+                     /gene="DNASE1"
+                     /codon_start=1
+                     /product="deoxyribonuclease I precursor"
+                     /protein_id="BAB62089.1"
+                     /db_xref="GI:14861060"
+                     /translation="MTPATFWVLLLVATSFYCTSHAFKVASFNIARFSMSKVTDTVVR
+                     DRLVQILRRYELISIQEVMSAENEAIISLVRELSQATGLPYNVLVSDHLGRSTYREKY
+                     AYVYREDILKPTEWYHYDDGCENCGTDVFMREPFVARFSSLTTVVKDLALVSIHTSPD
+                     YAVREVDALFDVWEDVQQRLLTQNILILGDYNADCKYVTNKHWPTIRLRHEPQLHWLI
+                     SDDEDTTVSTNTHCAYDRFVASGVEMLNAIFPETATAFNYHEAYGLTYEEAKDVSDHY
+                     PVEMQLRLDSDYNGERFQTSPTLGIDGGPSTNGACSCAGVDVTSCQGRCGAYSKTLPC
+                     NCNASCGQYGSCCADYKAHC"
+ORIGIN      
+        1 atgccgccct gactcacgtg aagcaagagg acgggacacg ctcgtgcaaa tcaaagctgg
+       61 ctaccatgac acctgccacc ttctgggtcc tgctccttgt cgccacctca ttctactgca
+      121 ccagccatgc cttcaaggtc gcctcattca acatcgccag gttcagcatg tccaaggtga
+      181 cggacaccgt tgtgagggac cgcctggttc agatcctgcg gcgctatgag ctgatcagca
+      241 tccaggaggt gatgagtgcg gagaacgagg ccatcatcag cctggtccga gagctcagtc
+      301 aagcaaccgg cctgccttac aacgtactgg tgtccgacca cctggggcgc agcacctacc
+      361 gggagaaata cgcctatgtc tacagagagg acatcttgaa gcccacagaa tggtaccact
+      421 atgatgacgg ctgtgagaac tgcggcacgg acgtctttat gcgcgagcct ttcgttgcac
+      481 gcttctcctc tctcaccaca gtggttaagg acctggctct ggtgtccatt cacacaagtc
+      541 cggactatgc tgtgcgcgag gtggatgcac tcttcgatgt gtgggaggac gtgcagcagc
+      601 gtctcctcac tcagaatatc ctgatattag gggactacaa tgctgactgc aagtatgtca
+      661 ccaacaagca ctggcccacc atccgcctgc gccatgagcc gcagctccat tggctgattt
+      721 cagatgatga agacaccacg gtcagcacaa acacgcactg cgcgtacgac aggtttgttg
+      781 ctagcggggt ggaaatgctg aacgccatct tccccgagac cgccaccgcc tttaactacc
+      841 acgaggccta cgggctgacg tatgaagagg ctaaagatgt ctccgaccac taccccgtgg
+      901 agatgcagct gcgcctcgac agtgactaca acggggagcg gttccagacc agtcccaccc
+      961 tcggcattga cggtggaccc tccactaatg gcgcctgcag ctgcgcgggt gttgatgtca
+     1021 cttcctgcca gggtcgctgt ggcgcctact ccaaaacctt accctgcaac tgtaacgcct
+     1081 cctgcggcca gtacggcagc tgttgtgccg actacaaggc ccactgctag gcagacccca
+     1141 ggcgtgacag aggggcaata caagggtcag tccagccctc ccagcctgcc tgtcacttca
+     1201 gactgccgct tagtattcac ccggaagtgg aagcgggaaa tgtggaattg atatgccaaa
+     1261 ataaatgtgt tgaaatgaaa aaa
+//
+

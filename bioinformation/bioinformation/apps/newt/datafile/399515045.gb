@@ -1,0 +1,85 @@
+LOCUS       JX094346                1928 bp    mRNA    linear   VRT 10-AUG-2012
+DEFINITION  Notophthalmus viridescens cysteine-rich angiogenic inducer 61
+            (cyr61) mRNA, complete cds.
+ACCESSION   JX094346
+VERSION     JX094346.1  GI:399515045
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1928)
+  AUTHORS   Looso,M., Michel,C.S., Konzer,A., Bruckskotten,M., Borchardt,T.,
+            Kruger,M. and Braun,T.
+  TITLE     Spiked-in Pulsed in Vivo Labeling Identifies a New Member of the
+            CCN Family in Regenerating Newt Hearts
+  JOURNAL   J. Proteome Res. 11 (9), 4693-4704 (2012)
+   PUBMED   22891955
+REFERENCE   2  (bases 1 to 1928)
+  AUTHORS   Looso,M., Michel,C.S., Konzer,A., Bruckskotten,M., Borchardt,T.,
+            Krueger,M. and Braun,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2012) Dept. I - Cardiac Development and
+            Remodelling, Max-Planck-Institute for Heart and Lung Research,
+            Ludwigstrasse 43, Bad Nauheim, Hessen 61231, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SeqMan v. 8.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1928
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..1928
+                     /gene="cyr61"
+     CDS             193..1308
+                     /gene="cyr61"
+                     /codon_start=1
+                     /product="cysteine-rich angiogenic inducer 61"
+                     /protein_id="AFP43734.1"
+                     /db_xref="GI:399515046"
+                     /translation="MKHATSMALLVIGSIHLVXSXCPSECRCSSEPTRCAPGVGLVLD
+                     GCDCCKVCAKQLNEDCSRRHPCDHTKGLECNFGASPSASHGICRAKSEGRPCEYNSKI
+                     YQNGESFQPNCKXQCTCIDGAVGCIPLCPQELSLPHMGCPNPRLVKVPGQCCEEWVCD
+                     ETKVSHDGLDDFFGKEFGLDESEGELTNKNELIAIIKGGHKMLPVYSNEPQSRTFKNP
+                     KCIVQTTSWSQCSKSCGNGISTRVTNDNLDCRLVRETRICEVRQCGEPAHANPKKGKK
+                     CTKTRKSQAPVRFAYAGCSSVKKYRPKYCGSCVDGRCCTPQQTRTVKIRFRCXDGESF
+                     SKNVMMIQSCRCNYNCPHTNEAFPYYRLFNDIHKFRD"
+ORIGIN      
+        1 acagagctgc cttgtagagc ctggcgcgag ccttggaggg aaagcgagag cgccagcaag
+       61 cagcagaacc ctgcaagaac acgagcacgm agcaccagca gctgagacct gcaactgcac
+      121 cccaaagagg agcagcagag ccacgcacac ttctctgcga aagcaccact gctcagaaaa
+      181 tccacctcag ccatgaagca cgccacgagc atggccctcc ttgtgatcgg atccatccac
+      241 ctggtgwcct ccwtgtgccc ctccgagtgc cgctgctctt ctgagcccac caggtgcgcc
+      301 cccggcgtag ggctcgtcct ggacggctgc gactgctgca aggtgtgcgc caagcagctg
+      361 aacgaggact gcagccgtcg gcacccctgc gaccacacca agggcttgga gtgcaacttc
+      421 ggagccagcc ccagcgcctc gcacggcatc tgcagagcaa agtcagargg ccgaccctgc
+      481 gartacaact ctaaaatcta ccagaacggg gaaagttttc agccaaactg caagcrccag
+      541 tgtacctgca tcgatggagc tgtgggctgc atcccgctct gtcctcagga gctctccctg
+      601 ccccacatgg gctgtcccaa tccaagactg gtgaaagtac ctggacagtg ctgcgaagag
+      661 tgggtgtgtg atgagaccaa ggtttcccat gatggactgg atgacttctt cggcaaagag
+      721 tttgggttgg atgagtcaga aggtgaactt accaacaaaa atgagctgat tgccatcatc
+      781 aagggaggac acaagatgct gcctgtgtat agcaatgaac cacagagcag gacgtttaaa
+      841 aacccaaagt gcattgttca gacaacatcc tggtcccagt gttccaagag ctgtggcaat
+      901 ggcatctcta caagggtcac caatgacaat ctcgactgca gactcgtgcg cgaaacccga
+      961 atctgtgaag tgcggcagtg tggcgaacca gcccatgcca atccaaagaa gggaaagaag
+     1021 tgtacaaaaa caagaaagtc acaagctcct gtgaggttcg cttatgcagg atgttcaagt
+     1081 gtcaagaagt atcgtcccaa gtactgtggc tcttgtgtgg atgggaggtg ttgtactcct
+     1141 cagcagacca ggactgtgaa ratccgcttc cgctgcgawg acggcgaatc tttctcaaag
+     1201 aacgtcatga tgatccagtc ctgtaggtgc aactacaact gtccgcacac aaacgaagcc
+     1261 ttcccttatt acagactgtt caatgacatc cataaattta gggattgaag gtgatatcag
+     1321 aaaatagtgg tgggtggcct actagggata ggggccaagg aattagccca caatgcagtg
+     1381 ctttcaaaaa tctagtaagg ctggggtagg gtcagtagtg tcatgcattg tcttgcatgt
+     1441 gactctctct gactctgccc actgacctac caggggtacc ttactgccca ttttcctgaa
+     1501 tgtcaatccg gtctctgcca attacagact ccaatgatgg gacatgaact ctgttgtagg
+     1561 attggttcca tatttctttg gatgaagtca gatcttgtgg accataaatg gtgcactttt
+     1621 caactggaca tgcatacaac aagaaagaaa tgacactttt ttaaagcttc acattggagc
+     1681 aggctgattg cttctttttt aggagcattt tagttgtact gtttattaca tctgaaacaa
+     1741 ttttatttgt ttctaacatg ttttatagat tctgttagtt gatcgctctt tatacttgtg
+     1801 agagaataca agttagaagt tacattccac cctgaggtgg gcacttttcg agtgctcatt
+     1861 gtggcagcta caatgtacaa gaatatccaa acagccaaca gaaattgttt caaagtgaat
+     1921 gtttttta
+//
+

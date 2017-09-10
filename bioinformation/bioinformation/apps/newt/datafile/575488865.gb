@@ -1,0 +1,50 @@
+LOCUS       KF941302                 596 bp    DNA     linear   VRT 27-JAN-2014
+DEFINITION  Ichthyosaura alpestris isolate Gist.1 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KF941302
+VERSION     KF941302.1  GI:575488865
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 596)
+  AUTHORS   Mavrogiorgou,M.C., Vareli,K. and Sainis,I.
+  TITLE     High frequency appearance of dorsal black spots in NW Greek alpine
+            newt populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 596)
+  AUTHORS   Mavrogiorgou,M.C., Vareli,K. and Sainis,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Interscience Molecular Oncology Laboratory,
+            Human Cancer Biobank Center, University of Ioannina, Panepistimiou
+            1, Ioannina, Epirus 45000, Greece
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..596
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Gist.1"
+                     /db_xref="taxon:54263"
+                     /country="Greece"
+                     /altitude="2350 m."
+                     /collected_by="Ioannis Sainis"
+     rRNA            <1..>596
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cgcctgttta tcaaaaacat cgcctcttgc taagcacagt ataagaggtc ccgcctgccc
+       61 agtgatcatt ttcaacggcc gcggtattat gaccgtgcaa aggtagcgta atcacttgtc
+      121 ttttaaataa agacccgtat gaaaggcaaa acgaaagttc aactgtctct ttgatcttat
+      181 ctgtgaaatt tatttctccg tgcagaagcg gagatagtta tataagacga gaagacccta
+      241 tggagcttca aatacaaaac caactacaac cacaccctta gccaacaggc aaaaaattaa
+      301 taaatgtaat tatggtttaa attttcggtt ggggcgacca cggagtaaaa attaacctcc
+      361 acgacatgta atttagaaca acacttcgaa aactaaaaca tttatttttg atgatccact
+      421 aagtgaccaa cgaaccaagt taccctaggg ataacagcgc aatcctttct aagagttcat
+      481 atcgacgaat gggtttacga cctcgatgtt ggatcaggac acccaaatgg tgcagccgct
+      541 attaaaggtt cgtttgttca acgattaaag tcctacgtga tctgagttca gaccgg
+//
+

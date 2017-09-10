@@ -1,0 +1,62 @@
+LOCUS       KJ776982                 955 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  UNVERIFIED: Notophthalmus viridescens isolate AH_37 NADH
+            dehydrogenase subunit 2-like (ND2) gene, partial sequence; and
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete
+            sequence; mitochondrial.
+ACCESSION   KJ776982
+VERSION     KJ776982.1  GI:686028024
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 955)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..955
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_37"
+                     /db_xref="taxon:8316"
+     gene            <1..591
+                     /gene="ND2"
+     misc_feature    <1..591
+                     /gene="ND2"
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            590..658
+                     /product="tRNA-Trp"
+     tRNA            complement(660..728)
+                     /product="tRNA-Ala"
+     tRNA            complement(729..801)
+                     /product="tRNA-Asn"
+     rep_origin      802..834
+                     /note="origin for light strand replication"
+     tRNA            complement(832..896)
+                     /product="tRNA-Cys"
+ORIGIN      
+        1 acttattaat tacaatagca ctagcatcaa caattattnc ggggatgagg aggcctcaat
+       61 caaacacaaa tacgaaaaat tatagcatat tcatctattg cgcatctagg gtgaataatt
+      121 ttagttttat ctttcgcccc taccctaaca atatttaact taatgatcta tttaatatta
+      181 acctcttcta tatttataat aataatagcc acacattcca caaatattaa taagctctca
+      241 acttcatgac taaaaacacc tacactagca gcatccacaa taattaccct tatagccctt
+      301 ggaggacttc ctccaacctc aggcttccta ccaaaatgac taattttaca agaaataaca
+      361 aaacaacacc tagaaacact atcaactata atagccatat ccgctttact cagcttattc
+      421 ttttacctac gcctatctta tactatctcc ctaacctccc ccccaaatat ttccaattca
+      481 aacttcactt gacgaataaa aaacaataaa ctacaaattc tcccaactct tattgtactt
+      541 tcagcaacaa taatacctat cgccccaaca ctattgacaa taataaacta aagacttagg
+      601 ataataagac caaagacctt caaagtctta agcaggagtt aaaaccttct agtctttgat
+      661 aggacctgca agactctatc tcacatcttc tgaatgcaac ccaaacactt taatgaagct
+      721 aagaccctct agactagtag gcctttatcc tacgcccttt tagttaacag ctaaacgctc
+      781 aatccagcga gctttattct acttctcccg cttatggggt aaaaagcgga gaagccccgg
+      841 cagaagctat tctgctcttt aaatttgcaa ttttatatgc tggacatcac agggcttgta
+      901 aaaaaaggac ttaaccttta tacaagggct acatcttgca cctaattcgc cactt
+//
+

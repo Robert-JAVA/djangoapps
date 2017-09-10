@@ -1,0 +1,94 @@
+LOCUS       AB374535                2614 bp    mRNA    linear   VRT 07-MAY-2010
+DEFINITION  Cynops pyrrhogaster CYP7B1 mRNA for 7alpha-hydroxylase, complete
+            cds.
+ACCESSION   AB374535
+VERSION     AB374535.1  GI:208609127
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Haraguchi,S., Koyama,T., Hasunuma,I., Vaudry,H. and Tsutsui,K.
+  TITLE     Prolactin increases the synthesis of 7alpha-hydroxypregnenolone, a
+            key factor for induction of locomotor activity, in breeding male
+            Newts
+  JOURNAL   Endocrinology 151 (5), 2211-2222 (2010)
+   PUBMED   20219980
+REFERENCE   2  (bases 1 to 2614)
+  AUTHORS   Haraguchi,S. and Tsutsui,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2008) Contact:Shogo Haraguchi Waseda University;
+            1-6-1 Nishi-Waseda, Shinjuku-ku, Tokyo 169-8050, Japan Phone
+            :81-3-5369-7369(ex.3201) Fax :81-3-3355-0316
+FEATURES             Location/Qualifiers
+     source          1..2614
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..2614
+                     /gene="CYP7B1"
+     CDS             157..1683
+                     /gene="CYP7B1"
+                     /codon_start=1
+                     /product="7alpha-hydroxylase"
+                     /protein_id="BAG72175.1"
+                     /db_xref="GI:208609128"
+                     /translation="MLFSGFSGEEKALQWLFSVYTLTLGAAALLAYLCFSGSRRRRRA
+                     GEPPLETGWIPYLGALQFHKNPSNFLKSLQKKHGDIFTVQLLGKYMSFIMDPSQYQYV
+                     TKRGKQLDFTEFAGQMASRTFDYPQMSEAKFPQLHDNMHKGYKILQGEGLNELTDSMM
+                     RNLQHIFKWKFSQATDWRTGKLYEFCCSVMFEASFMTLYGKEPTDGHKVISEIRDKFS
+                     KFDAKFPYLFTSIPIALLGATKKTREALIHIFFPDIMSKRLTVSEVVQYRSSVLDKYE
+                     QLRDYDKAAHHFAFMWASVGNTIPATFWAMYYLVQHPEALAVVRDEIDHLLKSTGQTR
+                     SPEYNIHFTKDQLDALVYLDSAVHESFRMSTASMNIRVVQQDFLLKLEGNQEWSLRKG
+                     DMLALFPPTLHNDPEVYSDPEVFQFDRFVENGAKKTSFYKRGKKLKYYLMPFGSGVSK
+                     CPGRFFAVNEIKQFLAMMVTYLDMEFIENKKVGLDNSRSGLGVLLPDSDIQFRCKPRR
+                     "
+ORIGIN      
+        1 aaaagttcac ttctagagcc acaaaagttg taaaatccag tccctcgtcc tcacaggaag
+       61 aagaggagct gggagcgggc cgagtacatc cgcagagctc ctccgttcag ctttgaagag
+      121 gtgtaacggg cccgcccgcc agcccgccaa gaaacgatgc ttttcagtgg cttcagtggt
+      181 gaagaaaaag ctcttcagtg gcttttcagc gtgtacaccc tgaccctcgg ggccgcggcg
+      241 ctgctggcgt atttgtgctt cagcggcagc agacgcagga ggagagctgg ggagccgcca
+      301 ttagaaactg gatggattcc ttaccttggc gcgttacagt ttcacaaaaa tccttcaaat
+      361 tttctgaagt cgctgcagaa gaaacatggc gatatcttta cggtacagct ccttggcaaa
+      421 tacatgagtt tcataatgga tcctagccag taccagtacg tgaccaagcg tggcaagcag
+      481 ctcgatttca ctgaatttgc aggtcaaatg gcctcccgaa cctttgacta tccacaaatg
+      541 tctgaagcaa agtttccaca gcttcatgat aatatgcaca aaggctacaa aatcctgcag
+      601 ggtgaaggac tgaatgaact aactgacagc atgatgagaa atctccagca catattcaaa
+      661 tggaaattct cacaggcaac agattggcga acaggaaaat tatacgagtt ctgctgctct
+      721 gtgatgttcg aagccagttt catgacactg tatggaaagg aacccacaga tggccacaaa
+      781 gttattagtg aaatcagaga caaattctcg aagtttgatg ccaagttccc ctatcttttc
+      841 acaagcatcc caattgcgtt gcttggagct acgaaaaaga ctcgagaggc cctaatacac
+      901 atattctttc ctgatataat gtccaagagg ttgacagtat ctgaagtggt ccaatataga
+      961 agcagcgttc tagacaaata cgaacaactc cgggactatg acaaagcagc acatcatttc
+     1021 gccttcatgt gggcctctgt gggaaacacg attccggcta ccttctgggc catgtactat
+     1081 ctggtgcagc acccggaagc gcttgcagtg gtgcgtgacg aaattgacca tttgctgaag
+     1141 tcaacaggtc aaacgagaag cccagagtac aacatccact tcaccaaaga ccagttggac
+     1201 gccctggtct atctggatag tgcggtccac gagagcttcc ggatgtccac ggcttccatg
+     1261 aacattcgag tcgtgcagca ggatttcctc ctcaagctcg agggaaacca ggagtggtcc
+     1321 ctaaggaaag gagacatgtt agctctcttc cccccgacac tgcacaatga cccggaggtt
+     1381 tacagtgacc cagaggtgtt ccagtttgac cgttttgtag aaaatggggc aaagaaaaca
+     1441 tccttttaca agagaggaaa gaagttgaaa tattacctga tgccatttgg gtcaggagtc
+     1501 agcaagtgtc caggcagatt ttttgctgtg aatgagatta agcagtttct agctatgatg
+     1561 gtgacctacc ttgacatgga attcattgaa aataaaaaag taggacttga caatagccgc
+     1621 tcgggccttg gtgttctttt gccagattct gatattcaat ttcgatgcaa gccaagacgt
+     1681 taggcacgac actggctcta actgcgtaca ggacaatgtc ttacaaaaaa tattgtaatt
+     1741 ataagcctag caggacagta ttactagctc ccaatgagaa cagagtaggg ggcttttatt
+     1801 accgaaaaat cgtctaatgg gtctttaaat tggtaaatgt tttaggtaga aggtagcagg
+     1861 tgagaagggg ggatgtgcac ccattttaca aataaacttt tgactcgcac ctctgcgact
+     1921 gaatctcttg tctggtgtga tgtgcattcc tggattagtc ttgcaaaata ctttgctaga
+     1981 caatagaggt cagatattta atttccatct gacttgtatg taatagccat agctgtttat
+     2041 tagcagatga agaacctcca ttaattagct ttcctgtcac acattttaaa attccctggt
+     2101 aaagaatgtc aatgtgaata acactactgt tagggatggc tgattaactc tgaaattctc
+     2161 tatattcaac aaacaccaac ttgtatgtat ttgcactagt ttggttaatg gtgctgtaag
+     2221 cacatgaaaa tcaaatatac tgtcagaata gttttttgtg ctatttagtt atgaatgtgg
+     2281 tcataaattc atcttttcta ctatcttcag tttctagaat ttttttattt acatgtttac
+     2341 cacagagggt gagggctaaa ttgaacacta aaaaaatgat atagtatgtt caagagttat
+     2401 gagaaagcag aaaatatgat ctcaggtgtt ttctaagggt caaagattta cagtttcttc
+     2461 ttttgcatac aaaagtctga agatgcattt taacctgatt gtctcaaaac aaaatcacaa
+     2521 tttctcatga ttcctgtctt taataagtga ggcaaaatac tctgatgaaa attttgcaaa
+     2581 taaagctatg ttctatacaa aaaaaaaaaa aaaa
+//
+

@@ -1,0 +1,86 @@
+LOCUS       DQ186599                2515 bp    mRNA    linear   VRT 21-SEP-2005
+DEFINITION  Taricha granulosa mesotocin receptor mRNA, complete cds.
+ACCESSION   DQ186599
+VERSION     DQ186599.1  GI:75756237
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 2515)
+  AUTHORS   Searcy,B.T., Filtz,T.M. and Moore,F.L.
+  TITLE     Identification and Characterization of the Mesotocin Receptor from
+            the Brain of the Rough-skinned Newt, Taricha granulosa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2515)
+  AUTHORS   Searcy,B.T. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2005) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..2515
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     CDS             571..1752
+                     /note="GPCR; similar to mammalian oxytocin receptor"
+                     /codon_start=1
+                     /product="mesotocin receptor"
+                     /protein_id="ABA27136.1"
+                     /db_xref="GI:75756238"
+                     /translation="MEGLCLKENDCWGLLANRSLDNSTMENRTYAVNKTRDPLKRNEH
+                     MARVEVSVLALILFLALVGNVCVLLAIHINRNKHSRMYFFMKHLSIADLVVAIFQVLP
+                     QLIWDITFRFYGPDFLCRAVKYLQVVGMFASTYMLLLMSMDRCLAICQPLRSLHRRSD
+                     RVYVIVTWILSFLVSIPQIHIFSLKEVGNGVQDCWADFIQPWGVKAYVTWITVMVYII
+                     PVLILSICYGLISFKIWQNFRLKTVCETNVALTSTSTRRTTLSRVSSVKLISKAKIRT
+                     VKMTFIIVLAYIVCWTPFFFVQMWSVWDINAPKEASLFIIAMLLGSLNSCCNPWIYML
+                     FTGHLFHDLLQRFLCCSAHYLKSRQQGADLSSASRKSNSTVVLSRKSSSQKSIAQPSM
+                     A"
+ORIGIN      
+        1 aaaacacttg taaagtctgc atagctaggg gtgacgcgtg acggcggaga tagacatcat
+       61 tacacctaag caggagccga gagcacaacg aggcaccacc atgtatctgg aaagtaagga
+      121 aaaagtattt cggaaaagga ttccccgctg tcttgaatgt atcgctgaga caggtcgaca
+      181 gatctgagtc agttcctctg gaatttcaaa gaagttcctg tggccatccc ttcgccccac
+      241 acaccccacc tcttgtcacc ggagcgcaat tgaaggtggt acgcatactt aaggcggttc
+      301 accggagcca aaagggacca aactgaggga caatgagaga aatgggagca aaactagtta
+      361 atagccaatc actgaacaca gggtgaacaa aactgtggca ggggagtact ctctggactc
+      421 tgtcagcagg agaatcagca taaaaggata caagtagata tttaaagaaa agaatgtcaa
+      481 ccatcatcat tccacagggg aggtaacacc ccagcatttg ggccactcaa tcacagcatc
+      541 aacctctccc aaccacagct gccggcagac atggaggggt tatgtctgaa ggagaacgat
+      601 tgctggggtc ttttggccaa ccgctctctg gataactcaa ccatggagaa caggacgtat
+      661 gctgtaaaca aaaccaggga ccccttgaaa aggaatgagc acatggctcg cgtggaggtg
+      721 agcgtgctgg ccctcatcct cttcctggct ctggtgggta acgtgtgtgt gctgctggcc
+      781 atccacatca accggaacaa gcactcacgc atgtacttct tcatgaagca cctcagcatc
+      841 gctgacctgg tggtggccat cttccaggtc ctcccgcagc tcatctggga catcaccttc
+      901 aggttctatg ggccggactt cctctgccgg gcagtcaagt acttgcaggt ggtggggatg
+      961 ttcgcgtcca cctacatgct gctactgatg tccatggacc ggtgcctggc catctgccaa
+     1021 cctcttcggt ctcttcacag acgctcggat cgggtgtatg tcatcgtcac ctggatcttg
+     1081 agctttttgg taagcattcc tcagattcat atcttctcct tgaaggaggt gggcaatggg
+     1141 gttcaggatt gttgggcaga cttcatccag ccttggggcg tgaaagcgta cgtgacttgg
+     1201 atcaccgtga tggtgtacat catccccgta ctgatcctca gcatctgcta tggcctcatc
+     1261 agcttcaaga tctggcagaa ctttcgcctg aagacagtct gtgagaccaa tgtggcactg
+     1321 acctcaactt ccacacgcag gaccaccctg tcgagggtca gcagcgtgaa gctgatctcc
+     1381 aaggctaaaa tcaggactgt caagatgacc ttcatcatcg tcttggccta catagtctgc
+     1441 tggacaccct tcttcttcgt ccaaatgtgg tctgtctggg acatcaatgc acccaaagaa
+     1501 gcatccttgt tcatcattgc aatgctactg ggaagcctaa acagctgctg caacccctgg
+     1561 atctacatgc tcttcacggg acatctcttt catgacctct tgcagcgctt cctctgctgc
+     1621 tctgctcatt acttgaaatc caggcagcaa ggggctgatc tcagcagtgc cagcaggaag
+     1681 agcaattcca ccgttgtcct gagtcgcaag agctccagcc agaagagcat agcacagcca
+     1741 tccatggcat gagctgcggc atatcttcat gaacaaaaga cacctaaaag tggaatatag
+     1801 tctttcagac tttggtccaa attaagactc ttttgtaagg tcattaagta agagactttt
+     1861 taggtcaaga caccctgtcc tatccagcat gaaatgattc atctttacag ccttataggc
+     1921 taaaacgcta tcatatccaa gtgggaaaga gtcaccaaca ttttctcata accaggacaa
+     1981 atggtcttgt gaactgagac tcctccagaa ttactgtgtt cttgtgaaac aaggtacaat
+     2041 tttctcatga atcagggcat gtttttactg ataaacatta tggaggaaga cggtgttcac
+     2101 attattaaca aagagacttc tacgcttgac tatgggatgg gcacctccag attttgaaag
+     2161 gaaacccatt tacaatcaca tgattcatga tttgagaaaa aggaccaggg tagcactatt
+     2221 tcctagttat gggaatgttt catatcctcc tggataatta ccgatgtgta cttattgatg
+     2281 atatctccaa gtgttttcca tggaccatat tcacttgaac aaagacaggg ctttctcttt
+     2341 ttctttatta aatttatagt tgttttacaa aaggctgatt tggaggaaaa gaaaatatgt
+     2401 atataaattt atatgtatgt atatatatat atatgcttac tgttgtacat ttgtaaatta
+     2461 tatattcaat ttatgcagaa ataaagaaga caactcaaaa aaaaaaaaaa aaaaa
+//
+

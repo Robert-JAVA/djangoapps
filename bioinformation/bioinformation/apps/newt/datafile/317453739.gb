@@ -1,0 +1,79 @@
+LOCUS       GU980579                1214 bp    DNA     linear   VRT 17-JAN-2011
+DEFINITION  Paramesotriton yunwuensis voucher CIB97854 tRNA-Met gene, partial
+            sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds;
+            tRNA-Trp and tRNA-Ala genes, complete sequence; and tRNA-Asn gene,
+            partial sequence; mitochondrial.
+ACCESSION   GU980579
+VERSION     GU980579.1  GI:317453739
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton yunwuensis
+  ORGANISM  Paramesotriton yunwuensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1214)
+  AUTHORS   Wu,Y., Jiang,K. and Hanken,J.
+  TITLE     A new species of newt of the genus Paramesotriton (Salamandridae)
+            from southwestern Guangdong, China, with a new northern record of
+            P. longliensis from western Hubei
+  JOURNAL   Zootaxa 2494, 45-58 (2010)
+REFERENCE   2  (bases 1 to 1214)
+  AUTHORS   Wu,Y., Jiang,K. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1214
+                     /organism="Paramesotriton yunwuensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB97854"
+                     /db_xref="taxon:942857"
+     tRNA            <1..26
+                     /product="tRNA-Met"
+     gene            27..1064
+                     /gene="ND2"
+     CDS             27..1064
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADV19063.1"
+                     /db_xref="GI:317453740"
+                     /translation="MSPYTLSMLMSSLAVGTITTLSSYHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTIMNAWMTGEWTIMSMNHHMSTTILTIAL
+                     AIKLGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILTSHQLNPNLLIMMALT
+                     SMVVGGWGGLNQTQTRKIMAYSSIAHLGWMAMIVPFAPNLALLALLVYIILTSSMFMT
+                     LMTLNSTNMNKLSTSWLKTPTLAAFTMITLMALGGLPPTSGFLPKWLILQEMTKQHLN
+                     ALSTAMAMLALLSLFFYLRLSYTISMTSPPHISNSNLVWRKKNNLQIIPMMITLSAML
+                     MPMTPTLLMMN"
+     tRNA            1063..1131
+                     /product="tRNA-Trp"
+     tRNA            1133..1200
+                     /product="tRNA-Ala"
+     tRNA            1201..>1214
+                     /product="tRNA-Asn"
+ORIGIN      
+        1 tgttggcgaa aacccttctt ttactaatga gcccctatac actatctatg ctaatatcaa
+       61 gtcttgcagt aggaacaatt actacactat cgagttacca ctgatttcta gcatgaatag
+      121 gactagaaat caatacactg gctattattc cactaataac taaaatacac cacccccggg
+      181 ctacagagtc cgcaacaaag tactttctaa cacaagccac agcctccgcc ctaattttat
+      241 tctcaacaat tataaacgca tgaataactg gagaatgaac aatcataagc ataaaccacc
+      301 acatatcaac aacaatctta acgattgctc tagcaattaa actaggagtt gcaccatttc
+      361 acctatgatt accagacgta ttacaaggac taaacatgat aacatgccta atcctatcaa
+      421 catgacaaaa actagccccc atggccctgc ttattttaac aagccaccaa ctaaacccaa
+      481 acctactaat tataatagca ctgacatcta tggttgtagg gggatggggg ggcctaaatc
+      541 aaacacaaac acgaaaaatt atagcatact cgtccatcgc acatttaggg tgaatagcca
+      601 taattgtgcc cttcgcccca aatctggcac tactcgccct attagtatat attatcctaa
+      661 cctcatctat gtttataaca ttaataacct taaactcaac aaacataaat aaactctcaa
+      721 cctcatgact aaaaacacca acactagcag cctttacaat aattacccta atggcccttg
+      781 gagggctccc accaacatca ggatttttac caaaatgact aattttacaa gaaataacca
+      841 aacaacacct taatgccctc tccactgcaa tagccatatt agccctactc agcctcttct
+      901 tttacctacg tctatcatat acaatctcaa taacctcacc ccctcacatc tcaaactcaa
+      961 acctcgtctg acggaaaaaa aacaacctac agattatccc aataataatc acactatcag
+     1021 caatattaat gccaataacc ccaacactgc taataataaa ctaaggactt aggataacaa
+     1081 gaccaaagac cttcaaagcc ttaagcagaa gttaaaatct tctagtcctt gataaaacct
+     1141 gcaggatatt accccacatc ttctgaatgc aacccagaca ctttaattaa gctaaagctt
+     1201 ctagattagc aggc
+//
+

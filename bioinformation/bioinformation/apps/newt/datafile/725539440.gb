@@ -1,0 +1,50 @@
+LOCUS       KJ703162                 336 bp    DNA     linear   VRL 29-NOV-2014
+DEFINITION  Bosca's newt virus isolate GA11010 p31k gene, partial cds.
+ACCESSION   KJ703162
+VERSION     KJ703162.1  GI:725539440
+KEYWORDS    .
+SOURCE      Bosca's newt virus
+  ORGANISM  Bosca's newt virus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 336)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Catastrophic declines of host communities due to an introduced and
+            indiscriminate virus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 336)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2014) UCL Genetics Institute, University College
+            London, Gower Street, London, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..336
+                     /organism="Bosca's newt virus"
+                     /mol_type="genomic DNA"
+                     /isolate="GA11010"
+                     /host="Triturus marmoratus"
+                     /db_xref="taxon:1574221"
+                     /country="Spain: Pontillon"
+                     /collection_date="2011"
+     CDS             complement(<1..>336)
+                     /note="CMTVorf82L"
+                     /codon_start=3
+                     /product="p31k"
+                     /protein_id="AIY30274.1"
+                     /db_xref="GI:725539441"
+                     /translation="WSMSLMCYDTNKGPSPQETAFIKALEAIECRVKKHLKDKDVKKA
+                     TGKWYQDPLIDIMSMFYRKMEDGVVVPDRAPALYPKLLKSKNNPGQVATGFYKFVRGK
+                     EVKIPVVKE"
+ORIGIN      
+        1 tttccttgac cactggaatc tttacctcct tgcctctgac aaacttgtaa aagccagtgg
+       61 caacctgtcc ggggttgttc ttagacttga ggagtttggg gtaaagggct ggagccctgt
+      121 cagggacaac cacgccgtct tccatctttc tgtaaaacat gctcattatg tcgatcagag
+      181 gatcctgata ccactttccg gtggccttct tgacgtcctt gtccttgagg tgcttcttta
+      241 ccctgcactc gatggcctcg agtgccttga taaaggcagt ctcctgcggg ctgggaccct
+      301 tgttggtgtc gtagcacatc agggacatgg accagt
+//
+

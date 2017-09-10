@@ -1,0 +1,64 @@
+LOCUS       AB769532                1035 bp    DNA     linear   VRT 10-MAY-2013
+DEFINITION  Tylototriton lizhenchangi mitochondrial gene for NADH dehydrogenase
+            subunit 2, partial cds, specimen_voucher: KUHE:42316.
+ACCESSION   AB769532
+VERSION     AB769532.1  GI:496527019
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton lizhenchangi (Mangshan crocodile newt)
+  ORGANISM  Tylototriton lizhenchangi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Matsui,M. and Nguyen,T.T.
+  TITLE     A New Species of Tylototriton from Northern Vietnam
+            (Amphibia:Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 32, 34-49 (2013)
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) Contact:Koshiro Eto Kyoto University,
+            Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Tylototriton lizhenchangi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE:42316"
+                     /db_xref="taxon:1267581"
+                     /country="China"
+     CDS             1..>1035
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAN19736.1"
+                     /db_xref="GI:496527020"
+                     /translation="MNPYALSILLSSLAMGTITTLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSAITNAWATGEWTIITMNDNTSTFILTIAL
+                     SIKLGIAPFHLWLPDVMQGLNLTTCLILTTWQKLAPMSLMIMTSHQLNTSLLITMAML
+                     STVVGGWGGLNQTQMRKMMAYSSIAHLGWMTLVLSFSPSLTALNLMIYLMLTSSMFLM
+                     MMTLTATNMNKLSTSWLKTPLLASLMMITLMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     TVSTLMAMSALLSLFFYLRLSYAISLTTAPNTSNSNMTWRVSHNQMQTLPTMITLTTM
+                     MLPITPTLLAM"
+ORIGIN      
+        1 atgaacccat atgccctgtc aattctatta tcgagcctgg caataggaac aattacaact
+       61 ctttcaagct cccactgatt cctcgcatga gttggcctag aaattaacac gctggcaatc
+      121 atcccactaa taacaaaaat acaccaccca cgagcaacag aatcagccac aaaatacttc
+      181 ctaacacaag ccaccgcatc agccttaatc ttattttctg caatcacaaa cgcatgggcc
+      241 acaggagaat gaacaattat taccatgaac gataacacat caacatttat cttaacaatc
+      301 gccctatcca ttaagctggg aatcgcccca tttcacctat gactaccaga cgtcatacaa
+      361 gggctaaacc taacaacatg tttaatcctt acaacatgac aaaaactagc cccaatatca
+      421 ctaataatca taaccagcca tcaattaaac acaagcctac taattacaat agccatatta
+      481 tcaacagtag ttggggggtg ggggggcctt aaccaaacac aaatacgaaa aataatagca
+      541 tactcatcca tcgcccacct cggatgaata acactagtcc tatctttctc cccaagctta
+      601 acggccctga acctcataat ttaccttata ctaacctcat caatattttt aataataata
+      661 accctgaccg caacaaatat aaacaaactt tcaacatctt gactaaaaac accactacta
+      721 gcatcattaa taataattac acttatagcc ctaggaggcc tacccccgac ctcaggcttc
+      781 ttaccaaaat gactaattct acaagaaata actaaacagc acctagagac cgtatccaca
+      841 ctaatggcta tatctgccct actaagcctg ttcttctacc tacgactgtc gtatgcaatc
+      901 tcattaacta ctgcaccaaa cacctcaaac tccaacataa cctgacgagt atctcacaac
+      961 caaatacaaa ctctcccaac aataatcaca ctaaccacaa taatattacc gatcacacca
+     1021 acactactag caata
+//
+

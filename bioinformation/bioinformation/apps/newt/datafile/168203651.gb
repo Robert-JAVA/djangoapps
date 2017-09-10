@@ -1,0 +1,46 @@
+LOCUS       EU430953                 543 bp    DNA     linear   VRT 03-JUN-2008
+DEFINITION  Neurergus crocatus 16S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   EU430953
+VERSION     EU430953.1  GI:168203651
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus crocatus (Lake Urmia newt)
+  ORGANISM  Neurergus crocatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 543)
+  AUTHORS   Veith,M., Lipscher,E., Oz,M., Kiefer,A., Baran,I., Polymeni,R.M.
+            and Steinfartz,S.
+  TITLE     Cracking the nut: geographical adjacency of sister taxa supports
+            vicariance in a polytomic salamander clade in the absence of node
+            support
+  JOURNAL   Mol. Phylogenet. Evol. 47 (3), 916-931 (2008)
+   PUBMED   18455442
+REFERENCE   2  (bases 1 to 543)
+  AUTHORS   Veith,M., Lipscher,E., Oez,M., Kiefer,A., Baran,I., Polymeni,R.M.
+            and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JAN-2008) Biogeography, Universitaet Trier, Am
+            Wissenschaftspark 25-27, Trier 54296, Germany
+FEATURES             Location/Qualifiers
+     source          1..543
+                     /organism="Neurergus crocatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:213851"
+     rRNA            <1..>543
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 gaggtcctgc ctgcccagtg ataaatttta acggccgcgg tattatgacc gtgcaaaggt
+       61 agcgtaatca cttgtctttt aaataaggac ctgtatgaaa ggcaaaacga aaattcaact
+      121 gtctctttaa tctaatcggt gaaattaatc tctccgtgca gaagcggaga tgacaatata
+      181 agacgagaag accctgtgga gcttcaaaca taagattaac tgcacaaata ctactaaccg
+      241 accggtaaat aataaaaatg tgtactaata atctaagttt tcggttgggg cgaccgcgga
+      301 agaaaagaaa tcctccgaga taaccaactt agaacgacac ttcaaagact aaaatattta
+      361 atataaaatg atccactaag tgaccaacga accaagttac cccagggata acagcgcaat
+      421 cctttctaag agtccatatc gacgaatggg tttacgacct cgatgttgga tcaggacacc
+      481 caaatggtgc agccgctatt aaaggttcgt ttgttcaacg attaaagtcc tacgtgatct
+      541 gag
+//
+

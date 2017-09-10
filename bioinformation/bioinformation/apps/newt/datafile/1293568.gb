@@ -1,0 +1,87 @@
+LOCUS       PWU49645                2384 bp    mRNA    linear   VRT 26-JUN-2001
+DEFINITION  Pleurodeles waltl distal-less like protein PwDlx-3 (PwDlx-3) mRNA,
+            complete cds.
+ACCESSION   U49645
+VERSION     U49645.1  GI:1293568
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2384)
+  AUTHORS   Nicolas,S., Massacrier,A., Caubit,X., Cau,P. and Le Parco,Y.
+  TITLE     A Distal-less-like gene is induced in the regenerating central
+            nervous system of the urodele Pleurodeles waltl
+  JOURNAL   Mech. Dev. 56 (1-2), 209-220 (1996)
+   PUBMED   8798159
+REFERENCE   2  (bases 1 to 2384)
+  AUTHORS   Nicolas,S., Massacrier,A., Caubit,X., Cau,P. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-1996) Laboratoire de Genetique et Physiologie du
+            Developpement, Institut de Biologie du Developpement de Marseille,
+            Parc Scientifique de Luminy - Case 907, Marseille cedex 09 13288,
+            France
+FEATURES             Location/Qualifiers
+     source          1..2384
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..2384
+                     /gene="PwDlx-3"
+                     /note="homeobox gene"
+     CDS             803..1627
+                     /gene="PwDlx-3"
+                     /note="homeodomain protein"
+                     /codon_start=1
+                     /product="distal-less like protein PwDlx-3"
+                     /protein_id="AAA98645.1"
+                     /db_xref="GI:1293569"
+                     /translation="MTTILTDLSSSLSCHAASKDSPTLPESSATDLGYYSAHAGTHSP
+                     HDYFQSQPYSQPISHYPYHQFNLNGLGGPGTYSPKSEYPYGGGGYRQYGHYREPAMAV
+                     QEPVTVKEEPEPEVRMVNGKPKKIRKPRTIYSSYQLAALQRRFQKAQYLALPERAELA
+                     AQLGLTQTQVKIWFQNRRSKFKKLYKNGEVPGMEHSPDNSDSMACNSPASPTVWDNNT
+                     PSRAHDPQAQPLPHNSSPSYLEDYNPWYHHPQNLSGPHLQPPGTMHHTPPGTGAVY"
+ORIGIN      
+        1 gaggagaggg aaggacctct gagtcagtag gaggaggaaa gagagatctg aggagacagg
+       61 gagaagagtt cccgggggct gggaggacag agtcgaaggc gctttctgag actagagatt
+      121 gccctgatta caggagggac tgtgggaaat cagaaagcac tgaagactta accccgaaat
+      181 aagcaaaagg atccccattt aagccaaaaa acacccagat ccgtcctccg agaatgcctg
+      241 tgagattttc ccaaaagtcc gcaaggaact ttgaggccgc tagacagctt tcaaaaagat
+      301 ctatctctgg caaggcagca aggactctta gcgttcaaga cctgggattt caacgggggc
+      361 tcggagaacc ttgttgagct caagtcagcc agcagggaac gctgagcaac cagcgcgaac
+      421 tctaagaagc tgctgtatcc aacgggagct cacagaagtc cacagcaccc agcaggagct
+      481 agcagaaacc ctgttatcca ccgagagttc ctagaagctc ctacaagcca ctcggattgc
+      541 tccgaaaagc ctcggagggt ctcggggcag acagtaagga gtccgagcag ccgccaggag
+      601 ctcctggaag tcctgagcag acaagtggag cgccaagaag ccccgagcag gagctctgaa
+      661 catccagtag gttactccta gaagccccga gccgctgggg taggagggag gatgtggatg
+      721 tgagtgtgtc gggcgcagag aagcacagag ctgtccgagt gaccgtgcca gagccctcac
+      781 cagagggagc tttcagggga agatgaccac cattctgaca gacctgtcca gctcgctgag
+      841 ctgccacgcc gcctccaagg actcacctac cctgcccgag tcctcggcca ccgacctggg
+      901 ctactacagc gcccacgcgg gcacccatag cccccatgat tacttccaga gccagccgta
+      961 ttcccagccc atcagccact acccctatca ccagttcaac ctgaacgggc tggggggacc
+     1021 gggcacctac tcccccaagt ccgagtatcc ttacggcggc ggcggataca ggcagtacgg
+     1081 gcactaccgg gagccggcga tggcggtgca ggagcctgtt acagtgaagg aggagcctga
+     1141 gcccgaggtg aggatggtga acgggaagcc caaaaagatc cggaaaccca ggaccatcta
+     1201 ctcgagctac cagctggccg ccctgcagag gaggttccag aaggcgcagt acctggctct
+     1261 gccagagagg gcggagttgg cggcccagct cgggctcacc cagacccagg tgaagatctg
+     1321 gttccagaac cggcgctcca agtttaagaa gctgtacaag aacggcgagg tccctggcat
+     1381 ggagcacagc cccgacaaca gtgactccat ggcctgtaac tccccagcat cgcccaccgt
+     1441 ttgggacaat aacaccccga gccgggcgca cgaccctcag gcccagccgc tcccacacaa
+     1501 ctcctcgccc agctaccttg aggactataa cccctggtac caccacccac agaacttgtc
+     1561 agggcctcac ctgcagcctc ctggtaccat gcaccataca ccacccggca caggggcggt
+     1621 gtactagcga gctgctctat actggactaa cagcgcaaga gataatagac tcgtgctggc
+     1681 cgagcatgtt ctgacaggac agaaaaaccc cttccattct caggaagaac aagggcttcc
+     1741 ccaaacatgg caccagcagc ttgaggagag gggaccgtca ctggaatctt gttacacgga
+     1801 ctcggccatg ttccaccgct cgcctttcca agagacctct gttctctctg tcaaagcaga
+     1861 tatttccaga gcctcccccg gctcaacact gcttgctgtt gctggggggt tggcctacat
+     1921 ctgcctagca ttactcatcg gcattagagt cagcactgtc aacaatgagc ccaagattgc
+     1981 tggattcaac atgtcaagcc agtggggatg cagggtacgg acataagtgg taatgggtct
+     2041 gtcatctccc caaccagaga caagtgagaa aacaagttgt ggaaacttgg tggtatataa
+     2101 gctgtacgtt gttaaagaga tctgtggtgt cattgtcttg atcacttact gtaaaatatc
+     2161 tacaggtgta aagggaacac taatttatct caaattcttc tcaactctcc gatcttacgt
+     2221 agttctcatg tttaggactg cgaagatagg ggcattgagt cacagtcact cagagggcat
+     2281 ttatgattaa ggggaagaaa aaaaaactga atgaaaacat gagaaagaaa tacaaaaagt
+     2341 gagagacaaa tgaaaatgca aatcaagtaa aaaagagtaa aaaa
+//
+

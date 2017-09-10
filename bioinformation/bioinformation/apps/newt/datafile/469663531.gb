@@ -1,0 +1,77 @@
+LOCUS       AB754795                1208 bp    DNA     linear   VRT 22-MAR-2013
+DEFINITION  Cynops pyrrhogaster Rag-1 gene for recombination activating protein
+            1, partial cds, haplotype: Ry845R.
+ACCESSION   AB754795
+VERSION     AB754795.1  GI:469663531
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Nishikawa,K., Hayashi,T.,
+            Misawa,Y., Tanabe,S. and Ota,H.
+  TITLE     Phylogeny and historical demography of Cynops pyrrhogaster
+            (Amphibia: Urodela): taxonomic relationships and distributional
+            changes associated with climatic oscillations
+  JOURNAL   Mol. Phylogenet. Evol. 66 (3), 654-667 (2013)
+   PUBMED   23103571
+  REMARK    DOI:10.1016/j.ympev.2012.10.015
+REFERENCE   2  (bases 1 to 1208)
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Nishikawa,K., Hayashi,T.,
+            Misawa,Y., Tanabe,S. and Ota,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2012) Contact:Atsushi Tominaga University of the
+            Ryukyus, Faculty of Education; senbaru 1, Nishihara, Okinawa
+            903-0213, Japan
+FEATURES             Location/Qualifiers
+     source          1..1208
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="URE_142"
+                     /db_xref="taxon:8330"
+                     /haplotype="Ry845R"
+                     /tissue_type="liver"
+                     /country="Japan:Okayama, Kibichuou"
+                     /note="University of the Ryukyus, faculty of Education"
+     gene            <1..>1208
+                     /gene="Rag-1"
+     CDS             <1..>1208
+                     /gene="Rag-1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="BAN05111.1"
+                     /db_xref="GI:469663532"
+                     /translation="RYDVALVSTLKDMEEDILEGLKAHELDDYLSGPFTVVVKESCDG
+                     MGDVSEKHGCGPVVPEKAVRFSFTIMTIAVDHNKDNVRIFEENKPNSELCCKPLCLML
+                     ADESDHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFRGTGYDEKLVREVEG
+                     LEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHHESVDELRDR
+                     VKGVSAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNASKEERKRWQSTL
+                     DKHLRKKMNLKPIMRMNGNFARKLMSQETVEAVCELVHSEERRAALRELMDLYLKMKP
+                     VWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIER
+                     DGSIGAWASEG"
+ORIGIN      
+        1 agatacgacg ttgcactagt ctccactctg aaggacatgg aggaggacat tttggaaggc
+       61 ctgaaagctc atgagctgga cgactacctc agtggtccat tcacggtggt cgtcaaggag
+      121 tcttgtgatg gtatgggtga tgtcagtgag aagcatggct gtggaccagt ggttccagaa
+      181 aaggcagtcc gtttctcgtt caccatcatg accattgccg tcgatcacaa caaagacaat
+      241 gtgaggattt ttgaagaaaa caagccgaat tcagagctgt gctgcaagcc cctgtgcctc
+      301 atgctcgctg atgaatctga ccatgagaca ctaaccgcca tcttgagccc actgatagca
+      361 gaaagagagt ccatgaaagg cagtgaactg atgcttgaac ttggtggcat cctcagaaca
+      421 ttcaagtttg tgttcagggg cacaggatat gatgagaagc ttgtgagaga ggttgaagga
+      481 cttgaggcct cgggctcagt ctatatctgt accctgtgtg actcgacacg ccttgaagcc
+      541 tcccagaaca ttgtgctcca ctccatcact cggagtcata aggagaacct tgagcgctac
+      601 gagatctggc ggtccaacag acaccatgag tcggtcgacg agctgcggga cagagtgaag
+      661 ggggtttcag ccaagccctt cattgagacc ctcccttcca ttgatgcctt gcactgtgac
+      721 attggaaatg ccgctgagtt ttacaagata ttccaactcg aaatagggga ggtcttcaag
+      781 aaccccaacg cctcaaaaga ggagagaaag aggtggcagt cgactctgga caagcatctg
+      841 aggaagaaga tgaacttgaa gcctataatg agaatgaacg gtaattttgc aaggaaattg
+      901 atgtcccagg agaccgttga ggcggtctgt gagctggtcc actctgagga acggcgggca
+      961 gctctacgcg aactcatgga cctgtacctg aaaatgaagc cagtctggcg atcctcatgc
+     1021 ccaagcaagg agtgcccaga actcctctgc cagtacagct acaactctca acgctttgcc
+     1081 gagcttctct caaccaagtt caagtaccga tatgagggca aaatcacaaa ttatttccac
+     1141 aagacattag cccacgtgcc tgagataatt gaacgagatg ggtctattgg tgcctgggcg
+     1201 agtgaagg
+//
+

@@ -1,0 +1,133 @@
+LOCUS       AF296616                2045 bp    DNA     linear   VRT 03-OCT-2013
+DEFINITION  Notopthalmus viridescens NADH dehydrogenase subunit I (ND1) gene,
+            partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+            sequence; NADH dehydrogenase subunit II (ND2) gene, complete cds;
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; and cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial genes for mitochondrial products.
+ACCESSION   AF296616
+VERSION     AF296616.1  GI:13561420
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2045)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Molecular phylogenetics and historical biogeography among
+            salamandrids of the 'true' salamander clade: rapid branching of
+            numerous highly divergent lineages in Mertensiella luschani
+            associated with the rise of Anatolia
+  JOURNAL   Mol. Phylogenet. Evol. 18 (3), 434-448 (2001)
+   PUBMED   11277635
+REFERENCE   2  (bases 1 to 2045)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2000) Dept. of Biology, Washington University,
+            Campus Box 1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2045
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ-RM10692"
+                     /db_xref="taxon:8316"
+                     /country="USA: 2.4 miles south of Weldon Springs at I-40
+                     on Hwy 94, St. Charles Co., Missouri"
+     gene            <1..381
+                     /gene="ND1"
+     CDS             <1..381
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAK30304.1"
+                     /db_xref="GI:13561422"
+                     /translation="TNRAPFDLTEGESELVSGFNVEYAGGPFALFFLAEYSNILLMNT
+                     LSAILFLGTTLNHLQPELMTTSLIIKASALSMVFLWTRASYPRFRYDQLMHLIWKNFL
+                     PITIMMTLMHVSLPIVMSGIPPLL"
+     tRNA            381..451
+                     /product="tRNA-Ile"
+     tRNA            455..525
+                     /product="tRNA-Gln"
+     tRNA            527..595
+                     /product="tRNA-Met"
+     gene            596..1639
+                     /gene="ND2"
+     CDS             596..1639
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAK30303.1"
+                     /db_xref="GI:13561421"
+                     /translation="MNPYALSMLLSSLAIGTTITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTTMNAWTTGEWTIMNMNNNTATTVLTIAL
+                     AIKLGIAPFHLWLPDVLQGLNLMTGLLLSTWQKLAPMALLIMTNHQLNTNLLITMALA
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSFAPALTMFNLMIYLMLTSSMFMM
+                     MMATHSTNINKLSTSWLKTPTLAASTMITLMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     TLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSNFTWRMKNNKLQILPTLIVLSAM
+                     MMPIAPTLLTMMN"
+     tRNA            1638..1706
+                     /product="tRNA-Trp"
+     tRNA            1708..1776
+                     /product="tRNA-Ala"
+     tRNA            1777..1849
+                     /product="tRNA-Asn"
+     rep_origin      1850..1883
+                     /note="light strand replication origin"
+     tRNA            1881..1946
+                     /product="tRNA-Cys"
+     tRNA            1947..2014
+                     /product="tRNA-Tyr"
+     gene            2016..>2045
+                     /gene="COI"
+     CDS             2016..>2045
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AAK30305.1"
+                     /db_xref="GI:13561423"
+                     /translation="MMIIRWLFST"
+ORIGIN      
+        1 acaaaccgag ccccattcga cttgacagag ggggagtctg aactagtatc aggatttaac
+       61 gtagagtacg caggagggcc ctttgcactc ttctttctag cagaatactc aaatattcta
+      121 ttaataaata cactatccgc aattctattt cttggcacca cactaaatca ccttcaacca
+      181 gaattgataa caacaagcct aattattaaa gcatctgcgc tctcaatagt atttttatga
+      241 actcgggcat catacccacg attccgatac gatcaactaa tacacttaat ctgaaaaaac
+      301 ttcctaccaa tcacaattat aataacgctc atgcacgtat ccctgccaat tgtaatatca
+      361 ggcattcccc ctttactata ggacatgtgc ccgaaagata gggctcactt tgatagagtg
+      421 aattatagag gttcaaaccc tctcatctcc tatattaaaa aaacaggact tgaacctgcc
+      481 ctgaggagat caaaacccct cgtgcttcca ctacaccact ttttaaagta agataagcta
+      541 attaagcttt tgggcccata ccccaaatat gttggttaaa ccccctctct tactaatgaa
+      601 tccttatgca ttatccatat tattatcaag cctagcaatt gggacaacta ttacactctc
+      661 aagttctcat tgatttcttg catgaatagg cctagaaatt aatacactag ctattattcc
+      721 actaataact aagatacacc atccccgagc aacagaatcc gcaacaaaat acttcttaac
+      781 acaagccaca gcatccgctt taatcttatt ctccacaacc ataaatgcat ggaccacagg
+      841 agaatgaaca attataaata taaataataa tacagcaaca acagtcctaa caattgctct
+      901 agcaattaaa ctaggtattg caccatttca cctatgacta ccagatgtac tacaaggact
+      961 aaacttaata acaggactac tcctctcaac atgacaaaaa ctagccccta tagcactact
+     1021 tattataacc aaccatcaac taaatacaaa cttactaatt acaatagcac tagcatcaac
+     1081 aattattgga ggatgaggag gcctcaatca aacacaaata cgaaaaatta tagcatattc
+     1141 atctattgca catctaggat gaataatttt agtcttatct ttcgcccctg ccctaacaat
+     1201 atttaactta ataatctatt taatattaac ctcttctata tttataataa taatagccac
+     1261 acattccaca aatattaata aactctcaac ttcatgacta aaaacaccta cactagcagc
+     1321 atccacaata attactctta tagcccttgg aggacttcct ccaacctcag gcttcctacc
+     1381 aaaatgacta attttacaag aaataacaaa acaacaccta gagacactat caactataat
+     1441 agctatatcc gctttactca gcttattctt ttatttacgc ctatcttata ctatctccct
+     1501 aacctccccc ccaaatattt ccaattcaaa cttcacctga cgaataaaaa acaataaact
+     1561 acaaattctc ccaactctta ttgtactttc agcaataata atacctatcg ccccaacact
+     1621 attgacaata ataaactaaa gacttaggat aataagacca aagaccttca aagtcttaag
+     1681 caggagttaa aaccttctag tctttgatag gacctgcaag actctatctc acatcttctg
+     1741 aatgcaaccc aaacacttta attaagctaa gaccctctag actagtaggc ctttatccta
+     1801 cgccctttta gttaacagct aaacgctcaa tccagcgagc tttagtctac ttctcccgct
+     1861 tatggggaaa aaagcgggag aagccccggc agaagctatt ctgctcttta aaatttgcaa
+     1921 ttttatatgc tggacatcac ggggcttggt aaaaaaagga ctttaacctt tataacaagg
+     1981 gctacaatct tgcacctatt tcggccactt taccagtgat aatcattcga tgactatttt
+     2041 ctact
+//
+

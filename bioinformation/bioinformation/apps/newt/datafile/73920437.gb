@@ -1,0 +1,41 @@
+LOCUS       DQ092302                 370 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Euproctus asper isolate E1401.5 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ092302
+VERSION     DQ092302.1  GI:73920437
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 370)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 370)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..370
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1401.5"
+                     /db_xref="taxon:30374"
+     rRNA            <1..>370
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tgcctagcta taaactttga ttcatccgcc cgagtactac gagcaacagc ttaaaactca
+       61 aaggacttgg cggtgctcca caccccccta gaggagcctg ttctataatc gataatccac
+      121 gataaacctc accatctgtt gctaatacag cctatatacc accgtccagc ccaccctcta
+      181 agggcccaac agtaggcaca actataaacg taaaaacgtc aggtcaaggt gtagcaaata
+      241 agatgggaag aaatgggcta cattttctaa cctagaaaac acggaaaagc ttgtgaaata
+      301 aaactacgaa ggaggattta gcagtaaaaa gaaaaaagag cgttcttttt aagccggcaa
+      361 tggagcgcgc
+//
+

@@ -1,0 +1,73 @@
+LOCUS       JN788203                1136 bp    DNA     linear   VRT 13-FEB-2012
+DEFINITION  Lissotriton italicus haplotype AI4 tRNA-Met gene, partial sequence;
+            NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp
+            gene, partial sequence; mitochondrial.
+ACCESSION   JN788203
+VERSION     JN788203.1  GI:374858180
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton italicus (South Italian newt)
+  ORGANISM  Lissotriton italicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 1136)
+  AUTHORS   Canestrelli,D., Sacco,F. and Nascetti,G.
+  TITLE     On glacial refugia, genetic diversity, and microevolutionary
+            processes: deep phylogeographical structure in the endemic newt
+            Lissotriton italicus
+  JOURNAL   Biol. J. Linn. Soc. Lond. 105 (1), 42-55 (2012)
+REFERENCE   2  (bases 1 to 1136)
+  AUTHORS   Canestrelli,D., Sacco,F. and Nascetti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2011) Dept. of Ecology and Biology, Tuscia
+            University, Largo dell'Universita' s.n.c., Viterbo, Italy 0110,
+            Italy
+FEATURES             Location/Qualifiers
+     source          1..1136
+                     /organism="Lissotriton italicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323755"
+                     /haplotype="AI4"
+     tRNA            <1..59
+                     /product="tRNA-Met"
+     gene            60..1100
+                     /gene="ND2"
+     CDS             60..1100
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AEZ78836.1"
+                     /db_xref="GI:374858181"
+                     /translation="MSPYALSMLMSSLAVGTVATLSSHHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRAAESATKYFLTQATASALILFSTTINAWTTGEWTITNMTDHAPTMILTIAL
+                     AIKLGIAPFHLWLPDVLQGLNMFTCLILSTWQKLAPMTLLILTSHQLNTNLLIVMALM
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVITFAPNLALLNLSIYLILTSCMFLM
+                     LMTLNSTNVNKLSISWLKTPTLAASMMATLMALGGLPPTSGFLPKWLILQEMTKHHLG
+                     SLSAMMAMSALLSLFFYLRLSYAISMTSPPNVSNSNLTWRKKKNLTYTIPTLIVLSTA
+                     MLPITPMMLFLN"
+     tRNA            1101..>1136
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 gctaattaag cttttgggcc cataccccaa acatgttggt gaaaaccctt ctcttgctaa
+       61 tgagcccata tgcattatca atactaatat caagcttagc agtagggaca gtcgccaccc
+      121 tgtctagcca tcactgattt ctagcatgaa tggggctaga aattaatacg ctggccatta
+      181 ttcccctcat gactaaaata caccaccctc gagccgcaga atcagcaaca aaatactttt
+      241 taacacaagc taccgcctcc gctttaattt tattttctac aactattaat gcgtgaacaa
+      301 caggagaatg aaccattaca aatatgactg accacgcccc aacaataatc ttaactattg
+      361 ccctagcaat taaactaggg atcgccccat tccacctctg attaccagat gtcctacaag
+      421 gcctcaacat attcacatgc ctgatcctat cgacctgaca aaaactggct ccgataacat
+      481 tgttaatctt aaccagccac caattgaaca caaacctact aattgtaata gcactaatat
+      541 caacaattat tggaggatga ggaggactaa accaaacgca gatacgaaaa attatagcat
+      601 attcatctat tgcacaccta ggttgaataa tcttagtcat caccttcgcc cctaacttag
+      661 cactattaaa tctgtctatt tatcttatct taacatcttg tatgttccta atattaataa
+      721 ccctaaactc tacaaatgta aataaactat caatttcatg actgaaaaca ccaacacttg
+      781 cagcatcaat aatagcgacc ctaatggcct taggaggact ccccccaaca tcaggatttc
+      841 tcccaaaatg acttatttta caagaaatga caaaacacca tcttggatca ttatctgcca
+      901 tgatggctat atctgcttta ctgagcttat tcttctacct tcgactatca tatgcaatct
+      961 ccataacatc cccaccaaac gtctcaaatt ctaatcttac ttgacgcaaa aagaaaaatc
+     1021 taacctacac tatcccaact cttattgttc tgtcaacagc aatattacca attacaccaa
+     1081 taatactatt cttaaactaa agacttagga taacaagacc aaaggccttc aaagcc
+//
+

@@ -1,0 +1,110 @@
+LOCUS       D88741                  2417 bp    mRNA    linear   VRT 26-NOV-2009
+DEFINITION  Cynops pyrrhogaster PAX6 mRNA for PAX6 LL, complete cds.
+ACCESSION   D88741
+VERSION     D88741.1  GI:2696968
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Mizuno,M., Takabatake,T., Takahashi,T.C. and Takeshima,K.
+  TITLE     pax-6 gene expression in newt eye development
+  JOURNAL   Dev. Genes Evol. 207, 167-176 (1997)
+REFERENCE   2  (bases 1 to 2417)
+  AUTHORS   Takahashi,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-OCT-1996) Contact:Tadashi C Takahashi Biohistory
+            Research Hall, Laboratory Division; 1-1 Murasaki-cho, Takatsuki,
+            Osaka 569-11, Japan
+FEATURES             Location/Qualifiers
+     source          1..2417
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /dev_stage="neurula"
+     gene            1..2417
+                     /gene="PAX6"
+     misc_feature    join(130..1251,1403..1552)
+                     /gene="PAX6"
+                     /product="PAX6 LS"
+                     /note="alternative spicing PAX6 gene;
+                     contain region equivalent to human exon-5a but lack region
+                     equivalent to human exon-12"
+     misc_feature    join(130..321,364..1251,1403..1552)
+                     /gene="PAX6"
+                     /product="PAX6 SS"
+                     /note="alternative spicing PAX6 gene;
+                     lack regions equivalent to human exon-5a and exon-12"
+     CDS             130..1488
+                     /gene="PAX6"
+                     /note="PAX6 gene has 4 alternative spicing isoforms;
+                     contain regions equivalent to human exon-5a and exon-12"
+                     /codon_start=1
+                     /product="PAX6 LL"
+                     /protein_id="BAA24024.1"
+                     /db_xref="GI:2696971"
+                     /translation="MRDYIRETQGIALEQFNMQNSHSGVNQLGGVFVNGRPLPDSTRQ
+                     KIVELAHSGARPCDISRILQTHADAKVQVLDSQNVSNGCVSKILGRYYETGSIRPRAI
+                     GGSKPRVATPEVVSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRN
+                     LASEKQQMGADGMYDKLRMLNGQTGTWGTRPGWYPGTSVPGQPTPDGCQQQEGGGENT
+                     NSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAA
+                     KIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPT
+                     TPVSFTSGSMLGRTDTSLTNTYGGLPPMPSFTMGNNLPMQPPVPSQASSYSCMLPSSP
+                     SVNGRSYDTYTPPHMQAHMNSQSMGTAGATSTGLISPGVSVPVQVPGSEPDLSQYWPR
+                     LQ"
+     misc_feature    join(130..321,364..1488)
+                     /gene="PAX6"
+                     /product="PAX6 SL"
+                     /note="alternative spicing PAX6 gene;
+                     lack region equivalent to human exon-5a but contain region
+                     equivalent to human exon-12"
+     misc_feature    2115..2294
+                     /gene="PAX6"
+                     /note="highly conserved 3' UTR sequence among mouse, rat,
+                     quail, and zebrafish pax-6 cDNAs"
+ORIGIN      
+        1 gaagcgtttg ccaccttgcg gaaagctgag cactgaggcg aggtagccag cgtgtgtcat
+       61 tgcacagcga ggagctaaag acccggcagc ggagaggggg ccgactccga gcaccgcaga
+      121 ccggcagcca tgagggacta cataagggag acacagggga tcgcgctgga gcagttcaac
+      181 atgcagaaca gtcatagcgg agtcaaccag ctcgggggag tgtttgtgaa cggcagaccc
+      241 ctgcccgact ccacccggca gaagatcgtg gaactcgccc acagcggagc ccggccctgc
+      301 gacatctccc gcatcctgca gacccatgca gatgcaaaag tccaagtgct ggacagtcaa
+      361 aacgtgtcca atgggtgtgt gagtaagatt ctgggcaggt attacgagac gggctccatc
+      421 cggccgcgcg ccattggagg cagcaagccc agggtggcga cccccgaggt ggtgagcaag
+      481 atcgcgcagt acaagcgcga gtgcccgtcc atcttcgcct gggagatccg cgaccggctg
+      541 ctgtccgagg gggtttgcac caacgacaac atccccagcg tgtcatcgat aaaccgagtg
+      601 ctccgcaacc tggctagcga aaagcaacaa atgggtgcag acggaatgta cgacaagctg
+      661 cggatgctga acggacagac gggcacctgg ggcacccggc cgggctggta cccggggacc
+      721 tcggtgccgg ggcagcccac accagatggc tgccagcagc aggaaggggg aggcgagaac
+      781 accaactcca tcagctccaa cggtgaagac tcagacgagg cccagatgag gctgcagctg
+      841 aaacgtaaac tgcaaaggaa caggacgtct ttcactcagg agcagatcga ggccctggag
+      901 aaagagtttg aacgaacaca ttaccctgac gtgtttgcaa gagagagact agctgccaaa
+      961 atagacctac ctgaagcacg aatacaggtc tggttctcaa acaggagggc aaagtggaga
+     1021 agggaagaga aactgcggaa ccagaggagg caagcaagca acactcccag ccatatcccc
+     1081 atcagcagca gcttcagcac cagtgtgtac caacccatcc cccagcccac aacacctgtt
+     1141 tcatttacgt ccgggtccat gttgggcaga acagacacat ccctgacaaa cacatacggg
+     1201 ggtctaccac ccatgcccag cttcacaatg ggcaacaacc tgcctatgca acccccagtt
+     1261 cccagccagg cctcctccta ctcttgcatg ctgccctcta gtccgtcagt gaatgggcgg
+     1321 agctatgata catacacacc tcctcacatg caggcacaca tgaacagcca gtccatgggc
+     1381 acagctggcg ccacttcgac aggtctcatt tcccctggag tgtcagtccc agtacaagtt
+     1441 cccggcagtg aacctgacct gtctcaatac tggccaagat tacagtaaaa accgggctaa
+     1501 catagccaat gactttgtgg agaacagttg gatgttcagc agtattctat agaggaggga
+     1561 cacggctggc aaaaagtact cctccactgc aactctgccc tgagttggga ggcttcggaa
+     1621 agactttttc aagggacctt tgcacaattt gaaggcgtta tatcagttgg aacaaatctt
+     1681 cattttggta tacaaccctt tactcatttt gtgtgctact tgtaaatggg catttgtatg
+     1741 ttataagaca agaacaaccc aaacttactg gatggacggt atttggccta agctgatcat
+     1801 taagtttttt ttttttttca acaaaaaaaa aatggaagcc atgatggacc agcctttgcc
+     1861 acgatttaca gagttttcgt cgacaaacac cggacaggtc taccgcgttg tgcataagca
+     1921 gactggcgtt ccacgttttt ttctatcatt ccactgcata taaactgaaa ctggaacggc
+     1981 gtagataaag acaatgaagc cgatggaaat tccaaaggcg aaaagcaatc cagctgatgt
+     2041 ttatgtccac agaccgggta aagagatgac ttccagaaag aagaaacaag tttggtagat
+     2101 aaaataaaaa aaataaggta gattgtgtct tcgatataat ccgatttgtt ttatgtcgaa
+     2161 atgtaagtat ttgtcttccc tagaaatctc ccagaatgat ttctataata aagttaattt
+     2221 catttatatt tgacaagaat attctataga tgttttatac acattttcca tgcatcttgc
+     2281 gtttcttttt ttggggaggg ggggggagtt cagcgaagag tttattgttc ttacctgtag
+     2341 ctgtactaca tgttcacaag tcagatcatc tttgtgcatc tagaactcat tcctaatcaa
+     2401 ttaaaagtgc ttgcaag
+//
+

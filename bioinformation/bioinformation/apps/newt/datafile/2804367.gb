@@ -1,0 +1,63 @@
+LOCUS       U71233                  1191 bp    DNA     linear   VRT 27-NOV-2001
+DEFINITION  Notophthalmus viridescens 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence, mitochondrial genes for mitochondrial RNAs.
+ACCESSION   U71233
+VERSION     U71233.1  GI:2804367
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1191)
+  AUTHORS   Titus,T.A. and Larson,A.
+  TITLE     A molecular phylogenetic perspective on the evolutionary radiation
+            of the salamander family Salamandridae
+  JOURNAL   Syst. Biol. 44, 125-151 (1995)
+REFERENCE   2  (bases 1 to 1191)
+  AUTHORS   Titus,T.A. and Larson,A.
+  TITLE     Molecular phylogenetics of Desmognathine salamanders (Caudata:
+            Plethodontidae): A reevaluation of evolution in ecology, life
+            history, and morphology
+  JOURNAL   Syst. Biol. 45, 451-472 (1996)
+REFERENCE   3  (bases 1 to 1191)
+  AUTHORS   Titus,T.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-SEP-1996) Biology, University of Oregon, Eugene, OR
+            97403, USA
+FEATURES             Location/Qualifiers
+     source          1..1191
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     rRNA            <1..645
+                     /product="12S ribosomal RNA"
+     tRNA            646..714
+                     /product="tRNA-Val"
+     rRNA            715..>1191
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ggctcaaagg gtggttaaag atacatacac aaatagaact aaaaactaac tacgctgtcg
+       61 cacgcaatag ttttaaaaaa tacagtttcg aaagtagttc tactaaacaa acttgaaccc
+      121 acgacagcta ggacccaaac tgggattaga taccccacta tgcctaacca taaactttga
+      181 tttatccgcc agagtactac gagcaacagc ttaaaactca aaggacttgg cggtgctcta
+      241 taccccccta gaggagcctg ttctataatc gataatccac gataaacctc accatctatt
+      301 gctaatacag cctatatacc accgtccagc ccacccttta aaggatagac agtaggcaca
+      361 attataaaca taaaaacgtc aggtcaaggt gtagcatatg agatgggaag aaatgggcta
+      421 cattttctaa cctagaaaac acggaaaagt ttatgaaata agactataaa ggaggattta
+      481 gcagtaaaaa gaaaaaagag tgttcttttt aagccggcaa tggagcgcgc acacaccgcc
+      541 cgtcaccctc ttcaaataat aataaaatat aaataaacaa aaaccaaaga gaagaagagg
+      601 caagtcgtaa catggtaagt ctaccggaag gtgaacttgg aacatcaact tatagcttaa
+      661 ctaaagcatc ttgcttacac caagaaaacg cccgttaaac tcggactaag ttgagttata
+      721 attctagcct ataaataaac aaacacctac caaaacccct aaataaacca tttaattaaa
+      781 tagtataggc gatagaaatt tatcattgag caatagaaaa agtactgcaa aggaaagatg
+      841 aaataaaaat gaaataaata acaaaaacaa ataaaagaaa agactaaaac ttgtaccttt
+      901 tgcataatgg tctagcaagt taaacctaac aaaaagaaat aaagttaccc ctccccgaaa
+      961 ctagacgagc tactcaaaag cagcatacta gagccaaccc gtctctgtgg caaaagagtg
+     1021 ggatgacttc tgagtagagg tgataagcct aacgagccta gtgatagctg gttgcttgag
+     1081 aaatcgaatt ttagttcagc ttaaagtgcc tttaaatatg taaaaaaatt aaaatagcna
+     1141 ccttaaagtt acttaataga ggacagctct attaataaag gacacaacct a
+//
+

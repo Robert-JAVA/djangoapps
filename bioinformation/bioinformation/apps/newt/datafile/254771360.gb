@@ -1,0 +1,73 @@
+LOCUS       GQ258952                1131 bp    DNA     linear   VRT 02-AUG-2009
+DEFINITION  Triturus carnifex voucher NNMN:876 tRNA-Met gene, partial sequence;
+            NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ258952
+VERSION     GQ258952.1  GI:254771360
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 1131)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Multiple nuclear and mitochondrial genes resolve the branching
+            order of a rapid radiation of crested newts (Triturus,
+            Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 52 (2), 321-328 (2009)
+   PUBMED   19348957
+REFERENCE   2  (bases 1 to 1131)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Department of Zoology, NNMN, P.O. Box 9517,
+            Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..1131
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NNMN:876"
+                     /db_xref="taxon:8326"
+     tRNA            <1..53
+                     /product="tRNA-Met"
+     gene            54..1088
+                     /gene="ND2"
+     CDS             54..1088
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ACT82015.1"
+                     /db_xref="GI:254771361"
+                     /translation="MSPYALSMLMSSLAMGTIITLSSTHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALLLFSAAMNAWMTGEWTIMNMNSYTPTTILTVAL
+                     AIKLGIAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLILTSHQLNTNLLTLMALA
+                     SAIMGGWGALNQTQMRKIMAYSSIAHLGWMALVISFAPGLALLNLMIYLLMTSSMFMM
+                     LMTLNATNVNKLSISWLKTPTLAASMMAGLLSLGGLPPLSGFLPKWLILQEMTKHHLG
+                     ALSAVMALSALLSLFFYLRLSYMISMTSPPNTSNANLAWRNKNNLSLINPILIVLSTM
+                     LMPIMPMLLM"
+     tRNA            1095..>1131
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 taagctttcg ggcccatacc ccaaatatgt tggtgaaaac ccttctttta ctaatgagcc
+       61 cctatgcact gtcaatatta atatcaagcc tagctatagg aacgattatc acactatcta
+      121 gcacacactg gttccttgct tgaataggac tagaaattaa tacactagcc attatccccc
+      181 ttatgactaa aatacaccac ccacgagcca cagaatctgc aacaaaatat ttcttaacac
+      241 aggccacagc ttctgcttta cttctatttt ctgccgctat aaacgcatgg ataacaggag
+      301 aatgaactat tataaacata aatagctata ctcctacaac aatcttaacg gttgccttag
+      361 cgattaaact aggaattgcc ccatttcacc tctgactacc agacgtccta caagggctcg
+      421 acataataac ctgcctaatc ctctcaacat gacaaaaact tgccccaata gccctattaa
+      481 ttttaacaag ccaccagcta aataccaact tattaaccct aatagccctc gcatccgcaa
+      541 tcatgggggg gtggggggcc ctaaatcaaa ctcaaatacg gaaaatcatg gcatactcat
+      601 ctattgcaca ccttggctga atagcgctgg ttatctcatt tgccccaggc ctggcgctgt
+      661 tgaatttaat aatctacctt ctaataacct catctatatt tataatacta ataaccctaa
+      721 acgccacaaa cgtaaataaa ctgtcaatct cctgactaaa aacaccaacc ctggcagcct
+      781 caataatagc cggcctcctc tccctcggag gcctgccccc tctctcaggg tttttaccaa
+      841 aatgattaat tctacaagaa atgactaaac accacctagg ggccctctct gccgtaatag
+      901 ccttatcagc cctactaagt cttttttttt accttcgact ctcgtatata atctcaataa
+      961 cctccccacc taacacctca aacgctaact tagcctggcg aaataaaaac aacctatcac
+     1021 ttattaaccc aattttgatt gtgttgtcca ctatactaat gccaatcata cccatactgc
+     1081 taatgagaaa ccaaagactt aggataacaa gaccaaaggc cttcaaagcc t
+//
+

@@ -1,0 +1,58 @@
+LOCUS       JX104158                 593 bp    DNA     linear   VRT 06-NOV-2012
+DEFINITION  Triturus cristatus isolate 691 NADH dehydrogenase subunit 4 (ND4)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX104158
+VERSION     JX104158.1  GI:410475398
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Is dispersal guided by the environment? A comparison of
+            interspecific gene flow estimates among differentiated regions of a
+            newt hybrid zone
+  JOURNAL   Mol. Ecol. 21 (21), 5324-5335 (2012)
+   PUBMED   23013483
+REFERENCE   2  (bases 1 to 593)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2012) Netherlands Centre for Biodiversity
+            Naturalis, P.O. Box 9517, Leiden 2300, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="691"
+                     /db_xref="taxon:8323"
+                     /country="Austria"
+     gene            <1..>593
+                     /gene="ND4"
+                     /note="MT-ND4"
+     CDS             <1..>593
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AFV70623.1"
+                     /db_xref="GI:410475399"
+                     /translation="GIIRITMILAPLTKEMAYPFMILALWGVVMTSLICMRQTDLKSL
+                     IAYSSVSHMGLVIAAIMIQTPWSLTGAVILMISHGLISSALFCLANLNYERTHSRTLL
+                     LVRGAQAVMPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWSPWTILITGLGAL
+                     ITASYTLYMFLMTQRGPTPPHLGQINPSYTREHFLLM"
+ORIGIN      
+        1 tggcattatt cgaattacca taatccttgc cccactaaca aaagaaatgg catatccatt
+       61 tataattcta gccttatgag gggtcgtgat aacaagccta atctgcatac gacaaacaga
+      121 ccttaagtcg ctaattgcat attcgtctgt aagccacata ggcctggtca ttgccgctat
+      181 tataattcaa acaccgtgaa gcctaacggg ggctgttatt ttaatgatct cacacgggct
+      241 tatttcatcc gccctatttt gcctagcaaa cctaaattat gaacgaacgc acagtcgaac
+      301 tctactatta gttcgagggg cccaggcagt cataccatta atggcaactt ggtgactcat
+      361 tgcaaattta tcaaatatag cacttcctcc aacaataaat ctatgaggag agctgacaat
+      421 tatagtctcg ctgtttaact gatccccctg gacaatccta atcacgggct tgggggcctt
+      481 aatcactgcc tcttacacct tatacatatt cctaataaca caacgtggcc caaccccccc
+      541 acatcttggc caaattaacc catcttacac tcgagaacac ttcttactta taa
+//
+

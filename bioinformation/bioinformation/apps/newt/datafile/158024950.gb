@@ -1,0 +1,53 @@
+LOCUS       EU030817                 379 bp    DNA     linear   VRT 31-OCT-2007
+DEFINITION  Triturus carnifex isolate 875Mate cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   EU030817
+VERSION     EU030817.1  GI:158024950
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 379)
+  AUTHORS   Horak,A. and Pialek,J.
+  TITLE     Genetic differentiation and post-Pleistocene history of central
+            European crested newts (Triturus cristatus complex) as revealed by
+            mitochondrial cytochrome b sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 379)
+  AUTHORS   Horak,A. and Pialek,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2007) Laboratory of Molecular Taxonomy, BC ASCR,
+            Institute of Parasitology, Branisovska 31, Ceske Budejovice 37005,
+            Czech Republic
+FEATURES             Location/Qualifiers
+     source          1..379
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="875Mate"
+                     /db_xref="taxon:8326"
+                     /country="Slovenia"
+     gene            <1..>379
+                     /gene="cytb"
+     CDS             <1..>379
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABW08282.1"
+                     /db_xref="GI:158024951"
+                     /translation="FSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGS
+                     YMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGDSLVQWI
+                     WGGFSVDKATLTRFFAFHFLFPFL"
+ORIGIN      
+        1 ttttcatctg ttgctcacat ttgccgagat gtaaactacg gctggctagt acgaaacatc
+       61 cacgctaacg gggcctcact attttttatc tgcatctact tacacatcgg acgcggcctg
+      121 tactacggct catacatatt taaagagact tgaaacattg gcgtcatctt actattcttg
+      181 gttatagcta ctgctttcgt tgggtatgtc ctgccatgag gacaaatatc attttgaggc
+      241 gccacagtta ttaccaacct tctatcagct attccgtatt taggagactc tcttgtccaa
+      301 tgaatctggg ggggcttttc agtagataag gcaacactca cccgattttt tgcatttcac
+      361 ttcctgttcc cattcttga
+//
+

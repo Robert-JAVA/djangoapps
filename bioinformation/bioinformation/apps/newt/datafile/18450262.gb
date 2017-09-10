@@ -1,0 +1,65 @@
+LOCUS       NC_003380                220 bp ss-RNA     circular VRL 10-JUL-2008
+DEFINITION  Rice yellow mottle virus satellite, complete genome.
+ACCESSION   NC_003380
+VERSION     NC_003380.1  GI:18450262
+DBLINK      BioProject: PRJNA14152
+KEYWORDS    RefSeq.
+SOURCE      Rice yellow mottle virus satellite
+  ORGANISM  Rice yellow mottle virus satellite
+            Viruses; Satellites; Satellite Nucleic Acids; Single stranded RNA
+            satellites; Circular single stranded RNA satellites.
+REFERENCE   1  (bases 1 to 220)
+  AUTHORS   Collins,R.F., Gellatly,D.L., Sehgal,O.P. and Abouhaidar,M.G.
+  TITLE     Self-cleaving circular RNA associated with rice yellow mottle virus
+            is the smallest viroid-like RNA
+  JOURNAL   Virology 241 (2), 269-275 (1998)
+   PUBMED   9499801
+REFERENCE   2  (bases 1 to 220)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2004) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 220)
+  AUTHORS   Collins,R.F., Gellatly,D.L., Sehgal,O.P. and AbouHaidar,M.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-DEC-1997) Botany, Univ. of Toronto, 25 Willcocks St.,
+            Toronto, Ont. M5S 3B2, Canada
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AF039909.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Rice yellow mottle virus satellite"
+                     /mol_type="genomic RNA"
+                     /isolate="RYMV-I; RYMV-K"
+                     /db_xref="taxon:195056"
+                     /note="full name: small circular viroid-like RNA
+                     associated with rice yellow mottle virus"
+     misc_RNA        join(164..179,43..55)
+                     /locus_tag="Rymvsgs2"
+                     /product="hammerhead ribozyme"
+                     /note="similar to hammerhead ribozyme of newt and sat-RNA
+                     of carnation small viroid-like RNA"
+                     /db_xref="GeneID:932238"
+     gene            1..220
+                     /locus_tag="Rymvsgs1"
+                     /db_xref="GeneID:932239"
+     misc_RNA        1..220
+                     /locus_tag="Rymvsgs1"
+                     /note="possibly translated as a dimer; similar to sat-RNA
+                     of lucerne transient streak sobemovirus (sat-LTSV)"
+                     /db_xref="GeneID:932239"
+     gene            43..179
+                     /locus_tag="Rymvsgs2"
+                     /db_xref="GeneID:932238"
+     misc_feature    177^178
+                     /locus_tag="Rymvsgs2"
+                     /note="self-cleavage on (+) sense polarity"
+ORIGIN      
+        1 ccagctgcgc agggggcgga gattttgttt cgagccttac cgacactgat gagccaagag
+       61 gaacttggag gcacccagga atttcacccg ggtcgacctg ggcggctagg agccgtgcac
+      121 agggcgtcgc tgtggagcga gcctggcctc caaggggcct ggaggcgaaa ccggtctgtt
+      181 gggaccactc ggaccatcag tcatcgtgct ccggcagctt
+//
+

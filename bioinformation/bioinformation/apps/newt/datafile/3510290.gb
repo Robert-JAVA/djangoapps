@@ -1,0 +1,57 @@
+LOCUS       AB005256                 750 bp    mRNA    linear   VRT 02-SEP-1998
+DEFINITION  Bufo japonicus mRNA for cyclin B, partial cds.
+ACCESSION   AB005256
+VERSION     AB005256.1  GI:3510290
+KEYWORDS    cyclin B.
+SOURCE      Bufo japonicus (Japanese toad)
+  ORGANISM  Bufo japonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Anura; Neobatrachia; Hyloidea; Bufonidae;
+            Bufo.
+REFERENCE   1
+  AUTHORS   Sakamoto,I., Takahara,K., Yamashita,M. and Iwao,Y.
+  TITLE     Changes in cyclin B during oocyte maturation and early embryonic
+            cell cycle in the newt, Cynops pyrrhogaster: requirement of
+            germinal vesicle for MPF activation
+  JOURNAL   Dev. Biol. 195 (1), 60-69 (1998)
+   PUBMED   9520324
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Yamashita,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-1997) Masakane Yamashita, Graduate School of
+            Science, Hokkaido University, Division of Biological Sciences;
+            North 10, West 8, Sapporo 060, Japan
+            (E-mail:gametes@bio.hokudai.ac.jp, Tel:81-11-706-5297,
+            Fax:81-11-757-5994)
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Bufo japonicus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8387"
+                     /tissue_type="ovary"
+     CDS             <1..>749
+                     /codon_start=3
+                     /product="cyclin B"
+                     /protein_id="BAA32565.1"
+                     /db_xref="GI:3510291"
+                     /translation="LLDIKDVDADDYDNPMLCSEYVKDIYLYLHQLEITQAVKPKYLE
+                     GKEITGNMRAILIDWLVQVQIKFRLLQETMYMTVAIIDRFLQDHPVPKKQLQLVGVTA
+                     MFIASKYEEMYPPEIADFAFVTDRAYTTGQIREMEMKIRRVLDFSFGRPLPLQFLRRA
+                     SKIGDVTAEHHTLAKYFLELTMVDYEMVHFPPSQVRSAAYALTLKVFNCGDWTPTLQH
+                     YMGYTEDALVPVMQHIAKNVVRLNEGLSKHL"
+ORIGIN      
+        1 ttctgcttga catcaaggat gtggatgcag atgactatga taatcccatg ctctgcagtg
+       61 aatatgtcaa ggacatctat ttgtatctgc accagcttga gatcacgcaa gccgttaaac
+      121 cgaaatatct tgaaggaaag gagattacag gaaatatgcg tgcaattctt attgactggc
+      181 ttgtacaagt ccaaattaag ttcaggctgc ttcaggagac catgtacatg actgttgcaa
+      241 tcattgatcg cttccttcag gatcatccag ttccaaagaa gcagctccag cttgtaggtg
+      301 taacagccat gttcattgcc tcaaagtatg aagagatgta cccaccagag attgcagact
+      361 ttgcttttgt gactgatcgt gcctatacta ctggtcagat ccgggagatg gagatgaaaa
+      421 tccgcagagt tcttgacttc agttttggga gacctctgcc tctacagttc cttaggagag
+      481 cttccaagat tggagacgtt actgcagagc atcatacact ggccaagtac ttcctggagc
+      541 tcaccatggt tgactatgag atggtccact ttcctccctc ccaggtgcgt agcgcagctt
+      601 atgcccttac tctgaaggtc ttcaactgtg gtgactggac acctactctg cagcattata
+      661 tgggctatac tgaagatgca ctagttcctg tgatgcagca tattgctaaa aatgttgtga
+      721 gactcaatga ggggctttca aagcatctgg
+//
+

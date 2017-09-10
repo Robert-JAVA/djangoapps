@@ -1,0 +1,64 @@
+LOCUS       DQ821206                 789 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Pleurodeles waltl isolate 1 cytochrome b (cytb) gene, partial cds;
+            mitochondrial.
+ACCESSION   DQ821206
+VERSION     DQ821206.1  GI:110704068
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 789)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 789)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..789
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:8319"
+     gene            1..>789
+                     /gene="cytb"
+     CDS             1..>789
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87954.1"
+                     /db_xref="GI:110704069"
+                     /translation="MAHIMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIMTGLFLAMHYTADTCSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYMGDT
+                     LVQWIWGGFSIDKATLTRFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGVVSNGDK
+                     IPFHPYFSYKDILGFLLMLLILVLISLLTPNLLGDPENFTPANPL"
+ORIGIN      
+        1 atggcccaca ttatacgaaa aacccacccc ctactaaaaa ttattaataa ttcattcatc
+       61 gacctcccaa cgccgtcaaa catctcctac tgatgaaatt tcggctccct acttggcatc
+      121 tgccttatta cacaaatcat aacaggacta ttcctcgcca tacactacac agcagacaca
+      181 tgctcagcat tttcatcagt tgcccacatt tgccgagacg taaactacgg ctgactagta
+      241 cgaaatattc atgcaaacgg cgcctcattc ttcttcattt gtatctacat acatattgga
+      301 cgaggtttgt attacggctc ctatatattt aaagaaacat gaaatattgg ggtagtccta
+      361 ttatttttag ttatagcaac agcattcgtt ggatatgtcc tcccatgagg acaaatatca
+      421 ttctgaggtg ccacagtcat tacaaatcta ctctcagctg tcccatatat aggcgacact
+      481 cttgtacaat gaatctgagg gggattttca attgacaaag ctacccttac ccgattcttc
+      541 gcattccact tcctattccc atttctaatc gccggagcca gcatcgttca cctcctcttc
+      601 ctccacgaaa caggctcaaa taacccgacc ggggttgtat ctaacggaga caaaattcca
+      661 ttccacccat acttttccta taaagacatc ctggggtttc tacttatgtt attaatccta
+      721 gtactaattt cgcttctaac cccaaacctt ttaggagacc cagaaaactt tacccccgcc
+      781 aacccgtta
+//
+

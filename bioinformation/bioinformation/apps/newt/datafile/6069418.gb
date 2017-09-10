@@ -1,0 +1,123 @@
+LOCUS       AB006438                3487 bp    mRNA    linear   VRT 20-OCT-1999
+DEFINITION  Cynops pyrrhogaster mRNA, complete cds.
+ACCESSION   AB006438
+VERSION     AB006438.1  GI:6069418
+KEYWORDS    gep; beta/gamma- crystallin motif.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Ogawa,M., Takahashi,T.C., Takabatake,T. and Takeshima,K.
+  TITLE     Isolation and characterization of a gene expressed mainly in the
+            gastric epithelium, a novel member of the ep37 family that belongs
+            to the betagamma-crystallin superfamily
+  JOURNAL   Dev. Growth Differ. 40 (5), 465-473 (1998)
+   PUBMED   9783472
+REFERENCE   2  (bases 1 to 3487)
+  AUTHORS   Ogawa,M., Takahashi,T., Takabatake,T. and Takeshima,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-1997) Kazuhito Takeshima, Nagoya University,
+            Radioisotope Research Center; Furo-cho, Chikusa-ku, Nagoya, Aichi
+            464-8602, Japan (E-mail:c42584a@nucc.cc.nagoya-u.ac.jp,
+            Tel:+81-52-789-2572, Fax:+81-52-789-2567)
+FEATURES             Location/Qualifiers
+     source          1..3487
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="stomach"
+                     /dev_stage="adult"
+     gene            1..3487
+                     /gene="gep"
+     misc_feature    2..42
+                     /gene="gep"
+                     /note="a memmber of beta/gamma- crystallin superfamily;
+                     beta/gamma- crystallin motif"
+     misc_feature    43..87
+                     /gene="gep"
+                     /note="a memmber of beta/gamma- crystallin superfamily;
+                     beta/gamma- crystallin motif"
+     misc_feature    93..132
+                     /gene="gep"
+                     /note="a memmber of beta/gamma- crystallin superfamily;
+                     beta/gamma- crystallin motif"
+     misc_feature    133..164
+                     /gene="gep"
+                     /note="a memmber of beta/gamma- crystallin superfamily;
+                     beta/gamma- crystallin motif"
+     CDS             434..1480
+                     /gene="gep"
+                     /codon_start=1
+                     /protein_id="BAA85464.1"
+                     /db_xref="GI:6069419"
+                     /translation="MDSITVYEGRKLRGLHKTFTADVPDLTKECFNDCISSVKVVGQP
+                     WILYEHPNYQGRCIALEEGEHSHLPFSFLSSLTDKISSLKLITDDLINPQITVYENMH
+                     EGGKALVLTQESDMVFGGMNNKISSHRVQSGAWVLYENREKRGRCIVARAGEYLANYC
+                     DIGFNDQVSYVYPLRPGECTVTATILWDKKVESVRNLQIEQYSYTNSTDTEQQFTVTC
+                     TKEFEKYASHSFEFSNDTSLRAGVAFPLNGIVNIEGEVSNTFRVTKGETKSFTMKNKS
+                     ELSTPVTVTPGTKAIVNFFCKEITISVPVELKIIRGGKTYTETGTYRCESSTAINTDV
+                     QYLPVVTQNDGAPL"
+ORIGIN      
+        1 aggtctgcgc cacagagacc tgcgctggta tttagaggcc ttttgatcca tccataattc
+       61 ctgtccagtg tgggagttgt taagagccag caggagtcca ctgaaagcca cctaagtctt
+      121 tgggaaaaca atttgtggag agacaaggca gttggtatcc ggcccctgtt gacatgatgt
+      181 ttttgaatgg gaaataaata cttcaaagta cttcagcgtc aattgtattc acttcaagat
+      241 ttggccacga gttgatgatg atgaatcacg acgcctgata tcaaaggtct tcacaaaatt
+      301 actgcaagca acaggggcca gcattatcaa ggccagcttt attaaggatt acctgcttct
+      361 gctccagatt ggtggactcc tgaatctccg cgtcaaataa gggactgccc tgaagcctcc
+      421 tcagctgaag accatggact caatcactgt ctatgaaggg aggaagctca ggggactcca
+      481 taagactttt actgcagatg ttccagatct gacaaaagaa tgcttcaatg actgcatctc
+      541 ctcagtgaag gtcgtcgggc agccgtggat cctgtacgag cacccgaact atcagggacg
+      601 gtgcatagcc ttagaggagg gagaacactc acatttgcca tttagtttcc tctcatccct
+      661 gacagacaag atatcttctc ttaagctgat cactgatgac ctgatcaatc cacagatcac
+      721 agtctacgag aacatgcatg aagggggtaa ggcgttagtg ctgactcagg agtccgatat
+      781 ggtctttgga ggcatgaata acaagataag ctcccacaga gtccagagtg gagcatgggt
+      841 tctgtacgag aatagagaga aacgtggaag atgcattgta gccagggctg gtgaatattt
+      901 ggcaaattac tgcgatatcg gtttcaatga ccaagtctcc tatgtgtatc cactgcgccc
+      961 tggagaatgc actgtgacag ccacaattct gtgggacaag aaggtagaga gtgtaagaaa
+     1021 ccttcagata gaacagtatt catacaccaa cagcacagat accgagcagc agttcactgt
+     1081 cacttgtacc aaagagtttg aaaaatatgc ctcccatagc ttcgaattca gcaatgacac
+     1141 gtcactcagg gctggtgtcg cctttccttt gaatggaata gtcaatattg agggagaggt
+     1201 gtccaacacc ttcagagtga cgaaaggaga gactaagtca ttcaccatga agaataagtc
+     1261 agagttgagc acgccggtga ccgtcacgcc aggcacaaaa gcgattgtga acttcttttg
+     1321 caaggagatc acgatctcag tgccagtgga gctgaaaatc atccggggcg gtaaaacgta
+     1381 taccgaaact ggaacatacc gatgtgagtc tagcacagca atcaacactg atgtgcaata
+     1441 tctgccagtg gtaacacaaa atgatggagc ccccctgtaa aatgtgataa ggggcccgtc
+     1501 gtctcctaga tcacacaaaa attcattagt cttggggtca atgggatctc actgaagggc
+     1561 cgggcccccg ccccctatga tgcaggtggc ctgctcggga aagcatagtg actgtcccct
+     1621 aattcttagt ccatgccact gcacacattc tgcaaggcat tcaatggcct ggcttttgga
+     1681 ggtgagggga cccctccaaa acaaggaccc cttgggccta ccccacattg cggggactgc
+     1741 gggggccttc attaaaccca ttgacccttc ccataagttg atcctagtgg agccacacat
+     1801 tttctcctta gtagccacac gtgaacattg atttgctatt ctttgggtga ttgtgaatac
+     1861 attttgctca caattaagaa atctgcaaat gaccctttcc tttaaggatg ccattctccc
+     1921 agacaccagc cttagtcaga atgtactatc ctctaaccca actcttatta caatccgtta
+     1981 aaagggttcc ttctgtagag taccgacaag ctataactcc ctaccagaat atccaacaat
+     2041 accatatttg aattggggac tagttgtcat tggtaattag tgtacatacc gtcccctcga
+     2101 agcaggaaac cagtgccgtt ctattattaa ccaccggatg taacagagtt ccaatgtgtg
+     2161 agtgcacact gtataacctc aaccaaacct gtactgtgat tggctagggt tctatctgct
+     2221 gctctcctca ggtccttcct gatacaggtc acttactggc agtgcttcaa ggtgtgaccc
+     2281 tgaggtttac tgctgcatca gtttctgtct gtttcctgcc aatgtcatat tctgtccaca
+     2341 aggtgtcact gctgcagcaa tatgtgtttc ttcagaacat gagacaatgt aacattatga
+     2401 acatccaaca agagtctctg caccaaacac ctgtgggcgc caaacagttt cactcctgga
+     2461 gaaacgttac actgttggag taagtgtacg cgacacagac atgacttgtg cttccaatat
+     2521 cccaatcatc gagttcttat caattatgca ataaaaagta cacatgtgcc taactaaggt
+     2581 aaggtgccct gagtagtgta gctctagagt gggaaaagtg catccgagta gttagcaaac
+     2641 tttgctctat ttatgatttt acttctaaac acccagacaa aatatacctt taaaaatgcc
+     2701 catctaggag acatcagtag aaataattgg tacagaagta atagggccaa tgacgcatga
+     2761 cggagtgagg ccataaatgt tttacttagt gatgtcacaa agaagtgtgg ggggcacaaa
+     2821 ccacgtttat ggcttggact ggcctactgc attgtgccag tccttcgtga catatggagc
+     2881 agttcataag tcttgaaaat gatttatact tcatgaaatg tactagcctt taataacaga
+     2941 tggaactgtt cataactttt gaaaatgatt tatacttaat gaaatgtact agcctttaat
+     3001 aacagatgga actgttcata acttttgaaa atgatttata cttcatgaaa tgtactagcc
+     3061 tttaataaca gatggaactg ttcatatctt ttgaaaatga tttatacttc atgaattata
+     3121 ctagccttta gcaacagatg gaacagttca taacttttga aaatgattta tacttcatga
+     3181 aatgtactag cctttaataa cagatggaac tgttcataac ttttgaaaat gatttatact
+     3241 ttatgaaatg tactagcctt taataacaga tggaactgtt cataactttt gaaaatgatt
+     3301 tatacttcat gaaatgtact agcctttaat aacagatgga actgttcata acttttgaaa
+     3361 atgatttata cttcatgaat tgtactagcc tttagcaaca gatagaactg ttcataactt
+     3421 ttggaaatga tttaaacttt atgaattgta ctagccttta ataacataat aaaattatgt
+     3481 acacctt
+//
+

@@ -1,0 +1,52 @@
+LOCUS       AY336686                 577 bp    DNA     linear   VRT 28-FEB-2004
+DEFINITION  Pleurodeles waltl haplotype W4 ATPase subunit 6 gene, partial cds;
+            mitochondrial.
+ACCESSION   AY336686
+VERSION     AY336686.1  GI:37911236
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 577)
+  AUTHORS   Veith,M., Mayer,C., Samraoui,B., Donaire Barroso,D. and Bogaerts,S.
+  TITLE     From Europe to Africa and vice versa: evidence for multiple
+            intercontinental dispersal in ribbed salamanders (Genus
+            Pleurodeles)
+  JOURNAL   J. Biogeogr. 31 (1), 159-171 (2004)
+REFERENCE   2  (bases 1 to 577)
+  AUTHORS   Veith,M., Mayer,C., Samraoui,B., Donaire Barroso,D. and Bogaerts,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2003) Ecology, University Mainz, Institute of
+            Zoology, Saarstrasse 21, Mainz 55099, Germany
+FEATURES             Location/Qualifiers
+     source          1..577
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+                     /haplotype="W4"
+     CDS             75..>577
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase subunit 6"
+                     /protein_id="AAR04925.1"
+                     /db_xref="GI:37911237"
+                     /translation="MNLSFFDQFLSPTLFGLPLIGLALILPWLLFPKPTNHWLNNRLT
+                     TTQAWFFYMFTKQLMTPINTKGHNWSLMLAALMMFLITINLLGLLPYTFTPTTQLSLN
+                     LGLAVPLWFATVLMGLRNQPTMALGHMLPEGTPTPLIPVLIIIETISLFIRPLALGVR
+                     LTANLTAG"
+ORIGIN      
+        1 aacaactttc agcaccaaaa tacccccaca ttacaaaaca caaaaaaagg aaaaaaacaa
+       61 ccctgaaact gaccatgaac ttaagctttt ttgatcaatt ccttagccca accctttttg
+      121 gattaccttt aattggcctc gcccttatcc taccatgact attgtttcct aaaccaacca
+      181 accactggtt aaataatcga ctaacaacaa cccaagcttg attcttttat atatttacca
+      241 aacaactcat aaccccaatc aacactaaag gacacaactg atccctaata ctggccgcct
+      301 taataatatt tcttattact attaaccttc taggcctctt accatacaca tttaccccaa
+      361 caacacaact ctcattaaac ctaggtcttg ccgtcccatt atgatttgcc acagtactta
+      421 tgggcctacg taatcagcca actatagccc tgggacatat actgccagaa ggcacaccaa
+      481 ccccccttat tccagttctt attattattg aaacaattag cttatttatt cgaccattag
+      541 cactaggagt gcgacttaca gccaatctaa ctgctgg
+//
+

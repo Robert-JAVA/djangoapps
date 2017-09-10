@@ -1,0 +1,61 @@
+LOCUS       JQ290387                 524 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Triturus cristatus voucher Bb13f_E2 cytochrome b (CytB) gene,
+            partial cds; mitochondrial.
+ACCESSION   JQ290387
+VERSION     JQ290387.1  GI:397881067
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 524)
+  AUTHORS   Brede,E.G.
+  TITLE     A molecular evaluation of hybridization and introgression in a
+            native UK population and its historically introduced non-native
+            congener
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 524)
+  AUTHORS   Brede,E.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2011) BEPG, Cardiff University, Museum Ave,
+            Cardiff, Cardiff CF10 3AX, UK
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Bb13f_E2"
+                     /db_xref="taxon:8323"
+                     /country="United Kingdom"
+                     /collection_date="28-May-2010"
+                     /collected_by="E.Brede"
+                     /identified_by="E.Brede"
+                     /PCR_primers="fwd_name: tri_cyb2f, fwd_seq:
+                     acagcagacacacaatcggcat, rev_name: tri_cyb2r, rev_seq:
+                     ggtaactaaggagtttgctggg"
+     gene            <1..>524
+                     /gene="CytB"
+     CDS             <1..>524
+                     /gene="CytB"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFO68039.1"
+                     /db_xref="GI:397881068"
+                     /translation="YGWLVRNIHANGASLFFVCIYMHIGRGLYYGSYMFKETWNIGVV
+                     LLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDKITFHPYFSYKDALGFLL
+                     MLLALMLISLLTPN"
+ORIGIN      
+        1 actacggctg actagtacga aacatccacg ctaacggagc ctcgctattt tttgtttgca
+       61 tctacataca catcggacgc ggcctgtatt acggctcata catatttaaa gagacttgaa
+      121 acattggcgt agtcttacta tttctggtca tagccactgc cttcgttggg tatgtcctgc
+      181 catgaggaca aatatcattt tggggcgcca cagttattac taaccttctt tcagctgttc
+      241 catatttagg agattctctt gtccagtgaa tctggggggg cttctcagta gataaggcaa
+      301 cactcacccg attttttgca ttccacttcc tgttcccatt cttaattgca gggactagca
+      361 ttgttcacct actcttctta caccaaacgg ggtcaaacaa tccaacaggc atctcctcta
+      421 accaggacaa gatcaccttt catccatact tttcctataa agacgcatta ggatttctac
+      481 tcatgctact tgccttaata ttaatctctc tcctcacacc aaac
+//
+

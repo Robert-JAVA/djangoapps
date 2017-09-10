@@ -1,0 +1,61 @@
+LOCUS       KJ715791                 945 bp    DNA     linear   VRT 01-OCT-2014
+DEFINITION  Cynops orientalis dispatched-like protein 2 (DISP2) gene, partial
+            cds.
+ACCESSION   KJ715791
+VERSION     KJ715791.1  GI:689435968
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 945)
+  AUTHORS   Mao,R.L., Chen,M.Y. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2014) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..945
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>945
+                     /gene="DISP2"
+     mRNA            <1..>945
+                     /gene="DISP2"
+                     /product="dispatched-like protein 2"
+     CDS             <1..>945
+                     /gene="DISP2"
+                     /codon_start=1
+                     /product="dispatched-like protein 2"
+                     /protein_id="AIR08452.1"
+                     /db_xref="GI:689435969"
+                     /translation="LVAALAIGGAYILCFSPKLKLPTSEMSSVQVFRLSHPFERYDAE
+                     YCHQFMFERQEHGEGQRMPITLVWGIMPVDNGDHFNPKSNGTLVPDPTFSIQSSDAQK
+                     WLLDFCHKVKNLSFYYFSAETKPTVCFMEDFQKWMGSRQCSKGDHNLNLCCNHFPFPY
+                     KSEVFMHCIKMMVMEQGGDHTNANDLGLRFNVDGNIAALVLEFQTNYHYSFNYSTTRH
+                     FYNKISHWLSNEIRAAPPGLQNGWFTSNLDLYNLQLSLSTETMVVTGLSIAIAFVVLL
+                     LTTWNILLSVFSVIAIGGTVLVTIGLLVLLEWQLNAVES"
+ORIGIN      
+        1 ttggttgctg ctttagcaat aggaggtgct tacattctct gctttagccc aaaactaaaa
+       61 cttcctactt ctgaaatgtc atctgtccaa gtattcagat taagtcaccc gtttgaacga
+      121 tatgatgcag aatactgcca ccagttcatg tttgaaagac aggagcatgg agaaggacag
+      181 cgaatgccaa taaccttggt ttggggcatc atgcctgtgg acaatgggga tcatttcaat
+      241 ccaaaaagca atggaacact tgtgccagat cccacctttt ctatccagag ctctgacgcc
+      301 cagaagtggc tgcttgattt ctgtcacaaa gtgaaaaatc tatctttcta ctatttcagt
+      361 gcagaaacga aacccacagt ttgcttcatg gaggatttcc aaaagtggat gggtagtcgc
+      421 cagtgctcca agggagatca caaccttaat ctgtgctgca accatttccc cttcccatac
+      481 aagagtgagg tctttatgca ctgcataaaa atgatggtta tggaacaagg aggtgatcat
+      541 accaatgcaa atgatttggg tctacgattt aatgtggatg gaaatatagc tgctttagta
+      601 ttggagtttc aaaccaacta tcattacagt ttcaattata gtacaaccag acacttttac
+      661 aataaaataa gccactggct ttcaaatgaa ataagggcag ctccgcctgg acttcagaat
+      721 gggtggttca caagtaactt ggacttgtat aatctccagc tcagcctgag cactgaaacc
+      781 atggtggtaa ctggcttgtc catagccatt gcatttgtgg tactattact tactacgtgg
+      841 aatattttgc tcagtgtgtt ctctgttata gccattggag gtacagtatt ggtgaccatt
+      901 gggctcctgg ttcttttaga atggcagctt aatgcagttg agtct
+//
+

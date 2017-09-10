@@ -1,0 +1,100 @@
+LOCUS       HM367113                2143 bp    mRNA    linear   VRT 17-OCT-2013
+DEFINITION  Notophthalmus viridescens ISL1 transcription factor (ISL1) mRNA,
+            complete cds.
+ACCESSION   HM367113
+VERSION     HM367113.2  GI:478131431
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2143)
+  AUTHORS   Witman,N., Murtuza,B., Davis,B., Arner,A. and Morrison,J.I.
+  TITLE     Recapitulation of developmental cardiogenesis governs the
+            morphological and functional regeneration of adult newt hearts
+            following injury
+  JOURNAL   Dev. Biol. 354 (1), 67-76 (2011)
+   PUBMED   21457708
+REFERENCE   2  (bases 1 to 2143)
+  AUTHORS   Witman,N., Heigwer,J., Thaler,B., Lui,W.O. and Morrison,J.I.
+  TITLE     miR-128 regulates non-myocyte hyperplasia, deposition of
+            extracellular matrix and Islet1 expression during newt cardiac
+            regeneration
+  JOURNAL   Dev. Biol. (2013) In press
+   PUBMED   24055866
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   3  (bases 1 to 2143)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2010) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+REFERENCE   4  (bases 1 to 2143)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2013) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+  REMARK    Sequence update by submitter
+COMMENT     On Apr 9, 2013 this sequence version replaced gi:308097157.
+FEATURES             Location/Qualifiers
+     source          1..2143
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..2143
+                     /gene="ISL1"
+     CDS             1..1050
+                     /gene="ISL1"
+                     /note="LIM/homeodomain protein"
+                     /codon_start=1
+                     /product="ISL1 transcription factor"
+                     /protein_id="ADO14133.1"
+                     /db_xref="GI:308097158"
+                     /translation="MGDMGDPPKKKRLISLCVGCGNQIHDQYILRVSPDLEWHAACLK
+                     CAECNQYLDETCTCFVRDGKTYCKRDYIRLYGIKCAKCNIGFSKNDFVMRARSKVYHI
+                     ECFSCVACSRQLIPGDEFALREDGLFCRADHDVVERASLGAADPLSPLHPARPLQMAA
+                     EPISARQPALRPHVHKQPEKTTRVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMT
+                     GLSPRVIRVWFQNKRCKDKKRSILMKQLQQQQPNDKTNIQGMTGTPMVAASPERHDGG
+                     LQANSVEVQSYQPPWKVLSDFALQSDIDQPAFQQLVNFSEGGPGSNSTGSEVASMSSQ
+                     LPDTPNSMVASPIEA"
+ORIGIN      
+        1 atgggagaca tgggagatcc tccgaaaaag aagcgcctga tctcgctgtg cgtgggctgc
+       61 ggaaaccaga tccatgacca gtacatcctg cgggtgtcac cggatctgga atggcacgcc
+      121 gcctgcctga agtgtgccga gtgcaaccag tacctggacg agacctgtac gtgcttcgtg
+      181 agggatggca agacctactg caagcgggac tacatcaggt tgtacggaat caagtgtgca
+      241 aagtgtaaca ttggcttcag taagaatgac tttgtgatgc gcgcacggtc caaggtgtac
+      301 cacatcgagt gcttcagctg cgtggcctgc agccggcagc tcattcctgg cgacgagttt
+      361 gcactgcggg aagacggact cttctgtagg gcggaccacg acgtggtgga aagggccagc
+      421 ctgggggccg cggaccctct cagccccctg caccctgctc ggcctctgca gatggcagca
+      481 gaacctattt ctgctaggca gcccgctctc cgaccgcacg tgcacaagca gccagaaaag
+      541 accacccgag tccgaactgt gctaaacgag aagcagctcc acaccttgag gacctgctat
+      601 gctgccaacc ctcggcctga tgccctcatg aaggagcagc tcgtggaaat gactggcctc
+      661 agccccaggg tcatcagggt atggtttcaa aacaagcgct gcaaggacaa aaaaaggagc
+      721 atcttgatga aacagcttca acagcagcaa cccaacgaca aaactaatat ccaagggatg
+      781 acgggaacgc ctatggtggc tgccagtcct gagaggcatg atggtggatt acaggccaac
+      841 tcagtagagg tgcagagtta ccagccaccc tggaaagttc tcagcgactt tgccctgcag
+      901 agcgacatag atcagcctgc ctttcagcaa ctggtaaatt tttccgaagg gggaccaggc
+      961 tccaattcca ctggaagtga agtggcatca atgtcctccc agctcccgga cacacccaac
+     1021 agcatggtag ccagtcctat tgaagcatga gcgacttcat gaactcactt atggcttttc
+     1081 ctgctggagc aagaatgggt actgtgacct tagactccat agaagaaaag aaactaagta
+     1141 tttaatgacc gcgttattat aggaaagaca gctccatgaa atgcacgatg tctgttttaa
+     1201 tgacaaggtg gtatggtagc aacactgtga agacaatcat gggatcttac taggattgac
+     1261 aacgaaaaac aatgtccaat gaacggagga gtacttcaaa gacgtttttt ttatgacgta
+     1321 gaggatttat attcatggct ctcgccctag aaaatattat tcggcatccc tcacccctgt
+     1381 gcaacacaaa tgacagagat aaggagaaat gaattccaca cgcataccaa tggtgctgtt
+     1441 gatctattga acatggctcg accttcgcct tgccaaacag gagatctagg aggattccag
+     1501 tggaacaggc tggacgttgc ctcagcagaa tggacaattg ctggtgggat cctttctgga
+     1561 tttaaggtag agctgagttg gcgtgcaatg ctttaagctc ttattacaag gggtgaagtt
+     1621 gggtcttcgc tagcatgcgg ctgtattttt ttaaagggga gtgaatcccc tctccccatc
+     1681 ccccatttct caagaagccc taacccacaa ctgacactgc tttaaaaggt ttttgaatat
+     1741 ttttttcgat aacctctcta gagagcgttg caacaaggta tacctctatt ttgccacaag
+     1801 cgtcttggga ttgtgtgtac attgtgtcag tccaagaaca ttttccccaa agatgtgtat
+     1861 agttattggt taaaaaaaaa aagagtgttt ctcgctctct ctctctggaa taaagagaag
+     1921 aaaaggaaac tttttttgtt tgctcttgca ttgaaaaaat tataaagtaa tttattattt
+     1981 attgtcgaaa gacttgccac ttttcatgta atttgactga ttttgtttgc tgaagtaaaa
+     2041 aagaagaaca agtttgtatt gtcttgaatt atatgtttaa ttctatgtgt tctgtctatt
+     2101 tcttaaatat gtgaaataaa agcgctatat gtaaaaaaaa aaa
+//
+

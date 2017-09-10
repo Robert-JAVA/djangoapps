@@ -1,0 +1,43 @@
+LOCUS       KJ776973                 258 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate AH_40 NADH dehydrogenase subunit
+            2 (ND2) gene, partial cds; mitochondrial.
+ACCESSION   KJ776973
+VERSION     KJ776973.1  GI:686028165
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 258)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..258
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_40"
+                     /db_xref="taxon:8316"
+     gene            <1..>258
+                     /gene="ND2"
+     CDS             <1..>258
+                     /gene="ND2"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91072.1"
+                     /db_xref="GI:686028166"
+                     /translation="LLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSF
+                     APTLTMFNLMIYLMLTSSMFMMMKATHSTNINKLSTSWLKT"
+ORIGIN      
+        1 acttattaat tacaatagca ctagcatcaa caattattgg gggatgagga ggcctcaatc
+       61 aaacacaaat acgaaaaatt atagcatatt catctattgc gcatctaggg tgaataattt
+      121 tagttttatc tttcgcccct accctaacaa tatttaactt aataatctat ttaatattaa
+      181 cctcttctat atttataata ataaaagcca cacattcaac aaatattaat aaactctcaa
+      241 cttcatgact aaaaacac
+//
+

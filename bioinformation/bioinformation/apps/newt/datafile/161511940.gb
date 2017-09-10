@@ -1,0 +1,60 @@
+LOCUS       AM900489                 642 bp    DNA     linear   VRT 28-MAR-2008
+DEFINITION  Calotriton asper mitochondrial partial nd4 gene for NADH
+            dehydrogenase subunit 4, isolate h22.
+ACCESSION   AM900489
+VERSION     AM900489.1  GI:161511940
+KEYWORDS    NADH dehydrogenase subunit 4; nd4 gene.
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1
+  AUTHORS   Arntzen,J.W., Espregueira Themudo,G. and Wielstra,B.
+  TITLE     The phylogeny of crested newts (Triturus cristatus superspecies):
+            nuclear and mitochondrial genetic characters suggest a hard
+            polytomy, in line with the paleogeography of the centre of origin
+  JOURNAL   Contrib. Zool. 76 (4), 261-278 (2007)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2007) Arntzen J.W., Department of Vertebrates,
+            Naturalis, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="h22"
+                     /db_xref="taxon:30374"
+     gene            <1..>642
+                     /gene="nd4"
+     CDS             <1..>642
+                     /gene="nd4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="CAP12667.1"
+                     /db_xref="GI:161511941"
+                     /db_xref="GOA:A9J639"
+                     /db_xref="InterPro:IPR001750"
+                     /db_xref="InterPro:IPR003918"
+                     /db_xref="UniProtKB/TrEMBL:A9J639"
+                     /translation="LLKLGGYGMIRITIILTPLTKEMSYPFMTLALWGMVMTSLICMR
+                     QTDLKSLIAYSSVSHMSLVIAAIMIQTPWSLTGAIILMISHGLISSTLFCLANLNYER
+                     THSRTLLLMRGAQAILPLMTTWWLLANLSNMALPPTMNLWGELTIMVSLFNWSPLTIL
+                     ITGTGTLITASYTLYMFLMTQRGPTPPHISPINPSYTREHFLIVMHLMPMLLLI"
+ORIGIN      
+        1 ttacttaaac taggaggata tggtatgatt cgaattacca ttattttaac cccactaaca
+       61 aaagaaatat catacccatt tataaccttg gccttgtggg ggatggtaat aactagctta
+      121 atctgcatac gacaaacaga cctaaagtca ctaatcgcat actcatctgt aagccacatg
+      181 agcctggtta ttgctgccat tataatccaa actccatgaa gcctcacagg ggcaattatc
+      241 ttaataattt cacacggact tatctcatcc accctcttct gcttagcaaa cttaaactac
+      301 gaacgaacac acagtcgaac cctactatta atacgcgggg ctcaagcaat ccttccacta
+      361 atgaccacct gatgacttct tgcgaaccta tcaaatatgg ccctcccccc cacaataaac
+      421 ctgtggggag agcttacaat catagtctca ttattcaact gatctcctct aacaattcta
+      481 attacaggaa cggggaccct aattacagct tcctacacgc tttacatatt tctaataaca
+      541 caacgaggcc caaccccccc acatatcagc ccaatcaacc cctcttacac ccgagaacac
+      601 tttctaatcg taatgcacct aataccaata ctactactaa tt
+//
+

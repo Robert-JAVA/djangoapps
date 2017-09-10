@@ -1,0 +1,71 @@
+LOCUS       AB238684                1782 bp    RNA     linear   VRT 18-OCT-2008
+DEFINITION  Cynops pyrrhogaster premature mRNA for gamma crystallin, partial
+            cds.
+ACCESSION   AB238684
+VERSION     AB238684.1  GI:78675142
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N., Kurosaka,H. and Agata,K.
+  TITLE     Cynops pyrrhogaster: gamma crystallin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1782)
+  AUTHORS   Maki,N., Kurosaka,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2005) Contact:Nobuyasu Maki Graduate School of
+            Science, Kyoto univ., Department of Biophysics;
+            Kitashirakawa-Oiwake, Sakyo-ku, Kyoto, Kyoto 606-8502, Japan URL
+            :http://mdb.biophys.kyoto-u.ac.jp/
+FEATURES             Location/Qualifiers
+     source          1..1782
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="transcribed RNA"
+                     /db_xref="taxon:8330"
+                     /clone="N9"
+     intron          <1..1431
+                     /note="3' splice site does not follow GT-AG rule"
+     CDS             <1432..1710
+                     /note="Cynops pyrrhogaster gamma crystallin pre-RNA"
+                     /codon_start=1
+                     /product="gamma crystallin"
+                     /protein_id="BAE47572.1"
+                     /db_xref="GI:78675143"
+                     /translation="QHRGSYRIRVYERDNFGGQMMEFSEDCPHVYEQFRYNDIHSCNV
+                     QDGHWVFYEEPNYRGRQYYLRPGEYRRYSDWGASSPKVGSFRRVRDLY"
+ORIGIN      
+        1 tttatttttg gagttacttt gacatgaggc agattcttca tccatgtgac aatgaaaaat
+       61 gcaacagttc agaaacttat tttgtaagga ttagttatga gaaatcccca tcgaagaaaa
+      121 gaacatcaca aggaataccg gaatgaggaa aatcatcttc aacagttcat acctaacatt
+      181 gtcccttacc aaaccaaaaa gctagcccag tctctaacta cagtaataat ctctacttta
+      241 actgtcaaat tcagagcctt ttcgtccttt tattggtatt ggttatcgtc tttttaacct
+      301 tcatgttaca ttatgatgga tgtaattgga tatctgggaa aaaactgcat tttattgcag
+      361 caaaataaat tctaacaagt tgccttttct ctaaaatgtt cataattgca ccaaaacttc
+      421 atttaaaata gatcactatt aatattgggt atgttaatat ttacaccttt gatggactgt
+      481 gcagcaacag agcaagagag gctgctatag aacgaccgtg tagtagtatt tacttcttgc
+      541 agaaatattc catattcctg agcgagacac gaaaataggg acatagagat acatgctcac
+      601 ggtttgaaat tgatgtggga agtctcttta ttatttattt cgcctgaaaa ctttgagatg
+      661 gtaaatcatg tacagatgtt ttggtttacg catttaggcc attccatttt tatgatggca
+      721 gaaactgtgc gcccattata aatttcacat ttcgtgctat atcagagaca caaatggtca
+      781 tatggcattt tttacttctg gggttgtttt ctgcatcctg tcttataaat atatgcccag
+      841 ggttcatcgt ttttttgtac cctattatct gctctaataa cccattttac atgttcacac
+      901 tcactgtcac aatcaggaaa aagctgatga caggaaagta gtgacagtga gtgctaaatg
+      961 cgagcaagta gcaaaattag ctttcagtcc aaaatacttg ctagtgccca aaagggtgca
+     1021 cacagcactg aacacttttt cacactacgg cacaagaccc tattagtaaa tctaataagt
+     1081 taggtatcat cttaatggac tgtataaagc cactatttct ccatgctgaa atgctcttat
+     1141 cattgctgcc ttaatcttcg agattgctta atggtttgct ttgaactcag ttcattacta
+     1201 tcacagctag tatcgcttta ggacctccat atcatcatgg ggtgaatgtt gcgatttata
+     1261 accacattag gagatcacat aattaggatg ccaagcaaaa gttaagtttt tgtaagataa
+     1321 gcaaatctca acagaacaca tttttttaag tgacagtatt gtttgttttt tatcttacat
+     1381 tttattttat gttaagaaga aagttcattc agtttctttt ctcatcttgt ccagcatcgt
+     1441 ggatcctaca gaataagagt ttatgagcga gataattttg gaggtcagat gatggagttc
+     1501 tctgaagact gtccacacgt ttacgagcag ttccgctata atgacatcca ctcctgtaat
+     1561 gtgcaggatg ggcactgggt cttctatgag gagcccaact acagagggcg tcagtactac
+     1621 ttaagacctg gagaatacag gaggtacagt gactggggag cctcaagccc caaggttgga
+     1681 tccttcagga gagttcggga tctttactga gatacttttg atgttctgcc tcaacaatcc
+     1741 atataacaca aataaatatt gcatacatta aaaaaaaaaa aa
+//
+

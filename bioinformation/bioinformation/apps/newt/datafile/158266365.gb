@@ -1,0 +1,75 @@
+LOCUS       EU169229                1786 bp    DNA     linear   VRT 20-MAR-2008
+DEFINITION  Pleurodeles waltl estrogen receptor alpha gene, promoter region and
+            partial cds.
+ACCESSION   EU169229
+VERSION     EU169229.1  GI:158266365
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1786)
+  AUTHORS   Ko,C.I., Chesnel,A., Mazerbourg,S., Kuntz,S., Flament,S. and
+            Chardard,D.
+  TITLE     Female-enriched expression of ERalpha during gonad differentiation
+            of the urodele amphibian Pleurodeles waltl
+  JOURNAL   Gen. Comp. Endocrinol. 156 (2), 234-245 (2008)
+   PUBMED   18321504
+REFERENCE   2  (bases 1 to 1786)
+  AUTHORS   Chesnel,A., Ko,C.-I., Chardard,D. and Flament,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2007) UPRES-EA3442, Aspects Cellulaires et
+            Moleculaires de la Reproduction et du Developpement, Faculte des
+            Sciences et Techniques, Universite Henri Poincare, Boulevard des
+            Aiguillettes, BP239, Vandoeuvre-les-Nancy, Lorraine 54506, France
+FEATURES             Location/Qualifiers
+     source          1..1786
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     regulatory      1..1528
+                     /regulatory_class="promoter"
+     mRNA            1529..>1786
+                     /product="estrogen receptor alpha"
+     5'UTR           1529..1743
+     CDS             1744..>1786
+                     /note="ER alpha"
+                     /codon_start=1
+                     /product="estrogen receptor alpha"
+                     /protein_id="ABW24739.1"
+                     /db_xref="GI:158266366"
+                     /translation="MPLHSKTPGVALLH"
+ORIGIN      
+        1 aggtatacac atatggtgta tagtcatttg tagagtgcaa gccttgctat aagcaacact
+       61 gcactgaaca atagcggggc ccctggctta tgattcagga ttactaataa gtagcctgtt
+      121 cgtgggtgct aaaccagaag ttgtaatgtt ctctcaagac gagggccttc agttcatttc
+      181 tggattggcg cagttctgat gtttacgggg acggtgttca gggtccttgg aagacagcta
+      241 gagaaagtat ctcttctact tttttttatt accgattttt ctttccagac tggggatttc
+      301 gaaatataac tcttggatga ttccccgctc tagatacaca tgtgcgtctc cttctgcctt
+      361 cgttgtcatt tatgtgtcct cgaataactg tggctgatta cttgaactat tccagcatta
+      421 ttagtaaatc tctaaaaatt caggaaacaa caccgaacac aggagcaatt gtaaatgtac
+      481 acgtttttta ctttgtagaa tatggtgctg ctaatcagca ctagcatgag ttactttgtg
+      541 ggtgtaaatc gaatttatat tgactgtcta gaatcactct ttgggtattc tgtttttgca
+      601 tatgtaaaca tagtgggggg gggggttata gctgccccta ccttgaacac ttttccatgc
+      661 tcctctacaa taaggccatg catgaacaat ccccacggac cccaagatac acacgcgcag
+      721 ctgaaagtca tgccctagtc tcagacccta tacaaattca tcaacccttt ttaatttatg
+      781 aactactgtc attttgcgag tgcgaaatat attttttatg gctgcttgcg tattagtgat
+      841 cagaaaaaaa ccttttcgaa tcggctcaga agagtggacc attaagaact caaaccactg
+      901 actcaaactg aagatttgga cccattgtat ccaaaaaatg ttagtaaatg aaaaacacgt
+      961 gactttgtgc tatttaggtg actaccctgt tcctgcaccc acactggcac caggcaacac
+     1021 gtgtctctgg ttccgtgcca cctacatcaa tgtaaggcgg actttcatat ctgacccaga
+     1081 caggacatta gtgccagctg cgtgtctgta tgggcaggta aatcttcaga tttctttcat
+     1141 tgtggatagg aatattgtcg ggaaatcaca tgcatgaaaa tgattcacag aacagcaccg
+     1201 agcagcagca aaaaccagag agtctgtcga ggtaccgacc actaagtccc ccttcaccgt
+     1261 tcacacacct ctggcccctc gaggccaccc ccgagcacca ctgtgctcca gagcgaaaag
+     1321 ttaagtaatc gactcttaaa gagaaaaaaa tacaaaagga aagaaaacaa aagaactaag
+     1381 aaaaaaagtg catctggtgt ttctccaaaa gaccagtcga gcctgaagtg atgtttaaac
+     1441 cggtgtcgtt gcactataac agcccctgga cccccgccag cacctttgta atacacatta
+     1501 ttagctggga tgcaaagtac ttaaagttag aaggggtgag ggaggaagta cagcccgtgc
+     1561 tctgctcaca ccgcactccc tcgtatcctc cccttgccag gaacagactg aatacctgtg
+     1621 cggcgcgata ggcagtgcgt tttcagcgcg agctcatgcc agcgtgtgct cttcttccgg
+     1681 caggttcaac aagtgctgag ccctcgccag ccatgccgct cgcctgccgc caatagccag
+     1741 aacatgcccc tccacagcaa gacgcctgga gtcgccctgc ttcacc
+//
+

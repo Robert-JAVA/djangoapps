@@ -1,0 +1,58 @@
+LOCUS       AB476740                 829 bp    mRNA    linear   VRT 28-MAY-2009
+DEFINITION  Notophthalmus viridescens Oct4 mRNA for pou domain class 5
+            transcription factor 1, partial cds.
+ACCESSION   AB476740
+VERSION     AB476740.1  GI:223670812
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Maki,N., Suetsugu-Maki,R., Tarui,H., Agata,K., Del Rio-Tsonis,K.
+            and Tsonis,P.A.
+  TITLE     Expression of stem cell pluripotency factors during regeneration in
+            newts
+  JOURNAL   Dev. Dyn. 238 (6), 1613-1616 (2009)
+   PUBMED   19384853
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 829)
+  AUTHORS   Maki,N., Maki,R. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2009) Contact:Nobuyasu Maki University of Dayton,
+            Department of Biology; 300 College Park, SC46, Dayton, Ohio
+            45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..829
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..829
+                     /gene="Oct4"
+     CDS             <1..449
+                     /gene="Oct4"
+                     /codon_start=3
+                     /product="pou domain class 5 transcription factor 1"
+                     /protein_id="BAH22629.1"
+                     /db_xref="GI:223670813"
+                     /translation="ADNTQNMEQLCNMEQMLAQARKRKRRTSIENNVKGTLENFFQKC
+                     SKPGPQEIYQIAEDLSLEKDVVRVWFCNRRQKGKRLLLPPHIEEMEGGMYEAIQTITP
+                     PGGPTYALPTMLSSQGYNATSMTSPPMYMPAFPQALHPGSPMGNSS"
+ORIGIN      
+        1 aggcggacaa cacacaaaat atggaacagt tgtgcaatat ggaacaaatg ctggctcagg
+       61 ctcggaagag gaagcgccgg accagcattg agaacaatgt gaaaggcact ctagaaaact
+      121 tcttccaaaa gtgttcaaag ccaggacctc aagagatcta tcagattgct gaagacctca
+      181 gtctggaaaa agatgtagtc cgtgtttggt tctgcaatcg tcgacagaag ggcaagaggc
+      241 tgctgctgcc gccccacata gaagagatgg aaggcgggat gtatgaagcc attcagacca
+      301 ttacacctcc aggggggcct acatatgcct tgccaaccat gctttcatca caggggtata
+      361 atgcaacctc aatgacctct ccacccatgt acatgccagc ctttccacaa gcattgcatc
+      421 caggaagccc catgggaaat agtagttaaa tgacacaacc ctctgggagg gagcaagaga
+      481 cctgcctcac tattctctaa aaggggcaaa tacaaatgtt cctttagggg tggaatattg
+      541 ccaattctac ctttttgtaa atggttgaca gctctatttt tcacaggctg cagttctcct
+      601 ctccaaggat tttgtgctat tgactgtgtt cgcccggact gtgacttcag taatggtgca
+      661 tatccatttg catatgtcag caaccattgc aagaggcact ctcaagtctt tgaaaatatg
+      721 tgtatctctt ttctattgaa aaatgatgct atcatgaata tagtcctgaa tacagaggat
+      781 gttggaattt tccatgttaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaa
+//
+

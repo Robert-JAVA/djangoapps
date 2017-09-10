@@ -1,0 +1,46 @@
+LOCUS       JX510169                 500 bp    DNA     linear   VRT 20-MAR-2013
+DEFINITION  Triturus macedonicus haplotype Tmac857BFb beta-fibrinogen gene,
+            intron 7.
+ACCESSION   JX510169
+VERSION     JX510169.1  GI:444742253
+KEYWORDS    .
+SOURCE      Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 500)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     A multimarker phylogeography of crested newts (Triturus cristatus
+            superspecies) reveals cryptic species
+  JOURNAL   Mol. Phylogenet. Evol. 67 (1), 167-175 (2013)
+   PUBMED   23353071
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 500)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..500
+                     /organism="Triturus macedonicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385668"
+                     /haplotype="Tmac857BFb"
+     gene            <1..>500
+                     /gene="beta-fibrinogen"
+     intron          <1..>500
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 agttaattgg tttaatgcaa ggagcagcca ggacacatca aacacctaag aatgagagca
+       61 ttggcagcac tgacaccccg cttccatgtt tgatcagaga tagattctcg cttctcagca
+      121 tttctttcga gttgtggcat tcttttagac tgatagccac ttcaagacag acgcatcgtt
+      181 ctagtgttcc tttccgcata attccactgc tggcgttcgt tttctgcaaa ggactacaga
+      241 tacatatgca ttatatatat atttttaaaa acagttctta gacataaaga agactattag
+      301 agaaaaccgc cacacgttcc caccttatac tttagtatac tgaagtaaat tattttatta
+      361 attactacgt taaactgtac tgtacaacag gaatcagtat tataagttat gctatgttat
+      421 gctttgctat tttgtgcatg aacacacatg catgcacaca tgcatacaca tgcttgcttc
+      481 gagtcttgga aatgcagggg
+//
+

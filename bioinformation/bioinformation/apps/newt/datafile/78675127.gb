@@ -1,0 +1,43 @@
+LOCUS       AB238603                 319 bp    DNA     linear   VRT 15-SEP-2007
+DEFINITION  Cynops pyrrhogaster DNA, satellite CYP-St-Hind.
+ACCESSION   AB238603
+VERSION     AB238603.1  GI:78675127
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Cynops pyrrhogaster repeat sequence: CYP-St-Hind
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 319)
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..319
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /sex="male"
+                     /tissue_type="testis"
+                     /country="Japan:Okayama"
+                     /note="Satellite DNA sequence obtained by digestion of
+                     newt genomic DNA by Hind III"
+     repeat_region   1..319
+                     /note="satellite CYP-St-Hind"
+ORIGIN      
+        1 aagcttctga ggaggaggaa aagtctataa aaatggcaat tttggacact gtgaggccta
+       61 aaaaagtggt tattcaacat gaggcatgat ccaaatgata ttttgaatca ttttttgtac
+      121 aatctaaaaa atcaattttt tcatgaaaaa cgatgacccc ggacctgtcg aactttctcc
+      181 agatggtcag taatggtgat ttttgaatgt ttaatctttt gattgtaaat acttgttgga
+      241 tgtgaattgt ctcttttgga aataaaataa gtgtgtttag agtcattttc ctgcccgaaa
+      301 tcagtcaaaa gtaaagctt
+//
+

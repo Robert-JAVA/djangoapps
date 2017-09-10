@@ -1,0 +1,38 @@
+LOCUS       TCU04702                 355 bp    DNA     linear   VRT 26-APR-1996
+DEFINITION  Triturus carnifex mitochondrion 12S rRNA gene, partial sequence.
+ACCESSION   U04702
+VERSION     U04702.1  GI:440788
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Molecular Biogeography: using the Corsica-Sardinia microplate
+            disjunction to calibrate mitochondrial rDNA evolutionary rates in
+            mountain newts (Euproctus)
+  JOURNAL   J. Evol. Biol. 7, 227-245 (1994)
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1993) Adalgisa Caccone, Biology, Yale University,
+            165 Prospect St., New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8326"
+     rRNA            <1..>355
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagccat aaactttgac ccacatccgc ccgagtacta cgagcaacag cttaaaactc
+       61 aaaggacttg gcggtgctct acacccccta gaggagcctg ttctataatc gataatccac
+      121 gataaacctc accgcttatt gccaatacag cctatatacc accgtccagc ccacccttta
+      181 aagggtaaaa agtaggcaaa attatataca taagaacgtc aggtcaaggt gtagcaaata
+      241 aagcgggaag aaatgggcta cattttctaa cctagaaaac acggaaaagt ctatgaaaca
+      301 agactacgaa ggaggattta gcagtaaaaa gaaaaaagag cgttcttttt aaacc
+//
+

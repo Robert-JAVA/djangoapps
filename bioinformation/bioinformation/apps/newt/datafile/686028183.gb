@@ -1,0 +1,81 @@
+LOCUS       KJ776981                 987 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate AH_38 NADH dehydrogenase subunit
+            2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys,
+            and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ776981
+VERSION     KJ776981.1  GI:686028183
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 987)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..987
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_38"
+                     /db_xref="taxon:8316"
+     gene            <1..589
+                     /gene="ND2"
+     CDS             <1..589
+                     /gene="ND2"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91079.1"
+                     /db_xref="GI:686028184"
+                     /translation="LLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSF
+                     APTLTMFNLMIYLMLTSSMFMMMMATHSTNINKLSTSWLKTPTLAASTMITLMALGGL
+                     PPTSGFLPKWLILQEMTKQHLETLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSN
+                     FTWRMKNNKLQILPTLIVLSAMMMPIAPTLLTMMN"
+     tRNA            588..656
+                     /product="tRNA-Trp"
+     tRNA            complement(658..726)
+                     /product="tRNA-Ala"
+     tRNA            complement(727..799)
+                     /product="tRNA-Asn"
+     rep_origin      800..833
+                     /note="origin for light strand replication"
+     tRNA            complement(831..896)
+                     /product="tRNA-Cys"
+     tRNA            complement(897..961)
+                     /product="tRNA-Tyr"
+     gene            963..>987
+                     /gene="COI"
+     CDS             963..>987
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91080.1"
+                     /db_xref="GI:686028185"
+                     /translation="MMITRWLF"
+ORIGIN      
+        1 cttattaatt acaatagcac tagcatcaac aattattggg ggatgaggag gcctcaatca
+       61 aacacaaata cgaaaaatta tagcatattc atctattgcg catctagggt gaataatttt
+      121 agttttatct ttcgccccta ccctaacaat atttaactta atgatctatt taatattaac
+      181 ctcttctata tttataataa taatagccac acattccaca aatattaata agctctcaac
+      241 ttcatgacta aaaacaccta cactagcagc atccacaata attaccctta tagcccttgg
+      301 aggacttcct ccaacctcag gcttcctacc aaaatgacta attttacaag aaataacaaa
+      361 acaacaccta gaaacactat caactataat agctatatcc gctttactca gcttattctt
+      421 ttacctacgc ctatcttata ctatctccct aacctccccc ccaaatattt ccaattcaaa
+      481 cttcacttga cgaataaaaa acaataaact acaaattctc ccaactctta ttgtactttc
+      541 agcaataata atacctatcg ccccaacact attgacaata ataaactaaa gacttaggat
+      601 aataagacca aagaccttca aagtcttaag caggagttaa aaccttctag tctttgatag
+      661 gacctgcaag actctatctc acatcttctg aatgcaaccc aaacacttta attaagctaa
+      721 gaccctctag actagtaggc ctttatccta cgccctttta gttaacagct aaacgctcaa
+      781 tccagcgagc tttagtctac ttctcccgct tatggggtaa aaagcgggag aagccccggc
+      841 agaagctatt ctgctcttta aaatttgcaa ttttatatgc tggacatcac agggcttgta
+      901 aaaaaggact ttaaccttta taacaagggc tacaatcttg cacctatttc ggccacttta
+      961 cagtgataat cactcgatga ctatttt
+//
+

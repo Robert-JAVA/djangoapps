@@ -1,0 +1,203 @@
+LOCUS       X69944                  2424 bp    mRNA    linear   VRT 14-NOV-2006
+DEFINITION  N.viridescens retinoic acid receptor delta 1a and 1b cDNA.
+ACCESSION   X69944
+VERSION     X69944.1  GI:64127
+KEYWORDS    retinoic acid receptor delta 1a.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 832 to 2424)
+  AUTHORS   Ragsdale,C.W. Jr., Petkovich,M., Gates,P.B., Chambon,P. and
+            Brockes,J.P.
+  TITLE     Identification of a novel retinoic acid receptor in regenerative
+            tissues of the newt
+  JOURNAL   Nature 341 (6243), 654-657 (1989)
+   PUBMED   2552324
+REFERENCE   2
+  AUTHORS   Ragsdale,C.W. Jr., Gates,P.B., Hill,D.S. and Brockes,J.P.
+  TITLE     Delta retinoic acid receptor isoform delta 1 is distinguished by
+            its exceptional N-terminal sequence and abundance in the limb
+            regeneration blastema
+  JOURNAL   Mech. Dev. 40 (1-2), 99-112 (1993)
+   PUBMED   8382939
+  REMARK    Erratum:[Mech Dev 1993 Jul;42(1-2):113]
+REFERENCE   3  (bases 1 to 2424)
+  AUTHORS   Ragsdale,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-DEC-1992) C. Ragsdale, Ludwig Ist. for Cancer
+            Research, Courtauld Bilding 91 Riding House street, London W1P 8BT,
+            UK
+FEATURES             Location/Qualifiers
+     source          1..2424
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="E1,E4,E6,NRO,DZ4,DZ6,DZ10,DZ12,DZ16,DZ17"
+                     /clone_lib="forelimb blastemal Lambda gt 10, tail Lambda
+                     Zap"
+                     /dev_stage="adult regeneration"
+     repeat_region   307..551
+     CDS             319..2208
+                     /codon_start=1
+                     /product="largest of the predicted retinoic acid receptor
+                     delta 1 isoforms empolying a CUG initiation site"
+                     /protein_id="CAA49562.1"
+                     /db_xref="GI:1843450"
+                     /db_xref="GOA:P18516"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18516"
+                     /translation="MAPPSSRRTDVSFDLAPPSSRKTDVDLAPPSSRRADISLELAPP
+                     PCRRAEVGIELGPPPLRRTDISISLAPPYSRRADFSNGLAGSTSPPRTQGLPRLPLED
+                     HHPPVHHAVAPRREYLSAYYHNMMKFSDTASCRDGGERPEEEGKGAGGRSKLRMGKEE
+                     FTGSVGKEEAAAVASMSSSKDRICSTSTQLSQLHGFPPSMYPFAFSSNMRGSPPFDLT
+                     NGGAYFRSFPTDLPKEMASLSVETQSTSSEEMVPSSPSPPPPPRVYKPCFVCNDKSSG
+                     YHYGVSSCEGCKGFFRRSIQKNMVYTCHRDKNCQINKVTRNRCQYCRLQKCFEVGMSK
+                     EAVRNDRNKKKKEIKEEVVTDSYEMPPEMEALIQKVSKAHQETFPSLCQLGKYTTNSS
+                     ADHRVQLDLGLWHKFSELATKCIIKIVEFAKRLPGFATLTIADQITLLKAACLDILML
+                     RICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFAEQLLPLEMDDTETGLL
+                     SAICLICGDRMDLEEPEKVDKLQEPLLEALKIYARRRRPNKPYMFPRMLMKITDLRGI
+                     STKGAERAITLKMEIPGPMPPLIREMLENPEAFEDDASPPPKSEQKPIKVEEKPGEKT
+                     STKDP"
+     exon            <319..1033
+                     /note="alternate exon 1"
+                     /number=1
+     CDS             644..694
+                     /codon_start=1
+                     /product="short ORF that may control RAR delta 1 isoform
+                     production"
+                     /protein_id="CAA49563.1"
+                     /db_xref="GI:64129"
+                     /translation="MPWHHAGNIYLPITIT"
+     CDS             691..2208
+                     /codon_start=1
+                     /product="retinoic acid receptor delta 1a"
+                     /protein_id="CAA49564.1"
+                     /db_xref="GI:64130"
+                     /db_xref="GOA:P18516"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18516"
+                     /translation="MMKFSDTASCRDGGERPEEEGKGAGGRSKLRMGKEEFTGSVGKE
+                     EAAAVASMSSSKDRICSTSTQLSQLHGFPPSMYPFAFSSNMRGSPPFDLTNGGAYFRS
+                     FPTDLPKEMASLSVETQSTSSEEMVPSSPSPPPPPRVYKPCFVCNDKSSGYHYGVSSC
+                     EGCKGFFRRSIQKNMVYTCHRDKNCQINKVTRNRCQYCRLQKCFEVGMSKEAVRNDRN
+                     KKKKEIKEEVVTDSYEMPPEMEALIQKVSKAHQETFPSLCQLGKYTTNSSADHRVQLD
+                     LGLWHKFSELATKCIIKIVEFAKRLPGFATLTIADQITLLKAACLDILMLRICTRYTP
+                     EQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFAEQLLPLEMDDTETGLLSAICLICG
+                     DRMDLEEPEKVDKLQEPLLEALKIYARRRRPNKPYMFPRMLMKITDLRGISTKGAERA
+                     ITLKMEIPGPMPPLIREMLENPEAFEDDASPPPKSEQKPIKVEEKPGEKTSTKDP"
+     exon            <691..1033
+                     /note="alternate exon 1"
+                     /number=1
+     CDS             844..2208
+                     /codon_start=1
+                     /product="retinoic acid receptor delta 1b"
+                     /protein_id="CAA49565.1"
+                     /db_xref="GI:64131"
+                     /db_xref="GOA:P18516"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18516"
+                     /translation="MSSSKDRICSTSTQLSQLHGFPPSMYPFAFSSNMRGSPPFDLTN
+                     GGAYFRSFPTDLPKEMASLSVETQSTSSEEMVPSSPSPPPPPRVYKPCFVCNDKSSGY
+                     HYGVSSCEGCKGFFRRSIQKNMVYTCHRDKNCQINKVTRNRCQYCRLQKCFEVGMSKE
+                     AVRNDRNKKKKEIKEEVVTDSYEMPPEMEALIQKVSKAHQETFPSLCQLGKYTTNSSA
+                     DHRVQLDLGLWHKFSELATKCIIKIVEFAKRLPGFATLTIADQITLLKAACLDILMLR
+                     ICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFAEQLLPLEMDDTETGLLS
+                     AICLICGDRMDLEEPEKVDKLQEPLLEALKIYARRRRPNKPYMFPRMLMKITDLRGIS
+                     TKGAERAITLKMEIPGPMPPLIREMLENPEAFEDDASPPPKSEQKPIKVEEKPGEKTS
+                     TKDP"
+     exon            <844..1033
+                     /note="alternate exon 1"
+                     /number=1
+     variation       957
+                     /replace="g"
+     exon            1034..1182
+                     /number=2
+     misc_feature    1034
+                     /note="from this point RAR delta 1 and RAR delta 2 are
+                     identical, frame 1"
+     variation       1044
+                     /replace="a"
+     variation       1080
+                     /replace="g"
+     exon            1083..1324
+                     /number=3
+     variation       1092
+                     /replace="g"
+     variation       1194
+                     /replace="g"
+     variation       1242
+                     /replace="c"
+     exon            1325..>2208
+                     /number=4
+     variation       1531
+                     /phenotype="predicts H,D polymorphism"
+                     /replace="g"
+     variation       1617
+                     /replace="t"
+     variation       1620
+                     /replace="g"
+     variation       1632
+                     /replace="c"
+     variation       1872
+                     /replace="g"
+ORIGIN      
+        1 cctattttat aggctgcaag acacttcact cgggggcagg cacgcatctc atttacagcg
+       61 aggcaagcac acgttcaaag tcaggcagac acacacctca tttagagcga gggaggcaca
+      121 cttgactcga aggaggcaaa cacgcctcac tcggcgagac ggagcgaacg cctctagacg
+      181 gaacagtttt gcagctcagg agttgggggg tgtcccgtcc caggaagcac ctaattgaat
+      241 aacagcgtgt taaagcagaa agaacatcag ggccagtctg gatcccagtc atcagaaagg
+      301 cacattgtca gtctcgatct ggcccctcca tcctctcgga gaactgacgt cagtttcgat
+      361 ctggctcccc catcctcaag aaaaactgac gtcgatctgg ctcccccgtc ctcaagaaga
+      421 gctgacatca gcctcgaact ggcacccccc ccttgcagga gggctgaggt tggcatcgaa
+      481 ttgggacccc cgccattgag aagaactgac atcagcatca gcctggcacc cccatactca
+      541 agaagagctg actttagcaa cgggctggct gggtcaacct cacctcctcg gactcagggc
+      601 ctgccgaggc tccccctgga agaccaccat cccccagtgc accatgccgt ggcaccacgc
+      661 agggaatatt tatctgccta ttaccataac atgatgaaat tcagtgacac agcttcatgc
+      721 agagatgggg gagaaaggcc agaggaggag gggaaagggg ccggaggccg aagcaaatta
+      781 agaatgggaa aggaagaatt tactggatct gttggtaagg aggaggctgc tgcggttgcc
+      841 agcatgtctt ccagtaagga taggatatgc tccaccagca ctcagctcag tcagctacat
+      901 ggatttccac cttccatgta cccctttgcc ttctccagca acatgcgtgg ttccccacct
+      961 tttgacctca ccaatggcgg ggcctacttc agaagcttcc ctactgatct gccaaaggag
+     1021 atggcctccc tgtctgtgga aacccagagc acgagttcag aggagatggt cccaagttca
+     1081 ccgtcccctc cccctccacc cagggtttac aagccctgct tcgtgtgtaa tgacaagtcg
+     1141 tctggctacc actacggagt aagctcatgt gaaggctgca agggtttctt cagaagaagc
+     1201 atacaaaaga acatggtgta cacttgccac cgggacaaga attgtcagat caacaaggtg
+     1261 acacggaacc gctgtcagta ctgccgactg cagaaatgtt ttgaggtcgg catgtctaag
+     1321 gaggcggtga ggaatgatcg aaacaagaag aagaaggaga tcaaggagga ggtggtgacc
+     1381 gacagctatg agatgccacc tgaaatggaa gcactgatcc aaaaagtcag caaagcacat
+     1441 caggagacct tcccatcact gtgccagctc ggcaagtaca ctacgaattc cagtgcagac
+     1501 caccgagtcc agctcgacct tggcctctgg cacaaattca gtgagctcgc caccaaatgc
+     1561 atcatcaaga ttgtggagtt tgccaagagg ctcccaggct ttgccactct gaccatcgcc
+     1621 gaccagatca ctctgctgaa ggcagcatgc ctcgacattc tgatgttgcg gatttgcact
+     1681 cggtacacgc cagagcagga caccatgacc ttttccgatg gactgaccct gaaccggaca
+     1741 cagatgcaca atgctggctt cgggccctta acagacttgg tctttgcctt tgctgagcag
+     1801 ctgctgcccc tggagatgga tgataccgaa actggactgc tcagtgccat ctgtttgatc
+     1861 tgcggagatc ggatggattt agaggagccg gagaaggtcg acaaactgca ggaacctctt
+     1921 ttagaggcgc taaaaatata tgcccggcga cgacgaccaa acaagccata catgttcccc
+     1981 cgcatgctga tgaaaattac agatctgcga gggatcagta ccaaaggtgc ggaacgtgct
+     2041 ataacactaa agatggagat tcctggccca atgcctccac tcatccgtga gatgctggaa
+     2101 aaccctgaag cctttgagga tgatgcttca ccgcccccca aatcggaaca gaagcccatc
+     2161 aaggttgaag aaaagccagg agagaaaact agcaccaaag acccctagca aacctaggaa
+     2221 aggggccaac actcctgccc ttctctgtac caacttcaat gaacaaaaaa caaaggaaga
+     2281 aaaaccttcc tcagcaggag atggcactca gggcactatg ggaatcccag acaaaaccac
+     2341 aaactgcttt cttttttata ctggatcgtc tggatttgag gtatatatat ctcttgcctt
+     2401 aaacttttcg cgtgcgggaa gctt
+//
+

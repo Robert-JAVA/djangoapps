@@ -1,0 +1,70 @@
+LOCUS       GQ303677                1208 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Pachytriton labiatus voucher CIB 88147 recombination activating
+            protein 1 (RAG-1) gene, partial cds.
+ACCESSION   GQ303677
+VERSION     GQ303677.1  GI:281494721
+KEYWORDS    .
+SOURCE      Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1208)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Homoplastic evolution of external coloration in Asian stout newts
+            (Pachytriton) inferred from molecular phylogeny
+  JOURNAL   Zool. Scr. 39 (1), 9-22 (2010)
+REFERENCE   2  (bases 1 to 1208)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1208
+                     /organism="Pachytriton labiatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 88147"
+                     /db_xref="taxon:156859"
+     gene            <1..>1208
+                     /gene="RAG-1"
+     mRNA            <1..>1208
+                     /gene="RAG-1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1208
+                     /gene="RAG-1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="ADA72120.1"
+                     /db_xref="GI:281494722"
+                     /translation="RYDVALVSTLKDMEEDILEGLKAHELDDYLSGPFTVVVKESCDG
+                     MGDVSEKHGCGPVVPEKAVRFSFTIMTIAVHHNKDNVRIFEENKPNSELCCKPLCLML
+                     ADESDHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFRGTGYDEKLVREVEG
+                     LEASGSIYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHHESVDELRDR
+                     VKGVSAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNASKEERKRWQSTL
+                     DKHLRKKMNLKPIMRMNGNFARKLMSQETVEAVCELVHSEERRAALRELMDLYLKMKP
+                     VWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIER
+                     DGSIGAWASEG"
+ORIGIN      
+        1 agatacgacg ttgcactagt ctccactctg aaggacatgg aggaggacat tttggaaggc
+       61 ctgaaagctc atgagctgga cgactacctc agtggtccat tcacggtggt cgtcaaggag
+      121 tcttgtgatg gtatgggtga tgtcagtgag aagcatggct gtggaccagt ggttccagaa
+      181 aaggcagtcc gtttctcgtt caccatcatg accattgccg tccatcacaa caaagacaat
+      241 gtgaggattt ttgaagaaaa caagccgaat tcagagctgt gctgcaagcc cctgtgcctc
+      301 atgctcgctg atgaatctga ccatgagaca ctaaccgcca tcttgagccc actgatagca
+      361 gaaagagagt ccatgaaagg aagtgaactg atgcttgaac ttggtggcat cctcagaaca
+      421 ttcaagtttg tgttcagggg cacaggatat gatgagaagc ttgtgagaga ggttgaagga
+      481 cttgaggcct cgggctcaat ctatatctgt accctgtgtg actcgacacg tcttgaagcc
+      541 tcccagaaca ttgtgctcca ctccatcact cggagtcaca aggagaacct tgagcgctat
+      601 gagatctggc ggtccaacag acaccatgag tcggtcgacg agctgcggga cagagtgaag
+      661 ggggtttcag ccaagccctt cattgagacc ctcccttcca tcgatgcctt gcattgcgac
+      721 attggaaatg ccgctgagtt ttacaagata ttccaactcg aaatagggga ggtcttcaag
+      781 aaccccaacg cttcaaaaga ggagagaaag aggtggcagt cgactctgga caagcatctg
+      841 aggaagaaga tgaacttgaa gcccataatg agaatgaacg gtaattttgc aaggaaactg
+      901 atgtcccagg agacygttga ggcagtctgt gagctggtcc actctgagga acggcgggca
+      961 gctctacgcg aactcatgga cctgtacctg aaaatgaagc cagtctggcg atcctcatgc
+     1021 ccaagcaagg agtgcccaga actcctctgc cagtacagct acaactctca acgctttgcc
+     1081 gagcttctct caaccaagtt caagtaccga tatgagggca aaatcacaaa ttatttccac
+     1141 aagacattag cccacgtgcc tgagataatt gaacgagatg ggtctattgg tgcctgggcg
+     1201 agtgaagg
+//
+

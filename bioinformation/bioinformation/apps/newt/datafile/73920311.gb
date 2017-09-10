@@ -1,0 +1,49 @@
+LOCUS       DQ092224                 302 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Triturus karelinii isolate E1806.20 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ092224
+VERSION     DQ092224.1  GI:73920311
+KEYWORDS    .
+SOURCE      mitochondrion Triturus karelinii (Balkan newt)
+  ORGANISM  Triturus karelinii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 302)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 302)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..302
+                     /organism="Triturus karelinii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1806.20"
+                     /db_xref="taxon:8325"
+     gene            <1..>302
+                     /gene="cytb"
+     CDS             <1..>302
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAZ94098.1"
+                     /db_xref="GI:73920312"
+                     /translation="SLLGVCLVTQILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWL
+                     VRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVVLLFLVMATAFVGYVLP"
+ORIGIN      
+        1 gctctcttct aggtgtatgc ctagttacac aaatcctcac agggctcttc ctagcaatac
+       61 actatacagc agacacacaa tcagcatttt catctgtcgc tcacatttgt cgagatgtaa
+      121 actacggctg gctagtacga aacatccacg ctaacggagc ctcactattt tttatctgca
+      181 tctacctaca cattggacgc ggcctgtact acggttcata catatttaaa gagacttgaa
+      241 acattggcgt agtcctacta tttctggtta tagccactgc tttcgttggg tatgtcctgc
+      301 ca
+//
+

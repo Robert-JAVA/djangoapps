@@ -1,0 +1,59 @@
+LOCUS       KM463907                 590 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Notophthalmus viridescens sodefrin precursor-like factor alpha
+            isoform 38 (Cloa_40) mRNA, partial cds.
+ACCESSION   KM463907
+VERSION     KM463907.1  GI:695943503
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..590
+                     /gene="Cloa_40"
+                     /note="NoVi_Cloa_40"
+     CDS             <1..474
+                     /gene="Cloa_40"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor alpha isoform 38"
+                     /protein_id="AIT39244.1"
+                     /db_xref="GI:695943504"
+                     /translation="CDQTVESCQTAITDLTFEGLDPMYVVFKKCSDVGAKNILYRVAA
+                     KDVFYQQRVEVCQTNGCNKGPLHFPPKNTTLNGVKCPTCSVDGEKSCEATEVLECVGA
+                     MINCLYFAATFRNTAAPPKQAAYRGCTCAEFAEHVPIGPADTVQDVVTLIVSKGV"
+ORIGIN      
+        1 tgtgatcaga ctgtggaaag ctgccagact gcaatcactg atttaacctt tgagggcttg
+       61 gacccaatgt atgtcgtctt caagaaatgc tcagatgtgg gagccaagaa catcttgtac
+      121 agggttgcag caaaagatgt cttttatcag cagagagttg aagtctgcca aacaaatggc
+      181 tgcaacaaag gccctctcca ttttccaccc aaaaacacaa ctctgaacgg agtgaagtgt
+      241 cccacctgtt ctgtggatgg tgagaagagc tgtgaggcca ctgaagttct tgaatgtgtt
+      301 ggggcgatga tcaactgtct ctactttgca gcaacatttc gtaacactgc ggcacctcct
+      361 aagcaggctg catatcgtgg ctgcacctgc gcagagtttg cggaacatgt ccccatcggt
+      421 cctgcagaca cagtacaaga cgttgtgaca ctgatagtca gcaaaggcgt ttgaagacgt
+      481 tttggcagca aggctctgaa gcaaggatcc cttttgctcc taatactgac aaagctcaat
+      541 acgcttagcc ttctttaaat cacaaaacag cctctttaca gggtgtttac
+//
+

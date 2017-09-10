@@ -1,0 +1,57 @@
+LOCUS       JN379837                 644 bp    DNA     linear   VRT 03-FEB-2013
+DEFINITION  Lissotriton boscai haplotype Hap_3 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JN379837
+VERSION     JN379837.1  GI:342358169
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 644)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Species-dependent biogeographic patterns of amphibians at regional
+            scale
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 644)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2011) Biologia Funcional, Universidad de Oviedo,
+            C/ Julian Claveria S/N, Oviedo, Asturias 33006, Spain
+FEATURES             Location/Qualifiers
+     source          1..644
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Lb 3"
+                     /db_xref="taxon:323757"
+                     /haplotype="Hap_3"
+                     /country="Spain: Asturias"
+     gene            <1..>644
+                     /gene="COI"
+     CDS             <1..>644
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AEL29229.1"
+                     /db_xref="GI:342358170"
+                     /translation="LIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAF
+                     VMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPAMTQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQH"
+ORIGIN      
+        1 ttaatcttcg gtgcttgagc cggcatagtg ggcacagcac taagtttact aattcgagcc
+       61 gagctaagcc agcctggagc acttctaggg gatgaccaaa tttataatgt cattgttacc
+      121 gctcatgctt tcgtaatgat cttttttata gtaatacccg tcataattgg gggcttcgga
+      181 aactgactcg tccccctaat gatcggagcc cccgatatag cattccctcg aataaataac
+      241 ataagctttt gactgcttcc cccttcattt ctacttctat tagcctcctc tggcgtggag
+      301 gcgggagcag gtactgggtg aacagtctac cccccactag cgggcaacct cgcccacgca
+      361 ggcgcctctg ttgatttaac aatcttctca cttcaccttg caggggtctc ctccatccta
+      421 ggggcaatta actttattac tacatctatc aacataaagc ctcccgcaat aactcagtat
+      481 caaacacccc tgtttgtatg atctgtgcta attaccgcta tcctccttct tttatccctt
+      541 cccgtattag cagcaggcat tacaatgcta ctaaccgacc gaaacctgaa cactaccttc
+      601 tttgatccgg ctggaggagg agaccccgtg ctatatcaac actt
+//
+

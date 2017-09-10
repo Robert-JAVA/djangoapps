@@ -1,0 +1,82 @@
+LOCUS       AB067752                2213 bp    mRNA    linear   VRT 18-MAY-2002
+DEFINITION  Cynops pyrrhogaster FSH beta mRNA for follicle-stimulating hormone
+            beta-subunit, complete cds.
+ACCESSION   AB067752
+VERSION     AB067752.1  GI:20975246
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Saito,A., Kano,Y., Suzuki,M., Tomura,H., Takeda,J. and Tanaka,S.
+  TITLE     Sequence analysis and expressional regulation of messenger RNAs
+            encoding beta subunits of follicle-stimulating hormone and
+            luteinizing hormone in the red-bellied newt, Cynops pyrrhogaster
+  JOURNAL   Biol. Reprod. 66 (5), 1299-1309 (2002)
+   PUBMED   11967191
+REFERENCE   2  (bases 1 to 2213)
+  AUTHORS   Saito,A., Kanou,Y., Suzuki,M., Tomura,H., Takeda,J. and Tanaka,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-2001) Shigeyasu Tanaka, Shizuoka university,
+            Department of Biology; Ohya 836, Shizuoka city, Shizuoka 422-8529,
+            Japan (E-mail:sbstana@ipc.shizuoka.ac.jp, Tel:81-54-238-4783,
+            Fax:81-54-238-0986)
+FEATURES             Location/Qualifiers
+     source          1..2213
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="pituitary"
+     gene            1..2213
+                     /gene="FSH beta"
+     CDS             22..411
+                     /gene="FSH beta"
+                     /codon_start=1
+                     /product="follicle-stimulating hormone beta-subunit"
+                     /protein_id="BAB92958.1"
+                     /db_xref="GI:20975247"
+                     /translation="MTAVYHCALLLGCFVTCCNMCRLSNITIVLEKEQCGLCFEVNTT
+                     WCSGYCNTQDPVIKDPLVPFVQSSCTFKDIVYKTVRIPSCGAGIAESFHSYPVATDCH
+                     CGACDTDHTDCTVRGLGPNYCTFSPKQ"
+ORIGIN      
+        1 gcaacacaaa tcaagcacag catgacggcg gtttatcact gcgcgcttct tctcggctgc
+       61 ttcgtcactt gttgcaatat gtgcagactg tctaacatca ccatagtgct ggagaaagag
+      121 cagtgcgggc tgtgcttcga ggtcaatacc acgtggtgct cgggttactg caacacacag
+      181 gatccagtga tcaaggaccc acttgtgccc tttgtgcaaa gctcatgcac cttcaaggac
+      241 attgtataca aaacagtgag gataccgagc tgtggtgctg gcatcgccga gtctttccac
+      301 tcctacccag tggccaccga ttgccactgt ggagcctgcg acacagacca caccgactgc
+      361 accgtcagag gcctaggacc caactattgc acttttagtc caaagcagta aaggacaacc
+      421 atggacatct ttgaactgcc tcaacctcaa ggagcctacc gaatttctcc ttaaaataat
+      481 aaaccttatt tattgtgaaa tggatcactt ttacatgtag taatctacag gaaaaaaatg
+      541 ggacgtttca aaaaagtaat ttgttataat tagctttaat ctattcaatt tcttggtgat
+      601 gtctttgact ccagaaaagc cttgacgctc agtagattaa acaattatat gataacatac
+      661 tagaatataa atgtagttag gtaatcttca aatttctatt actatgtttt gatgcatatg
+      721 caaatacatt actttgaaat gtacataatt aaatataaaa ataattgttt tcaacataat
+      781 tggtccctac attttagcac tgtattattg aaaccgactt taaactatgt gtatttccca
+      841 acactttgca gccccttctg taacacagat tgcactcgtg cacatacagc gtctgcacga
+      901 ctttaaagag acattcctta agttgcatgg gagtgcaggg aaaacatttt gcctctatac
+      961 ttgcaccatt tatggatgat ggtgcagggg caaaaaaggc catcaggaag tgcacatata
+     1021 tgtgtaccac aaataggtta cacatagtca gcgagagccc caaggggacc ctatgaaagg
+     1081 gataaaagga ggtcctataa acccccatac acccccctgc acgtgtgtgc agtcagtcac
+     1141 tgcacctgct tgcagggtga tctcagtccc tcttttgatt gggtgtcatc tgcactgtga
+     1201 aaggcacagc agctgcttca aacagctgct ccgcctttca ctagtgcgct gcccccaggg
+     1261 cagctgcgag ttcgcagtcc ccgtgcggac agctcattga ttgtaatagg gccgtagtct
+     1321 gcgcctggcg caccgtgcta aaggtgtatc acagcgcata tcagggctgt gcaccatttc
+     1381 cacaatgtgg tcacaggaca ttttaccagc ttttacctgg tgaaaagtct cagaacgagg
+     1441 aggggatggg gcaacactga gaatgcagtt tatctgttgg agctggcatc ccaactcacc
+     1501 tggaaactcc aggatatcct ccaaactcag aatgaagact ttaatgtgta acttaacaat
+     1561 ctcatatttg tcaacaaaat atgtctttgt tggaccagtt cacagatcca tgttccattc
+     1621 caaggaggta acataagaga attacttgat taaatacaag ccactaaaac tggaaggagt
+     1681 attaaaagac ataggactac aattagaatt ttagactaag acacagtaac atgttcccct
+     1741 gcgctaacac ttccaccgct tccatgtaga gtgcaaatac cactattgta cagttcagca
+     1801 tttgggcaat gatataatat gcagaaaacc atacctttat cacgtcaggc aatgacatgg
+     1861 aactgccagg cactagtaat tactatggca gaacaacatg tcagtaatgg ctttgctcag
+     1921 ggtcctaaat gcattgagag taacaggatc aatattacct gttgggattc tgatctctga
+     1981 ttctgttgaa tggtcacacg ccaacaactg gactgtcaca cagtttactt tagataaaaa
+     2041 ttctgtacct aagctgttgc agtgatattt tctgctctgt aagacacaca tttgggtggc
+     2101 atgaaaagag caacaagctc accttttgcc tataaaaagt cataacacca aaatgtatac
+     2161 tgtaccaatt tattcaagta tttgcttccc agaaataaat taattaaatt ttg
+//
+

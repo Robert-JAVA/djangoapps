@@ -1,0 +1,43 @@
+LOCUS       AB871946                 330 bp    DNA     linear   VRT 10-JUN-2014
+DEFINITION  Cynops pyrrhogaster DNA, microsatellite: CPNGS26.
+ACCESSION   AB871946
+VERSION     AB871946.1  GI:606214085
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Hayano,A. and
+            Inoue-Murayama,M.
+  TITLE     Characterization of fifteen microsatellite markers for the Japanese
+            fire-bellied newt, Cynops pyrrhogaster
+  JOURNAL   Conserv Genet Resour 6, 405-407 (2014)
+  REMARK    DOI:10.1007/s12686-013-0104-5
+REFERENCE   2  (bases 1 to 330)
+  AUTHORS   Tominaga,A. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2013) Contact:Atsushi Tominaga University of the
+            Ryukyus, Faculty of Education; 1 Senbaru, Nishihara, Okinawa
+            901-0213, Japan
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+     primer_bind     10..28
+     repeat_region   99..130
+                     /rpt_type=tandem
+                     /rpt_unit_seq="acag"
+                     /satellite="microsatellite:CPNGS26"
+     primer_bind     complement(303..321)
+ORIGIN      
+        1 tgtggattgt ggtgtgtcag gatgggcagg taacttggtg gaagacagac agacagagag
+       61 acagagagac tgacagagag acggacagag agacagagac agacagacag acagacagac
+      121 agacagacag atagatagat agatagatag atagatagat agatattttt catcgacata
+      181 tgcacagacc tataggtaca aaggcaacat ttatgtcgac ccatcccggc gcaaaatgtt
+      241 tttggaccat tcagtagatg taaatgttgt ttttgaactg aacagtgagt acaactgtgg
+      301 atgctaatct gcaccacgcc agtgcaatgc
+//
+

@@ -1,0 +1,42 @@
+LOCUS       TCHMTCYTBL               365 bp    DNA     linear   VRT 19-DEC-1996
+DEFINITION  Taricha rivularis (19.T.r.SO) mitochondrial cytochrome b gene,
+            partial cds.
+ACCESSION   L22713
+VERSION     L22713.1  GI:530920
+KEYWORDS    cytochrome b.
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 365)
+  AUTHORS   Tan,A.M. and Wake,D.B.
+  TITLE     MtDNA phylogeography of the California newt, Taricha torosa
+            (Caudata, Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 4 (4), 383-394 (1995)
+   PUBMED   8747295
+FEATURES             Location/Qualifiers
+     source          1..365
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36313"
+     CDS             <1..>365
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB38982.1"
+                     /db_xref="GI:530921"
+                     /translation="HPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFL
+                     AMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMF
+                     KETWNIGVILLFLVMATAFV"
+ORIGIN      
+        1 cacccactta taaaaatcat taacaactca ttcattgacc tcccaacacc gtcaaatatc
+       61 tcctactgat gaaacttcgg atcccttcta ggtgtgtgcc ttattacaca gatcctcaca
+      121 ggcctatttt tagcaataca ctacacagca gacactcaat cagcattctc atcagtagct
+      181 cacatttgcc gagatgtaaa ctacggctga ctagtacgga atattcacgc caacggggcc
+      241 tcactattct tcatctgcat ctatctacac atcggacgtg gcctatacta cggatcctac
+      301 atatttaaag aaacctgaaa cattggcgtc attctgctct tcctagtaat agccaccgcc
+      361 tttgt
+//
+

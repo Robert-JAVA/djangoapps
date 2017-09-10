@@ -1,0 +1,62 @@
+LOCUS       KC295224                1089 bp    mRNA    linear   VRT 11-MAR-2014
+DEFINITION  Pachytriton brevipes cold-induced RNA-binding protein (Cirbp) mRNA,
+            complete cds.
+ACCESSION   KC295224
+VERSION     KC295224.1  GI:461179991
+KEYWORDS    .
+SOURCE      Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1089)
+  AUTHORS   Jiang,D., Zhu,X.L., Zhao,J.F., Zhou,Y.K., Zhong,C., Zhang,J. and
+            Huang,X.
+  TITLE     Subtractive screen of potential limb regeneration related genes
+            from Pachytriton brevipes
+  JOURNAL   Mol. Biol. Rep. 41 (2), 1015-1026 (2014)
+   PUBMED   24390235
+REFERENCE   2  (bases 1 to 1089)
+  AUTHORS   Zhu,X. and Huang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) College of Life Science in Zhejiang
+            University, Institute of Cellular and Developmental Biology, Yu
+            Hang Tang Road 388#, Hangzhou, Zhejiang 310058, China
+FEATURES             Location/Qualifiers
+     source          1..1089
+                     /organism="Pachytriton brevipes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:377299"
+     gene            1..1089
+                     /gene="Cirbp"
+     CDS             70..528
+                     /gene="Cirbp"
+                     /codon_start=1
+                     /product="cold-induced RNA-binding protein"
+                     /protein_id="AGH15797.1"
+                     /db_xref="GI:461179992"
+                     /translation="MSTNDEGKLFVGGLSFDTTEHSMEQCFSKYGQISECVVVKDRET
+                     GRSRGFGFITFSNPEDAKDALHGMNGENLDGRQIRVDLAGKSSGGGRGGGGGGYRGGS
+                     GGGRGYSRGGGDSYGRSGGYGGGSRDYYGGGGGGGRSGGYDRSGGSYYDN"
+ORIGIN      
+        1 gtacatgggg cttcacttcc tgagatacca cagcttgatt tggttccgtg ttctgaatcc
+       61 gaatcaacca tgtctactaa tgatgaaggg aagctgttcg tcggaggctt gagtttcgac
+      121 accaccgagc atagcatgga acagtgcttc agcaaatacg gacaaataag cgaatgcgtc
+      181 gtggtgaagg accgagagac tggcagatcc cggggcttcg gctttattac cttctcgaac
+      241 cctgaggatg ccaaggacgc gctgcacggg atgaacggcg agaacctcga cgggcggcag
+      301 atcagggtgg atctggccgg caagtcctcc ggcggaggcc ggggtggtgg cggtggcgga
+      361 tacagaggag gatccggcgg cggccgagga tactctcgag gaggtggaga cagctatgga
+      421 aggagcggcg gatacggagg tggctcccga gactactacg gtggtggagg cggtggcggc
+      481 aggagcggcg gatacgaccg atcaggcgga tcctattacg acaactaaat tttcaggcac
+      541 ccacatcgcc tcgacctctt tccaatggct gtatttataa agactttttg gagcttcgct
+      601 gattggttta ctgcaccgcc atcttgcact tgttgaccag tccgatgccc agcatagaga
+      661 atcttcagtt gtttttgtcc gtgcccttca cgagcttgtc cattcttcag aaatgcaacg
+      721 tttacttgac ggaaactaag caagctgtgg aatcttctga aaagtgcatt attgacttca
+      781 cgtgttatca ttccttagag tagccgggta catccacgga cgtggggtac ttgccctgca
+      841 gcagccgaaa gaccttgttt actgtaaagt aacgctctga ttctgaagct ttccgtgaaa
+      901 ggtttttaat gtcctttttt ttctggaaga aatgcatatt cagtgtttga agtggttagg
+      961 aatattgtgt acccaattgt ttttggcttc atgaagccct attaaagacg gtttggattc
+     1021 caaaaaaaaa aaaaaaaaaa aaaaagaaaa aaaaaaaaaa aaaaaaaaaa aaaaaagtgc
+     1081 ggccgagat
+//
+

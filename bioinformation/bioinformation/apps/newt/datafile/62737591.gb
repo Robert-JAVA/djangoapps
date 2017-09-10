@@ -1,0 +1,72 @@
+LOCUS       AY951606                 835 bp    DNA     linear   VRT 22-JUN-2005
+DEFINITION  Triturus montandoni haplotype I5 NADH dehydrogenase subunit 4 (ND4)
+            gene, partial cds; tRNA-His and tRNA-Ser genes, complete sequence;
+            and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   AY951606
+VERSION     AY951606.1  GI:62737591
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton montandoni (Carpathian newt)
+  ORGANISM  Lissotriton montandoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   Babik,W., Branicki,W., Crnobrnja-Isailovic,J., Cogalniceanu,D.,
+            Sas,I., Olgun,K., Poyarkov,N.A., Garcia-Paris,M. and Arntzen,J.W.
+  TITLE     Phylogeography of two European newt species - discordance between
+            mtDNA and morphology
+  JOURNAL   Mol. Ecol. 14 (8), 2475-2491 (2005)
+   PUBMED   15969729
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   Babik,W. and Branicki,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2005) Comparative Anatomy, Institute of Zoology,
+            Jagiellonian University, Ingardena 6, Krakow 30-060, Poland
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /organism="Lissotriton montandoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323754"
+                     /haplotype="I5"
+                     /country="Ukraine: Mala Ugolka"
+     gene            <1..683
+                     /gene="ND4"
+     CDS             <1..683
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:683,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAX98097.1"
+                     /db_xref="GI:62737592"
+                     /translation="AVLLKLGGYGIIRISMILTPLTKEMSYPFMVLALWGIVMTSLIC
+                     MRQTDLKSLIAYSSVSHMGLVIAAILIQTPWSLTGAIILMISHGLISSALFCLANLNY
+                     ERTHSRTLLLVRGAQAALPLMATWWLLANLSNMALPPSMNLWGELTIMVSLFNWSPWT
+                     IMITGIGTLITASYTLYMFLMTQRGPIPSHLSTISPSHTREHFLMMMHLAPMLLLIFN
+                     PALISGAFS"
+     tRNA            684..752
+                     /product="tRNA-His"
+     tRNA            753..820
+                     /product="tRNA-Ser"
+     tRNA            821..>835
+                     /product="tRNA-Leu"
+ORIGIN      
+        1 agcagtttta ctgaaactag gaggatatgg cattatccga atttctataa tccttacccc
+       61 attaactaaa gaaatatcat accctttcat agtcttagct ctatgaggca tcgtaataac
+      121 aagccttatc tgcatacgac aaacagactt aaaatccctc attgcatact cttctgtgag
+      181 ccatataggc ttggtaattg ccgctatcct gattcaaaca ccatgaagcc ttacaggagc
+      241 cattatctta ataatttcac acggactcat ctcatctgcc ctattttgcc tggcaaacct
+      301 aaattatgaa cggactcaca gccggacttt actactagtt cgaggggccc aagcagccct
+      361 tccccttata gcaacttggt ggctcttagc aaatttatca aacatagccc ttcctccatc
+      421 aataaacctt tggggagaat taacaatcat agtctcctta ttcaactggt ccccttgaac
+      481 aatcataatc acaggaattg gaactctaat cacagcctct tatacactct atatattttt
+      541 aataacccaa cgaggcccaa tcccctctca cctaagtaca atcagcccgt cacacacccg
+      601 tgaacacttt cttatgataa tgcacttagc acctatactt ttattaatct ttaatcctgc
+      661 ccttatctca ggagccttct catgtgcgta taatttaaaa aaaatattag attgtgattc
+      721 taaaaatgag agttaaaccc tctctaccta ccaagaagga ttatgaaata cagagactgc
+      781 taattatctg agcctagagt taaaatcttt agtcttctta acttttaaag gataa
+//
+

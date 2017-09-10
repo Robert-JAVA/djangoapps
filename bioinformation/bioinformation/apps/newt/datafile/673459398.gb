@@ -1,0 +1,63 @@
+LOCUS       KF564182                 773 bp    DNA     linear   VRT 24-AUG-2014
+DEFINITION  Neurergus derjugini isolate Nm_32_Ba KIAA1239 gene, partial cds.
+ACCESSION   KF564182
+VERSION     KF564182.1  GI:673459398
+KEYWORDS    .
+SOURCE      Neurergus derjugini (Kurdistan newt)
+  ORGANISM  Neurergus derjugini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 773)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     First comprehensive insights into nuclear and mitochondrial DNA
+            based population structure of Near East mountain brook newts
+            (Salamandridae: genus Neurergus) suggest the resurrection of
+            Neurergus derjugini
+  JOURNAL   Amphib-reptil. 35 (2), 173-187 (2014)
+REFERENCE   2  (bases 1 to 773)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2013) Animal Behaviour, University of Bielefeld,
+            Morgenbreede 45, Bielefeld, NRW 33619, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..773
+                     /organism="Neurergus derjugini"
+                     /mol_type="genomic DNA"
+                     /isolate="Nm_32_Ba"
+                     /db_xref="taxon:1536848"
+                     /haplotype="IIIa"
+                     /country="Iraq: Balcha"
+     mRNA            <1..>773
+                     /product="KIAA1239"
+     CDS             <1..>773
+                     /codon_start=1
+                     /product="KIAA1239"
+                     /protein_id="AIK27454.1"
+                     /db_xref="GI:673459399"
+                     /translation="FSWLYTMIKIGQFEQALSDIDMAYNYSQEKELKFLATTLRSIKY
+                     KILKSPGSLSAELQQRLLPVVSSLPKFRQLLLECDKDGPKYCSIVPLHSSMDVTYSPE
+                     RLSLSSSHLHITEVLPTYNPSTIISALENGSISTWDVESRQLLRQITTAQSVILGMKL
+                     TIDEKYLVVSTTNTTLLIYDNLNSCLLSEVEIKGSKHGAVGATCTVINGFTLSSTHAL
+                     AWLEASKDVTVIDLLYGWPLYHFHCWYEVTCVQCSPDGL"
+ORIGIN      
+        1 tttagctggc tttataccat gatcaaaata ggtcagtttg agcaagcact ttctgacatt
+       61 gacatggcat acaactactc acaagagaaa gagttgaaat ttctggcaac cacccttcgc
+      121 agtataaagt acaagatact gaaatctcca ggttccctct ctgcagaact gcagcaaaga
+      181 ctccttccag ttgtcagttc actacctaaa tttagacaac tgcttttgga atgtgataag
+      241 gacggcccca agtactgttc gattgttcct ttgcactctt ctatggatgt aacatacagc
+      301 cctgaacgac tctctctgtc atccagtcat ttgcatatta ccgaggttct tccaacatac
+      361 aacccaagta ctatcatctc tgcactggag aatgggtcca tcagcacctg ggatgttgag
+      421 tctcgccagc tgctaagaca aattacaaca gctcagtctg tgattttagg tatgaaactc
+      481 accattgatg aaaagtatct tgttgtttcc acaacaaata ccacactttt gatatacgac
+      541 aacttgaatt catgtctttt atcggaagta gaaataaagg ggtccaaaca tggtgcagta
+      601 ggagcaacct gcactgtaat aaatggattc actctttcaa gcacccatgc actggcttgg
+      661 cttgaggcaa gcaaagatgt gactgtcata gacctccttt atggctggcc tctgtaccac
+      721 ttccactgtt ggtatgaggt tacatgtgtt cagtgttctc ctgatggact gta
+//
+

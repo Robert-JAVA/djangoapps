@@ -1,0 +1,60 @@
+LOCUS       AY691732                 783 bp    DNA     linear   VRT 26-MAR-2007
+DEFINITION  Taricha rivularis voucher UTA 56599 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY691732
+VERSION     AY691732.1  GI:58202440
+KEYWORDS    .
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 783)
+  AUTHORS   Chippindale,P.T., Bonett,R.M., Baldwin,A.S. and Wiens,J.J.
+  TITLE     Phylogenetic evidence for a major reversal of life-history
+            evolution in plethodontid salamanders
+  JOURNAL   Evolution 58 (12), 2809-2822 (2004)
+   PUBMED   15696758
+REFERENCE   2  (bases 1 to 783)
+  AUTHORS   Chippindale,P.T., Bonett,R.M., Baldwin,A.S. and Wiens,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Biology, University of Texas
+            at Arlington, 501 S. Nedderman Dr., Arlington, TX 76019, USA
+FEATURES             Location/Qualifiers
+     source          1..783
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UTA 56599"
+                     /db_xref="taxon:36313"
+     gene            <1..>783
+                     /gene="cytb"
+     CDS             <1..>783
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAW67272.1"
+                     /db_xref="GI:58202441"
+                     /translation="THPLMKIINNSFIDLPTPSNISYWWNFGSLLGACLITQILTGLF
+                     LAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYM
+                     FKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDTLVQWIWG
+                     GFSVDKATLTRFFAFHFLFPFAIAGASIVHLLFLHETGSNNPTGIPSNQDKISFHPYF
+                     SYKDILGFLLMLGALMLISLLTPNLLGDPDDFTPANPLITPPH"
+ORIGIN      
+        1 acccacccac ttataaaaat catcaataac tcatttattg acctcccaac gccatcgaat
+       61 atctcctatt gatgaaactt cggctccctc ctcggggcat gcctgatcac acaaatcctc
+      121 acaggcctct tcctagcaat acactacaca gcagacactc aatcggcatt ctcatcagta
+      181 gcccacatct gccgagatgt aaactatggc tgactagtac gaaatatcca cgccaacggg
+      241 gcctccctct ttttcatctg catctacctg cacatcggac gtggcttata ctatggctcc
+      301 tacatattta aagaaacctg aaacattggc gttattttac tcttcctggt aatagccacc
+      361 gctttcgtgg ggtacgtcct cccgtgagga caaatgtcct tctggggcgc cacagtcatt
+      421 acaaacctcc tatccgccat cccatacatg ggggacacac tagtacagtg aatctgaggg
+      481 gggttctcag tagacaaagc aaccctaacc cggttctttg cattccactt cctgttccca
+      541 ttcgcaattg caggggcaag catcgttcac ttgcttttcc tccatgaaac tggatcaaac
+      601 aacccaacag gaatcccatc gaaccaagac aaaatctcat tccacccgta cttctcatac
+      661 aaagatatcc ttggcttcct cctgatactg ggggccctaa tactaatctc acttctaaca
+      721 ccaaacctcc ttggagaccc agacgacttc accccagcaa accccctaat taccccaccc
+      781 cac
+//
+

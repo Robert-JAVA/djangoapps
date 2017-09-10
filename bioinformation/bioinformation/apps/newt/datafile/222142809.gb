@@ -1,0 +1,50 @@
+LOCUS       FJ588085                 467 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 06 chemokine receptor 4
+            gene, partial cds.
+ACCESSION   FJ588085
+VERSION     FJ588085.1  GI:222142809
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 467)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 467)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..467
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="06"
+     mRNA            <1..>467
+                     /product="chemokine receptor 4"
+     CDS             <1..>467
+                     /codon_start=3
+                     /product="chemokine receptor 4"
+                     /protein_id="ACM46011.1"
+                     /db_xref="GI:222142810"
+                     /translation="IGWYLKEFLCKAVHVIYTVNLYSSVLILAFISLDRYLAIVHATN
+                     SQGTRKLLAEKVVYAGVWLPALLLTIPDFIFASVSMEEGTYECNHIYPYDSRQQWTVG
+                     FRFVHLTVGFVLPGLVILICYCIIISKLSHSKGQQKRKALKTTVILILAFFTC"
+ORIGIN      
+        1 tgatagggtg gtatctgaaa gagttcctct gcaaagccgt tcacgtcatc tacacagtca
+       61 acctctacag cagcgtcctg atcttagcct tcataagttt agaccgctac ttggcgatag
+      121 tccacgccac caacagccaa ggtacgagga agcttctggc tgagaaggtg gtgtacgctg
+      181 gggtgtggtt gccggctttg ctcctgacca ttcctgactt tatatttgct agtgttagta
+      241 tggaagaagg cacatacgaa tgcaaccata tctatcccta tgattcgcgg caacagtgga
+      301 ctgttggatt taggtttgtg cacctcacag tagggtttgt tctgcccggc ctggtcatct
+      361 tgatttgcta ctgtatcatc atttccaagc tgtcccactc caaaggccaa cagaaacgca
+      421 aagcattaaa gactactgtg attctcatcc tcgccttctt cacctgc
+//
+

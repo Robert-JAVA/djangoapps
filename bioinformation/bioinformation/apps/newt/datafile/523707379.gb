@@ -1,0 +1,69 @@
+LOCUS       KC165661                 984 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus titin (TTN) gene, partial cds.
+ACCESSION   KC165661
+VERSION     KC165661.1  GI:523707379
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 984)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 984)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..984
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>984
+                     /gene="TTN"
+     mRNA            <1..>984
+                     /gene="TTN"
+                     /product="titin"
+     CDS             <1..>984
+                     /gene="TTN"
+                     /codon_start=1
+                     /product="titin"
+                     /protein_id="AGQ56084.1"
+                     /db_xref="GI:523707380"
+                     /translation="YGVGEPLESEPVKAQNPFTVPSAPKSIEITSVTKEAMTLCWTRP
+                     ESDGGSEISGYVIERREKSSLRWMRVNKKPVYDLRVKSSGLREGCEYEYRVYAENAAG
+                     LSPPSDCSPLVRAEDPVFLPSAPSNPKIADSTKTTVTIAWAKPLFDGGSPVTAYTVEY
+                     KKVEDTEWLTAVTNVRSTEYTVIGLTSGSEYVFRVRSINKVGPSDPSEVSEPQVAKER
+                     EEEPAFDIDSEMRKTLIVKAGGSFTMTVPFRGKPVPNVLWSKPDTDLRTRASIDSSSS
+                     KTSLTIEKATRNDSGKYTVTLQNILSTASLTLVVKVLDSPGPTSNITVKEVT"
+ORIGIN      
+        1 tatggtgttg gtgagccttt ggagagtgag ccagtaaagg cccaaaatcc attcacagta
+       61 ccaagtgctc ccaagtctat agagatcaca agtgtcacca aagaggccat gaccctctgt
+      121 tggactaggc ctgaaagtga tggaggaagt gaaatctctg gctatgtaat tgaacgacgt
+      181 gaaaagagta gtctacggtg gatgcgtgtc aacaaaaaac cagtctatga cctaagagta
+      241 aaatcttctg gtctccgaga aggatgtgaa tatgaatatc gtgtctatgc agaaaatgct
+      301 gcaggtctca gtccacctag tgactgctca ccattggtac gtgctgaaga tccagtattc
+      361 ttaccatcag ctccatctaa cccgaagatt gcagattcaa caaagacaac tgtaacaatt
+      421 gcatgggcaa aaccattgtt tgatggaggt tctccagtca ctgcatatac agtagaatat
+      481 aagaaagtgg aagacactga atggttgact gcagttacaa atgtaagaag cacagaatac
+      541 actgttatcg gattaacatc aggttcagaa tatgtcttca gagtcagatc aattaacaaa
+      601 gttggtccta gtgatccaag tgaagtttcg gaaccacaag tagcaaagga aagggaagag
+      661 gagcctgcat ttgacattga cagcgaaatg cgcaaaacct taattgtaaa agctggtggg
+      721 tcattcacaa tgactgtgcc tttccgagga aaaccagtgc ccaatgttct atggagtaag
+      781 ccagacactg accttcgtac aagagcaagt attgattcat caagttctaa aacatctctg
+      841 accatagaaa aggcaacaag aaacgattct ggaaaataca ctgtaacatt gcaaaatatt
+      901 ctcagcactg cttcattgac tctagtcgta aaagttctgg actcacctgg tcccacatca
+      961 aatatcactg tgaaagaggt aaca
+//
+

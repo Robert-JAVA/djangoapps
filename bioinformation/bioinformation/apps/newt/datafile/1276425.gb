@@ -1,0 +1,40 @@
+LOCUS       EAU04694                 354 bp    DNA     linear   VRT 26-APR-1996
+DEFINITION  Euproctus asper mitochondrion 12S rRNA gene, partial sequence.
+ACCESSION   U04694
+VERSION     U04694.1  GI:1276425
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Molecular Biogeography: using the Corsica-Sardinia microplate
+            disjunction to calibrate mitochondrial rDNA evolutionary rates in
+            mountain newts (Euproctus)
+  JOURNAL   J. Evol. Biol. 7, 227-245 (1994)
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1993) Adalgisa Caccone, Biology, Yale University,
+            165 Prospect St., New Haven, CT 06511, USA
+COMMENT     On Apr 25, 1996 this sequence version replaced gi:440780.
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /dev_stage="adult"
+     rRNA            <1..>354
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagctat aaactttgat tcatccgccc gagtactacg agcaacagct taaaactcaa
+       61 aggacttggc ggtgctccac acccccctag aggagcctgt tctataatcg ataatccacg
+      121 ataaacctca ccatctgttg ctaatacagc ctatatacca ccgtccagcc caccctctaa
+      181 gggcccaaca gtaggcacaa ctataaacgt aaaaacgtca ggtcaaggtg tagcaaataa
+      241 gatgggaaga aatgggctac attttctaac ctagaaaaca cggaaaagct tgtgaaataa
+      301 aactacgaag gaggatttag cagtaaaaag aaaaaagagc gttcttttta agcc
+//
+

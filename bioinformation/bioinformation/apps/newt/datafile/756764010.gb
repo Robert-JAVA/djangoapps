@@ -1,0 +1,52 @@
+LOCUS       KP004093                 489 bp    DNA     linear   VRT 18-FEB-2015
+DEFINITION  UNVERIFIED: Triturus carnifex isolate Tcar785CCb calreticulin-like
+            gene, partial sequence.
+ACCESSION   KP004093
+VERSION     KP004093.1  GI:756764010
+KEYWORDS    UNVERIFIED.
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 489)
+  AUTHORS   Arntzen,J.W., Baird,A.B., Espregueira Themudo,G., Wallis,G.P. and
+            Wielstra,B.
+  TITLE     Mismatch analysis to identify alleles that compromise phylogeny
+            reconstruction and determine their evolutionary origin, with a case
+            study in newts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 489)
+  AUTHORS   Arntzen,J.W., Baird,A.B., Espregueira Themudo,G., Wallis,G.P. and
+            Wielstra,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-OCT-2014) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P.O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..489
+                     /organism="Triturus carnifex"
+                     /mol_type="genomic DNA"
+                     /isolate="Tcar785CCb"
+                     /db_xref="taxon:8326"
+     misc_feature    <1..>489
+                     /note="similar to calreticulin"
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag gggaaaaagc attcaattgg cagtgaatca tgcttttggc tagaatttcg
+      121 aagtttcaga gatatggctt tgatatctgg ctttgattgg tctaacttaa tgaagtgacc
+      181 tgcagttctg agagtttcag gatgtctgag cttaatctgt taagtctttc ggtgttgcct
+      241 ttcctttgct gcctgctttt tggtttgtgg taagcctttt gctctcacac actcgcgcac
+      301 actcgcatga ggttggataa gcagtgcata cctgaaatgg caaacccatg gcgtgggtgt
+      361 atttaaatac atataatcgt gtgtagctca ggtttgtgaa gttttaaaaa tgtcttcctt
+      421 tgctacaggg ccggacatct gcggacctcc gaccaagaaa gtacatgtga tcttcaacta
+      481 caaaggcaa
+//
+

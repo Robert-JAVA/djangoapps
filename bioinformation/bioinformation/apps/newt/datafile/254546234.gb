@@ -1,0 +1,52 @@
+LOCUS       GQ258874                 481 bp    DNA     linear   VRT 26-JUL-2009
+DEFINITION  Triturus cristatus voucher NNMN:590 calreticulin gene, intron c and
+            partial cds.
+ACCESSION   GQ258874
+VERSION     GQ258874.1  GI:254546234
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 481)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Multiple nuclear and mitochondrial genes resolve the branching
+            order of a rapid radiation of crested newts (Triturus,
+            Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 52 (2), 321-328 (2009)
+   PUBMED   19348957
+REFERENCE   2  (bases 1 to 481)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Department of Zoology, NNMN, P.O. Box 9517,
+            Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..481
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NNMN:590"
+                     /db_xref="taxon:8323"
+                     /country="Poland"
+     intron          <1..420
+                     /number=c
+     mRNA            <421..>481
+                     /product="calreticulin"
+     CDS             <421..>481
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="ACT66235.1"
+                     /db_xref="GI:254546235"
+                     /translation="PDICGPPTKKVHVIFNYKG"
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag gggggaaaaa gcattcaatt ggcagtgaat catgcttttg gctagaattt
+      121 cgaagtttca gagatatggc tttgatatct ggctttgatt ggtctaactt aatgaagtga
+      181 cctgcagttc tgagagtttc aggatgtctg agcttaatct gttaagtctt taggtgttgc
+      241 ctttcctttg ctgcctgctt tttggtttgt ggtaagcctt ttgctctcac acactcgcac
+      301 gaggttggat aagcagtgca tacctgaaat ggcaaaccca tggcgtgggt gtatttaaat
+      361 acatataatc gtgtgtagct caggtttgtg aagttttaaa aatgtcttcc tttgctacag
+      421 ggccggacat ctgcggacct ccgaccaaga aagtacatgt gattttcaac tacaaaggca
+      481 a
+//
+

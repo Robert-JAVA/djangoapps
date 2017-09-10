@@ -1,0 +1,61 @@
+LOCUS       JX043793                 593 bp    DNA     linear   VRT 30-OCT-2012
+DEFINITION  Triturus marmoratus isolate M2023VFigueira NADH dehydrogenase (ND4)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX043793
+VERSION     JX043793.1  GI:388329027
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Is dispersal guided by the environment? A comparison of
+            interspecific gene flow estimates among differentiated regions of a
+            newt hybrid zone
+  JOURNAL   Mol. Ecol. 21 (21), 5324-5335 (2012)
+   PUBMED   23013483
+REFERENCE   2  (bases 1 to 593)
+  AUTHORS   Espregueira Themudo,G., Neiman,A.M. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2012) Netherlands Centre for Biodiversity
+            Naturalis, P.O. Box 9517, Leiden 2300, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="M2023VFigueira"
+                     /db_xref="taxon:8328"
+                     /country="Portugal: Vale da Figueira"
+                     /lat_lon="39.681 N 7.747 W"
+                     /PCR_primers="fwd_name: nd4, fwd_seq:
+                     cacctatgactaccaaaagctcatgtagaagc, rev_name: ndr r2,
+                     rev_seq: ccctgaaataagagagggtttaa"
+     gene            <1..>593
+                     /gene="ND4"
+     CDS             <1..>593
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase"
+                     /protein_id="AFK29049.1"
+                     /db_xref="GI:388329028"
+                     /translation="GIIRVTMLLTPLTKEMSYPFVILALWGVVMTSLICMRQTDLKSL
+                     IAYSSVSHMGLVIAAIMIQTPWSLTGTIILMISHGLISSALFCLANLNYERTHSRTLL
+                     LVRGAQAVLPLMATWWLIANLSNMALPPSMNLWGELTIMVSLFNWSPWTILITGLGTL
+                     TTASYTLYMFLMTQRGPTPLHLGQITPSHTREHFLIM"
+ORIGIN      
+        1 tggcatcatt cgagtcacca tgctcctcac ccccctaaca aaagaaatat catatccgtt
+       61 tgtaatcctg gccctatggg gagtggtaat aacgagccta atctgcatac gacagacaga
+      121 ccttaaatca ctaattgcat actcatctgt aagccatata ggcctagtca tcgccgccat
+      181 tataattcaa acaccatgaa gcctaacagg gacaattatt ttaataatct cacacggact
+      241 tatttcatca gccctctttt gtctggcaaa cttaaactac gaacgaaccc acagtcggac
+      301 cttgcttcta gtccgggggg ctcaagcagt attaccccta atggccacct gatgactcat
+      361 tgcaaacctc tcaaacatag cacttccccc ctcaataaac ctatgaggag aactaactat
+      421 tatagtctca ctattcaact ggtccccatg gacaatttta atcaccggcc tcggtaccct
+      481 aactacggcc tcttacacgc tctacatatt tctaataaca caacgaggcc caacccccct
+      541 acatcttggc caaattaccc cgtcccacac tcgagaacac ttccttatta tga
+//
+

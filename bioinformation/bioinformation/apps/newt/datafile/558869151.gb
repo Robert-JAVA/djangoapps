@@ -1,0 +1,60 @@
+LOCUS       KF550406                 477 bp    DNA     linear   VRT 04-MAR-2015
+DEFINITION  Taricha rivularis voucher MVZ:Herp:264099 pro-opiomelanocortin
+            (POMC) gene, partial cds.
+ACCESSION   KF550406
+VERSION     KF550406.1  GI:558869151
+KEYWORDS    .
+SOURCE      Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 477)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Discovery of a New, Disjunct Population of a Narrowly Distributed
+            Salamander (Taricha rivularis) in California Presents Conservation
+            Challenges
+  JOURNAL   J Herpetol 48 (3), 371-379 (2014)
+REFERENCE   2  (bases 1 to 477)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2013) Department of Integrative Biology, Museum
+            of Vertebrate Zoology, UC Berkeley, 3101 Valley Life Sciences
+            Building, Berkeley, CA 94720-3160, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /organism="Taricha rivularis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:264099"
+                     /db_xref="taxon:36313"
+                     /PCR_primers="fwd_name: pomc_drv_f1, fwd_seq:
+                     atatgtcatgasccayttycgctggaa, rev_name: pomc_drv_r1,
+                     rev_seq: ggcrttyttgaawagagtcattagwgg"
+     gene            <1..>477
+                     /gene="POMC"
+     mRNA            <1..>477
+                     /gene="POMC"
+                     /product="pro-opiomelanocortin"
+     CDS             <1..>477
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="pro-opiomelanocortin"
+                     /protein_id="AHA93891.1"
+                     /db_xref="GI:558869152"
+                     /translation="KFGRKNGTSGNTAGNKREELPSNPMVSVFTTSESQSSGAHDSSK
+                     EGEGMQRQDNKRSYSMEHFRWGKPVGRKRRPIKVYPNVVEDESSESYPLDLKRDLSLG
+                     LDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERSQTP"
+ORIGIN      
+        1 caagttcggc agaaagaacg gcaccagcgg caacactgca ggaaataaga gagaagagct
+       61 ccccagcaat ccaatggtca gcgtcttcac cacatcagag agccagagca gcggcgccca
+      121 cgacagcagc aaagagggcg agggcatgca aaggcaagac aacaaacgct cctactccat
+      181 ggagcacttc cggtggggga aacctgttgg caggaagagg cgaccaatca aggtgtaccc
+      241 caacgtcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggctc gactatcccg aatatgactc ccaagaaggc ctggaaaaca acgaggtgat
+      361 gatgggcctt gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaaacgct atggtgggtt catgacccct gagcggagtc aaacccc
+//
+

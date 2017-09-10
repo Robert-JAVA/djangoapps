@@ -1,0 +1,66 @@
+LOCUS       KC507869                1621 bp    DNA     linear   VRT 31-JAN-2015
+DEFINITION  Tylototriton kweichowensis isolate 195 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KC507869
+VERSION     KC507869.1  GI:558633434
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton kweichowensis (red-tailed knobby newt)
+  ORGANISM  Tylototriton kweichowensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 1621)
+  AUTHORS   Zhang,M.
+  TITLE     Conservation genetics of the Red Knobby Newt (Tylototriton
+            shanjing, Amphibia, Caudata)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1621)
+  AUTHORS   Zhang,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JAN-2013) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, 32 Jiaochang Donglu,
+            Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..1621
+                     /organism="Tylototriton kweichowensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="195"
+                     /db_xref="taxon:385676"
+     D-loop          <1..735
+     tRNA            736..804
+                     /product="tRNA-Phe"
+     rRNA            805..>1621
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ttgttttcct aagatcagag tagcgcggag gacatattat gtatatagta cattaattga
+       61 cttgccatat ggctagtgtt ttagtattat taggatccat aatctaattt tcaggcggga
+      121 aaccaccaac ccgcccacaa cgaccctcgt tccaaaattt ccaggacctc aattgtagag
+      181 tgttttacgt ttattttcaa cagctggttt gaatctatgg acaaacctag tagagtttct
+      241 atcatttatc tttaagaggc ctctggtaaa atgctttcaa tatcgtcgta cccttgaccc
+      301 cgcataactg ttttggactg catttggtat ttttttctct ctgtgaagtc aatgccccat
+      361 acagtcttga gccggggcac ttgagcctaa atctgaacat acccagcagg tgtatactca
+      421 gcggaataat gaggggggcg tataatattc atgttgttcg gacataataa ttttttccct
+      481 ctaaagcaag agacatattc ttttcctatt tccccccgga gctagttttt ctaagaatac
+      541 ttattttgaa tatcatctaa ttctattttt tgattaaccc ccccaccccc aaatgttagt
+      601 ctcatcagta tctacaactc tttagtcaac ccccgaaact aaaaagacct ttatacttac
+      661 gacattaggc ttatgctaga aaaataccac tttttttaaa agttttttga ttgttattac
+      721 agtgttacac tgtaagttaa tgtagcttat ataaaagcat agcactgaaa atgctaagat
+      781 agattttaaa acatctcatg aacacaaagg tttggtccta gccttactat taattttaac
+      841 tacacttaca catgcaagta tcagcacccc cgtgaaaatg ccctctacaa ccaataagta
+      901 aatgaggagc ggatatcagg caccacttat gccaaagaca tcttgttaag ccacgccccc
+      961 aagggaactc agcagtgata aacattgaaa aataagcgaa acaagcttga accagtgata
+     1021 gtaaatagag tcggtaaatc tcgtgccagc caccgcggtt atacgagaga ctcaagttaa
+     1081 taaaatcggc ccaaagggtg gttagagatt acaacaaata gaactaaaaa ctaactctgc
+     1141 tgtcgcacgc aatagttaca aacaaacaca acatcgaaag aaattctaca aaataaactt
+     1201 gaacccacga cagttaggag acaaactggg attagatacc ccactatgcc taaccataaa
+     1261 ctttgacaaa tccgccagag tactacgagc aatagcttaa aactcaaagg acttggcggt
+     1321 gctctacacc cacctagagg agcctgttct ataatcgata atccccgata aacctcacca
+     1381 tctattgcca atacagccta tataccaccg tccagcccgc cctctaaagg ataaacagca
+     1441 ggcacaacta taaacataaa aacgtcaggt caaggtgtag cacataagat gggaagaaat
+     1501 gggctacatt ttctaaccta gaaaacacga aagagtttat gaaataaagc tccaaaggag
+     1561 gatttagcag taaaaagaaa aaagagcgtt ctttttaagc cggcaatgga gcgcgcacac
+     1621 a
+//
+

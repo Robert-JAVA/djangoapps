@@ -1,0 +1,73 @@
+LOCUS       KC165641                1101 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus spastic ataxia of Charlevoix-Saguenay
+            (SACS) gene, partial cds.
+ACCESSION   KC165641
+VERSION     KC165641.1  GI:523707419
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 1101)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 1101)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1101
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>1101
+                     /gene="SACS"
+     mRNA            <1..>1101
+                     /gene="SACS"
+                     /product="spastic ataxia of Charlevoix-Saguenay"
+     CDS             <1..>1101
+                     /gene="SACS"
+                     /codon_start=1
+                     /product="spastic ataxia of Charlevoix-Saguenay"
+                     /protein_id="AGQ56104.1"
+                     /db_xref="GI:523707420"
+                     /translation="DIPREVAVKLGAIPKRHKALERYASNIHFTTLGTEFGQKEKLTS
+                     RIKSILNAYPSEKEMLKELLQNADDAKATEICFVFDPRYHPVDRIFDEKWAPLQGPAL
+                     CVYNNQPFTEDDIRGIQNLGRGTKEANPCKTGQYGIGFNSVYHITDCPSFISCNDILC
+                     IFDPHARYAPGATTVSPGRMFRDLDADFKTQFSDVLDLYLGKYFKLGKTTMFRFPLRN
+                     SEMAKQSEISSVPASDRMVQNLLDKLRTDGAELLMFLNHMEKISICEIEKTTGVLNVL
+                     YSVRAKITDGDRLKRKQFHASVIESVTKKKMLKDIPVQQITYTMDIEDSEGNLTTWLI
+                     CNRSGFSNMEKVSKSVVSAHKNKDITLFPRGGV"
+ORIGIN      
+        1 gatataccaa gggaggtagc agtaaagcta ggagccatac ctaagcggca caaggcttta
+       61 gaacgatacg catcaaacat tcattttacc actcttggga cagaatttgg tcaaaaagaa
+      121 aaactgacca gtagaataaa aagtattctc aatgcttatc catcagaaaa ggagatgttg
+      181 aaagagcttc ttcaaaatgc agatgatgca aaagctactg aaatctgttt tgtgtttgat
+      241 ccgagatacc atccagttga ccgaatcttt gatgaaaagt gggccccact tcaaggacca
+      301 gcgctttgtg tgtacaacaa ccagccattc acagaagatg atattagagg cattcagaac
+      361 ctaggaaggg gcaccaaaga agcaaatcct tgtaaaaccg ggcagtacgg aataggattt
+      421 aattctgttt accacattac agattgcccg tctttcattt cctgcaatga tatcctctgt
+      481 atttttgatc ctcatgcaag atacgcacca ggtgcaacaa cagtaagccc tggccgtatg
+      541 tttagggatt tagatgcaga ttttaaaaca cagttttctg atgtccttga tctctatcta
+      601 ggaaaatact tcaaacttgg caaaacaaca atgttcagat ttcctctgcg taattcagaa
+      661 atggcaaagc agtctgaaat ttcatcagtt cctgcttccg acagaatggt gcaaaatttg
+      721 ctggataaac tgcgtacaga tggagcagaa ctgttaatgt ttttaaatca tatggagaaa
+      781 atttcaatat gtgaaattga gaaaacaaca ggggttctta atgtactgta ttctgtgagg
+      841 gctaaaatca cagatggtga tcgtctcaaa cgtaagcaat ttcatgcctc tgtcattgaa
+      901 agtgtaacta aaaagaaaat gttgaaggat attccagttc agcagattac gtacaccatg
+      961 gacattgaag actctgaggg taatcttaca acatggctga tttgtaacag atcaggcttt
+     1021 tctaatatgg aaaaggtttc caagagtgtt gtttcagcac ataagaacaa ggacattaca
+     1081 ttgtttccac gtgggggagt c
+//
+

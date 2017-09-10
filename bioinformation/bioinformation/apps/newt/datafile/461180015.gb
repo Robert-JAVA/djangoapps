@@ -1,0 +1,60 @@
+LOCUS       KC295225                 859 bp    mRNA    linear   VRT 11-MAR-2014
+DEFINITION  Pachytriton brevipes Trimx protein (Trimx) mRNA, partial cds.
+ACCESSION   KC295225
+VERSION     KC295225.1  GI:461180015
+KEYWORDS    .
+SOURCE      Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 859)
+  AUTHORS   Jiang,D., Zhu,X.L., Zhao,J.F., Zhou,Y.K., Zhong,C., Zhang,J. and
+            Huang,X.
+  TITLE     Subtractive screen of potential limb regeneration related genes
+            from Pachytriton brevipes
+  JOURNAL   Mol. Biol. Rep. 41 (2), 1015-1026 (2014)
+   PUBMED   24390235
+REFERENCE   2  (bases 1 to 859)
+  AUTHORS   Zhu,X. and Huang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) College of Life Science in Zhejiang
+            University, Institute of Cellular and Developmental Biology, Yu
+            Hang Tang Road 388#, Hangzhou, Zhejiang 310058, China
+FEATURES             Location/Qualifiers
+     source          1..859
+                     /organism="Pachytriton brevipes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:377299"
+     gene            <1..859
+                     /gene="Trimx"
+     CDS             <1..695
+                     /gene="Trimx"
+                     /note="member of tripartite motif gene family protein"
+                     /codon_start=3
+                     /product="Trimx protein"
+                     /protein_id="AGH15798.1"
+                     /db_xref="GI:461180016"
+                     /translation="MGLAGSANSARNNLCTAGSLSPVCQQKELYLMDRMLANCLLLCF
+                     LIGSILQGSLCDTGTDTNDADNSFVVVENVHQYQEIVTLDPNTAHPLLNLSDDLQSVS
+                     LGSSRQDLDNNADRFDSDPCVLGSTGYTSGKHFFKTSGDGGFLVGFAAVSVPRKGLLV
+                     LSSDAGIFAYPRAMGDTPDVIGSLLDCDQEQVLFYNEISNEVVSNLRMPNGCREEMRP
+                     FFFLAVGELVVS"
+ORIGIN      
+        1 acatggggct agcaggcagt gccaattcag caagaaacaa cttgtgcaca gccggatctc
+       61 tcagccctgt ctgccagcaa aaggagttgt acttaatgga caggatgctg gccaattgtc
+      121 tgctcctctg ttttctcatt ggttccatcc tccaaggttc cttgtgtgac accggtactg
+      181 acaccaatga tgcagataat tccttcgttg ttgtagaaaa tgtccatcaa tatcaagaga
+      241 ttgtgacact ggatccgaat acagcgcatc ctcttcttaa cctgtctgat gacttgcaga
+      301 gcgtgagcct tggaagcagc aggcaggacc ttgacaacaa cgcagatcga tttgactctg
+      361 atccctgcgt cctgggtagt actgggtaca ccagtgggaa acacttcttc aaaacaagcg
+      421 gggacggagg cttccttgta gggttcgcgg ctgtatccgt gcccaggaag ggcctgcttg
+      481 tcttgtcctc tgatgcagga atctttgcct atccacgggc aatgggagat acccctgacg
+      541 taatcggctc acttttagat tgtgaccagg agcaggtact tttctacaat gaaatcagta
+      601 atgaagttgt cagcaacctg cgcatgccta atggctgcag agaagaaatg agacccttct
+      661 tcttccttgc agtgggagaa ttggttgttt cataacgagg gaccctctta catctctttt
+      721 gagcctgcga tgaaaatagt agctgaaaag cctctgcaga tcacagcact attatgtttt
+      781 atgttgatcg atttggatta atcagaataa aggtacccat tttaaacgta aaaaaaaaaa
+      841 aaaaaaaaaa aaaaaaaaa
+//
+

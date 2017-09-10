@@ -1,0 +1,50 @@
+LOCUS       FJ502350                 443 bp    DNA     linear   VRT 08-DEC-2009
+DEFINITION  Lissotriton helveticus helveticus clone Th09 microsatellite
+            sequence.
+ACCESSION   FJ502350
+VERSION     FJ502350.1  GI:253971315
+KEYWORDS    .
+SOURCE      Lissotriton helveticus helveticus
+  ORGANISM  Lissotriton helveticus helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 443)
+  AUTHORS   Johanet,A., Picard,D., Garner,T.W.J., Dawson,D.A.,
+            Morales-Hojas,R., Jehle,R., Peltier,D. and Lemaire,C.
+  TITLE     Characterization of microsatellites loci in two closely related
+            Lissotriton newt species
+  JOURNAL   Conserv. Genet. 10 (6), 1903-1906 (2009)
+REFERENCE   2  (bases 1 to 443)
+  AUTHORS   Johanet,A., Picard,D., Garner,T.W.J., Dawson,D.A.,
+            Morales-Hojas,R., Jehle,R., Peltier,D. and Lemaire,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2008) Sciences, University of Angers, 2, bd
+            Lavoisier, Angers 49045, France
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Lissotriton helveticus helveticus"
+                     /mol_type="genomic DNA"
+                     /sub_species="helveticus"
+                     /db_xref="taxon:454748"
+                     /clone="Th09"
+                     /PCR_primers="fwd_name: Th09F, fwd_seq:
+                     cgacactcgcaaatcaatc, rev_name: Th09R, rev_seq:
+                     attattatttccacacacgtaaacat"
+                     /note="this sequence was also amplified in Lissotriton
+                     vulgaris vulgaris"
+     repeat_region   17..168
+                     /rpt_type=tandem
+                     /rpt_unit_seq="atct"
+                     /satellite="microsatellite"
+ORIGIN      
+        1 cgacactcgc aaatcaatct atctatctat ctatctatct atctatctat ctatctatct
+       61 atctatctat ctatctatct atctatctat ctatctatct atctatctat ctatctatct
+      121 atctatctat ctatctatct atctatctat ctatctatct atctatctgt taaaagttat
+      181 atatatgttt acgtgtgtgg aaataataat tattcttagt aaccctttga tcagtgccca
+      241 aataggtttc aatctgacca ctaacaagat taatcaatgt ttttgcttta gcagaacaca
+      301 gaaagtgtac tttccttgcc ttcgtggact ttaaatatga attaaataaa tgcatgggta
+      361 ggcattgcct aaaatatacc aaaggaaatt gacatggttt tcgtccttga gaattgttcc
+      421 cttattctca tgatcaatcg tga
+//
+

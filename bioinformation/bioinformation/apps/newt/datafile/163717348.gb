@@ -1,0 +1,48 @@
+LOCUS       EU213037                 301 bp    mRNA    linear   VRT 26-MAY-2009
+DEFINITION  Pleurodeles waltl retinaldehyde dehydrogenase mRNA, partial cds.
+ACCESSION   EU213037
+VERSION     EU213037.1  GI:163717348
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 301)
+  AUTHORS   Wallacides,A., Chesnel,A., Chardard,D., Flament,S. and Dumond,H.
+  TITLE     Evidence for a conserved role of retinoic acid in urodele amphibian
+            meiosis onset
+  JOURNAL   Dev. Dyn. 238 (6), 1389-1398 (2009)
+   PUBMED   19347951
+REFERENCE   2  (bases 1 to 301)
+  AUTHORS   Helene,D., Amand,C., Angelina,W., Dominique,C. and Stephane,F.
+  TITLE     RA triggers meiosis entry in the urodele amphibian Pleurodeles
+            waltl
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 301)
+  AUTHORS   Helene,D., Amand,C., Angelina,W., Dominique,C. and Stephane,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-OCT-2007) EA3442, Faculte des Sciences, Boulevard des
+            Aiguillettes, Vandoeuvre les Nancy 54500, France
+FEATURES             Location/Qualifiers
+     source          1..301
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..>301
+                     /note="aldehyde dehydrogenase 1 family member A2; Raldh2"
+                     /codon_start=3
+                     /product="retinaldehyde dehydrogenase"
+                     /protein_id="ABY40726.1"
+                     /db_xref="GI:163717349"
+                     /translation="VCGQIIPWNFPLLMFGWKIAPALCCGNTVVIKPAEQTPLSALYM
+                     GSLIKEAGFPPGVVNILPGYGPTAGAAIASHPGIDKIAFTGSTEVGKMIQEAAGR"
+ORIGIN      
+        1 gagtgtgtgg acagatcatc ccatggaact tcccactgct gatgtttggc tggaagatcg
+       61 caccagctct ttgctgtggt aataccgttg ttattaaacc agcggaacaa acaccactca
+      121 gcgcactcta tatgggatct ctcattaaag aggctgggtt cccgcctggc gtggtcaata
+      181 ttttgccagg atatggtcca actgcaggcg cagcaatagc ttctcaccct ggcatagata
+      241 aaattgcttt cactggatca actgaagttg gaaagatgat ccaagaagca gctggaagaa
+      301 g
+//
+

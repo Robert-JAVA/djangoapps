@@ -1,0 +1,58 @@
+LOCUS       GQ292528                 793 bp    mRNA    linear   VRT 31-DEC-2009
+DEFINITION  Calotriton asper mitochondrial uncoupling protein mRNA, partial
+            cds; nuclear gene for mitochondrial product.
+ACCESSION   GQ292528
+VERSION     GQ292528.1  GI:269315997
+KEYWORDS    .
+SOURCE      Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 793)
+  AUTHORS   Issartel,J., Hervant,F., de Fraipont,M., Clobert,J. and Voituron,Y.
+  TITLE     High anoxia tolerance in the subterranean salamander Proteus
+            anguinus without oxidative stress nor activation of antioxidant
+            defenses during reoxygenation
+  JOURNAL   J. Comp. Physiol. B, Biochem. Syst. Environ. Physiol. 179 (4),
+            543-551 (2009)
+   PUBMED   19148651
+REFERENCE   2  (bases 1 to 793)
+  AUTHORS   Issartel,J., Clobert,J. and Voituron,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2009) Equipe Adaptation Ecophysiologique et
+            Ontogenese, Universite Montpellier 2, UMR 5119-UM2-CNRS-IFREMER,
+            Ecolag, Place Eugene Bataillon cc 92, Montpellier cedex 05 34095,
+            France
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /organism="Calotriton asper"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:30374"
+     CDS             <1..>793
+                     /codon_start=1
+                     /product="mitochondrial uncoupling protein"
+                     /protein_id="ACZ37125.1"
+                     /db_xref="GI:269315998"
+                     /translation="SIQGESKSLSSQSRAPQYRGVFGTISTMVKTEGPKSLYNGLVAG
+                     LQRQMSFASVRIGLYDSVKQFYTKGSEHVGIGSRLLAGCTTGAMAVAIAQPTDVVKVR
+                     FQAQANITSASRRYKGTMDAYRTIAREEGMKGLWKGTAPNITRNAIVNCTELVTYDLI
+                     KDLLLKSNLMTDTLPCHFTSAFGAGFCTTVIASPVDVVKTTYMNSAPGQYGSAINCAL
+                     SMFRKEWPLAFYKGFMPSFLRLGSWNAYMYISFFSFLSSSYYPRYA"
+ORIGIN      
+        1 tcgatacaag gtgagagcaa gtctctgtcc agccagtcca gggccccgca gtacaggggc
+       61 gtgtttggga ccatcagcac catggtgaag accgagggcc ccaagagtct ctacaacggc
+      121 ctggtcgccg ggctgcagcg ccagatgagc ttcgcctcgg tccggattgg actgtatgac
+      181 tccgtcaagc agttctacac caaggggtct gaacatgttg gcattggcag caggctcctt
+      241 gccggatgca ccaccggagc catggccgtg gccatcgcgc aaccaacaga cgtggtcaag
+      301 gtgaggtttc aggcccaggc aaacatcacc agtgccagcc ggagatataa ggggaccatg
+      361 gatgcctata gaaccatcgc cagggaggaa ggcatgaagg gcctctggaa aggtactgca
+      421 cccaacatca ctcgcaatgc catcgtgaac tgcactgaat tggtcaccta cgatctgata
+      481 aaagacttgc tgctgaagtc caaccttatg acagatactc ttccctgtca cttcacctct
+      541 gccttcggtg ctggattctg cacaactgtg atcgcctccc cagtggatgt agtgaagact
+      601 acatacatga actctgcccc gggccagtac ggcagtgcca taaactgcgc gctcagcatg
+      661 ttcagaaagg aatggccttt ggccttctac aagggattta tgccctcgtt cctgcgactc
+      721 ggatcttgga acgcctacat gtatatttct ttcttttcat ttctatcttc ttcttattat
+      781 ccccgttacg ccc
+//
+

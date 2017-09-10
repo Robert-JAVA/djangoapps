@@ -1,0 +1,43 @@
+LOCUS       AF438314                 356 bp    mRNA    linear   VRT 27-FEB-2004
+DEFINITION  Pleurodeles waltl transcription factor HoxA9 mRNA, partial cds.
+ACCESSION   AF438314
+VERSION     AF438314.1  GI:24637238
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 356)
+  AUTHORS   Nicolas,S., Papillon,D., Perez,Y., Caubit,X. and Le Parco,Y.
+  TITLE     The spatial restrictions of 5'HoxC genes expression are maintained
+            in adult newt spinal cord
+  JOURNAL   Biol. Cell 95 (9), 589-594 (2003)
+   PUBMED   14720461
+REFERENCE   2  (bases 1 to 356)
+  AUTHORS   Nicolas,S., Caubit,X. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-OCT-2001) IBDM, CNRS, Campus de Luminy - Case 907,
+            Marseille cedex 9 13288, France
+FEATURES             Location/Qualifiers
+     source          1..356
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..240
+                     /note="PwHoxA9"
+                     /codon_start=1
+                     /product="transcription factor HoxA9"
+                     /protein_id="AAN63623.1"
+                     /db_xref="GI:24637239"
+                     /translation="DNPSANWLHARSTRKKRCPYTKHQTLELEKEFLFNMYLTRDRRY
+                     EVARLLNLTERQVKIWFQNRRMKMKKINKDRPKDE"
+ORIGIN      
+        1 gacaacccgt ccgccaactg gttgcacgcg aggtcgacac ggaaaaaacg ctgcccttac
+       61 accaagcacc agacgctgga gctggagaaa gagtttttgt tcaacatgta cctgaccagg
+      121 gaccgcaggt acgaggtggc caggctgctg aacctgacgg agaggcaggt gaagatatgg
+      181 tttcagaacc gtcggatgaa gatgaaaaaa atcaacaaag accggccgaa ggacgagtga
+      241 cgtggcggaa acgtgtcgac cgccaggtct cactatctca gacccattcg tatcgttgtg
+      301 tacatgtagc gccagagctc gggttaccgg ggccggccac gaggtactgt aatatt
+//
+

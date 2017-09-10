@@ -1,0 +1,54 @@
+LOCUS       KM253479                 812 bp    DNA     linear   VRT 15-OCT-2014
+DEFINITION  Ichthyosaura alpestris isolate MAB413b growth hormone (GH) gene,
+            intron 4.
+ACCESSION   KM253479
+VERSION     KM253479.1  GI:696197537
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 812)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Evolutionary history of Ichthyosaura alpestris (Caudata,
+            Salamandridae) inferred from the combined analysis of nuclear and
+            mitochondrial markers
+  JOURNAL   Mol. Phylogenet. Evol. 81C, 207-220 (2014)
+   PUBMED   25263421
+REFERENCE   2  (bases 1 to 812)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2014) Ecologia de la Biodiversidad, Instituto de
+            Ecologia, UNAM, Mexico D. F., Distrito Federal 70-275, Mexico
+FEATURES             Location/Qualifiers
+     source          1..812
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="genomic DNA"
+                     /isolate="MAB413b"
+                     /db_xref="taxon:54263"
+     gene            <1..>812
+                     /gene="GH"
+                     /note="growth hormone"
+     intron          <1..>812
+                     /gene="GH"
+                     /number=4
+ORIGIN      
+        1 ttcccaggag attctttccc cagttagtcg atctcttcaa tcatgtaaaa gcatattctg
+       61 gttcaaaaat gtgtgtcgaa gggtcacaat cttctcgata aaataaaaca gttttcaaca
+      121 gttgtgtttt agccagtcgc aagcttaagt acactcatat ctcgtcaatt gcacaacaca
+      181 acagagctct aaacacaatg aaacaattgt ctttccactt gttactgttt gtgtgctgca
+      241 tacatacttt gccttttagt taagcctgac agcttgtgct aagctaccag agggtgaagc
+      301 acaggttatt ttaatgactt gtgaggttct cccaacaaga cttgtggttg ttgcttgagt
+      361 ggggcttcca ccccctcaaa cagtaaccaa atttcttacc ccccgtgatt cttcgtgcac
+      421 taaaatgtac tgctaaagtt tgacttaagt tgctttgaac aattaggttc tcaaatagcg
+      481 taaggggacc ctccggcaaa cacaactgat agctttctct catgatggaa aagtgcacat
+      541 gcagtgtctg tggggtgggg atgcaatatg tatttcatga agcaatcagc atcctttgtg
+      601 catgaatgga gagaagtatg gcaccaatat gctcactgcg ggtctaaagt gaagctgtta
+      661 attcagtatt tagccacttt ctagagcaca catcttcgtt aacatacttt caccgaccca
+      721 tgtacaaaca tgattttaat aatgcggtta gttttcagta attgtatatt actcagctat
+      781 attcgtcgca aaataagcta tcccactgag at
+//
+

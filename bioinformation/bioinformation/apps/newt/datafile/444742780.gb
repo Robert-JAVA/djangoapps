@@ -1,0 +1,45 @@
+LOCUS       JX510696                 440 bp    DNA     linear   VRT 20-MAR-2013
+DEFINITION  Triturus cristatus haplotype Tcri462CCa calreticulin gene, intron
+            C.
+ACCESSION   JX510696
+VERSION     JX510696.1  GI:444742780
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 440)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     A multimarker phylogeography of crested newts (Triturus cristatus
+            superspecies) reveals cryptic species
+  JOURNAL   Mol. Phylogenet. Evol. 67 (1), 167-175 (2013)
+   PUBMED   23353071
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 440)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..440
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri462CCa"
+     gene            <1..>440
+                     /gene="calreticulin"
+     intron          <1..>440
+                     /gene="calreticulin"
+                     /number=C
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag ggaaaaaagc attcaattgg cagtgaatca tgcttttggc tagaatttag
+      121 aagtttcaga gatatggctt tgatatctgg ctttgattgg tctaacttaa tgaagtgacc
+      181 tgcagttctg agagtttcag gatgtctgag cttaatctgt taaatcttta ggtgttgcct
+      241 ttcctttgct gcctgctttt tggtttgtgg taagcctttt gctctcacac actcgcatga
+      301 ggttggataa gcagtgcatt cctgaaatgg caaacccatg gcgtgggtgt atttaaatac
+      361 atataatcgt gtgtagctca ggtttgtgaa gttttaaaaa tgtcttcctt tgctacaggg
+      421 ccggacatct gcggacctcc
+//
+

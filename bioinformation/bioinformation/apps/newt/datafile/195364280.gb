@@ -1,0 +1,61 @@
+LOCUS       EU872028                1316 bp    DNA     linear   VRT 06-AUG-2008
+DEFINITION  Pleurodeles waltl SOX9 gene, promoter region, 5'UTR and partial
+            cds.
+ACCESSION   EU872028
+VERSION     EU872028.1  GI:195364280
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1316)
+  AUTHORS   Chesnel,A. and Dumond,H.
+  TITLE     Pleurodeles waltl Sox9 gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1316)
+  AUTHORS   Chesnel,A. and Dumond,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2008) EA3442 Aspects Cellulaires et Moleculaires
+            de la Reproduction et du Developpement, Nancy-Universite, Boulevard
+            des Aiguillettes - Bp239, Vandoeuvre les Nancy 54506, France
+FEATURES             Location/Qualifiers
+     source          1..1316
+                     /organism="Pleurodeles waltl"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8319"
+     misc_feature    1..1267
+                     /note="contains promoter region and 5'UTR"
+     mRNA            <1268..>1316
+                     /product="SOX9"
+     CDS             1268..>1316
+                     /codon_start=1
+                     /product="SOX9"
+                     /protein_id="ACF95884.1"
+                     /db_xref="GI:195364281"
+                     /translation="MNLLDPFMKMTEEQEK"
+ORIGIN      
+        1 tcctagatca tacctgatag agttttgcct ctgtctccat gagtgtttta tgtatttctg
+       61 ccccctcctt ccccgaccta ttgttctgcg ctcgtatccc tctcattatc tccacaccaa
+      121 atggatttat gtatttatct atgcggcttt atacatcgtt gaaattaccg gcctgtgata
+      181 gagcgtttta aattagaagt aagacatcgc attaaaatta tcatctgcgc cactcacaaa
+      241 cgtaaacagg ttagatgtta aagaacatat cacacatcta taaccctttg cgcagctgcg
+      301 gcaggcgcag catttgcgag gccagtataa agccgaggac aactcctcgg agcagtcagt
+      361 aaacaagtgg tgggagtgtc gtgtgcagag cctgtccccg cgcacgagaa gctaccggag
+      421 ccctggcccc ctcgatccac aggagcgctg ctgcccggac aggccaccct agcaggcggg
+      481 cacctctgtc cacagaagca gggcctcttc agctgaagga gccgggttca ctgcccccca
+      541 gctctcacat caccccacct ctgccgcact ccagggatcc cgggcctccc accaccccac
+      601 cttccctcgg ccctcctcca atccaacctc tgctcacaga gccccagccc tcctcctacg
+      661 acacctcctc atctagccag aggaaagcgg acgcgccaat gagcggcgtg ccagccttcc
+      721 tggcctagcc cccgattggc gagtgctcat tttggagact tgatataaga agccagcgct
+      781 ggctgcagag ggagagctgc ggagcagaac ttcttaggag agccggagga gcgggaagca
+      841 cagccaggaa tttctgtcct cagcagttgc agaactgaca tcaactggcc ctttccagag
+      901 tttagataaa agagggtgcc agcggcgcgc tcttgtttga gtctccatgc cgatattgcg
+      961 ccctctgcac gcccttgcac ccgctctctg caaagactgt tgggcgaaga ccttttactg
+     1021 agtttgactg ctccctcgct atacataatt ggggcaaagt caacctcttc ttttggttcc
+     1081 tgagcgcacc tgtgttttgc acccgaatct tcgctgccag acatcgcatc cgcatgtctg
+     1141 tgcagcccct caccagagac tgtcacttgc agaagctgtg cagagttgag cagcgcccaa
+     1201 ccgccctata gacgcttctt gcccctgttc ctgggcacat ttcttttatc cccaccccac
+     1261 ccctcgcatg aatctcctag accccttcat gaaaatgacc gaggagcagg agaagt
+//
+

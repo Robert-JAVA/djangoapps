@@ -1,0 +1,74 @@
+LOCUS       KM926344                 885 bp    DNA     linear   VRT 13-JAN-2015
+DEFINITION  Echinotriton maxiquadratus voucher SY20131101ENT NADH dehydrogenase
+            subunit 1 and NADH dehydrogenase subunit 2 genes, partial cds;
+            mitochondrial.
+ACCESSION   KM926344
+VERSION     KM926344.1  GI:745698055
+KEYWORDS    .
+SOURCE      mitochondrion Echinotriton maxiquadratus (Mountain spiny newt)
+  ORGANISM  Echinotriton maxiquadratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Echinotriton.
+REFERENCE   1  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     A missing geographic link in the distribution of the genus
+            Echinotriton (Caudata: Salamandridae) with description of a new
+            species from southern China
+  JOURNAL   Zootaxa 3895 (1), 89-102 (2014)
+   PUBMED   25543556
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2014) Ecology and Evolutionary Biology, Cornell
+            University, Corson Hall, Ithaca, NY 14853, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..885
+                     /organism="Echinotriton maxiquadratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SY20131101ENT"
+                     /db_xref="taxon:1592079"
+                     /country="China"
+     CDS             <1..266
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:266,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AJD19795.1"
+                     /db_xref="GI:745698056"
+                     /translation="ILLMNTLSTVLFLGSTINHLQPELLTPNLMIKASALSIAFLWVR
+                     ASYPRFRYDQLMHLIWKNFLPITIGLTLMHISLPILTSGIPPTL"
+     CDS             483..>885
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AJD19796.1"
+                     /db_xref="GI:745698057"
+                     /translation="MSPHALSILLSSLAVGTITTLSSSHWFLAWVGLEINTLAIIPIM
+                     TKMHHPRATESATKYFLTQATASALILFSAITNAWATGEWTIITMTDNTSTSILTIAL
+                     AIKLGIAPFHLWLPDVMQGLNLTTCLILATWQ"
+ORIGIN      
+        1 tattttacta ataaacaccc tatctactgt tttattttta gggtcaacaa ttaaccacct
+       61 ccaaccagaa ctactcacac caaacctgat aattaaagca tccgccctgt ccattgcatt
+      121 tctatgagtg cgagcatcat acccccgatt tcgttatgat caattaatac accttatttg
+      181 aaaaaacttt ctaccaatta caatcggact aacacttata cacatctccc tgccaatctt
+      241 aacatctgga atccccccca cattatagga catgtgcctt taagataggg cttactttga
+      301 tagagtaaca cacaggggtt caaaccccct catttcctat ataaaaaaac aggactcgaa
+      361 cctatccaaa ggagatcaaa acccctcgtg ctcccactac accacttttt aatagtaaaa
+      421 taagctaaat aagctcttgg gcccataccc caaacatgtt ggttaaaatc cttcttttac
+      481 taatgagccc acatgcactc tcaattctac tatcaagcct agcagtagga acaatcacaa
+      541 ctctatcaag ctcccactga tttctagcat gagtaggcct agaaattaat acactagcaa
+      601 ttatcccaat tataacaaag atacaccacc cacgggcaac agaatcagcc acaaaatact
+      661 tcttaacaca agcaactgca tcagccctaa tcttattctc tgcaatcaca aacgcatgag
+      721 ccactggaga atgaacaatt attactataa ccgataatac atcaacatct atcctaacaa
+      781 ttgctttagc catcaaacta ggaattgccc catttcacct atgattacca gatgttatac
+      841 aaggactaaa cctaacaaca tgcctaatcc ttgcaacatg acaaa
+//
+

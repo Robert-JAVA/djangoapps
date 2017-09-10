@@ -1,0 +1,73 @@
+LOCUS       AB019516                1499 bp    mRNA    linear   VRT 02-APR-1999
+DEFINITION  Cynops pyrrhogaster mRNA for newt HES1, complete cds.
+ACCESSION   AB019516
+VERSION     AB019516.1  GI:4587145
+KEYWORDS    newt HES1.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Shimizu-Nishikawa,K., Tazawa,I., Uchiyama,K. and Yoshizato,K.
+  TITLE     Expression of the helix-loop-helix type negative regulators of
+            differentiation during limb regeneration in urodele and anuran
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1499)
+  AUTHORS   Shimizu-Nishikawa,K., Tazawa,I. and Yoshizato,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-1998) Keiko Shimizu-Nishikawa, Hiroshima
+            University, Faculty of Science; Kagamiyama, Higashihiroshima,
+            Hiroshima 739-8526, Japan (E-mail:knishika@sci.hiroshima-u.ac.jp,
+            Tel:81-824-22-7151, Fax:81-824-22-7151)
+FEATURES             Location/Qualifiers
+     source          1..1499
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="limb blastema"
+                     /dev_stage="adult"
+     gene            1..1499
+                     /gene="newt HES1"
+     CDS             244..999
+                     /gene="newt HES1"
+                     /codon_start=1
+                     /product="newt HES1"
+                     /protein_id="BAA76633.1"
+                     /db_xref="GI:4587146"
+                     /translation="MPAGSMEKPGTVSPMAGAPACGTQTPDKPKSASEHRKSSKPIME
+                     KRRRARINESLGQLKTLILDALKKDSSRHSKLEKADILEMTVKHLRNLQRVQMTAALS
+                     ADPTVLGKYRAGFNECMNEVTRFLSTCEGVNTEVRTRLLGHLSGCLGGMAAMNYPQHV
+                     QPGPGPCKLNSPEPPKVYGGFQLVPATDGQFAFLIPSPSPVLQPLCAVNGGQQPPSPV
+                     QGLPTFGHKLPPVSQALSPRALSTGPESVWRPW"
+     polyA_site      1499
+                     /gene="newt HES1"
+                     /note="20 A nucleotides"
+ORIGIN      
+        1 gcctggaata cactgcgttt gaaatctgca gttcgagatt tgcagagccc tacatctgtt
+       61 tagtctacac acgcgttcat tctgaaaaca ccgacttggt ttgcagcaac cagaaaactc
+      121 aaggccattt aacttttact acaacgacat tttaaaagtc gttcacctga cgtgctggtc
+      181 tttttgggag gtccgaacct cgccccactg ttacttggtg gcagtttcgt tccagtacca
+      241 gtgatgcccg ccggtagcat ggagaaacct ggcacagtct cgcccatggc aggagccccc
+      301 gcttgcggca cccagacccc ggacaagccc aagagtgcca gcgagcaccg caagtcctcg
+      361 aagcccatca tggagaagcg ccgtcgggcc cgcatcaacg agagcctggg ccaactcaag
+      421 acgctcatcc tggacgcact caaaaaagac agttcaagac actccaaact ggagaaggca
+      481 gacatcctcg agatgacagt caagcacttg agaaatctcc agcgggtgca aatgacagct
+      541 gctctgagcg cagacccaac cgtgctggga aagtaccgag caggcttcaa tgaatgcatg
+      601 aacgaggtga cccgcttctt gtccacctgc gaaggagtga acactgaggt gcgcacaagg
+      661 ctcctgggcc acttatccgg ctgcttgggc ggaatggctg ccatgaacta tccgcaacac
+      721 gtccaacctg gacccgggcc ttgcaaactc aactcaccag agccccccaa agtgtacggc
+      781 ggtttccagc tggtgcccgc cactgacgga caattcgcct tcctcatacc gagccccagc
+      841 cccgtcctgc agccgctatg cgcggtcaac gggggtcagc aaccaccttc ccccgtacag
+      901 ggccttccca cctttggcca caaactgcca cctgtgtccc aggcattgag cccacgggcg
+      961 ctcagcacag gacctgaatc cgtgtggaga ccgtggtgaa gaccgaacac cgaggtgaag
+     1021 acaaaacaag gggtggacac cacataaact gcaccgtggc actcggcgac caatatcgcc
+     1081 caaagcgcag gcgtcagcga gcagacttgc gagacgtacg cacggaagtc ggcgtctggc
+     1141 gcgcacagag agggaggacg acacactgac tataacgcgc agtctggcgt gttcagatga
+     1201 tacgagagtt gcaagcgcat ggctccgttt tatggagcat ttcttaagca gacagtaata
+     1261 ataatggaca ctacagagaa acctttttgt actaaatata tatttattgt caagcgattt
+     1321 ttgggataca tttttgtaca tcaaaatatt ttataacgtt tgtttgttaa aaaggatgtt
+     1381 ttgtactagt gtacaaagat gtgtaaatgc caaagttttg tataattgag tttttgtgtc
+     1441 aaaaactttc caaaaacatt tttaacggag tggaagagaa aaataaatac cgtttacgt
+//
+

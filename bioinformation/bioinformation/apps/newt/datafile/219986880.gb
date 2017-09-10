@@ -1,0 +1,40 @@
+LOCUS       FJ490442                 293 bp    mRNA    linear   VRT 17-JAN-2009
+DEFINITION  Pleurodeles waltl SOX2 transcription factor mRNA, partial cds.
+ACCESSION   FJ490442
+VERSION     FJ490442.1  GI:219986880
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 293)
+  AUTHORS   Wallacides,A., Flament,S. and Dumond,H.
+  TITLE     Germ cell differentiation in the urodele amphibian Pleurodeles
+            waltl
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 293)
+  AUTHORS   Wallacides,A., Flament,S. and Dumond,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-2008) EA3442, Faculte des Sciences, Boulevard des
+            Aiguillettes, Vandoeuvre 54505, France
+FEATURES             Location/Qualifiers
+     source          1..293
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..>293
+                     /codon_start=1
+                     /product="SOX2 transcription factor"
+                     /protein_id="ACL68656.1"
+                     /db_xref="GI:219986881"
+                     /translation="LLSESEKRPFIDEAKRLRALHMKEHPDYKYRPRRKTKTLMKKDK
+                     YTLPGGLLGPPGGNGMGSGGGVGGGMNSSQRMDSYAAHMNGWANGGYSMMQQQL"
+ORIGIN      
+        1 ctgctctccg agtccgagaa gcggcccttc atcgacgagg ccaagcgcct gcgagcgctg
+       61 cacatgaagg agcacccgga ttacaagtac cggccgcggc gcaagaccaa gactctgatg
+      121 aagaaagaca agtacacgct gcccggtggg ctgctcgggc cgcccggagg caacggcatg
+      181 ggctccgggg gaggcgtggg cggcggcatg aactccagcc agcgcatgga cagctacgcg
+      241 gcgcacatga acggctgggc caacggcggc tacagcatga tgcaacagca gct
+//
+

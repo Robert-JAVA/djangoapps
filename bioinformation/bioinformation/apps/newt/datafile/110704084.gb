@@ -1,0 +1,66 @@
+LOCUS       DQ821214                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Mesotriton alpestris cyreni isolate SA3 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ821214
+VERSION     DQ821214.1  GI:110704084
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris cyreni (Spanish alpine newt)
+  ORGANISM  Ichthyosaura alpestris cyreni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Ichthyosaura alpestris cyreni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SA3"
+                     /sub_species="cyreni"
+                     /specimen_voucher="ZMA8378"
+                     /db_xref="taxon:385666"
+                     /country="Spain"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87962.1"
+                     /db_xref="GI:110704085"
+                     /translation="MAHTLRXXXXXXXXXXXXXXDLPTPSNISYWWNLGSLLGLLLVS
+                     QITTGLFLAMHYTADTQLAFSSVAHICRDVNGGWFMRNMHINGASFFFICIYLHIGRG
+                     LRYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGES
+                     LVQWIWGGFAVDNPTLTRFFTFHFMLPFFIAGMSIIHLLFLHKTGSNNPTGIPSNQDK
+                     VSFHPFFTYKDIVGFLLVLFILMLVSLLTPNILGDPENFIPANSMVTPTHIKPEW"
+ORIGIN      
+        1 atggcccaca ctttacgcnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+       61 gaccttccaa caccatcaaa catctcatac tgatgaaact taggctccct tcttgggctt
+      121 ctcctagtat cacaaattac aacagggcta ttcttagcaa tacactacac agcagacact
+      181 caactagctt tctcgtctgt cgcccatatc tgccgagatg ttaatggggg gtgatttata
+      241 cgcaatatac acatcaacgg agcctcattc ttttttattt gcatttatct tcatattggg
+      301 cggggcttgc gctacggctc ctatatgttt aaagaaacat ggaacattgg tgtaattcta
+      361 ctacttttag taatagccac cgcctttgta gggtatgttc taccatgagg gcaaatatcg
+      421 ttttgggggg ctacagtaat taccaatcta ctctcagcca tcccgtacct aggagagtcc
+      481 ctagtacaat gaatctgggg ggggttcgca gtagataacc ccacccttac acgatttttc
+      541 acatttcact tcatactccc attctttatt gcaggaataa gcattatcca tctgctattt
+      601 ctacataaaa cagggtcaaa taaccctacc ggaattcctt caaaccaaga caaagtctcc
+      661 tttcacccct tttttaccta caaagacatc gtaggatttc tacttgtcct ttttatttta
+      721 atactagttt cccttttaac tccaaacatt cttggggacc cagaaaattt tatcccagca
+      781 aactctatag tcactccaac ccacatcaag ccagaatga
+//
+

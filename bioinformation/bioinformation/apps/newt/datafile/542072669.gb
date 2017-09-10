@@ -1,0 +1,52 @@
+LOCUS       KC524717                 804 bp    DNA     linear   VRT 28-FEB-2014
+DEFINITION  Tylototriton verrucosus isolate DTM02 control region, partial
+            sequence; and tRNA-Phe gene, complete sequence; mitochondrial.
+ACCESSION   KC524717
+VERSION     KC524717.1  GI:542072669
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Zhang,M.
+  TITLE     Conservation genetics of Tylototriton kweichowensis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Zhang,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2013) College of Animal Science and Technology,
+            Sichuan Agricultural University, 46 Xinkang lu, Ya'an, Sichuan
+            625014, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="DTM02"
+                     /db_xref="taxon:164973"
+     misc_feature    <1..735
+                     /note="control region"
+     tRNA            736..804
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 cttgttttcc taagatcaga gtagcgcgga ggacatatta tgtttatagt acattaattg
+       61 actagccaca tggctagtgt tttagtatta acaggatcca taacctgatt ttcaggcgag
+      121 aaaccaccaa cccgcccctg acgacccccg ttccaaaatt tccaggacct caattgtaga
+      181 gtgttttacg tttattttca acagctggtt tgaatctatg gacaaaccta gtagagtttc
+      241 tatcatttat ctttaagagg cctctggtaa aatgctttca atatcgtcgt acccttgacc
+      301 ccgcataact gttttggatt gcatttggta tttttttctc tctgtgaggt caatgcccca
+      361 tacagtcttg agccggcaca cctggaccta aatctgaaca tacactgcaa atgtatattt
+      421 aacagatact gagtggggcg cataatattc atgttattta gacataataa ttttttccct
+      481 ctaaagcaag agacatattc tttttcctgt ttccccccgg agctagtttt tctaagaata
+      541 cttattttga atattatcta attctatttt ttggttaacc cccccacccc caaatgttag
+      601 tctcatcagt atctacaact ctttagtcaa cccccgaaac taaaaagacc ttaatactta
+      661 cgacattagg tttatgctag aaaaatacta cttttttaaa aattttttga ttattattac
+      721 agtgttacac tgtaagttaa tgtagcttat attaaagcac agcactgaaa atgctaagat
+      781 agattttaaa acatctcatg aaca
+//
+

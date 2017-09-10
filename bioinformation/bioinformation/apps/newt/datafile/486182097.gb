@@ -1,0 +1,57 @@
+LOCUS       JX480899                 743 bp    DNA     linear   VRT 08-MAY-2013
+DEFINITION  Cynops orientalis voucher GZNU2006517001 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   JX480899
+VERSION     JX480899.1  GI:486182097
+KEYWORDS    .
+SOURCE      mitochondrion Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 743)
+  AUTHORS   Wang,C., Tian,Y.-Z. and Gu,X.-M.
+  TITLE     A new species of the genus Paramesotriton (Caudata, Salamandridae)
+  JOURNAL   Dong Wu Fen Lei Xue Bao 38 (2), 388-397 (2013)
+REFERENCE   2  (bases 1 to 743)
+  AUTHORS   Wang,C., Tian,Y., Li,S., Yang,C. and Gu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-AUG-2012) School of Life Sciences, Guizhou Normal
+            University, No. 116 Baoshanbeilu, Guiyang, Guizhou 550001, China
+FEATURES             Location/Qualifiers
+     source          1..743
+                     /organism="Cynops orientalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GZNU2006517001"
+                     /db_xref="taxon:137245"
+     gene            <1..>743
+                     /gene="cytb"
+     CDS             <1..>743
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AGK92743.1"
+                     /db_xref="GI:486182098"
+                     /translation="PLLKIINNSFIDLPTPSNISYWWNFGSLLGICLITQIITGLFLA
+                     MHYTADTQSAFSSVAHICRDVNHGWLVRNIHANGASFFFICIYLHIGRGLYYGSYMFK
+                     ETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGSLVEWVWGGF
+                     SVDKATLTRFFAFHFLLPFLIAGMSIIHLLFLHETGSNNPTGIPSNQDKISFHPYFSY
+                     KDLLGFLLALLILMLISLIVPNLLVDPEN"
+ORIGIN      
+        1 cccctactaa aaattattaa caactcattc attgacctac caacaccatc aaacatttca
+       61 tactgatgaa actttgggtc cctactaggg atttgtttaa ttacccagat tattactggg
+      121 ttattcctag ctatacacta tacagcagat acacaatcag ctttctcatc tgtggcccac
+      181 atctgccgag acgtaaacca cggatgatta gtacgaaaca tccacgctaa tggagcctca
+      241 ttcttcttta tctgcatcta cctccatatc ggacgaggct tatactacgg atcatatata
+      301 tttaaagaaa catgaaacat tggtgtggtc ctactattat tagttatggc caccgctttt
+      361 gttggatatg ttctcccatg aggacagatg tcgttttgag gggcttcagt tattacaaac
+      421 cttctctcag ccattccata tgttgggggt tccctagtag agtgagtctg gggggggttc
+      481 tcggtagaca aagctactct aacacggttc ttcgcattcc acttcctgct accattctta
+      541 attgcaggaa taagtattat tcacctatta ttcctacatg aaaccgggtc aaacaaccca
+      601 acaggaatcc cctccaatca agataaaatc tcctttcacc catatttttc atacaaagac
+      661 ctgttaggtt ttctactagc acttcttatc ttaatactaa tctccctaat tgtaccaaat
+      721 cttcttgtag acccagaaaa ttt
+//
+

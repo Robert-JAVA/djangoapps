@@ -1,0 +1,91 @@
+LOCUS       AB005045                2043 bp    mRNA    linear   VRT 20-JUN-2009
+DEFINITION  Cynops pyrrhogaster mRNA for prolactin receptor, complete cds.
+ACCESSION   AB005045
+VERSION     AB005045.1  GI:14575652
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yamamoto,T., Nakayama,Y., Matsuda,Y. and Abe,S.-I.
+  TITLE     Cloning and expression of a cDNA encoding a prolactin receptor of
+            the Japanese red-bellied newt, Cynops pyrrhogaster
+  JOURNAL   Zool. Sci. 15, 741-747 (1998)
+REFERENCE   2  (bases 1 to 2043)
+  AUTHORS   Yamamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-1997) Contact:Takashi Yamamoto Faculty of
+            Science,Kumamoto University, Department of Biological Science;
+            Kurokami 2-39-1, Kumamoto, Kumamoto 860-8555, Japan
+FEATURES             Location/Qualifiers
+     source          1..2043
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="kidney"
+     CDS             115..1995
+                     /codon_start=1
+                     /product="prolactin receptor"
+                     /protein_id="BAB61107.1"
+                     /db_xref="GI:14575653"
+                     /translation="MRQNLKISASAVAFILLLLLNTDVMDGESLPGKPVNIMCRSPEK
+                     ETFSCWWQPGSDGGLPTNYSLLYKTEGKNTYSECPDYKTSGPNSCFFDKKHTSIWTMY
+                     NIIVNATNELGSTTSDPKFVDVAYIVQLRPPLNVTLSIIYEPPHLLVKWSPPSEADVK
+                     SGWVTIEYEVQFKSKKAKEWETLTAGKQRQLKVFSLNPSENYIVQVRCKSDHGFWSMW
+                     SPESYIQIPDNFPRKDMTLWISIAVLSFVICLTIIWTMALKRWSMLTCILPPVPGPKI
+                     MGFDKQLLKTGKSEELLSALGCQGFPPTSDCADLLVEFLEVDDSKEQLISSHDKGHPN
+                     QPTKLPHAETDNDSGRGSCDSPSALSERCKDSRISSAALESDDVGEMKENAAQQSTVN
+                     WAIQSPMSDKQLPNPSDGKPNPWPEGGTVSNQTPTSSYHNITEVCKLALGAMNANMSS
+                     LLMANEDKKQPKYFKTIETISEESAGKQNELEYMHSRAFDQDTMWLLPNLKASFMSPK
+                     TMDYVEVQKVNQNNALALIPKQKESHGRREQYPSTGPSREYAKVARVEDNNVLVLMQD
+                     SGSQSTPVLREPFKEYSQILQPQQAENNLSKFNAGSQNESKSQVSTLGYMDPSALAPM
+                     FS"
+     sig_peptide     115..192
+     misc_feature    193..816
+                     /note="extracellular domain"
+     misc_feature    817..888
+                     /note="transmembrene domain"
+     misc_feature    889..1992
+                     /note="cytoplasmic domain"
+     polyA_site      2043
+                     /note="15 A nucleotides"
+ORIGIN      
+        1 acccaggtct tctgctcgtg ttaagacaag gtttggacca acctcggcac agatgactat
+       61 cacagtgagc aagtgatcct gcgtttccac tcggagcaga aataagccat caacatgcgg
+      121 caaaacctga aaatatctgc ctcagccgtc gcatttattt tattgctttt actaaacaca
+      181 gatgtgatgg acggagaatc acttcctgga aagcctgtta acatcatgtg ccgctctcca
+      241 gaaaaagaaa ccttttcctg ctggtggcaa ccaggttctg atgggggact tccaactaac
+      301 tacagcctgt tatacaaaac agagggaaaa aacacttact ctgaatgtcc agactacaaa
+      361 acctctggtc ccaactcatg tttttttgat aaaaagcaca cgtcaatctg gacgatgtat
+      421 aatatcattg tgaatgcaac caacgagctg gggagtacta cgtctgatcc caaatttgtg
+      481 gatgtagcgt atatagttca gcttcgtccc ccgttgaacg tgactctttc tataatctat
+      541 gagcctccac atcttctggt gaaatggtca ccaccgtcag aggccgatgt caagtctggt
+      601 tgggtaacca ttgaatacga ggtacaattc aaatctaaga aagcaaagga atgggagaca
+      661 ctcactgctg gtaaacaacg acagctcaag gtgtttagtt taaatcccag tgagaactac
+      721 attgtacaag tgcgctgtaa atctgaccat gggttttgga gcatgtggag tccagaaagc
+      781 tacatccaga ttccagacaa cttcccaaga aaagacatga cattatggat atcgatcgca
+      841 gtgttatcat ttgtcatttg tttaacaatc atttggacaa tggctcttaa acgctggagc
+      901 atgttgactt gcatcctgcc gcctgttcca gggcccaaaa taatgggctt tgataagcag
+      961 ttacttaaga caggaaaatc agaagagctg ttaagtgcct tgggctgtca aggttttcca
+     1021 ccaacatcag actgtgcaga tcttctggtg gaatttctcg aggtagatga cagtaaagag
+     1081 cagctgatct ctagccatga caaagggcac ccaaaccaac ccacgaagtt accccatgct
+     1141 gaaacagaca atgattcagg gagagggagc tgtgacagtc cttcggcact ctcggagaga
+     1201 tgcaaagact ccagaatctc ttcggcagct cttgaatccg atgatgttgg tgaaatgaaa
+     1261 gaaaatgctg cacaacaaag taccgtaaat tgggcaattc aaagtccaat gtctgacaaa
+     1321 cagttgccta acccaagtga tggaaaacca aacccttggc ctgaaggagg aacagtcagt
+     1381 aatcagactc ctacatcctc ctaccacaac attactgaag tttgtaaatt ggcccttggt
+     1441 gccatgaatg caaatatgtc atcacttcta atggccaatg aggacaagaa gcagccaaaa
+     1501 tactttaaaa cgattgagac gattagcgag gagagcgcag ggaagcagaa cgagttggag
+     1561 tacatgcact ccagagcttt tgaccaggac acaatgtggc ttttgcccaa cctgaaggca
+     1621 tctttcatgt ctccaaagac aatggattat gtggaggttc agaaagttaa ccaaaacaat
+     1681 gcacttgcgc tgataccaaa acagaaggaa agccatggga gaagggaaca gtacccttct
+     1741 acgggtccga gcagggaata tgccaaggtg gcacgagtgg aggataataa tgtcctagta
+     1801 ctaatgcagg actcaggatc tcagagcacc ccagtgctcc gagagccatt taaagagtat
+     1861 tcgcagatcc tccaaccaca acaggctgag aataatttga gtaaatttaa cgcagggagt
+     1921 caaaatgaga gcaagagcca ggtgagcaca ctgggttaca tggatccaag tgccctggct
+     1981 cccatgttta gttaaatgaa agtttgatca ttatgagtac ttgttcgggt aaagccacag
+     2041 act
+//
+

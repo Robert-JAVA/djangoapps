@@ -1,0 +1,59 @@
+LOCUS       JN700849                 576 bp    DNA     linear   VRT 24-FEB-2012
+DEFINITION  Tylototriton kweichowensis voucher KIZ09346 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   JN700849
+VERSION     JN700849.1  GI:347596255
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton kweichowensis (red-tailed knobby newt)
+  ORGANISM  Tylototriton kweichowensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 576)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Universal COI primers for DNA barcoding amphibians
+  JOURNAL   Mol Ecol Resour 12 (2), 247-258 (2012)
+   PUBMED   22145866
+REFERENCE   2  (bases 1 to 576)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2011) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Tylototriton kweichowensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ09346"
+                     /db_xref="taxon:385676"
+     gene            <1..>576
+                     /gene="COI"
+                     /gene_synonym="COXI"
+     CDS             <1..>576
+                     /gene="COI"
+                     /gene_synonym="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AEP14104.1"
+                     /db_xref="GI:347596256"
+                     /translation="GMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFMV
+                     MPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTV
+                     YPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVW
+                     SVLITAILLLLSLPVLAAGITMLLTDRNLNTT"
+ORIGIN      
+        1 ggcatagttg gcacagcact aagcctacta attcgagccg aactcagcca accaggtgct
+       61 ctgcttggcg acgatcaaat ctataatgtg attgttacag ctcatgcctt tgttataatt
+      121 ttttttatgg taataccagt aataatcggg ggattcggaa actgactctt accgctaata
+      181 attggggccc cagatatggc cttcccccga ataaataaca taagcttctg actcctcccg
+      241 ccatcattcc tgctccttct tgcctcgtca ggtgtagaag ctggggcggg aaccgggtgg
+      301 actgtatacc ccccattagc tggtaatctt gctcacgcag gagcatcagt tgacctcacc
+      361 attttctccc tccacctcgc aggcgtatct tcaatccttg gtgcaattaa ctttattacc
+      421 acatcaatta acataaaacc cccatcaata acacaatatc aaacgcccct ttttgtatga
+      481 tcagttttaa tcacggccat tctgctactc ctatccctcc ctgtactagc ggctggtatc
+      541 accatgcttt taaccgaccg taatctaaac acaaca
+//
+

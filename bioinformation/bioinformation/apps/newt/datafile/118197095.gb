@@ -1,0 +1,51 @@
+LOCUS       AB205150                 466 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Wnt5b mRNA for wingless-type MMTV integration
+            site family member 5b, partial cds.
+ACCESSION   AB205150
+VERSION     AB205150.1  GI:118197095
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Takada,R., Takada,S. and Kondoh,H.
+  TITLE     Determinative role of Wnt signals in dorsal iris-derived lens
+            regeneration in newt eye
+  JOURNAL   Mech. Dev. 123 (11), 793-800 (2006)
+   PUBMED   17030116
+REFERENCE   2  (bases 1 to 466)
+  AUTHORS   Hayashi,T. and Kondoh,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2005) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..>466
+                     /gene="Wnt5b"
+     CDS             <1..>466
+                     /gene="Wnt5b"
+                     /codon_start=2
+                     /product="wingless-type MMTV integration site family
+                     member 5b"
+                     /protein_id="BAF37022.1"
+                     /db_xref="GI:118197096"
+                     /translation="REREKNYPKGSEEQARTLMNLQNNEAGRRAVYKLADVACKCHGV
+                     SGSCSLKTCWLQLADFRKVGDHLKEKYDSAAAMRINRKGKLELVNSRFNMPTVEDLVY
+                     IDQSPDYCLRNESTGSMGTLGRLCNKTSEGMDGCELMCCGRGYDQFKTVQVER"
+ORIGIN      
+        1 ccgggagcga gagaagaact accccaaagg ctcggaggag caggcacgaa cgctgatgaa
+       61 cctgcagaac aacgaggctg gacgcagggc ggtttacaag ctggcggacg tggcctgcaa
+      121 atgccacgga gtgtcgggat cctgcagcct gaagacctgt tggctgcagt tggcggactt
+      181 ccggaaggtc ggcgaccact taaaggagaa gtacgacagc gcggccgcca tgcgcatcaa
+      241 ccggaagggg aagctggagc tggttaacag ccgtttcaac atgcccaccg tggaggacct
+      301 ggtctacatc gaccagagcc ccgactactg tctgcgcaat gagtccaccg gctccatggg
+      361 caccctgggc cggctctgca acaagacctc cgagggcatg gatggatgtg agctcatgtg
+      421 ctgcggccgg ggctacgacc agttcaagac cgtccaggtg gaacgc
+//
+

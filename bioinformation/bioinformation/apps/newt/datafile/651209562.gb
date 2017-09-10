@@ -1,0 +1,54 @@
+LOCUS       KJ128959                 537 bp    DNA     linear   VRT 16-JUN-2014
+DEFINITION  Triturus cristatus voucher NRM:6189 16S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ128959
+VERSION     KJ128959.1  GI:651209562
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 537)
+  AUTHORS   Bergsten,J., Englund,M. and Ericsson,P.
+  TITLE     A DNA key to all Swedish vertebrates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 537)
+  AUTHORS   Zuccon,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2014) Dept. of Zoology, Swedish Museum of Natural
+            History, Frescativ. 40, Stockholm 18378, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..537
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NRM:6189"
+                     /bio_material="NRM:18"
+                     /db_xref="taxon:8323"
+                     /country="Sweden: Huddinge, Lissma, Eriksbergs viltvatten
+                     (artificial forest game pond)"
+                     /lat_lon="59.1721 N 18.1071 E"
+                     /collection_date="04-Sep-2008"
+                     /collected_by="Bolander, S"
+                     /identified_by="Ahlander, E"
+                     /PCR_primers="fwd_name: 16sarl, fwd_seq:
+                     cgcctgtttatcaaaaacat, rev_name: 16sbrh, rev_seq:
+                     cgggtctgaactcagatcacgt"
+                     /note="tissue sample annotated in bio_material qualifier"
+     rRNA            <1..>537
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 atagtataag aggtcccgcc tgcccagtga taaattttaa cggccgcggt atcatgaccg
+       61 tgcaaaggta gcgtaatcac ttgtctttta aataaagacc tgtatgaaag gcaaaacgaa
+      121 aattcaactg tctctttaat tcaatcggta aaattaatct ctccgtgcag aagcggagat
+      181 agccatataa gacgagaaga ccctatggag ctttaaacgc aaaattaact acactaacac
+      241 cctagccaat aggcaaaaaa tataaatatg tagccataat ctaagttttc ggttggggcg
+      301 accacggaag aaagtagatc ctccgcgata agcaatttag agcaacactt cgaagactaa
+      361 aacatttgtt ataaatgatc cactaagtga ccaacgaacc aagttaccct agggataaca
+      421 gcgcaatcct ttctaagagt ccatatcgac gaatgggttt acgacctcga tgttggatca
+      481 ggacacccaa atggtgcaac cgctattaaa ggttcgtttg ttcaacgatt aaagtcc
+//
+

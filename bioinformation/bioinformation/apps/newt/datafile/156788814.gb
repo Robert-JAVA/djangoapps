@@ -1,0 +1,52 @@
+LOCUS       EF526017                 164 bp    DNA     linear   VRT 12-JUL-2011
+DEFINITION  Triturus marmoratus voucher RuHF-TP-02-1 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF526017
+VERSION     EF526017.1  GI:156788814
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 164)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 164)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..164
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RuHF-TP-02-1"
+                     /db_xref="BOLD:ABCAP037-05"
+                     /db_xref="taxon:8328"
+                     /country="Spain: Caceres"
+                     /lat_lon="39.48 N 5.91 W"
+                     /collection_date="15-May-2003"
+                     /collected_by="Y.A. Gimenez"
+     gene            <1..>164
+                     /gene="COI"
+     CDS             <1..>164
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95981.1"
+                     /db_xref="GI:156788815"
+                     /translation="LYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVM"
+ORIGIN      
+        1 ccctctactt aatcttcggt gcttgagctg gcatagttgg cacagcactt agcctgctta
+       61 tccgggccga actcagtcaa cctggcgcgc tcctcgggga tgatcaaatt tacaatgtta
+      121 ttgtcacagc ccatgccttt gtaataattt tttttatagt tata
+//
+

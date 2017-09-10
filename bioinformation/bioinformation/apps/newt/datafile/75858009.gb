@@ -1,0 +1,58 @@
+LOCUS       DQ196271                 764 bp    DNA     linear   VRT 04-OCT-2006
+DEFINITION  Taricha torosa torosa voucher MVZ 223149 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ196271
+VERSION     DQ196271.1  GI:75858009
+KEYWORDS    .
+SOURCE      mitochondrion Taricha torosa torosa
+  ORGANISM  Taricha torosa torosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 764)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Lineage diversification on an evolving landscape: phylogeography of
+            the California newt, Taricha torosa (Caudata: Salamandridae)
+  JOURNAL   Biol. J. Linn. Soc. Lond. 89 (2), 213-239 (2006)
+REFERENCE   2  (bases 1 to 764)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2005) Integrative Biology, Museum of Vertebrate
+            Zoology (University of California, Berkeley), 3101 Valley Life
+            Science Bldg, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..764
+                     /organism="Taricha torosa torosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="23a_Tulare_SRK"
+                     /sub_species="torosa"
+                     /specimen_voucher="MVZ 223149"
+                     /db_xref="taxon:344926"
+     CDS             <1..>764
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABA28579.1"
+                     /db_xref="GI:75858010"
+                     /translation="TYKIIXNSFIDLPTPSNISYWWNFGSLLGACLITQILTGLFLAM
+                     HYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKE
+                     TWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDTLVQWIWGGFS
+                     VDKATLTRFFAFHFLFPFAIAGTSIVHLLFLHETGSNNPTGIPSNQDKISFHPYFSYK
+                     DILGFLLMLMVLMLISLLTPNLLGDPENFTPANPLIT"
+ORIGIN      
+        1 acttataaaa tcattaanaa ctcatttatt gacctcccca caccatcaaa catctcctat
+       61 tgatgaaact tcggctctct cctaggagcc tgcctcatca cacagatcct tacaggccta
+      121 tttctggcta tacactacac agcagacacc cagtcagcat tttcatcagt agcccacatc
+      181 tgccgagatg taaactacgg ctgactagtg cgaaacatcc acgccaacgg agcctcatta
+      241 ttttttatct gcatctacct acacatcggg cgcggcctat actacggctc atacatattt
+      301 aaagagacct gaaacattgg cgttatcctg ctcttcctag taatggccac cgcctttgtg
+      361 gggtacgtcc tcccatgagg acaaatgtcg ttctgaggcg ccacagttat tacaaacctc
+      421 ttatccgcca tcccatatat aggagacaca ctagtgcaat gaatctgagg gggattctca
+      481 gtagacaagg ccaccctaac ccgattcttt gcattccact ttctattccc cttcgcaatt
+      541 gcaggaacaa gcattgttca cctgctcttt ctccacgaaa ccggatcaaa taacccaaca
+      601 ggaatcccat caaaccaaga caaaatctca ttccacccgt acttctcata caaagacatc
+      661 ctcggcttcc tactaatatt aatggttcta atattaattt cacttctaac accaaacctt
+      721 cttggggacc cagaaaactt taccccagca aaccccctaa tcac
+//
+

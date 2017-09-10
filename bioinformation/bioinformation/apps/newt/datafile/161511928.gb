@@ -1,0 +1,60 @@
+LOCUS       AM900483                 642 bp    DNA     linear   VRT 28-MAR-2008
+DEFINITION  Triturus marmoratus mitochondrial partial nd4 gene for NADH
+            dehydrogenase subunit 4, isolate h16.
+ACCESSION   AM900483
+VERSION     AM900483.1  GI:161511928
+KEYWORDS    NADH dehydrogenase subunit 4; nd4 gene.
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Arntzen,J.W., Espregueira Themudo,G. and Wielstra,B.
+  TITLE     The phylogeny of crested newts (Triturus cristatus superspecies):
+            nuclear and mitochondrial genetic characters suggest a hard
+            polytomy, in line with the paleogeography of the centre of origin
+  JOURNAL   Contrib. Zool. 76 (4), 261-278 (2007)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2007) Arntzen J.W., Department of Vertebrates,
+            Naturalis, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="h16"
+                     /db_xref="taxon:8328"
+     gene            <1..>642
+                     /gene="nd4"
+     CDS             <1..>642
+                     /gene="nd4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="CAP12661.1"
+                     /db_xref="GI:161511929"
+                     /db_xref="GOA:A9J623"
+                     /db_xref="InterPro:IPR001750"
+                     /db_xref="InterPro:IPR003918"
+                     /db_xref="UniProtKB/TrEMBL:A9J623"
+                     /translation="LLKLGGYGIIRVTMLLTPLTKEMSYPFVILALWGVVMTSLICMR
+                     QTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISSALFCLANLNYER
+                     THSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPSMNLWGELTIMVSLFNWSPWTIL
+                     ITGLGTLITASYTLYMFLMTQRGPTPLHLGQITPSHTREHFLIMMHLMPMLLLI"
+ORIGIN      
+        1 ttactaaaat taggcggata tggcatcatt cgggtcacca tgctcctcac ccccctaaca
+       61 aaagaaatat catacccgtt tgtaatcctg gccctatggg gagtggtaat aacaagccta
+      121 atctgcatac gacagacaga ccttaaatca ctaattgcat actcatctgt aagccatata
+      181 ggtctagtca tcgccgccat tataattcaa acaccatgaa gcctaacagg ggcaattatt
+      241 ttaataatct cacacgggct tatttcatca gccctctttt gtctggcaaa cttaaactac
+      301 gaacgaaccc acagtcggac cttgcttcta gtccgggggg ctcaagcagt attaccccta
+      361 atggccacct gatgactcat tgcaaacctc tcaaacatag cacttccccc ctcaataaac
+      421 ctgtgaggag aactaactat tatagtctca ctattcaact ggtccccgtg gacaatttta
+      481 atcaccggcc tcggtaccct aatcacggcc tcttacacgc tctacatatt tctaataaca
+      541 caacgaggcc caacccccct acatcttggc caaattaccc cgtcccacac tcgagaacac
+      601 ttccttatta taatacacct gatacccata ctattactga tt
+//
+

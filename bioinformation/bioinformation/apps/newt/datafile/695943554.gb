@@ -1,0 +1,58 @@
+LOCUS       KM463933                 548 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Pleurodeles waltl sodefrin precursor-like factor alpha isoform 12
+            (Cloa_12) mRNA, partial cds.
+ACCESSION   KM463933
+VERSION     KM463933.1  GI:695943554
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 548)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 548)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..548
+                     /gene="Cloa_12"
+                     /note="PlWa_Cloa__12"
+     CDS             <1..165
+                     /gene="Cloa_12"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor alpha isoform 12"
+                     /protein_id="AIT39269.1"
+                     /db_xref="GI:695943555"
+                     /translation="SGELVTCDQTVESCSTTMSEYNLEGMNPIYNVFKNCSGVEAENT
+                     LYMGAVKGGF"
+ORIGIN      
+        1 tctggtgagc tggtgacctg tgaccagact gtggaaagct gcagcactac aatgtcagag
+       61 tacaaccttg agggtatgaa cccaatttac aatgtcttca agaactgctc aggtgtggaa
+      121 gccgagaaca cattgtacat gggtgcagta aaaggaggct tttaacagct gagggttgaa
+      181 gtctgccaaa caaatggctg caacaaagag ccccttcaat ttcctcccaa aaacacaact
+      241 ttgaatggag tgaagtgccc cacctgtgaa gtggacggtg atctgagctg tggggccact
+      301 gaagttcttg aatgttttgg ggagatgacc aactgtatgt acgttgcagg aacatttcgt
+      361 gtctctgatg cacctcctgt ccagtctgca tgcaaagggc cctgcagggg agggaaacac
+      421 aactgctgtg tgtccgtaac ggctgtggaa gcttgggata aatgagtcac agaagaagac
+      481 cagaggacat ccctgaaaac acattgaaag aaagattaat caataaagca tggcagcaga
+      541 caaaaaaa
+//
+

@@ -1,0 +1,65 @@
+LOCUS       AM419754                 964 bp    mRNA    linear   VRT 09-MAR-2008
+DEFINITION  Pleurodeles waltl partial mRNA for immunoglobulin M heavy chain
+            constant region (ighcm gene), membrane-bound variant.
+ACCESSION   AM419754
+VERSION     AM419754.1  GI:152002674
+KEYWORDS    constant region; ighcm gene; immunoglobulin M heavy chain.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Schaerlinger,B., Bascove,M. and Frippiat,J.P.
+  TITLE     A new isotype of immunoglobulin heavy chain in the urodele
+            amphibian Pleurodeles waltl predominantly expressed in larvae
+  JOURNAL   Mol. Immunol. 45 (3), 776-786 (2008)
+   PUBMED   17681605
+REFERENCE   2  (bases 1 to 964)
+  AUTHORS   Schaerlinger,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2006) Schaerlinger B., Lab of Experimental
+            Biology and Immunolo, University Nancy 1, Bvd des Aiguillettes
+            BP239, Vandoeuvre-les-Nancy, 54506, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..964
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+     gene            <1..964
+                     /gene="ighcm"
+     CDS             <1..474
+                     /gene="ighcm"
+                     /note="membrane bound variant"
+                     /codon_start=1
+                     /product="immunoglobulin M heavy chain"
+                     /protein_id="CAL92494.1"
+                     /db_xref="GI:152002675"
+                     /translation="KNGNPPKPPTIVVYPPTSEEIALKESVTLTCLVEGYNPCDVFVK
+                     WLVSGTQDPGLEYVNTKPVEEVGATGSSSCFLYSKLKVPESEWSQGTVYTCVVGHEAL
+                     SLQVLQKSIDKSSVRAFYIDEEEDLENIWSTTSTFIILFLLSLSYSATVTLFKVK"
+     C_region        7..345
+                     /gene="ighcm"
+                     /product="immunoglobulin M heavy chain constant region"
+ORIGIN      
+        1 aaaaatggaa acccacccaa gccaccaacg atcgtggtct accctccaac ttcagaggaa
+       61 attgctttga aggagtcagt caccttgacc tgcctggttg aaggctataa cccttgtgat
+      121 gtcttcgtaa agtggctggt cagcggcaca caagacccgg ggctggaata tgtgaacacc
+      181 aagccggttg aggaagtggg cgcaactgga agcagttcat gcttcctata tagcaagttg
+      241 aaggtcccag agagcgaatg gagccagggg acagtgtaca cctgcgtggt tggccacgag
+      301 gccctgtcac ttcaagtcct ccagaaaagc attgacaagt cctccgtgag agctttttat
+      361 atcgatgaag aggaagattt ggagaacatc tggagtacca cgtccacctt tatcatcctc
+      421 ttcctgttga gcctctccta cagcgccact gtgaccctgt ttaaggtgaa ataactccag
+      481 gaatcgaaca cactccatga ataggagcat atattcaaga agtgttttgc tagtaccggt
+      541 ttgatgcctg ggcactttac cgacggatga tatgatgcta gaatgaactg aactcaaatt
+      601 tgagcgaact cttgtgtaaa tagcattaat tttaacacat cactcacagt cattgggccc
+      661 tctacagttc tttcccattt tacccctttg tggggtttta ctgttgccag aacattcttt
+      721 ctcgtaggtg tgttactctg gggcacatag ctgacttgta attacatttg tatataaaaa
+      781 acactgcatt caatgacaca catttttcaa tatttgtgga aaaggccttt ctggatgcac
+      841 aaagccgaca gtaagcatct ttgttattta taggcctcac actcacaaac ctggtatgtc
+      901 tgtgcttttc agtgtgtcga gctcaaataa aaagtagtgg caagagcata gaaaaaaaaa
+      961 aaaa
+//
+

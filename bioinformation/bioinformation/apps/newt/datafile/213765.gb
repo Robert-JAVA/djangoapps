@@ -1,0 +1,34 @@
+LOCUS       SMDPTVM1                 310 bp    DNA     linear   VRT 28-APR-1993
+DEFINITION  T.vulgaris satellite DNA pTvm1 repeat.
+ACCESSION   M28423
+VERSION     M28423.1  GI:213765
+KEYWORDS    repeat region; satellite repeat.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 310)
+  AUTHORS   Barsacchi-Pilone,G., Batistoni,R., Andronico,F., Vitelli,L. and
+            Nardi,I.
+  TITLE     Heterochromatic DNA in Triturus (Amphibia, Urodela). I. A satellite
+            DNA component of the pericentric C-bands
+  JOURNAL   Chromosoma 93 (5), 435-446 (1986)
+   PUBMED   3013516
+COMMENT     Original source text: T.vulgaris meridionalis DNA.
+FEATURES             Location/Qualifiers
+     source          1..310
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     repeat_region   1..310
+                     /note="pTvm1 repeat"
+ORIGIN      
+        1 agcttccatt ttgacccgtt tcaggcacag aattggcttt aaacacactt attttagttc
+       61 acaaagtcat aattcacatc caacagtaat ttagagtcaa aagattaaat gttaaaattt
+      121 catcattata gaccattttg ggatcgttcg acaggtccgg agtcatcgtt tttcatccga
+      181 aaatggattt tttggactgt gtcaaaaatg attcaaaatg tcaattggat cgtgcctcat
+      241 gttgaaaacc actttttaaa ccctcacagt gaccaaaatt gccattttta cagagttttg
+      301 cttactcaaa
+//
+

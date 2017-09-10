@@ -1,0 +1,57 @@
+LOCUS       HM099660                 801 bp    mRNA    linear   VRT 06-JUN-2010
+DEFINITION  Notophthalmus viridescens retinoid X receptor (RXR) mRNA, partial
+            cds.
+ACCESSION   HM099660
+VERSION     HM099660.1  GI:297241702
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 801)
+  AUTHORS   Carter,C.J., Spencer,G.E. and Carlone,R.L.
+  TITLE     Identification of a retinoid X receptor (RXR) in the adult newt and
+            its role in limb and tail regeneration
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 801)
+  AUTHORS   Carter,C.J., Spencer,G.E. and Carlone,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2010) Biological Sciences, Brock University, 500
+            Glenridge Ave., St. Catharines, Ontario L2S 3A1, Canada
+FEATURES             Location/Qualifiers
+     source          1..801
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>801
+                     /gene="RXR"
+     CDS             <1..>801
+                     /gene="RXR"
+                     /note="nuclear receptor"
+                     /codon_start=1
+                     /product="retinoid X receptor"
+                     /protein_id="ADI24671.1"
+                     /db_xref="GI:297241703"
+                     /translation="GKHYGVYSCEGCKGFFKRTIRKDLTYTCRDNKDCIVDKRQRNRC
+                     QYSRYQKCLATGMKREAVQEERQRGRERDGDMEYSSGVNEEMPVDKILEAELAVEQKS
+                     DQSVDGSGTGGSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVILLRAGW
+                     NELLIASFSHRSISVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDMRMD
+                     KTELGCLRAIILFNPDAKGPSNPGEVELLREKVYASLESYCKHKYPEQQ"
+ORIGIN      
+        1 ggcaaacatt atggcgtgta cagctgtgag ggttgcaagg ggttcttcaa gcgaacaatt
+       61 cgaaaggacc ttacttacac atgccgggat aacaaagact gcattgtgga caaacgccaa
+      121 aggaatcgct gccagtacag ccggtaccag aaatgtcttg ccacaggcat gaagagagaa
+      181 gctgtacagg aggagcggca gcggggccga gagcgggatg gggacatgga gtacagcagt
+      241 ggtgtgaacg aggaaatgcc tgtggacaag attctggaag cagagttagc agtggagcag
+      301 aaatctgacc agagcgttga tgggtctggg acaggaggca gttctcccaa tgacccggtg
+      361 acaaacatct gccaagcagc tgacaagcag ctcttcaccc tggtggagtg ggccaagcgt
+      421 atccctcact tctctgagct tcccctagac gaccaggtca tcttgttgcg agctggttgg
+      481 aatgagctgc tcattgcctc tttctcgcat cgttccatct ctgtgaagga cggaatcctg
+      541 ctggcgactg gtctacatgt acaccggaac agtgcacaca gcgcaggagt gggtgccatc
+      601 ttcgacaggg ttttgactga gctagtctca aaaatgagag acatgcggat ggacaagact
+      661 gaactcggct gcctacgagc catcatcctc ttcaacccag atgccaaggg gccctcgaac
+      721 cctggggaag tggagctgtt acgagaaaaa gtatatgcat cactggagtc ttactgcaaa
+      781 cacaagtacc ccgagcagca a
+//
+

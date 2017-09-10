@@ -1,0 +1,54 @@
+LOCUS       EU275821                 475 bp    DNA     linear   VRT 14-DEC-2007
+DEFINITION  Tylototriton wenxianensis pro-opiomelanocortin (POMC) gene, partial
+            cds.
+ACCESSION   EU275821
+VERSION     EU275821.1  GI:161704974
+KEYWORDS    .
+SOURCE      Tylototriton wenxianensis (Wenxian knobby newt)
+  ORGANISM  Tylototriton wenxianensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 475)
+  AUTHORS   Vieites,D.R., Min,M.S. and Wake,D.B.
+  TITLE     Rapid diversification and dispersal during periods of global
+            warming by plethodontid salamanders
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (50), 19903-19907 (2007)
+   PUBMED   18077422
+REFERENCE   2  (bases 1 to 475)
+  AUTHORS   Vieites,D.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Museum of Vertebrate Zoology and Department
+            of Integrative Biology, University of California Berkeley, 3101
+            VLSB, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..475
+                     /organism="Tylototriton wenxianensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:236638"
+                     /db_xref="taxon:385678"
+     gene            <1..>475
+                     /gene="POMC"
+     mRNA            <1..>475
+                     /gene="POMC"
+                     /product="pro-opiomelanocortin"
+     CDS             <1..>475
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="pro-opiomelanocortin"
+                     /protein_id="ABX76659.1"
+                     /db_xref="GI:161704975"
+                     /translation="KFGRKNSTSGNTAGNKREELPSNPMVSLFTTSESQSSGAHDSSK
+                     EGEGMERQDSKRSYSMEHFRWGKPVGRKRRPIKVYPNGVEDESSESYPLDLKRDLSLG
+                     IDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERSQT"
+ORIGIN      
+        1 caagttcggc agaaagaaca gcaccagtgg gaatactgca ggaaataaga gagaggagct
+       61 ccctagcaat ccaatggtca gcctcttcac cacatcagag agccagagca gcggcgccca
+      121 tgacagcagc aaagagggtg agggcatgga aaggcaagat agcaaacgct cctattccat
+      181 ggagcacttc cggtggggga aaccagtcgg caggaagagg aggcccatca aggtgtaccc
+      241 caacggcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggatt gactaccccg aatatgactc ccaagaaggc ctggaaaata atgaggtgat
+      361 gatgggccta gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaagcgct atggtgggtt catgacccct gagcggagtc aaacc
+//
+

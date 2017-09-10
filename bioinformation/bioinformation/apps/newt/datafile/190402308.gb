@@ -1,0 +1,60 @@
+LOCUS       EU567392                 825 bp    DNA     linear   VRT 31-MAR-2009
+DEFINITION  Salamandrella schrenckii haplotype vl3 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   EU567392
+VERSION     EU567392.1  GI:190402308
+KEYWORDS    .
+SOURCE      mitochondrion Salamandrella tridactyla (Schrenck's Siberian newt)
+  ORGANISM  Salamandrella tridactyla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 825)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V., Berman,D.I., Grzybowski,T.,
+            Bulakhova,N.A., Kryukov,A.P. and Lejrikh,A.N.
+  TITLE     Genetic structure of Schrenck newt Salamandrella schrenckii
+            populations by mitochondrial cytochrome b variation
+  JOURNAL   Mol. Biol. (N.Y.) 43 (1), 47-54 (2009)
+REFERENCE   2  (bases 1 to 825)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V., Berman,D.I., Grzybowski,T.,
+            Bulakhova,N.A., Kryukov,A.P. and Lejrikh,A.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2008) Genetics Laboratory, Institute of
+            Biological Problems of the North, Portovaya str., 18, Magadan
+            685000, Russia
+FEATURES             Location/Qualifiers
+     source          1..825
+                     /organism="Salamandrella tridactyla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:476251"
+                     /haplotype="vl3"
+                     /country="Russia"
+     CDS             <1..>825
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ACE77720.1"
+                     /db_xref="GI:190402309"
+                     /translation="LKIINGSFVDLPTPSNLSSLWNFGSLLGICLIAQIATGLFLAMH
+                     YTADTSSAFSSVAHICRDVNYGWLMRNIHANGASFFFICIYLHIGRGLYYGSYMYKET
+                     WNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDSLVQWIWGGFSV
+                     DKATLTRFFAFHFLFPFLIVGASIVHLLFLHETGSNNPTGISSNMDKVPFHPYFSYKD
+                     AIGFLTMLTALFMLSMLTPDLLGDPDNFTPANPLVTPPHIQPEWYFLFAYAILRSIP"
+ORIGIN      
+        1 actaaaaatc atcaacggat catttgtaga ccttcccacc ccttcaaatc tctcatcatt
+       61 atgaaatttt ggctcacttc ttggaatttg cctgattgca caaatcgcta caggcctatt
+      121 tctcgctata cattatacag ctgacacatc ttcagccttc tcatctgtag cccatatttg
+      181 ccgagatgta aattacggat gattaatacg aaatattcac gccaacggag cttcattctt
+      241 tttcatctgc atctacctcc atattggacg aggactttac tacggttcat atatatataa
+      301 agaaacctga aatattgggg tagttttact ctttttagta atagcaactg cctttgtagg
+      361 ttatgttctc ccctgaggac aaatatcctt ttgaggcgct acagttatta caaacttatt
+      421 atcagcaatt ccttatatag gagattcact tgttcaatga atttggggtg ggttttctgt
+      481 agataaggct acacttaccc gattctttgc atttcatttt ttatttccat ttttaattgt
+      541 aggggcaagt attgttcacc tactgttcct tcatgaaaca ggctcaaata accccacagg
+      601 aatctcttcg aatatggata aagtcccatt tcacccatac ttctcatata aagatgcaat
+      661 tggatttcta acaatgctca cagcactatt tatattatca atactaaccc cagatttact
+      721 aggcgaccca gataatttta cacctgccaa ccctttagta actccccctc acattcagcc
+      781 agaatggtac tttttatttg catatgctat tttacgatca atccc
+//
+

@@ -1,0 +1,26 @@
+LOCUS       X16851                   120 bp    mRNA    linear   VRT 28-FEB-1992
+DEFINITION  P.waltii somatic 5S RNA.
+ACCESSION   X16851
+VERSION     X16851.1  GI:64247
+KEYWORDS    5S RNA.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 120)
+  AUTHORS   Van den Eynde,H., Mazabraud,A. and Denis,H.
+  TITLE     Biochemical research on oogenesis. RNA accumulation in the oocytes
+            of the newt Pleurodeles waltl
+  JOURNAL   Development 106 (1), 11-16 (1989)
+   PUBMED   2483368
+FEATURES             Location/Qualifiers
+     source          1..120
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+ORIGIN      
+        1 gcctacggcc ataccaccct gaatgcgccc gatctcgtcc gatctcggaa gctaagcagg
+       61 gtcgggcctg gttagtactt ggatgggaga ccgcctggga ataccaggtg ctgtaggcat
+//
+

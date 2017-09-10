@@ -1,0 +1,52 @@
+LOCUS       EF526022                 156 bp    DNA     linear   VRT 23-MAY-2011
+DEFINITION  Triturus pygmaeus voucher RuHF-TP-03-2 cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF526022
+VERSION     EF526022.1  GI:156788824
+KEYWORDS    .
+SOURCE      mitochondrion Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 156)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 156)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..156
+                     /organism="Triturus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RuHF-TP-03-2"
+                     /db_xref="BOLD:ABCAP157-05"
+                     /db_xref="taxon:171367"
+                     /country="Spain: Castilla-La Mancha"
+                     /lat_lon="38.62 N 4.35 W"
+                     /collection_date="07-Jun-2002"
+                     /collected_by="Ralf Liebetrau"
+     gene            <1..>156
+                     /gene="COI"
+     CDS             <1..>156
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95986.1"
+                     /db_xref="GI:156788825"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFVMIFF"
+ORIGIN      
+        1 accctctact taatcttcgg tgcttgagct ggcatagttg gcacagcact cagcctgctt
+       61 atccgagccg aacttagtca gccaggcgca ctcctcgggg atgatcaaat ttacaacgtt
+      121 atcgtcacag cccatgcctt tgtaataatt tttttt
+//
+

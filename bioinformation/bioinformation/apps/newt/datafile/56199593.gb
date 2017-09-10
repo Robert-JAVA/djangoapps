@@ -1,0 +1,89 @@
+LOCUS       AY817670                1299 bp    mRNA    linear   VRT 01-JUN-2005
+DEFINITION  Taricha granulosa proenkephalin (PENK) mRNA, complete cds.
+ACCESSION   AY817670
+VERSION     AY817670.1  GI:56199593
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 1299)
+  AUTHORS   Walthers,E.A. and Moore,F.L.
+  TITLE     Cloning proenkephalin from the brain of a urodele amphibian
+            (Taricha granulosa) using a DOR-specific primer in a 3'RACE
+            reaction
+  JOURNAL   Gen. Comp. Endocrinol. 142 (3), 364-370 (2005)
+   PUBMED   15935163
+REFERENCE   2  (bases 1 to 1299)
+  AUTHORS   Walthers,E.A. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2004) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..1299
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     gene            1..1299
+                     /gene="PENK"
+     CDS             201..995
+                     /gene="PENK"
+                     /note="opioid precursor hormone"
+                     /codon_start=1
+                     /product="proenkephalin"
+                     /protein_id="AAV84279.1"
+                     /db_xref="GI:56199594"
+                     /translation="MALLLLRNCCRLLLVLATCHIAAVLGECSKDCASCAYRQGARTD
+                     INPLTCTLECEGKLPSSKAWDTCKELLQLIKLDLVQQDGESDQDMDANHLLAKKYGGF
+                     MKRYGGFMKKMDELYRVEPEEENNGEILAKRYGGFMKKDSDAEAADLLRELLGTGNGD
+                     NPEAGHYRDSANDSQGEVSKRYGGFMRGVKRSPEMEEGAKDLHKRYGGFMRRVGRPEW
+                     WLDYQKRYGGFMRRFADSSAPSEEEAESYSKEIPEMEKRYGGFMRY"
+     mat_peptide     495..509
+                     /gene="PENK"
+                     /product="Met-Enkephalin 1"
+     mat_peptide     516..530
+                     /gene="PENK"
+                     /product="Met-Enkephalin 2"
+     mat_peptide     600..614
+                     /gene="PENK"
+                     /product="Met-Enkephalin 3"
+     mat_peptide     744..767
+                     /gene="PENK"
+                     /product="Met-Enkephalin-Arg-Gly-Val"
+     mat_peptide     816..830
+                     /gene="PENK"
+                     /product="Met-Enkephalin 4"
+     mat_peptide     876..890
+                     /gene="PENK"
+                     /product="Met-Enkephalin 5"
+     mat_peptide     972..992
+                     /gene="PENK"
+                     /product="Met-Enkephalin-Arg-Tyr"
+ORIGIN      
+        1 tcgccgtttg cactgctgac agacgtcccg gctgcgctct ctcagtctcc ggcgcgagct
+       61 ccagacttgc gagttaactc cagagacctc cagtcagcgc gcgctgctat ataaagccgg
+      121 cgcgcgccag agtcccagga acagccaggg ctgaacacaa agcaccatct cacgctgcag
+      181 caggagaacc tagcagtccc atggcgttgc tgctgctccg gaactgctgc cgcctgctcc
+      241 tggtgctcgc tacctgccac atcgcggctg tcctggggga gtgcagcaag gactgcgcga
+      301 gctgcgccta ccggcagggg gcgcgcaccg acatcaaccc gctgacatgc acgctggaat
+      361 gtgaaggtaa attaccatcg tccaaagcct gggacacatg caaggagttg ctgcaactca
+      421 ttaagttgga ccttgtgcaa caagatggag agagtgacca agacatggat gcaaaccacc
+      481 tactcgccaa gaaatatggc ggattcatga aacgatatgg tggattcatg aagaagatgg
+      541 acgagcttta ccgcgtggaa cctgaagagg aaaacaatgg tgagatattg gccaagcggt
+      601 atggaggctt catgaagaag gactctgatg ccgaagctgc agatcttctg agggagctgc
+      661 tcggcactgg caatggggat aacccagagg ccgggcatta tcgagacagc gccaatgaca
+      721 gccagggaga ggtcagcaaa cgatatgggg gtttcatgag aggagttaag agaagcccag
+      781 agatggaaga gggagcaaag gatctgcaca aaagatacgg aggtttcatg cgaagagtag
+      841 gaaggccaga atggtggctg gactatcaaa aaagatatgg gggattcatg aggcgctttg
+      901 ctgattcttc tgcaccctca gaggaagaag cagagagcta ttccaaagag atcccagaaa
+      961 tggagaagag atatggtgga tttatgagat actaaagccc cgcccaattc tcactcagaa
+     1021 agactgcctc attggtcata ttttattgta atgtgttgct tgcactgtac agttttttac
+     1081 tgtcctagtt aaaaaatgca acatgcaatc tgtcatttca ggttctgtgt tacttaagtc
+     1141 gacctaactt ctgttttagt catatatatt tgagtcttga ttgtagttct tatgattaaa
+     1201 ctatttttgt taccttcttt ttattttgaa aagaaagcac atctcttaaa gcttattgta
+     1261 tatataataa aaaattcatc taactggaaa aaaaaaaaa
+//
+

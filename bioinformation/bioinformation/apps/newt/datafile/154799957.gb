@@ -1,0 +1,78 @@
+LOCUS       AB353847                1824 bp    mRNA    linear   VRT 01-APR-2009
+DEFINITION  Cynops pyrrhogaster Msi1c mRNA for Musashi-1c, complete cds.
+ACCESSION   AB353847
+VERSION     AB353847.1  GI:154799957
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Susaki,K., Kaneko,J., Yamano,Y., Nakamura,K., Inami,W.,
+            Yoshikawa,T., Ozawa,Y., Shibata,S., Matsuzaki,O., Okano,H. and
+            Chiba,C.
+  TITLE     Musashi-1, an RNA-binding protein, is indispensable for survival of
+            photoreceptors
+  JOURNAL   Exp. Eye Res. 88 (3), 347-355 (2009)
+   PUBMED   18662689
+REFERENCE   2  (bases 1 to 1824)
+  AUTHORS   Chiba,C., Susaki,K. and Kaneko,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-AUG-2007) Contact:Chikafumi Chiba University of
+            Tsukuba, Life and environmental sciences; Tennoudai 1-1-1, Tsukuba,
+            Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..1824
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..1824
+                     /gene="Msi1c"
+     CDS             88..1116
+                     /gene="Msi1c"
+                     /codon_start=1
+                     /product="Musashi-1c"
+                     /protein_id="BAF75024.1"
+                     /db_xref="GI:154799958"
+                     /translation="METDGSQSGLSPPDSAHDPCKMFIGGLSWQTTQEGLREYFGQYG
+                     EVKECLVMRDPLTKRSRGFGFVTFMDQAGVDKVLAQSRHELDSKTIDPKVAFPRRAQP
+                     KMVTRTKKIFVGGLSVNTTVEDVKQYFEQFGKVDDAMLMFDKTTNRHRGFGFVTFEVE
+                     DIVEKVCEIHFHEINNKMVECKKAQPKEVMSPTSSARGRSRVMPYGMDAFMLGIGMLG
+                     YPGFQAATYASRSYAGLAPGYTYQFPAIPLTAYGPMAAAAAAVVRGNGSFLAGQTEQQ
+                     WQRTGPTRAGGFLGTSSPGSMAELYGASQESAISSYISAASPAPNAGFGHSLGAPLIA
+                     TAFTNGYH"
+ORIGIN      
+        1 ggaggactga tccttggcga cccgcctctc tccctgctcc tctgccccgt gtgagctgct
+       61 gcccgcaggg acgcactaga gacccgaatg gagacagacg gcagccagtc cggcctctcg
+      121 cccccggact ccgcgcacga tccctgtaag atgtttatcg gtggcttgag ctggcagacc
+      181 acacaagaag gcctgcggga gtactttggg cagtacggcg aagtgaagga gtgtcttgta
+      241 atgcgagatc cccttaccaa gagatccagg ggtttcggct ttgtcacgtt catggaccag
+      301 gctggagtgg acaaggttct cgcccaatca agacatgagc tggactccaa aacgatcgat
+      361 cccaaggtgg catttcctcg tcgagcgcag cccaagatgg taacgcggac gaaaaagatt
+      421 tttgttggtg gtttgtcggt gaataccacg gtggaggatg taaagcaata ctttgaacag
+      481 tttggcaagg tggacgatgc aatgctcatg tttgacaaaa ccaccaacag acaccgaggg
+      541 ttcggttttg taacttttga agttgaagac attgtggaga aggtgtgcga gatccatttc
+      601 catgaaataa acaacaagat ggtggaatgt aagaaagctc agccaaagga ggtcatgtcc
+      661 ccaacaagct ctgcgcgtgg tcgatcccga gtgatgcctt atgggatgga tgccttcatg
+      721 ctgggcattg gcatgctagg ttacccagga tttcaggctg ccacatacgc tagtcgcagc
+      781 tatgctggcc tagccccagg ttacacctat cagtttccag caattccgct aacggcctat
+      841 ggacccatgg ccgctgcagc ggcagcagtt gtcagaggta atggctcgtt ccttgcagga
+      901 cagactgagc agcagtggca gcgcactggt ccaacgcgtg ctggtggatt cctcgggaca
+      961 agcagcccag ggtcaatggc agaactttat ggagccagtc aagagtcggc tataagcagt
+     1021 tatataagtg ctgcaagccc cgccccgaat gctgggtttg gccacagtct aggggctccg
+     1081 ctcattgcaa cagctttcac taatggttac cattgaagct ggagtccaag aggtagaaga
+     1141 gtcccagtga tggagaaaat gtagcaggag cattcaagag aagccgggaa cccgctcagc
+     1201 ttttggcatt ttgaatacac tgccggctgc caagctcccg ctggacccct ctcttcctca
+     1261 ggagagcaac aactcactcc tgacctgtcc ttacccattc ccctagccca gagcttatct
+     1321 gcgccttacc tctcctgttt ttccatcccc tcttcgttct cctgtcctgc acaaagctaa
+     1381 ttggcttaca tccaaactgt ccttttaaat cccatggaga tcatctgtca tttcacattt
+     1441 ctttaatccc caccacccat atccccatcc cttccatgaa gcacatcatc tcgcttttac
+     1501 taaccacaga agtttacact tcagaaaacc ttggtgtatt tattttaata gcaagtagtt
+     1561 cttttttttt ttttacattt ttttgttact cccatattat gtggtgctct ttgcagagtg
+     1621 cagtaggaac atttgggaat tcattttgtg attgtgattt agctagttta ctaagggatg
+     1681 tttttatttg acattgcatt tgtttttaat tgtttggact gcattgtctg cttggcacta
+     1741 ctgccagagg agacccgagg acgtggcaat gctgcgatga atatgtgtgg acatttcctc
+     1801 tggctgcctc atgcaaatgt cacc
+//
+

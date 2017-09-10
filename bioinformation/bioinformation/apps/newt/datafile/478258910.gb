@@ -1,0 +1,51 @@
+LOCUS       JX995367                 210 bp    mRNA    linear   VRT 15-APR-2013
+DEFINITION  Notophthalmus viridescens gamma-aminobutyric acid receptor subunit
+            alpha-3 precursor (GABRA3) mRNA, partial cds.
+ACCESSION   JX995367
+VERSION     JX995367.1  GI:478258910
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 210)
+  AUTHORS   Witman,N.M., Behm,M., Ohman,M. and Morrison,J.I.
+  TITLE     ADAR related activation of adenosine-to-inosine RNA editing during
+            regeneration
+  JOURNAL   Stem Cells Dev. (2013) In press
+   PUBMED   23534823
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 210)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2012) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: ApE-A plasmid editor v. 1.14
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..210
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>210
+                     /gene="GABRA3"
+     CDS             <1..>210
+                     /gene="GABRA3"
+                     /codon_start=1
+                     /product="gamma-aminobutyric acid receptor subunit alpha-3
+                     precursor"
+                     /protein_id="AGI96388.1"
+                     /db_xref="GI:478258911"
+                     /translation="SARTVFGVTTVLTMTTLSISARNSLPKVAYATAMDWFMAVCYAF
+                     VFSALIEFATVNYFTKRGWAWDGKDV"
+ORIGIN      
+        1 tccgctcgca ctgtttttgg tgtcaccacc gtcctcacca tgaccacact aagcattagc
+       61 gccagaaact ccttgccgaa agtggcatac gcgacggcca tggactggtt catggccgtc
+      121 tgttatgcct ttgtgttttc tgcgctgatt gaatttgcca cagtcaacta cttcacaaag
+      181 agaggctggg cctgggatgg caaagacgtc
+//
+

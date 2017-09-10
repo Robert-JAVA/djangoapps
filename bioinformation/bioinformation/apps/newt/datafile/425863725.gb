@@ -1,0 +1,56 @@
+LOCUS       JX626886                 490 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Euproctus montanus voucher ECAG3 sodium-calcium exchanger 1 (NCX1)
+            gene, partial cds.
+ACCESSION   JX626886
+VERSION     JX626886.1  GI:425863725
+KEYWORDS    .
+SOURCE      Euproctus montanus
+  ORGANISM  Euproctus montanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Euproctus.
+REFERENCE   1  (bases 1 to 490)
+  AUTHORS   Bisconti,R., Canestrelli,D., Salvi,D. and Nascetti,G.
+  TITLE     A geographic mosaic of evolutionary lineages within the insular
+            endemic newt Euproctus montanus
+  JOURNAL   Mol. Ecol. 22 (1), 143-156 (2013)
+   PUBMED   23163335
+REFERENCE   2  (bases 1 to 490)
+  AUTHORS   Bisconti,R. and Canestrelli,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-SEP-2012) Ecological and Biological Sciences, Tuscia
+            University, Largo dell'Universita' s.n.c., Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Euproctus montanus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ECAG3"
+                     /db_xref="taxon:30375"
+                     /country="France: Corsica Island"
+     gene            <1..>490
+                     /gene="NCX1"
+     mRNA            <1..>490
+                     /gene="NCX1"
+                     /product="sodium-calcium exchanger 1"
+     CDS             <1..>490
+                     /gene="NCX1"
+                     /codon_start=3
+                     /product="sodium-calcium exchanger 1"
+                     /protein_id="AFY04033.1"
+                     /db_xref="GI:425863726"
+                     /translation="EADEKDQDDDEARRDMARILKELKQKHPDKEIEQLIELANYQVL
+                     SQQQKSRAFYRIQATRLMTGAGNILKRHAADQARKAVSMQEVNSEVIENEPVSKIYFE
+                     QATYQCLENCGTVALTIIRRGGDLTNTVFVDFRTEDGTANAGSDYEFTEGTVVFKPGE
+                     TQ"
+ORIGIN      
+        1 tggaggcyga tgagaaagat caagatgatg acgaagccag gcgcgatatg gccagaatcc
+       61 taaaggagct gaaacagaaa catcctgaca aggaaataga gcaactgatt gagttagcaa
+      121 actaccaggt cttgagtcaa cagcaaaaaa gtcgagcatt ctatcgmatt caagctactc
+      181 gcttgatgac tggggcygga aatattctaa aaagacatgc agcagaccag gcaaggaaag
+      241 cagtgagcat gcaggaagtt aactctgaag ttatagaaaa tgagcccgtc agtaagatct
+      301 atttcgagca agccacgtat cagtgtcttg agaactgtgg gactgttgct ctgacaatta
+      361 tycgaagggg tggggatttg accaatactg tgtttgttga cttcagaaca gaagatggga
+      421 cagccaatgc agggtctgat tatgagttca ccgaagggac agtggtcttc aaaccaggtg
+      481 agacacagaa
+//
+

@@ -1,0 +1,40 @@
+LOCUS       JN861119                 215 bp    mRNA    linear   VRT 05-DEC-2011
+DEFINITION  Pleurodeles waltl Pitx1 mRNA, partial cds.
+ACCESSION   JN861119
+VERSION     JN861119.1  GI:358444373
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 215)
+  AUTHORS   Markitantova,Y.V., Avdonin,P.P., Grigoryan,E.N. and Zinov'eva,R.D.
+  TITLE     Identification of the Pitx1 embryogenesis regulatory gene in a
+            regenerating newt retina
+  JOURNAL   Dokl. Biol. Sci. 435, 421-424 (2010)
+   PUBMED   21221899
+REFERENCE   2  (bases 1 to 215)
+  AUTHORS   Markitantova,Y., Avdonin,P., Grigoryan,E. and Zinov'eva,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2011) Biology, UDC, 4200 Connecticut Ave,
+            Washington, DC 20008, USA
+FEATURES             Location/Qualifiers
+     source          1..215
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..>215
+                     /codon_start=1
+                     /product="Pitx1"
+                     /protein_id="AEU12491.1"
+                     /db_xref="GI:358444374"
+                     /translation="ATFQRNRYPDMSMREEIAVWTNLTEARVRVWFKNRRAKWRKRER
+                     NQQMDLCKNGYVPQFSGLMQPYEDMYAG"
+ORIGIN      
+        1 gccactttcc agcgtaaccg ctacccggac atgagcatgc gggaggagat cgcagtctgg
+       61 accaacttga ccgaggcgcg agtccgggtc tggttcaaaa accgcagagc caagtggaga
+      121 aagagggagc gcaaccagca gatggacctg tgcaagaatg gttatgtgcc acagtttagt
+      181 ggcctaatgc aaccctacga agacatgtat gcagg
+//
+

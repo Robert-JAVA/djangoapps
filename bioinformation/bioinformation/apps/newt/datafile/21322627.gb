@@ -1,0 +1,88 @@
+LOCUS       AJ311905                1984 bp    mRNA    linear   VRT 15-APR-2005
+DEFINITION  Pleurodeles waltl mRNA for Ikaros transcription factor.
+ACCESSION   AJ311905
+VERSION     AJ311905.1  GI:21322627
+KEYWORDS    alternative splicing; ikaros gene; ikaros transcription factor.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Boudarra,N., Frippiat,C., Dournon,C. and Frippiat,J.P.
+  TITLE     An alternative internal splicing site defines new Ikaros isoforms
+            in Pleurodeles waltl
+  JOURNAL   Dev. Comp. Immunol. 26 (7), 659-673 (2002)
+   PUBMED   12074930
+REFERENCE   2  (bases 1 to 1984)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUL-2001) FRIPPIAT J.P., Laboratoire de Biologie
+            Experimentale, University Henri Poincare, Nancy 1, Bvd des
+            Aiguillettes, BP 239, F-54506 Vandoeuvre-les-Nancy, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..1984
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..1984
+                     /gene="ikaros"
+     CDS             75..1628
+                     /gene="ikaros"
+                     /codon_start=1
+                     /product="ikaros transcription factor"
+                     /protein_id="CAC84566.1"
+                     /db_xref="GI:21322628"
+                     /db_xref="GOA:Q8JG12"
+                     /db_xref="HSSP:1BBO"
+                     /db_xref="InterPro:IPR007087"
+                     /db_xref="InterPro:IPR013087"
+                     /db_xref="InterPro:IPR015880"
+                     /db_xref="UniProtKB/TrEMBL:Q8JG12"
+                     /translation="MDADEAQDMSQVSGNHSSPMSDIPEDGDEPMPVPEDLSTNSGAQ
+                     QHYRNDKALANNVKLETQSDEEDGHACDMNGEECAEDLRMLDASGEKMNGSHDGQGRK
+                     ALPGVGGIRLPNGKLKCDVCGIICIGPNVLMVHKRSHTGERPFQCSQCGASFTQKGNL
+                     LRHIKLHSGEKPFKCHLCNYACRRRDALTGHLRTHSVGKPHKCGYCGRSYKQRSSLEE
+                     HKERCHNYLQSMGLPGNLYSVVKEESNPSEMPEDLCKIGSERSLVLDRLASNVAKRKS
+                     SMPQKFVGEKRLSGLPFDGNATYEKESEIMQTQVIDQAINNAISYLGAEALRPLVQTP
+                     PGSSDVVPVISSMYQLQKPQGDGQARNNHMAHDGAVENLLLLSKAKSVSSERDASPSN
+                     SLQDSTDTESNNEERGGLIYLTNHIAPHTRNGLSSKDLRPYDMLRAGGDNSQEPFKVV
+                     SSSGQPMRIYKCEPCKVLFLDHVMYTIHMGCHGFRDPFECNMCGYQCQDRYEFSSHIT
+                     RGEHRFHMS"
+ORIGIN      
+        1 acgcggggag agaggcgcat ggagactggg agagctgttt gcaggcagcg gggataacag
+       61 ataacctgag gaagatggat gcagacgagg cacaagacat gtcccaggtt tcaggaaatc
+      121 acagttcacc catgagtgac atcccagagg atggagacga accaatgcct gtgcccgagg
+      181 atctgtcaac aaattcggga gcacaacaac actaccgaaa cgacaaagcc ttggccaata
+      241 atgttaaact agagacccag agtgatgaag aggatgggca tgcctgtgac atgaatgggg
+      301 aagaatgtgc agaggattta cgaatgcttg atgcctcggg agagaaaatg aatggctcac
+      361 acgacggcca aggacgcaag gctctgccag gagttggagg tattcgactt cctaacggaa
+      421 aactaaaatg tgatgtctgt gggattattt gcatcggtcc caatgtgctc atggttcaca
+      481 aaagaagcca cactggggaa cgccctttcc agtgcagtca gtgtggcgct tcctttacac
+      541 aaaaaggcaa cctcctccgc cacatcaagt tgcactctgg tgaaaagcct ttcaagtgcc
+      601 acttgtgtaa ctatgcatgc cgacgtagag atgcccttac cggtcacctg aggacacatt
+      661 ctgttggtaa acctcacaag tgtggatact gtggcagaag ctataagcaa cgcagttctt
+      721 tggaagaaca taaagagcga tgccacaact acctgcaaag catgggtctg ccgggcaacc
+      781 tgtactcagt agtaaaagag gaatctaacc ccagcgagat gccagaagac ctgtgcaaga
+      841 tagggtcaga aagatccctt gtgttggata gactagcaag caacgtcgcc aaacgtaaga
+      901 gctctatgcc tcagaaattt gttggtgaga aacgtctatc aggccttcct tttgatggta
+      961 acgcaactta cgagaaggaa agcgaaatca tgcagacgca ggtcattgac caggccatca
+     1021 acaatgcaat cagctacctt ggggcagagg cattgcgtcc acttgtgcaa acccctcctg
+     1081 gaagctcaga tgtggtcccc gtcatcagtt ccatgtacca gcttcaaaag cctcaaggcg
+     1141 atggtcaggc aagaaacaac catatggctc atgacggtgc agtggaaaac ctgcttctgc
+     1201 tttccaaggc gaaatcagtt tcatctgagc gtgatgcctc ccccagcaac agcttacaag
+     1261 actcaaccga cacagagagt aataatgagg agcgaggagg cctgatttac ctgacaaacc
+     1321 acatagctcc tcacacaaga aatggtctct catccaagga tctccggccc tatgacatgc
+     1381 tgagagcagg aggtgacaat tctcaggagc ccttcaaagt ggtgagcagc agcggacagc
+     1441 ccatgagaat ctacaagtgt gaaccctgta aagttctctt tctggaccat gtcatgtaca
+     1501 ccatccacat gggctgtcac ggcttccgtg accctttcga gtgcaacatg tgcgggtacc
+     1561 agtgccagga cagatacgaa ttctcttctc acatcaccag aggggagcac cgattccaca
+     1621 tgagctaaag atccccttgc ccttagcctt ctcagtagga gtgtcagata attgaagttg
+     1681 catgaaggaa aaattaagca caactatgtt ggactgtacc agcatctccc tcaacctttt
+     1741 ggatgcccac gttgtttagt gtctcttcga ttgtttttac tctttccacc agcttgcatg
+     1801 caatgtttgc attgactcat gtctatgtaa attagtaaca aatgtactgt gccacatttc
+     1861 ttaacagttt aagatttaga acacaagaac tggaggcttt tctagacgtt ttgttataca
+     1921 tcccttattg cggtgctttc tgcaatacac tgtctgccct ccaaaaaaaa aaaaaaaaaa
+     1981 aaaa
+//
+

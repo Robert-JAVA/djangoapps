@@ -1,0 +1,44 @@
+LOCUS       AB871944                 413 bp    DNA     linear   VRT 10-JUN-2014
+DEFINITION  Cynops pyrrhogaster DNA, microsatellite: CPNGS21.
+ACCESSION   AB871944
+VERSION     AB871944.1  GI:606214083
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Hayano,A. and
+            Inoue-Murayama,M.
+  TITLE     Characterization of fifteen microsatellite markers for the Japanese
+            fire-bellied newt, Cynops pyrrhogaster
+  JOURNAL   Conserv Genet Resour 6, 405-407 (2014)
+  REMARK    DOI:10.1007/s12686-013-0104-5
+REFERENCE   2  (bases 1 to 413)
+  AUTHORS   Tominaga,A. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2013) Contact:Atsushi Tominaga University of the
+            Ryukyus, Faculty of Education; 1 Senbaru, Nishihara, Okinawa
+            901-0213, Japan
+FEATURES             Location/Qualifiers
+     source          1..413
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+     primer_bind     9..29
+     repeat_region   140..209
+                     /rpt_type=tandem
+                     /rpt_unit_seq="(acag)7(agat)11"
+                     /satellite="microsatellite:CPNGS21"
+     primer_bind     complement(260..279)
+ORIGIN      
+        1 tagcatgcat cactaaattg gcacccatgc ttgctatttc tacagagatg tgtagataga
+       61 tagatagata gatagataga tagatagata gatatttaga tagatagata gatagatatt
+      121 tagatagata catagataga cagacagaca gacagacaga cagacagata gatagataga
+      181 tagatagata gatagataga tagatagata gacagacaca tagagggtaa atagatgggt
+      241 tgaacacagg tattagtgtc cctgtctaag gtgagcgtcc acctttttct cttcacttag
+      301 aaatgtatta ttcagatgtg cacattattc tttggccaga aagttcaacc taagtgagaa
+      361 aatagacaag actgttttag cagtaccaaa ttacacaatg ctaaatgctt tct
+//
+

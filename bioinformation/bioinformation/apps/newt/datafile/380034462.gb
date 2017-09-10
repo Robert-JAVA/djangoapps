@@ -1,0 +1,74 @@
+LOCUS       JF825873                1421 bp    DNA     linear   VRT 30-DEC-2012
+DEFINITION  UNVERIFIED: Tylototriton asperrimus haplotype 2010052501 NADH
+            dehydrogenase subunit 2-like gene, partial sequence; and tRNA-Trp,
+            tRNA-Ala, tRNA-Asx, tRNA-Cys, and tRNA-Tyr genes, complete
+            sequence; mitochondrial.
+ACCESSION   JF825873
+VERSION     JF825873.1  GI:380034462
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 1421)
+  AUTHORS   Chen,G.
+  TITLE     Phylogenetic relationship of the Genus Tylototriton (Caudata:
+            Salamandridae) based on sequences of mitochondrial ND2- tRNATyr
+            genic region
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1421)
+  AUTHORS   Chen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-APR-2011) School of Life Science, Guizhou Normal
+            University, 116 Baoshan North Road, Guiyang, Guizhou 550001, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..1421
+                     /organism="Tylototriton asperrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+                     /haplotype="2010052501"
+                     /country="China"
+     misc_feature    <1..1043
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            1045..1111
+                     /product="tRNA-Trp"
+     tRNA            complement(1112..1181)
+                     /product="tRNA-Ala"
+     tRNA            complement(1182..1254)
+                     /product="tRNA-Asx"
+     rep_origin      1255..1288
+     tRNA            complement(1289..1353)
+                     /product="tRNA-Cys"
+     tRNA            complement(1354..1421)
+                     /product="tRNA-Tyr"
+ORIGIN      
+        1 tgaacccata tgcactgtca attctattgt caagcctagc agtaggaaca atcacaaccc
+       61 tttcaagctc ccattgattc ctcgcatgag tgggcctaga aattaataca ctagcaatca
+      121 tcccgctaat aacaaaaata caccacccac gagcaacgga atcagctaca aaatactttc
+      181 taacgcaagc caccgcatca gccctaatct tattttccac aatcacaaac gcatgagcca
+      241 cataagaatg aacaattatt accataaatg acaacacgtc aacatttatc ttaacaattg
+      301 ccctagccat caaactggga atcgccccat ttcacctctg attaccagac gttatacaag
+      361 gattaaccct aacaacatgt ctaatcctta caacatgaca aaaattagcc ccaatatcct
+      421 taataattat aaccggccat caattaaaca caaatctact aattacaatg gccatattat
+      481 caacagtact tggggggtga gggggcctta accaaacaca aatgcgaaaa ataatagcat
+      541 attcatctat tgcccacctc ggatgaataa ccctaatcct atccttctcc ccaagcttaa
+      601 caacattaaa cctagtaatt tacctaatac taacctcatc aatattctta ataataataa
+      661 caataacctc aacaaatata aataaactct caacatcttg actgaaaacc cccctactgg
+      721 catcatcaat gataattaca cttatagccc tggggggcct acccccaacc tcaggcttct
+      781 tgccaaaatg actaatccta caagaaataa ccaaacaaca cctgggagct gtatctacac
+      841 taatagctat atctgcccta ctaagcctat tcttctacct acgactatca tatgcagtct
+      901 cattaaccac tgcgccaaac acctcaaact ccaacatgac ctgacgaata gcccacaacc
+      961 aaatacaagt cctcccaaca ataattacac taactacaat aatactacca atcacaccaa
+     1021 cactactaac aacactaaac taaagactta ggataataag accaaagacc ttcaaagtct
+     1081 taagcagaag ttaaaccctt ctagtctttg ataaaacctg caggactcta ccccacatct
+     1141 tctgaatgca acccagacac tttaattaag ctaagacctt ctagactagc aggctctaac
+     1201 cccgcgacct tttagttaac agctaaactc tcaatccaac aagctttagt ctacttctcc
+     1261 cgcttgttgg ggggaaaaaa gcgggagaag ccccggcaga agtaactctg ctctttaaaa
+     1321 tttgcaattt tatatgctta acatcactag gcttggtaaa aaaaggggtt taacctttat
+     1381 aacaagggct acaatcttgc acctacttcg gccattttac c
+//
+

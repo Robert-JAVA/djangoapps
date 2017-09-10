@@ -1,0 +1,69 @@
+LOCUS       AB830738                1035 bp    DNA     linear   VRT 03-DEC-2013
+DEFINITION  Tylototriton verrucosus mitochondrial ND2 gene for NADH
+            dehydrogenase subunit 2, partial cds, specimen_voucher: KUHE:46406.
+ACCESSION   AB830738
+VERSION     AB830738.1  GI:559080050
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Khonsue,W., Pomchote,P. and Matsui,M.
+  TITLE     Two new species of Tylototriton from Thailand (Amphibia: Urodela:
+            Salamandridae)
+  JOURNAL   Zootaxa 3737, 261-279 (2013)
+   PUBMED   25112754
+  REMARK    DOI:10.11646/zootaxa.3737.3.5
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUL-2013) Contact:Koshiro Eto Kyoto University,
+            Graduate School of Human and Environmental fac.;
+            Yoshida-Nihonmatsu-cho, Kyoto-shi, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE:46406"
+                     /db_xref="taxon:164973"
+     gene            1..>1035
+                     /gene="ND2"
+     CDS             1..>1035
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAO10810.1"
+                     /db_xref="GI:559080051"
+                     /translation="MNPYALSILLSSLAVGTITTLSSSHWFLAWVGLEINTLAMIPLM
+                     TKMHHPRSTESATKYFLTQAAASALILFSTIMNAWATGEWTIITMNDNSSTFMLTVAL
+                     AIKLGIAPFHLWLPDVMQGLNLTTCLILATWQKLAPMSLMIMANHQLNTNLLITMAVL
+                     SAAIGGWGGLNQTQIRKMMAYSSIAHLGWMTLVLSFSPNLTTLNLMIYLMLTSSMFLM
+                     MTTLNSTNINKLSTSWLKTPLLASSMMITLMALGGLPPTSGFLPKWLILQEMTKQHLG
+                     AVSTLMAMSALLSLFFYLRLSYAISLTTAPNTSNSNMTWRMAHNQMQILPTMITLTTM
+                     MLPITPTLLAM"
+ORIGIN      
+        1 atgaacccgt atgcactatc aatcctgttg tcgagcctag cagtaggaac aattacaact
+       61 ctctcaagct cccattgatt tctggcatga gtaggactag aaattaatac actagcaata
+      121 atcccgctaa taacaaaaat acaccaccca cgatcaacag aatcagccac aaaatacttc
+      181 ctaacgcaag ccgccgcatc agccttaatc ttattttcta caatcataaa cgcatgggct
+      241 acaggagaat gaacaattat caccataaat gacaactcat caacatttat attaacagtt
+      301 gccctagcta ttaaacttgg aatcgcccct tttcatctat gactaccaga cgtcatacaa
+      361 gggttaaacc taacaacatg cctaatcctt gcaacatgac aaaaattagc cccaatatcc
+      421 ttaataatta tagccaatca ccaactaaac acaaacctgc taattacaat agccgtatta
+      481 tcagcagcaa ttggggggtg ggggggactt aaccaaacac aaatccgaaa aataatagca
+      541 tattcatcta tcgcccacct tgggtgaata acactagtcc tctctttctc cccaaattta
+      601 acaaccctta acctaataat ttacctaata ctaacatcat caatgttctt aataataaca
+      661 accctaaact caacaaatat taacaaactt tcaacatctt gactaaaaac cccactacta
+      721 gcatcatcaa taataattac actcatagcc ctaggaggcc taccccccac atcaggattc
+      781 ctaccaaaat gacttatcct acaagaaata accaaacaac acctaggagc cgtgtccaca
+      841 ctaatagcta tatctgcact actaagccta ttcttctact tacgactatc atatgcaatc
+      901 tcactaacta ccgcaccaaa cacatcaaac tccaacataa cctgacgaat agcccacaac
+      961 caaatacaaa tcctaccaac aataatcaca ctaactacaa taatactacc gatcacacca
+     1021 acactactag caata
+//
+

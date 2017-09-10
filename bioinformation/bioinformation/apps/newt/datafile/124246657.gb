@@ -1,0 +1,62 @@
+LOCUS       EF107448                 715 bp    DNA     linear   VRT 31-JAN-2007
+DEFINITION  Triturus marmoratus isolate 0512TriMar chemokine receptor 4 (CXCR4)
+            gene, partial cds.
+ACCESSION   EF107448
+VERSION     EF107448.1  GI:124246657
+KEYWORDS    .
+SOURCE      Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 715)
+  AUTHORS   Roelants,K., Gower,D.J., Wilkinson,M., Loader,S.P., Biju,S.D.,
+            Guillaume,K., Moriau,L. and Bossuyt,F.
+  TITLE     Global patterns of diversification in the history of modern
+            amphibians
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (3), 887-892 (2007)
+   PUBMED   17213318
+REFERENCE   2  (bases 1 to 715)
+  AUTHORS   Roelants,K., Gower,D.J., Wilkinson,M., Loader,S.P., Biju,S.D.,
+            Guillaume,K., Moriau,L. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2006) Biology Department, Unit of Ecology and
+            Systematics, Vrije Universiteit Brussel, Pleinlaan 2, Brussels
+            B-1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..715
+                     /organism="Triturus marmoratus"
+                     /mol_type="genomic DNA"
+                     /isolate="0512TriMar"
+                     /db_xref="taxon:8328"
+     gene            <1..>715
+                     /gene="CXCR4"
+     mRNA            <1..>715
+                     /gene="CXCR4"
+                     /product="chemokine receptor 4"
+     CDS             <1..>715
+                     /gene="CXCR4"
+                     /codon_start=2
+                     /product="chemokine receptor 4"
+                     /protein_id="ABM92731.1"
+                     /db_xref="GI:124246658"
+                     /translation="SRTMTDKYRLHLSVADLLFVFTLPFWSVDAVIGWYLKEFLCKAV
+                     HVIYTVNLYSSVLILAFISLDRYLAIVHATNSQGTRKLLAEKVVYAGVWLPAVLLTVP
+                     DFIFASVSMEEGTYECNHIYPFESRQQWTVGFRFVHLTVGFILPGLVILICYCIIISK
+                     LSHSKGQQKRKALKTTVILILTFFTCWLPYYITLSIDTFIQLGVIKNITCDFEVTLHT
+                     WISVTEALAFFHCCLNPILY"
+ORIGIN      
+        1 gtcaaggact atgaccgaca agtaccggct gcacctgtcg gtggccgatc tgctgtttgt
+       61 cttcaccttg cccttctggt ccgtagatgc cgtgataggg tggtatctga aggagttcct
+      121 ctgcaaagcc gttcacgtca tctacacagt caacctctac agcagcgtcc tgatcttagc
+      181 cttcataagt ttagaccgct acttggcgat agtccacgcc accaacagcc aaggtacgag
+      241 gaagctgctg gctgagaagg tggtgtaygc tggggtgtgg ttgccggctg tgctcctgac
+      301 cgtgcctgac ttcatatttg ccagtgttag tatggaagaa ggcacctacg agtgcaacca
+      361 catctatccc tttgagtcgc ggcaacagtg gactgttgga tttaggtttg tgcacctcac
+      421 cgtagggttt attctgcccg gcctggtcat cttgatttgc tactgcatca tcatttccaa
+      481 gctgtcccac tccaaaggcc aacagaagcg caaagcgctg aagacgactg tgattctcat
+      541 cctcaccttc ttcacctgct ggttgcccta ctacatcacc ctcagcattg acaccttcat
+      601 acaactgggc gtgatcaaga acattacatg tgatttcgag gtcaccctgc atacgtggat
+      661 ctcygtcact gaagccttgg ccttcttcca ctgctgcctg aaccccatcc tctac
+//
+

@@ -1,0 +1,40 @@
+LOCUS       AY799802                 127 bp    mRNA    linear   VRT 02-DEC-2005
+DEFINITION  Notophthalmus viridescens transcription factor Six-3 mRNA, partial
+            cds.
+ACCESSION   AY799802
+VERSION     AY799802.1  GI:55774525
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 127)
+  AUTHORS   Grogg,M.W., Call,M.K., Okamoto,M., Vergara,M.N., Del Rio-Tsonis,K.
+            and Tsonis,P.A.
+  TITLE     BMP inhibition-driven regulation of six-3 underlies induction of
+            newt lens regeneration
+  JOURNAL   Nature 438 (7069), 858-862 (2005)
+   PUBMED   16341014
+REFERENCE   2  (bases 1 to 127)
+  AUTHORS   Call,M.K., Grogg,M.W. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2004) Biology, University of Dayton, 300 College
+            Park, Dayton, OH 45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..127
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             <1..>127
+                     /codon_start=1
+                     /product="transcription factor Six-3"
+                     /protein_id="AAV64848.1"
+                     /db_xref="GI:55774526"
+                     /translation="HYQEAEKLRGRPLGPVDKYRVRKKFPLPRTIWDGEQKTHCFK"
+ORIGIN      
+        1 cactaccagg aggccgagaa gctgcgcggc cggccgctgg ggcccgtgga caagtaccgg
+       61 gtgcgcaaga agttcccgct gccgcgcacc atctgggacg gcgagcagaa gacgcactgc
+      121 ttcaagg
+//
+

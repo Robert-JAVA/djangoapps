@@ -1,0 +1,64 @@
+LOCUS       AB769531                1035 bp    DNA     linear   VRT 10-MAY-2013
+DEFINITION  Tylototriton asperrimus mitochondrial gene for NADH dehydrogenase
+            subunit 2, partial cds, specimen_voucher: VNMN:TAO1214.
+ACCESSION   AB769531
+VERSION     AB769531.1  GI:496527015
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Matsui,M. and Nguyen,T.T.
+  TITLE     A New Species of Tylototriton from Northern Vietnam
+            (Amphibia:Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 32, 34-49 (2013)
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) Contact:Koshiro Eto Kyoto University,
+            Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Tylototriton asperrimus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VNMN:TAO1214"
+                     /db_xref="taxon:385674"
+                     /country="Viet Nam"
+     CDS             1..>1035
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAN19735.1"
+                     /db_xref="GI:496527016"
+                     /translation="MNPYALSILLSSLAVGTITTLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTITNAWATGEWTIITMNDNTSTFILTIAL
+                     AIKLGIAPFHLWLPDVMQGLTLTTCLILTTWQKLAPMSLMIMTGHQLNTNLLITMAML
+                     STILGGWGGLNQTQMRKMMAYSSIAHLGWMTLILSFSPGLTALNLAIYLMLTSSMFLM
+                     MMTMTSTNMNKLSTSWLKTPLLASSMMITLMALGGLPPTSGFLPKWLILQEMTKQHLG
+                     AVSTLMAMSALLSLFFYLRLSYAVSLTTAPNTSNSNMAWRMPHNQMQINPTMITLTMM
+                     MLPITPTLLTM"
+ORIGIN      
+        1 atgaacccat atgcactgtc aattctattg tcgagcctag cagtaggaac aatcacaacc
+       61 ctttcaagct cccattgatt cctcgcatga gtgggcctag aaattaacac actagcaatc
+      121 atcccactaa taacaaaaat acaccaccca cgagcaacgg aatcagccac aaaatacttt
+      181 ctaacgcaag ccaccgcatc agccttaatc ttattttcta caatcacaaa cgcatgagcc
+      241 acaggagagt gaacaattat taccataaat gacaacacgt caacatttat cttaacaatt
+      301 gccctggcca tcaaactggg aatcgcccca tttcacctct gattaccaga cgttatacaa
+      361 ggattaaccc taacaacatg tctaatcctt acaacatgac aaaaattagc cccaatatcc
+      421 ttaataatta taaccggcca tcaattaaac acaaacctac taattacaat ggccatatta
+      481 tcaacaattc ttggggggtg gggaggcctt aaccaaacac aaatacgaaa aataatagca
+      541 tactcatcta ttgcccacct cggatgaata accctaatcc tatccttctc cccaggccta
+      601 acagcattaa acctagcaat ttacctaata ctaacctcat caatattttt aataataata
+      661 acaataacct caacaaatat aaataaactt tcaacatctt gactgaagac ccccctactg
+      721 gcatcatcaa tgataattac acttatagcc ctagggggcc tacccccaac ctcaggcttt
+      781 ttgccaaaat gactaatcct acaagaaata accaaacaac acctaggagc tgtatccaca
+      841 ctaatagcta tatctgccct actaagccta ttcttctacc tacgactatc atatgccgtc
+      901 tcattaacca ctgcaccaaa cacctcaaac tccaacatag cctgacgaat accccacaac
+      961 caaatacaaa tcaacccaac aataattaca ctaactataa taatactacc aatcacacca
+     1021 acactactaa caata
+//
+

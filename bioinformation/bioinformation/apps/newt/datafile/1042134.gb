@@ -1,0 +1,48 @@
+LOCUS       S78581                   540 bp    mRNA    linear   VRT 30-OCT-1995
+DEFINITION  Hox C6=homeobox C6 {5' region, alternatively spliced}
+            [Notophthalmus viridescens=newts, tail blastema, mRNA Partial, 540
+            nt].
+ACCESSION   S78581
+VERSION     S78581.1  GI:1042134
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Savard,P. and Tremblay,M.
+  TITLE     Differential regulation of Hox C6 in the appendages of adult
+            urodeles and anurans
+  JOURNAL   J. Mol. Biol. 249 (5), 879-889 (1995)
+   PUBMED   7791214
+  REMARK    GenBank staff at the National Library of Medicine created this
+            entry [NCBI gibbsq 168624] from the original journal article.
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..540
+                     /gene="Hox C6"
+                     /note="homeobox C6"
+     CDS             274..540
+                     /gene="Hox C6"
+                     /note="homeobox C6"
+                     /codon_start=1
+                     /protein_id="AAB34678.1"
+                     /db_xref="GI:1042135"
+                     /translation="IPFGHTFFSSPLISAALTSQCTVPCSAASYCVFLFALCLRSSTK
+                     HQRMRQREEKRNGKREGDREREEALGVGYGTDRRRGRQIYSRYQT"
+ORIGIN      
+        1 cactgtgctc tcttccttta acagtccgac cagtgccagt gatagagggt tcatgcgacc
+       61 tcctttattt aatttagttt gtcatttttc tctcgcccgc cccataaaat gtaattcctt
+      121 ttgttttttt atcctcttcc cgtgctgcta cgaggcattt tggaatcaat gaatggctgc
+      181 acctcccgcc gcctccccct tttccacccc taggggcaaa aggcaatccc tttccttggg
+      241 agaaacacag agcacgggag caaggagttg taaatacctt ttgggcatac atttttttct
+      301 tcccctctaa tctccgctgc ccttacaagc cagtgcactg tgccttgctc cgctgcgtct
+      361 tattgtgttt tcctcttcgc cctgtgtctg aggagctcga caaagcatca gcggatgaga
+      421 cagagggaag aaaagagaaa tggaaagaga gagggagaca gagagagaga ggaagcgttg
+      481 ggtgtgggct atggcacgga tcggagaagg gggcgccaga tctactcgcg ctaccagacc
+//
+

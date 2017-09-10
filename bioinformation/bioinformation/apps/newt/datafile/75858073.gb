@@ -1,0 +1,49 @@
+LOCUS       DQ196303                 365 bp    DNA     linear   VRT 04-OCT-2006
+DEFINITION  Taricha rivularis voucher MVZ 158853 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ196303
+VERSION     DQ196303.1  GI:75858073
+KEYWORDS    .
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 365)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Lineage diversification on an evolving landscape: phylogeography of
+            the California newt, Taricha torosa (Caudata: Salamandridae)
+  JOURNAL   Biol. J. Linn. Soc. Lond. 89 (2), 213-239 (2006)
+REFERENCE   2  (bases 1 to 365)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2005) Integrative Biology, Museum of Vertebrate
+            Zoology (University of California, Berkeley), 3101 Valley Life
+            Science Bldg, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..365
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42a_Tr_Mendocino"
+                     /specimen_voucher="MVZ 158853"
+                     /db_xref="taxon:36313"
+     CDS             <1..>365
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABA28611.1"
+                     /db_xref="GI:75858074"
+                     /translation="HPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFL
+                     AMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMF
+                     KETWNIGVILLFLVMATAFV"
+ORIGIN      
+        1 cacccactta taaaaatcat taacaactca ttcattgacc tcccaacacc gtcaaatatc
+       61 tcctactgat gaaacttcgg atcccttcta ggtgtgtgcc ttattacaca gatcctcaca
+      121 ggcctatttt tagcaataca ctacacagca gacactcaat cagcattctc atcagtagct
+      181 cacatttgcc gagatgtaaa ctacggctga ctagtacgga atattcacgc caacggggcc
+      241 tcactattct tcatctgcat ctatctacac atcggacgtg gcctatacta cggatcctac
+      301 atatttaaag aaacctgaaa cattggcgtc attctgctct tcctagtaat agccaccgcc
+      361 tttgt
+//
+

@@ -1,0 +1,45 @@
+LOCUS       JX510822                 451 bp    DNA     linear   VRT 20-MAR-2013
+DEFINITION  Triturus macedonicus haplotype Tmac3494CCa calreticulin gene,
+            intron C.
+ACCESSION   JX510822
+VERSION     JX510822.1  GI:444742906
+KEYWORDS    .
+SOURCE      Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 451)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     A multimarker phylogeography of crested newts (Triturus cristatus
+            superspecies) reveals cryptic species
+  JOURNAL   Mol. Phylogenet. Evol. 67 (1), 167-175 (2013)
+   PUBMED   23353071
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 451)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..451
+                     /organism="Triturus macedonicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385668"
+                     /haplotype="Tmac3494CCa"
+     gene            <1..>451
+                     /gene="calreticulin"
+     intron          <1..>451
+                     /gene="calreticulin"
+                     /number=C
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag ggggaaaaag cattcaattg gcagtgaatc atgcttttgg ctagaatttc
+      121 gaagtttcag agatatggct ttgatatctg gctttgattg gtctaactta atgaagtgac
+      181 ctgcagttct gagagtttca ggatgtctga gcttaatctg ttaagtcttt cggtgttgcc
+      241 tttcctttgc tgcctgcttt ttggtttgtg gtaagccttt tgctctcaca cactcgcaca
+      301 cactcgcatg aggttggata agcagtgcat acctgaaatg gcaaacccat ggcgtgggtg
+      361 tatttaaata catataatcg tgtgtagctc aggtttgtga agttttaaaa atgtcttcct
+      421 ttgctacagg gccagacatc tgcggacctc c
+//
+

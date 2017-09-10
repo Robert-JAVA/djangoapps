@@ -1,0 +1,59 @@
+LOCUS       JN700853                 600 bp    DNA     linear   VRT 24-FEB-2012
+DEFINITION  Paramesotriton hongkongensis voucher KIZ01577 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   JN700853
+VERSION     JN700853.1  GI:347596263
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+  ORGANISM  Paramesotriton hongkongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 600)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Universal COI primers for DNA barcoding amphibians
+  JOURNAL   Mol Ecol Resour 12 (2), 247-258 (2012)
+   PUBMED   22145866
+REFERENCE   2  (bases 1 to 600)
+  AUTHORS   Che,J., Chen,H.M., Yang,J.X., Jin,J.Q., Jiang,K., Yuan,Z.Y.,
+            Murphy,R.W. and Zhang,Y.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2011) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..600
+                     /organism="Paramesotriton hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ01577"
+                     /db_xref="taxon:164972"
+     gene            <1..>600
+                     /gene="COI"
+                     /gene_synonym="COXI"
+     CDS             <1..>600
+                     /gene="COI"
+                     /gene_synonym="COXI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AEP14108.1"
+                     /db_xref="GI:347596264"
+                     /translation="GMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFMV
+                     MPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTV
+                     YPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVW
+                     SVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGG"
+ORIGIN      
+        1 ggcatggtgg gcacagcctt aagcctatta attcgggctg agctaagcca accaggggcc
+       61 ctccttgggg atgaccagat ctataatgtt attgttactg ctcatgcttt tgtaataatc
+      121 ttttttatag taatgccagt aataatcggc ggatttggaa actgacttgt accccttatg
+      181 attggggccc ctgatatggc atttcctcgg ataaataata taagcttctg gcttctgccc
+      241 ccctcattcc tcttattact ggcctcctca ggcgtggagg caggagcagg gactggatga
+      301 accgtctacc cccccttggc cggcaacctt gctcatgcag gtgcctctgt agatctaaca
+      361 atcttttcac tacatctggc aggggtctcc tctattctag gggcaattaa ttttattaca
+      421 acatcaatta atataaagcc cccttctata acgcaatatc aaacacccct gtttgtatga
+      481 tcggtgctaa ttacggccat cctactgctt ctttctctcc ctgtacttgc agcaggtatt
+      541 accatgctgt taactgatcg aaatcttaat accaccttct ttgacccagc tggtggagga
+//
+

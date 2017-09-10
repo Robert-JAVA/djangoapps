@@ -1,0 +1,34 @@
+LOCUS       X04478                   281 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Notophthalmus viridescens satellite 2 DNA.
+ACCESSION   X04478
+VERSION     X04478.1  GI:64136
+KEYWORDS    repetitive DNA; satellite 2.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 281)
+  AUTHORS   Epstein,L.M., Mahon,K.A. and Gall,J.G.
+  TITLE     Transcription of a satellite DNA in the newt
+  JOURNAL   J. Cell Biol. 103 (4), 1137-1144 (1986)
+   PUBMED   3771629
+COMMENT     Data kindly reviewed (27-MAR-1987) by Gall J.G.
+FEATURES             Location/Qualifiers
+     source          1..281
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="ovary"
+                     /dev_stage="adult"
+     repeat_region   1..281
+                     /rpt_family="satellite 2"
+                     /rpt_type=TANDEM
+ORIGIN      
+        1 ctagcctagc tgatgaaggg tgataccctg aaaccggtcc taggatgctt tgtttccggt
+       61 ccagggaaga cctggcctgg cagttcggtc tggactgttc ccatgaggca cagggtcaag
+      121 actgatttgc atatggctgg gtccaaactg gggtggcttg gtgagcagaa gaacgatgat
+      181 ggattaaacc cagatctgtg actgggggtg agtgtctgta ctgttgccag cactccgtcc
+      241 atcatcacct tttgtgtttg taattgttcg ccctaagtgg c
+//
+

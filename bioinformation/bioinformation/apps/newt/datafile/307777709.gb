@@ -1,0 +1,50 @@
+LOCUS       AB190263                 736 bp    mRNA    linear   VRT 29-SEP-2010
+DEFINITION  Triturus marmoratus mRNA for betaB1-crystallin, partial cds.
+ACCESSION   AB190263
+VERSION     AB190263.1  GI:307777709
+KEYWORDS    .
+SOURCE      Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Mizuno,N., Ikegami,Y. and Kondoh,H.
+  TITLE     betaB1-crystallin of T. marmoratus
+  JOURNAL   Published Only in Database (2010)
+REFERENCE   2  (bases 1 to 736)
+  AUTHORS   Mizuno,N., Ikegami,Y. and Kondoh,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-SEP-2004) Contact:Nobuhiko Mizuno Differentiation
+            Transition Group, Kondoh Differentiation Signaling Project, ERATO;
+            1-3, suita, osaka 565-0871, Japan
+FEATURES             Location/Qualifiers
+     source          1..736
+                     /organism="Triturus marmoratus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8328"
+     CDS             <1..551
+                     /codon_start=3
+                     /product="betaB1-crystallin"
+                     /protein_id="BAJ21239.1"
+                     /db_xref="GI:307777710"
+                     /translation="HLELVNECASLGDRGFDRVRSVIVESGPWVGYEQSNLRGEMFIL
+                     EKGEYPRWDTWSNSYRSDCFMSLRPIRMDSQEHKISLYETADFKGNSMEIHEDDVPSL
+                     WAYGFCDRVGSVRVPSGTWVGYQYPGYRGYQYLFENGDYRHWNDWSAFQPQMQSIRRI
+                     RDMQWHQKGCFTIPAIAPSTTK"
+ORIGIN      
+        1 ggcacctgga gctggtaaat gagtgtgcca gccttggcga ccgtgggttc gaccgagtgc
+       61 gcagcgtcat tgtggaatct gggccctggg ttggctacga gcagtcaaac ctccgtgggg
+      121 agatgtttat cctggagaag ggcgagtatc ctcgttggga tacctggtct aacagctata
+      181 ggagcgactg cttcatgtcc ctccgcccca tcagaatgga tagccaagaa cataaaatct
+      241 ccctctacga gaccgccgac ttcaagggca actcgatgga gatccatgag gatgatgtgc
+      301 caagcctgtg ggcatatgga ttctgtgacc gcgtgggaag cgtgagagtg cccagtggaa
+      361 cctgggtcgg gtatcagtac cctggctaca gaggctacca atacctcttt gagaatggtg
+      421 actacagaca ctggaatgac tggtctgcct tccagccaca gatgcagtct atccgtcgca
+      481 tcagggacat gcagtggcac caaaagggat gcttcactat tcccgccatc gcgccatcaa
+      541 caacaaagtg agccacgacc atctcctgac tgccaacaga gctctcttct ggcactcacc
+      601 atctaaagga acatctctga gtttttgtag cctgctctgc cagttggatt actgtatatt
+      661 gcacatttaa tggatgtact ttactttatg atgcaaataa aaataatatt acccaaaaaa
+      721 aaaaaaaaaa aaaaaa
+//
+

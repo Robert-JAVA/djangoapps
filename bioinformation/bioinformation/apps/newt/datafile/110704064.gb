@@ -1,0 +1,64 @@
+LOCUS       DQ821204                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Neurergus strauchii isolate 3A cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821204
+VERSION     DQ821204.1  GI:110704064
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus strauchii (Anatolia newt)
+  ORGANISM  Neurergus strauchii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Neurergus strauchii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="3A"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:213852"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87952.1"
+                     /db_xref="GI:110704065"
+                     /translation="MAHTLRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRG
+                     LYYGSYMFTETWNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGMSMIHLLFLHQTGSNNPTGMSSNQDK
+                     ISFHPYFSYKDVLGFLLMLLLLMLISLLTPNILGDPENFTPANPLVTLPHLEPEW"
+ORIGIN      
+        1 atggcccaca ctttacgaaa aacccatccg ctattaaaaa ttattaacaa ctcattcatt
+       61 gacctgccaa caccatcaaa catttcctac tgatgaaact ttgggtctct tctaggtatt
+      121 tgccttatta cacaaatctt aacaggcctt ttcctagcaa tacactatac agcagacaca
+      181 caatcagcat tctcatccgt agcccacatt tgccgagacg ttaactacgg ctgactagta
+      241 cgaaacattc atgctaacgg agcctcactc ttttttatct gcatttacct acacatcgga
+      301 cgcggtttat actacgggtc ctatatattt acagaaacat gaaatattgg tgttgttcta
+      361 ctatttttag ttatagccac tgcctttgtt ggatacgtcc taccatgagg acagatgtca
+      421 ttctgagggg ctacagtaat caccaacctt ttatcagctg tcccctatat aggagactca
+      481 ctcgtacagt gaatttgggg tggtttctct gtagataagg caactctaac acgatttttt
+      541 gcatttcact tcttattccc attcttaatc gcaggaataa gcataattca cctgttgttc
+      601 cttcaccaga cagggtcaaa caacccaaca ggaatatcct caaaccaaga caaaatttcc
+      661 ttccatccat acttttccta caaagatgtc cttggattct tattaatact acttttatta
+      721 atactgatct cccttttaac cccaaatatt ctaggagacc cagaaaactt taccccagca
+      781 aacccactag taacnctccc acaccttgaa ccagaatga
+//
+

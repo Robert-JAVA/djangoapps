@@ -1,0 +1,68 @@
+LOCUS       KC165622                 882 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus recombination activating protein 2 (RAG-2)
+            gene, partial cds.
+ACCESSION   KC165622
+VERSION     KC165622.1  GI:523707461
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 882)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 882)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..882
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>882
+                     /gene="RAG-2"
+     mRNA            <1..>882
+                     /gene="RAG-2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>882
+                     /gene="RAG-2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="AGQ56125.1"
+                     /db_xref="GI:523707462"
+                     /translation="YVMSAIYRTNKKTTFCCTEKELEGDIPVGRYGHSINVVYSRGKK
+                     MCVIFGGRSYIPQGLRNTENWNSVEDCEPYVFLIDLEFGCSTSYALPQLQYGFSFHVS
+                     LARNNTVYILGGHCLKSNSRPPTLYKLKIDLPLGSPSISCTLLPGGLSLSSAIVTQIG
+                     SKDFVIVGGYESDTHKRMVCHAITLEDDSIEISRKDSPEWTSEIKHGKIWFGSNMGNG
+                     AVLFGLPGDNKQQAPDSNFFYILNFGEEKVTEACNMASTEDQEDSMPLEDSEEFYITA
+                     ETSLYDDDDTYNSDDDED"
+ORIGIN      
+        1 tatgtcatgt ccgccatcta tcgcacaaac aagaagacca ccttctgctg cacagagaaa
+       61 gaactggaag gagacattcc tgtgggacga tacggccatt ctattaatgt ggtttatagc
+      121 aggggtaaaa agatgtgtgt gatatttgga ggaagatcct atattcccca ggggctgagg
+      181 aatacagaga actggaacag cgttgaggac tgtgagccct atgtgttttt gattgacctt
+      241 gagtttggat gttccacctc gtatgcccta ccacagcttc aatatggatt ctccttccat
+      301 gtttctttgg ccagaaacaa cacagtttac attttaggtg gccattgcct caaaagcaat
+      361 agccgaccac caacattgta caaactaaaa attgatttgc ctcttggtag cccatccata
+      421 agctgcacac tgcttcccgg tggtttgtca ttgtcaagtg ccattgtcac tcagattgga
+      481 agcaaagact ttgttattgt tggcgggtat gaatctgaca cccataagag gatggtgtgc
+      541 catgccatca ccttagaaga tgacagcatt gagatctcaa ggaaagatag tccagaatgg
+      601 acatcagaga tcaagcatgg caagatctgg tttggcagca acatgggcaa tggtgctgtg
+      661 ctttttggct tacctggaga caacaagcag caggcacctg actccaactt tttctatatc
+      721 ttgaactttg gggaagagaa agttacagag gcttgcaaca tggcgagcac agaggatcaa
+      781 gaggactcca tgcctctgga agactcagag gagttttata tcacggctga gaccagtctt
+      841 tatgatgacg atgacactta caattcagac gacgacgaag at
+//
+

@@ -1,0 +1,56 @@
+LOCUS       AB005790                 750 bp    mRNA    linear   VRT 02-SEP-1998
+DEFINITION  Cynops pyrrhogaster mRNA for cyclin B1, partial cds.
+ACCESSION   AB005790
+VERSION     AB005790.1  GI:3510292
+KEYWORDS    cyclin B1.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Sakamoto,I., Takahara,K., Yamashita,M. and Iwao,Y.
+  TITLE     Changes in cyclin B during oocyte maturation and early embryonic
+            cell cycle in the newt, Cynops pyrrhogaster: requirement of
+            germinal vesicle for MPF activation
+  JOURNAL   Dev. Biol. 195 (1), 60-69 (1998)
+   PUBMED   9520324
+REFERENCE   2  (bases 1 to 750)
+  AUTHORS   Yamashita,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-1997) Masakane Yamashita, Hokkaido University,
+            Division of Biological Sciences; North 10, West 8, Sapporo 060,
+            Japan (E-mail:myama@bio.hokudai.ac.jp, Tel:011-706-5297,
+            Fax:011-757-5994)
+FEATURES             Location/Qualifiers
+     source          1..750
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="ovary"
+     CDS             <1..>750
+                     /codon_start=3
+                     /product="cyclin B1"
+                     /protein_id="BAA32566.1"
+                     /db_xref="GI:3510293"
+                     /translation="LIEVKDVDAGDAENPMLCSAYVKDIYNYLRNLEEEQSVRPRYLD
+                     GQEVTGNMRAILVDWPVQVQMKFRLLQETMFMTVGIIDRFLQANPVPKKMLQLVGVTA
+                     MFVACKYEEMYPPEIGDFAFVTDHTYTKAQIREMEMKILRVLDFGLGRPLPLHFLRRA
+                     SKIGEVSSEQHTLAKYLMELVMVDYDMVHFPPSQVAAAAFCLALKVLDGGEWTPTLEH
+                     YMCYSEGSLTPVMQHMAKNILKVNRGLTKHL"
+ORIGIN      
+        1 tgcttataga agtcaaagat gtggacgcgg gtgatgcaga gaaccccatg ctttgtagtg
+       61 cttatgtgaa ggatatttac aactatctga gaaacctgga ggaggaacag tctgtgaggc
+      121 caagatatct tgatggccag gaagttactg gaaacatgag ggctatatta gttgactggc
+      181 cggtgcaggt gcaaatgaag ttcaggctgc tccaagaaac catgttcatg actgtgggaa
+      241 ttattgaccg ttttctgcag gcaaatcctg tgccaaagaa gatgcttcaa ctagtagggg
+      301 taacggccat gtttgttgcc tgtaaatacg aggagatgta tcctcctgag attggagact
+      361 ttgcctttgt aactgaccac acctacacca aagctcagat tcgtgaaatg gaaatgaaga
+      421 ttttgagggt cctggacttt ggtctggggc ggcctttgcc actgcacttc ttacgacgag
+      481 cctccaagat tggcgaggtg agctcagaac agcataccct ggccaaatat ctgatggagc
+      541 tggttatggt ggattatgac atggtgcact tcccaccatc tcaggtggca gcggctgcct
+      601 tttgcttggc tcttaaagta cttgatggag gtgaatggac tcccacactg gagcattaca
+      661 tgtgctactc agaaggctcc ctgactccag tcatgcaaca tatggcaaag aacatcttga
+      721 aagttaatcg tggcctcact aagcatttga
+//
+

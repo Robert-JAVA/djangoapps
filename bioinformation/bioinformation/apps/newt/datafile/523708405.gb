@@ -1,0 +1,71 @@
+LOCUS       KC165122                1014 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis dispatched-like protein 1 (DISP-1) gene, partial
+            cds.
+ACCESSION   KC165122
+VERSION     KC165122.1  GI:523708405
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1014)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 1014)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1014
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>1014
+                     /gene="DISP-1"
+     mRNA            <1..>1014
+                     /gene="DISP-1"
+                     /product="dispatched-like protein 1"
+     CDS             <1..>1014
+                     /gene="DISP-1"
+                     /codon_start=1
+                     /product="dispatched-like protein 1"
+                     /protein_id="AGQ56597.1"
+                     /db_xref="GI:523708406"
+                     /translation="PHAETSETVSITLQHAALSMFVTSFTTAAAFYANYVSNITAIRC
+                     FGIYAGTAILVNYVLMVTWLPAVVVLHERYLLNVFDCFRKPQQHVYNHKNCWTLLCQK
+                     FQDLLFAVSEASRIFFEKVLPCIVIKFRYIWLFWFLALTVGGAYIVCINPKMKLPSLE
+                     LSEFQVFRSSHPFERYDAEYKKLFMFERVHHGEELHMPITIIWGVSPEDNGDPLNPKS
+                     KGKLKLDSSFNIASQESQVWIYNFCQKLRNQTFFHQPDEQDFTSCFIETFKQWMENDC
+                     DEPSHYPCCSQPKFPFKQEVFELCIKRAIMEIERSTGYHLDSKTPGPRFDTNDTIRAV
+                     VLEF"
+ORIGIN      
+        1 ccccatgctg aaacatctga aacggttagc atcaccctgc aacatgctgc tctttctatg
+       61 tttgttacca gttttacaac cgcagctgcc ttttatgcca actatgtgag caatatcact
+      121 gcgattaggt gttttggtat ttatgctggc acggccatat tggtgaatta tgtgttaatg
+      181 gtaacatggc tacctgcagt agtcgtgctc catgaacggt atcttctcaa tgtatttgac
+      241 tgctttcgaa aacctcagca gcatgtatac aaccacaaaa attgttggac acttttgtgc
+      301 caaaagttcc aagacctcct ctttgcagtt tcagaagcat ctcggatatt ttttgaaaaa
+      361 gttctaccat gcattgttat caaatttcgt tacatctggt tattttggtt tcttgcctta
+      421 actgttggtg gtgcatatat tgtgtgtatt aatccaaaga tgaagctgcc ttcactagag
+      481 ctttcagagt ttcaagtttt taggtcctct catccttttg aacgttatga tgcagaatac
+      541 aaaaaacttt tcatgtttga acgtgtccac catggagaag aacttcatat gcccatcacc
+      601 ataatttggg gtgtttctcc agaagacaac ggcgatccct tgaacccaaa aagtaaagga
+      661 aagctgaaat tggacagtag ctttaatata gcaagccaag aatcacaggt ctggatttat
+      721 aatttttgcc aaaagttgag gaaccaaacc ttttttcacc aaccagatga gcaagacttc
+      781 accagctgtt tcatcgagac ctttaaacag tggatggaaa atgactgcga tgagccttct
+      841 cattacccct gctgcagcca gccaaaattt ccctttaaac aagaagtgtt tgagctttgc
+      901 attaagaggg caataatgga aattgaaaga agtaccggat accatttaga cagtaagact
+      961 ccaggtccta ggtttgatac aaacgatacc atcagagctg ttgttttgga gttc
+//
+

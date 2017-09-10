@@ -1,0 +1,46 @@
+LOCUS       KF442199                 277 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Triturus cristatus microsatellite Tc70 sequence.
+ACCESSION   KF442199
+VERSION     KF442199.1  GI:543174645
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 277)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     What remains from a 454 run: estimation of the success rate of
+            microsatellite loci development in selected newt species
+            (Calotriton asper, Lissotriton helveticus, and Triturus cristatus)
+  JOURNAL   Ecol Evol (2013) In press
+REFERENCE   2  (bases 1 to 277)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2013) Department of Animal Behavior, University,
+            Morgenbreede 45, Bielefeld 33615, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Phobos v. 3.3.11
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..277
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /PCR_primers="fwd_name: Tc70F, fwd_seq:
+                     gggttgcaaagcaccttaat, rev_name: Tc70R, rev_seq:
+                     tacctgggtcctcctccaag"
+     repeat_region   1..277
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Tc70"
+ORIGIN      
+        1 cacagcgcca ggatccccgt acgggttgca aagcacctta ataagtctga aatacataca
+       61 tacatacata catacataca tacatacata catacataca tacatacata aatagtttcc
+      121 tactgtttat ttgtctagag gcgtagccag gagtgtatcc cagaagcgtt ttgtgttgtg
+      181 gggtcgatcg gggtttcagt gcttgtagga gagcatacaa gaaggaatgc atcccttgga
+      241 ggaggaccca ggtaagacac atttctctat gggaagc
+//
+

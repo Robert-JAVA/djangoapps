@@ -1,0 +1,42 @@
+LOCUS       X86252                   345 bp    DNA     linear   VRT 25-JUN-2007
+DEFINITION  Notophthalmus viridescens mitochondrial partial 12S rRNA gene.
+ACCESSION   X86252
+VERSION     X86252.1  GI:1050671
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 345)
+  AUTHORS   Hay,J.M., Ruvinsky,I., Hedges,S.B. and Maxson,L.R.
+  TITLE     Phylogenetic relationships of amphibian families inferred from DNA
+            sequences of mitochondrial 12S and 16S ribosomal RNA genes
+  JOURNAL   Mol. Biol. Evol. 12 (5), 928-937 (1995)
+   PUBMED   7476139
+REFERENCE   2  (bases 1 to 345)
+  AUTHORS   Hedges,S.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-1995) Hedges S. B., The Pennsylvania State
+            University, Biology, 208 Erwin W. Mueller Laboratory, University
+            Park, Pennsylvania, USA, 16802
+FEATURES             Location/Qualifiers
+     source          1..345
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>345
+                     /gene="12S rRNA"
+     rRNA            <1..>345
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ccgccagagt actacnagca acagcttaaa actcaaagga cttggcggtg ctctataccc
+       61 ccctagagga gcctgttcta taatcgataa tccacgataa acctcaccat ctattgctaa
+      121 tacagcctat ataccaccgt ccagcccacc ctttaaagga taaacagtag gcacaattat
+      181 aaacataaaa acgtcaggtc aaggtgtagc atataagatg ggaagaaatg ggctacattt
+      241 tctaatctag aaaatacgga aaagtctatg aaataggact ataaaggagg atttagcagt
+      301 aaaaagaaaa aagagtgttc tttttaagcc ggcaatggag cgcgc
+//
+

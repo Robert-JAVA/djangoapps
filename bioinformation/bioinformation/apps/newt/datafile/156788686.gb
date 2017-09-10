@@ -1,0 +1,52 @@
+LOCUS       EF525953                 146 bp    DNA     linear   VRT 21-NOV-2011
+DEFINITION  Lissotriton boscai voucher RuHF-TBB-01-4 cytochrome oxidase subunit
+            I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF525953
+VERSION     EF525953.1  GI:156788686
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 146)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 146)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="RuHF-TBB-01-4"
+                     /db_xref="BOLD:ABCAP149-05"
+                     /db_xref="taxon:323757"
+                     /country="Spain: Cantabria"
+                     /lat_lon="43.25 N 4.08 W"
+                     /collection_date="18-Jul-2004"
+                     /collected_by="Rafael Fonoll"
+     gene            <1..>146
+                     /gene="COI"
+     CDS             <1..>146
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95917.1"
+                     /db_xref="GI:156788687"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFV"
+ORIGIN      
+        1 accctatact taatcttcgg tgcttgagcc ggcatagtgg gcacagcact aagtttacta
+       61 attcgagccg agctaagcca gcctggagca cttctagggg atgaccaaat ttataatgtc
+      121 attgttaccg ctcatgcttt cgtaat
+//
+

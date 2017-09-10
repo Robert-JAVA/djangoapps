@@ -1,0 +1,49 @@
+LOCUS       AB154819                 556 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Sox2 mRNA for SOX2, partial cds.
+ACCESSION   AB154819
+VERSION     AB154819.1  GI:49204499
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Ueda,Y., Okamoto,M. and Kondoh,H.
+  TITLE     FGF2 triggers iris-derived lens regeneration in newt eye
+  JOURNAL   Mech. Dev. 121 (6), 519-526 (2004)
+   PUBMED   15172683
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Hayashi,T., Mizuno,N., Ueda,Y. and Kondho,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /note="newt"
+     gene            <1..556
+                     /gene="Sox2"
+     CDS             <1..32
+                     /gene="Sox2"
+                     /codon_start=3
+                     /product="SOX2"
+                     /protein_id="BAD24664.1"
+                     /db_xref="GI:49204500"
+                     /translation="NGTLPLSHM"
+ORIGIN      
+        1 taaacggcac gctacccctc tcgcacatgt gacaatgagc cccgggcccc agcactcgcc
+       61 gcccccctct attttggact atttttgtac agagaagaaa aaaaaaacag atctttctgg
+      121 gagaagagtg aaaaataatt aaaaaaacac tgtatagaac ttatctgacc ggtaacagaa
+      181 cttttccgaa agtttcgcca acttccaagt ggaggttctg ctccatctct aacccccgat
+      241 gagctcttag ggctagaaaa aaaactttta aaagacacag agaaacatag atgaacatgt
+      301 tttaatattt gccagctgct tgttaaaagg ttttcaccgg cattcttaac tccaacatct
+      361 ttagagctgg gggagtgggg cgaaatgaaa catgtttttt tatatatatt tgcgaataca
+      421 ttttttgtac agtatttatc aagttttcaa aaacgtggca atcaggaaga atgttcgatt
+      481 tgtttttaca agctcatgat tttgccagtc atttgtgttt atatttttta gaaattcagc
+      541 tggaatcaga ggcagc
+//
+

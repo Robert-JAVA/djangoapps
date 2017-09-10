@@ -1,0 +1,57 @@
+LOCUS       AB201956                 811 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Frizzled4 mRNA for Newt Frizzled4, partial cds.
+ACCESSION   AB201956
+VERSION     AB201956.1  GI:118197087
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Takada,R., Takada,S. and Kondoh,H.
+  TITLE     Determinative role of Wnt signals in dorsal iris-derived lens
+            regeneration in newt eye
+  JOURNAL   Mech. Dev. 123 (11), 793-800 (2006)
+   PUBMED   17030116
+REFERENCE   2  (bases 1 to 811)
+  AUTHORS   Hayashi,T., Mizuno,N. and Kondoh,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2005) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..811
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..>811
+                     /gene="Fz4"
+     CDS             <1..>811
+                     /gene="Fz4"
+                     /codon_start=1
+                     /product="frizzled4"
+                     /protein_id="BAF37018.1"
+                     /db_xref="GI:118197088"
+                     /translation="ILCFISTAFTVLTFLIDSSRFSYPERPIIFLSMCYNIYSIAYIV
+                     RLTVGRERISCDFDEAAEPVLIQEGLKNTGCAIIFLLMYFFGMASSIWWVILTLTWFL
+                     AAGLKWGHEAIEMHSSYFHIAAWAIPAVKTIVILIMRLVDSDELTGLCYVGNQNIDAL
+                     TGFVVAPLFTYLVIGTLFIAAGLVALFKIRSNLQKDGTKTDKLERLMVKIGVFSVLYT
+                     VPATCVIACYFYEISNWAVFRYSADDSNRAVEMLKIFMSLLVGITSSMWIWS"
+ORIGIN      
+        1 atcctgtgct tcatctccac agccttcact gtcttgacct ttctgataga ctcttccagg
+       61 ttctcctacc ctgagcggcc catcatattc ctgagcatgt gctacaacat ctacagcatc
+      121 gcctacattg tccgtctgac cgtgggccgg gagcgtatat cctgtgactt tgacgaggcc
+      181 gcggaaccag tcctcatcca agagggcctc aagaacacgg gctgcgccat cattttcctg
+      241 ctgatgtact tctttgggat ggcaagctct atctggtggg taatcctgac gttgacgtgg
+      301 ttcctggcag cgggtcttaa gtggggacac gaggccatcg aaatgcatag ctcctacttc
+      361 cacattgcgg catgggccat cccagcagtg aagaccattg tcatcttgat catgaggctg
+      421 gttgactccg atgagctcac tggcctttgc tacgtgggca accagaacat tgacgcccta
+      481 actggcttcg tggtagcacc tctgttcacc tacttggtga tcgggacact cttcatagcc
+      541 gctgggctgg tggcactttt caagatacgt tcaaacctcc agaaggatgg gacgaagacg
+      601 gacaagttgg agcgactgat ggtcaagata ggtgtcttct ccgtcctgta caccgtccca
+      661 gccacttgtg tcatcgcttg ctacttctac gaaatctcca actgggccgt cttcagatac
+      721 tccgctgatg actccaacag ggcggtcgag atgctcaaaa tcttcatgtc gctgctggtg
+      781 ggcatcacct ccagcatgtg gatatggtcg g
+//
+

@@ -1,0 +1,41 @@
+LOCUS       PWU80580                 542 bp    mRNA    linear   VRT 02-JUN-1997
+DEFINITION  Pleurodeles waltl Wnt-5b mRNA, partial cds.
+ACCESSION   U80580
+VERSION     U80580.1  GI:2149104
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Caubit,X., Nicolas,S. and Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-1996) LGPD, IBDM, CNRS-UNR C 9943, Parc
+            Scientific de Luminy, Marseille 13288, France
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..278
+                     /note="secreted glycoprotein"
+                     /codon_start=3
+                     /product="Wnt-5b"
+                     /protein_id="AAB58493.1"
+                     /db_xref="GI:2149105"
+                     /translation="RFNTPTVEDLVYIDQSPDYCLRNESTGSLGTLGRLCNKTSEGMD
+                     GCELMCCGRGYDQFKTVQVERCHCKFHWCCFVKCKKCTEIVEQYVCK"
+ORIGIN      
+        1 gccgcttcaa cacgcccacc gtggaggacc tggtctacat cgaccagagc cccgactact
+       61 gcctgcgcaa cgaatccacc ggctccctgg gcaccctggg ccggctctgc aacaagacct
+      121 ccgagggcat ggacggctgc gagctcatgt gctgcggccg gggctacgac cagttcaaga
+      181 ccgtccaggt ggagcgttgt cactgcaagt tccactggtg ctgctttgtc aagtgcaaaa
+      241 aatgcaccga gatcgtcgag cagtacgtgt gtaaatgaaa gaaccaacgg ggcagggaag
+      301 gggggggaag aagaaaccag ccgaaatata tattatataa atatataaat atatatttta
+      361 tatgtgtata aataaataga tagataataa ttaaagctta tttaagagac cttttttggc
+      421 aacgaaacca atggaatgga tgtttcattg gaggcttgag gagaaggagg tggacagtag
+      481 ctccggatgt tggtgccaga ccatgtgacc gatgggaccg caaggctgag agctctgtcg
+      541 ac
+//
+

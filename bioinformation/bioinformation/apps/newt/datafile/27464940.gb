@@ -1,0 +1,39 @@
+LOCUS       AY147250                 354 bp    DNA     linear   VRT 02-JAN-2003
+DEFINITION  Neurergus kaiseri 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY147250
+VERSION     AY147250.1  GI:27464940
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus kaiseri (Luristan newt)
+  ORGANISM  Neurergus kaiseri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 354)
+  AUTHORS   Steinfartz,S., Hwang,U.W., Tautz,D., Oez,M. and Veith,M.
+  TITLE     Molecular phylogeny of the salamandrid genus Neurergus: evidence
+            for an intrageneric switch of reproductive biology
+  JOURNAL   Amphib-reptil. 23, 419-431 (2002)
+REFERENCE   2  (bases 1 to 354)
+  AUTHORS   Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-SEP-2002) Evolutionary Genetics, Institute of
+            Genetics, University of Cologne, Weyertal 121, Cologne 50931,
+            Germany
+FEATURES             Location/Qualifiers
+     source          1..354
+                     /organism="Neurergus kaiseri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:213856"
+     rRNA            <1..>354
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcttagccat aaactttgat taatccgccc gagtactacg agcaacagct taaaactcaa
+       61 aggacttggc ggtgctctac acccacctag aggagcctgt tctataatcg ataatccacg
+      121 ataaacctca ccatctattg ccaatacagc ctatatacca ccgtccagcc caccctctaa
+      181 aggcacaaca gtaggcacaa ctacaaacat aaaaacgtca ggtcaaggtg tagcaaataa
+      241 gatgggaaga aatgggctac attttctaac ctagaaaaac acggaaaagt ctgtgaaaca
+      301 agactataaa ggaggattta gcagtaaaaa gaaaaagaga gttcttttta agac
+//
+

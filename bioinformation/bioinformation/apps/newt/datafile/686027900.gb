@@ -1,0 +1,49 @@
+LOCUS       KJ776922                 531 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate Eastern_GC_sub_7 cytochrome b
+            (cytb) gene, partial cds; mitochondrial.
+ACCESSION   KJ776922
+VERSION     KJ776922.1  GI:686027900
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 531)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..531
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Eastern_GC_sub_7"
+                     /db_xref="taxon:8316"
+     gene            <1..>531
+                     /gene="cytb"
+     CDS             <1..>531
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AIP91021.1"
+                     /db_xref="GI:686027901"
+                     /translation="FSSVAHICRDVNYGWLVRNIHANGASFFFICIYLHIGRGLYYGS
+                     YMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDALVQWI
+                     WGGFSVDKATLTRFFAFHFLFPFMIAGASIVHLLFLHETGSNNPTGMSSNPDKIAFHP
+                     YFSYKDVLGFLLMLLI"
+ORIGIN      
+        1 attctcatca gtagcccaca tttgccgaga cgtaaattac ggctgattag tacgaaacat
+       61 ccacgccaac ggagcttcat ttttctttat ctgtatttat ctacacatcg gacgaggctt
+      121 gtactacgga tcctatatat ttaaagaaac ctgaaacatc ggtgttattc tacttttcct
+      181 agtcatagcc accgcttttg taggatacgt cctcccatga ggccaaatat cattttgagg
+      241 cgctacagtc attacaaacc tattatcagc aatcccgtat ataggagatg cattagtaca
+      301 atgaatttga ggcggatttt cagtagacaa agctacttta acccgatttt ttgcatttca
+      361 cttcttattt ccatttataa ttgcaggggc aagtattgtc cacttacttt ttcttcatga
+      421 aaccggatca aacaatccaa caggaatatc atcaaacccg gacaaaattg catttcaccc
+      481 atacttctca tacaaagatg tcttaggttt cctattaata cttttaatct t
+//
+

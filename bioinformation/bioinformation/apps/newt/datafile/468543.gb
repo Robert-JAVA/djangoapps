@@ -1,0 +1,99 @@
+LOCUS       Z31585                  2191 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  N.viridescens mRNA for alpha-tubulin.
+ACCESSION   Z31585
+VERSION     Z31585.1  GI:468543
+KEYWORDS    alpha-tubulin.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2191)
+  AUTHORS   Wu,W.L.
+  JOURNAL   Thesis (1993) Departmant of Genetics, University of Nottingham,
+            Nottingham, U.K
+REFERENCE   2  (bases 1 to 2191)
+  AUTHORS   Wu,W.L. and Morgan,G.T.
+  TITLE     Conservation of vertebrate alpha-tubulin isotypes in amphibians
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2191)
+  AUTHORS   Morgan,G.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-1994) Garry T Morgan, Department of Genetics,
+            University of Nottingham, Queens Medical Centre, Nottingham, NG7
+            2UH, U.K
+FEATURES             Location/Qualifiers
+     source          1..2191
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="pNcSK2.2"
+                     /sex="female"
+                     /tissue_type="ovary"
+                     /clone_lib="ovary cDNA library of J.G.Gall"
+                     /dev_stage="adult"
+     CDS             755..2107
+                     /codon_start=1
+                     /product="alpha-tubulin"
+                     /protein_id="CAA83457.1"
+                     /db_xref="GI:468544"
+                     /db_xref="GOA:Q91060"
+                     /db_xref="InterPro:IPR000217"
+                     /db_xref="InterPro:IPR002452"
+                     /db_xref="InterPro:IPR003008"
+                     /db_xref="InterPro:IPR008280"
+                     /db_xref="InterPro:IPR017975"
+                     /db_xref="InterPro:IPR018316"
+                     /db_xref="InterPro:IPR023123"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91060"
+                     /translation="MRECISVHVGQAGVQMGNACWELYCLEHGIQPDGQMPSDKTIGG
+                     GDDSFNTFFSETGAGKHVPRAIFVDLEPSVIDEVRTGTYRQLFHPEQLISGKEDAANN
+                     YARGHYTIGKEIIDQVLDRMRKLADQCTGLQGFLVFHSFGGGTGSGFTSLLMERLSVD
+                     YGKKSKLEFAIYPAPQVSTAVVEPYNSILTTHTTLEHSDCAFMVDNEAIYDICRRNLD
+                     IERPSYTNLNRLISQIVSSITASLRFDGALNVDLTEFQTNLVPYPRIHFPLATYAPVI
+                     SAEKAYHEQLSVAEITNACFEPANQMVKCDPRHGKYMACCLLYRGDVVPKDVNAAIAA
+                     IKTKRSIQFVDWCPTGFKVGINYQPPTAVPGGDLAKVQRAVCMLSNTTAIAEAWARLD
+                     HKFDLMYAKRAFVHWYVGEGMEEGEFSEAREDMAALEKDYEEVGLDSYEGEEDEGEEY
+                     "
+     regulatory      2169..2174
+                     /regulatory_class="polyA_signal_sequence"
+ORIGIN      
+        1 cctctgcccc tttactggag ccagaacaca cctgcggctt ccgaggcctt gatggccaga
+       61 ccttggaatt gagtggggaa gaaataagtg ggcgtgatgt gcagttggta gatctgcggg
+      121 actgccgtgt gcgattgccc ggaagccctg gtaccctgca cttgcgaggg ctgcgcggtt
+      181 gcactgttct ctgtgggcca gtttctagct ccgtgtttat ggatgagtgc cacagttgtg
+      241 aattggcctt tccctgtcag caactacggg tgcaccgcac cacggacacc cgcatctacc
+      301 tgcatgtcac gtgtcgggcc atcatcgagg actgcgcagg ctgggcttcg cgccactcac
+      361 ttggaactac cccggcatgg acgaggacta ccttagcgcc ggcctggatc tctcccgtaa
+      421 tcactggagt caggtggacg acttcgactg gctggcccgg gatgcagcgt cacccaactg
+      481 gggcattgta cccgaggaag agcgtcggtt gcagtgggat taaaggagtg agtcagtggg
+      541 accggggtgg tcctattctt gacttcgaag ctgctgttta cacattcact gaaggcaacc
+      601 ctcaatctga tctgctcgca ggtcactaac atgtgatatg ctattccaag cttttggcaa
+      661 aacttattga ctttcgttaa atataattga catgcgttct ttgcttcggc gtacctgtct
+      721 ctgtgagacc agaaccgacc ggaccagcgc aatcatgagg gaatgtattt cagtccatgt
+      781 cggccaggct ggggtccaaa tgggcaatgc ctgctgggag ctgtactgcc tggagcatgg
+      841 catccagccg gacggacaga tgcccagcga caagaccatt gggggcggcg acgactcctt
+      901 taacacattc ttcagcgaga ctggtgctgg gaagcacgtg ccccgtgcca tctttgtgga
+      961 cctagagccc agtgtcattg atgaagttag gaccgggact taccgccagc ttttccaccc
+     1021 ggagcagctt ataagtggca aggaagatgc tgccaataat tatgcccgtg ggcattacac
+     1081 catcggcaag gagatcattg atcaagtgct ggaccgaatg cggaagctgg ctgaccagtg
+     1141 tactggtctt caaggattcc ttgtctttca tagctttggt ggaggcactg gatccggctt
+     1201 cacgtccctg ctgatggagc ggctgtctgt agattatggc aagaagtcta agcttgaatt
+     1261 tgccatctac cctgctcctc aagtgtcaac tgctgtggtt gaaccctaca actccatcct
+     1321 gactactcac accaccctgg agcattccga ctgcgccttc atggtggaca acgaggcaat
+     1381 ctatgacatc tgccgcagga acctggacat tgagcgtccg tcctatacca acctcaaccg
+     1441 cttaataagt cagattgtgt cctccatcac cgcctccctc cggttcgatg gtgccctcaa
+     1501 tgttgacctc acagagttcc agaccaactt ggtgccctat ccccgtatcc acttccccct
+     1561 ggccacctac gccccagtga tctctgcaga gaaagcctac cacgagcagc tttcagtcgc
+     1621 agagataacc aatgcttgct ttgagccagc aaaccagatg gtgaaatgtg acccgcgcca
+     1681 cgggaagtac atggcttgct gcctgctata ccgtggcgac gtggtgccca aagatgttaa
+     1741 tgctgcgatt gcagcaataa agaccaagcg tagtatccag tttgtggact ggtgcccaac
+     1801 tggttttaaa gttggtatta actaccaacc tcccactgca gtgcctggtg gggatctggc
+     1861 caaggtgcag cgtgctgtgt gcatgttgag caacaccaca gcaattgctg aggcttgggc
+     1921 tcgcttggac cacaagtttg acctgatgta tgctaagcgt gcctttgtcc actggtatgt
+     1981 gggtgagggg atggaggaag gagagttctc agaggcccga gaggacatgg cagccctgga
+     2041 gaaggattat gaagaggtgg gattagactc ttatgagggc gaagaagatg aaggtgaaga
+     2101 gtattaggcg gaagtgattt tattgtgtgg tagatggaca cttttctgtg cagtcctttc
+     2161 atcatgaaat taaagtcttt tttttccaat g
+//
+

@@ -1,0 +1,58 @@
+LOCUS       KM463921                 542 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Taricha granulosa sodefrin precursor-like factor alpha isoform 05
+            (Cloa_05) mRNA, partial cds.
+ACCESSION   KM463921
+VERSION     KM463921.1  GI:695943531
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..542
+                     /gene="Cloa_05"
+                     /note="TaGr_Cloa_05"
+     CDS             <1..291
+                     /gene="Cloa_05"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor alpha isoform 05"
+                     /protein_id="AIT39258.1"
+                     /db_xref="GI:695943532"
+                     /translation="VEFSYEGMDPIYNVFKNCSGVGAKNTLFRSTVYEAFYQQSVEVC
+                     QTNGCNKGPLQSAPPRQSAHRGCTSAKSEEQFPRGPADTIQDIVTLIVSKGL"
+ORIGIN      
+        1 gttgagttca gctatgaggg aatggaccca atttataacg tcttcaagaa ttgctcaggt
+       61 gtgggagcca agaacacctt gttcaggagc acagtatatg aagcctttta tcagcagagt
+      121 gttgaagtct gccaaacaaa tggctgcaat aaaggccctc tccaatcggc acctcctcgc
+      181 cagtctgcac atcgtggctg caccagcgca aagagtgagg agcaattccc taggggtcct
+      241 gcagacacaa tacaagacat tgtgacactg atagtcagca aaggcctttg aaggcgtttt
+      301 ggcaacaagg ctctgaagca aggatctctt ttgcttctaa tcctgacaaa gctctctacg
+      361 cttagcctca tttaaatcac gaaacagcct ctttacaggg cgtttacaaa caatgtatga
+      421 cctgtttgct gcagtttttt tgattcgctt gatttcccac aataaatatt aatttgtatg
+      481 cattccaaag tacaaaataa acgttttcac tttgtaaaaa aaaaaaaaaa aaaaaaaaaa
+      541 aa
+//
+

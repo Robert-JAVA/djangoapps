@@ -1,0 +1,52 @@
+LOCUS       KJ156362                 266 bp    mRNA    linear   VRT 25-FEB-2014
+DEFINITION  Notophthalmus viridescens SIX homeobox 1 (SIX1) mRNA, partial cds.
+ACCESSION   KJ156362
+VERSION     KJ156362.1  GI:586598315
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 266)
+  AUTHORS   Laine,I., Mulindwa,P.P., Zadora,A., Witman,N.M. and Morrison,J.I.
+  TITLE     Degenerate PCR to determine the presence of Six1 in red-spotted
+            newt hearts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 266)
+  AUTHORS   Laine,I., Mulindwa,P.P., Zadora,A., Witman,N.M. and Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JAN-2014) Department of Molecular Biosciences, The
+            Wenner-Gren Institute, Stockholm Universtitet, Svante Arrheniusvag
+            20C, Stockholm 10691, Sweden
+FEATURES             Location/Qualifiers
+     source          1..266
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /cell_type="cardiac cells"
+                     /dev_stage="adult"
+                     /country="Sweden"
+                     /collection_date="Nov-2013"
+                     /PCR_primers="fwd_name: degenerate six1 for, fwd_seq:
+                     atmctrgagagccaccagttc, rev_name: degenerate six1 rev,
+                     rev_seq: ctgccgccggttcttraacca"
+     gene            <1..>266
+                     /gene="SIX1"
+     CDS             <1..>266
+                     /gene="SIX1"
+                     /note="transcription factor"
+                     /codon_start=1
+                     /product="SIX homeobox 1"
+                     /protein_id="AHJ61120.1"
+                     /db_xref="GI:586598316"
+                     /translation="QHLWAEAHYVEAEKLRGRPLGAVGKYRVRRKFPLPRTIWDGEET
+                     SYCFKEKTRGVLREWYAHNPYPSPREKRELAEATGLTTTQVSNW"
+ORIGIN      
+        1 cagcacttgt gggctgaggc gcactacgtc gaggcggaga agctgcgcgg ccgacccctg
+       61 ggcgccgtgg gcaaatatcg ggtgcgccgc aaatttccgc tgccgcgcac catctgggac
+      121 ggcgaggaga ccagctactg cttcaaggaa aagactaggg gtgtgctgcg ggagtggtac
+      181 gcgcacaatc cctacccttc accgcgtgag aagcgtgagc tggccgaggc caccggcctc
+      241 accaccaccc aggtcagcaa ctggtt
+//
+

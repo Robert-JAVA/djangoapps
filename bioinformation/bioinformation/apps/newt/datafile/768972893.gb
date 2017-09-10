@@ -1,0 +1,105 @@
+LOCUS       LC002644                2001 bp    mRNA    linear   VRT 14-MAR-2015
+DEFINITION  Cynops pyrrhogaster Pax6 mRNA for Pax6 transcript variant 4 isoform
+            L, complete cds.
+ACCESSION   LC002644
+VERSION     LC002644.1  GI:768972893
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Pax6 transcript variants in reprogramming retinal pigment
+            epithelium cells of adult newt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2001)
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Contact:Wataru Inami University of Tsukuba,
+            Faculty of life and Environmental Sciences; Tennodai 1-1-1,
+            Tsukuba, Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..2001
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..2001
+                     /gene="Pax6"
+     misc_feature    join(976..1596,1748..1897)
+                     /gene="Pax6"
+                     /note="Pax6 transcript variant 4 isoform S;
+                     alternative spicing Pax6 transcript variant 4 gene; lack
+                     regions equivalent to human exon-12"
+     CDS             976..1833
+                     /gene="Pax6"
+                     /note="Cynops pyrrhogaster Pax6 transcript variant 4 gene
+                     has 2 alternative spicing isoforms; contain regions
+                     equivalent to human exon-12"
+                     /codon_start=1
+                     /product="Pax6 transcript variant 4 isoform L"
+                     /protein_id="BAQ59167.1"
+                     /db_xref="GI:768972894"
+                     /translation="MGADGMYDKLRMLNGQTGTWGTRPGWYPGTSVPGQPTPDGCQQQ
+                     EGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVF
+                     ARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVY
+                     QPIPQPTTPVSFTSGSMLGRTDTSLTNTYGGLPPMPSFTMGNNLPMQPPVPSQASSYS
+                     CMLPSSPSVNGRSYDTYTPPHMQAHMNSQSMGTAGATSTGLISPGVSVPVQVPGSEPD
+                     LSQYWPRLQ"
+     misc_feature    1201..1374
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="Homeodomain; DNA binding domains involved in the
+                     transcriptional regulation of key eukaryotic developmental
+                     processes; may bind to DNA as monomers or as homo- and/or
+                     heterodimers, in a sequence-specific manner; Region:
+                     homeodomain; cd00086"
+     misc_feature    order(1201..1212,1216..1218,1267..1269,1285..1287,
+                     1324..1326,1330..1335,1342..1347,1351..1359,1363..1368)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="DNA binding site [nucleotide binding]"
+     misc_feature    order(1204..1206,1213..1215,1333..1335,1342..1347,
+                     1354..1356)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="specific DNA base contacts [nucleotide binding];
+                     other site"
+ORIGIN      
+        1 atgcacttta gctcacgaac tcgcgaacct ctctgtccag ctgacttaaa gacacatttc
+       61 atctgcttaa tttaaagaaa tgtttcatct gcttgtagct ttgtgcttgt tatgcttgta
+      121 gtttataaaa aaaaaaaaaa cacggtttca gttatttaaa cttattctat gtaattatat
+      181 acattatatt tacattaatt gtcatggcca gtctagtaga aattgcattt tcgccaacga
+      241 tttatgcagt ctttaagtcc agctgttttc ttagccgatt ttatttgtta ggaaacattg
+      301 aatatataag caatttggct tattttagag ctgttttcta cctgtagtat tctagtattt
+      361 ttatatggca aaacaaatct atgtctagtt ttgcataatt actgtacagc tgcaggtata
+      421 atgctgcgat aatattgcca gagtagtgtc ctgtaatgtt tataaagcct cacacatatt
+      481 tatatctata catagctgta gggccacaaa tgtaaattta agaaaacttt taagtaagtt
+      541 ctcataccat ttaaggtata tttttgtatt atagacccat gcagatgcaa aagtccaagt
+      601 gctggacagt caaaacgtaa gcctgtcctt gtttatgcat acttaaaaca ttttaccatt
+      661 gtcttgaaat tattaataat gtgattttct gtccgttccc ctgctcaggt gtccaatggg
+      721 tgtgtgagta agattctggg caggtattac gagacgggct ccatccggcc gcgcgccatt
+      781 ggaggcagca agcccagggt ggcgaccccc gaggtggtga gcaagatcgc gcagtacaag
+      841 cgcgagtgcc cgtccatctt cgcctgggag atccgcgacc ggctgctgtc cgagggggtt
+      901 tgcaccaacg acaacatccc cagcgtgtca tcgataaacc gagtgctccg caacctggct
+      961 agcgaaaagc aacaaatggg cgcagacgga atgtacgaca agctgcggat gctgaacgga
+     1021 cagacgggca cctggggcac ccggccgggc tggtacccgg ggacctcggt gccggggcag
+     1081 cccacaccag atggctgcca gcagcaggaa gggggaggcg agaacaccaa ctccatcagc
+     1141 tccaacggtg aagactcaga cgaggcccag atgaggctgc agctgaaacg taaactgcaa
+     1201 aggaacagga cgtctttcac tcaggagcag atcgaggccc tggagaaaga gtttgaacga
+     1261 acacattacc ctgacgtgtt tgcaagagag agactagctg ccaaaataga cctacctgaa
+     1321 gcacgaatac aggtctggtt ctcaaacagg agggcaaagt ggagaaggga agagaaactg
+     1381 cggaaccaga ggaggcaagc aagcaacact cccagccata tccccatcag cagcagcttc
+     1441 agcaccagtg tgtaccaacc catcccccag cccacaacac ctgtttcatt tacgtccggg
+     1501 tccatgttgg gcagaacaga cacatccctg acaaacacat acggcggcct accacccatg
+     1561 cccagcttca caatgggcaa caacctgcct atgcaacccc cagttcccag ccaggcctcc
+     1621 tcctactctt gcatgctgcc ctctagtccg tcagtgaatg ggcggagcta tgatacatac
+     1681 acacctcctc acatgcaggc acacatgaac agccagtcca tgggcacagc tggcgccact
+     1741 tcgacaggtc tcatttcccc tggagtgtca gtcccagtac aagttcccgg cagtgaacct
+     1801 gacctgtctc aatactggcc aagattacag taaaaaccgg gctaacatag ccaatgactt
+     1861 tgtggagaac agttggatgt tcagcagtat tctatagagg agggacacgg ctggcaaaaa
+     1921 gtactcctcc actgcaactc tgccctgagt tgggaggctt cggaaagact ttttcaaggg
+     1981 acctttgcac aatttgaagg c
+//
+

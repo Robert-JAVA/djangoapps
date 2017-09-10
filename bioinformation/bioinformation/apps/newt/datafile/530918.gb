@@ -1,0 +1,42 @@
+LOCUS       TCHMTCYTBK               375 bp    DNA     linear   VRT 19-DEC-1996
+DEFINITION  Taricha granulosa (20.T.g.MN) mitochondrial cytochrome b gene,
+            partial cds.
+ACCESSION   L22714
+VERSION     L22714.1  GI:530918
+KEYWORDS    cytochrome b.
+SOURCE      mitochondrion Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 375)
+  AUTHORS   Tan,A.M. and Wake,D.B.
+  TITLE     MtDNA phylogeography of the California newt, Taricha torosa
+            (Caudata, Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 4 (4), 383-394 (1995)
+   PUBMED   8747295
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Taricha granulosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8321"
+     CDS             <1..>375
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB38981.1"
+                     /db_xref="GI:530919"
+                     /translation="HPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFL
+                     AMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMF
+                     KETWNIGVILLFLVMATAFVGYV"
+ORIGIN      
+        1 cacccactta taaaaattat caataactca tttattgacc tcccaacgcc atcgaatatc
+       61 tcctattgat gaaacttcgg ctccctcctc ggggtgtgcc taatcacaca aatcctcaca
+      121 ggcctcttcc tagcaataca ctacacagca gacactcaat cggcattctc atcagtagcc
+      181 cacatctgcc gagatgtaaa ctatggctga ctagtacgaa atatccacgc caacggggcc
+      241 tccctctttt tcatctgcat ctacctgcac atcggacgtg gcttatacta tggctcctac
+      301 atgtttaaag aaacctgaaa cattggcgtt attttactct tcctggtaat agccaccgct
+      361 ttcgtggggt acgtc
+//
+

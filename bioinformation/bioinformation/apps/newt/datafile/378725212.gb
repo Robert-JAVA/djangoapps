@@ -1,0 +1,85 @@
+LOCUS       JQ046359                1013 bp    DNA     linear   VRT 03-MAR-2012
+DEFINITION  Tylototriton verrucosus voucher TissueIDSH2805 NADH dehydrogenase
+            subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met
+            genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2)
+            gene, partial cds; mitochondrial.
+ACCESSION   JQ046359
+VERSION     JQ046359.1  GI:378725212
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 1013)
+  AUTHORS   Yuan,Z.Y., Jiang,K., Lv,S.Q., Yang,J.X., Nguyen,Q.T., Nguyen,T.T.,
+            Jin,J.Q. and Che,J.
+  TITLE     A phylogeny of the Tylototriton asperrimus group (Caudata:
+            Salamandridae) based on a mitochondrial study: suggestions for a
+            taxonomic revision
+  JOURNAL   Zool. Res. 32 (6), 577-584 (2011)
+   PUBMED   22184015
+REFERENCE   2  (bases 1 to 1013)
+  AUTHORS   Yuan,Z., Jiang,K., Lu,S. and Che,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2011) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology Chinese Academy of
+            Sciences, No. 32 East Jiaochang Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..1013
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TissueIDSH2805"
+                     /db_xref="taxon:164973"
+     gene            <1..315
+                     /gene="ND1"
+     CDS             <1..315
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AFC35371.1"
+                     /db_xref="GI:378725213"
+                     /translation="YAGGPFALFFLAEYSNILLMNALSTILFLGTTINHLQPEMLTIN
+                     LMMKTSALSIMFLWVRASYPRFRYDQLMHLIWKNFLPITIGLTLMHISLPILTSGIPP
+                     AL"
+     tRNA            316..385
+                     /product="tRNA-Ile"
+     tRNA            386..459
+                     /product="tRNA-Gln"
+     tRNA            460..530
+                     /product="tRNA-Met"
+     gene            531..>1013
+                     /gene="ND2"
+     CDS             531..>1013
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AFC35372.1"
+                     /db_xref="GI:378725214"
+                     /translation="MNPYALSILLSGLALGTITTLSSSHWFLAWVGLEINTLAMIPLM
+                     TKMHHPRSTESATKYFLTQATASALILFSTITNAWATGEWTTTTMNDNTSTLMLTIAL
+                     AIKLGIAPFHLWLPDVMQGLNMTTCLILATWQKLAPMSLMIMTNHQLNTNMLITMAVL
+                     S"
+ORIGIN      
+        1 tacgccggag ggccattcgc actatttttt ctagcagaat actcaaatat tttactaata
+       61 aatgccctct caactatctt atttctagga acaacaatta accacctaca accagaaata
+      121 cttacaatta accttataat aaaaacatcc gccctatcca ttatatttct atgagtacga
+      181 gcatcatatc cacgattccg ctatgatcaa ttaatacacc ttatctgaaa aaacttcctg
+      241 ccaattacaa ttggacttac actaatacac atttcactac caattttaac atccggaatt
+      301 ccccctgcac tataggacat gtgcccgaaa gatagggctt actttgatag agtaacacat
+      361 agaggttcaa atcctctcat ctcctgtata aaaaaatagg atttgaacct accccaagga
+      421 gatcaaaacc cctcgtgctt ccactacacc actttttact agtaaaataa gctaaactaa
+      481 gcttttgggc ccatacccca aacatgttgg ttaaaatccc tcttttacta atgaacccat
+      541 atgcactatc aatcctgttg tcgggcctag cactaggaac aatcacaact ctctcaagct
+      601 cccattgatt cctagcatga gtaggactag aaattaatac actagcaata attccactaa
+      661 taacaaaaat acaccaccca cggtcaacag aatcagccac aaaatacttc ctaacgcaag
+      721 ccaccgcatc ggccttaatc ctattttcta caatcacaaa cgcatgagcc acaggagaat
+      781 gaacaactac caccataaat gacaacacat caacacttat attaacaatt gccctagcta
+      841 ttaaacttgg aatcgcccct tttcatctat gactaccaga cgtcatacaa gggttaaata
+      901 taacaacatg cctaatcctt gcaacatgac aaaaattagc cccaatgtct ctaataatta
+      961 taaccaacca ccaattaaac acaaacatgc taattacaat agccgtgttg tca
+//
+

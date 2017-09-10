@@ -1,0 +1,50 @@
+LOCUS       AB238682                 591 bp    DNA     linear   VRT 02-NOV-2005
+DEFINITION  Cynops pyrrhogaster gene for beta globin, partial cds.
+ACCESSION   AB238682
+VERSION     AB238682.1  GI:78675138
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Cynops pyrrhogaster: beta globin gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 591)
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..591
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+                     /clone_lib="lambda fixII newt genomic library"
+                     /country="Japan:Okayama"
+     CDS             join(<63..140,357..485)
+                     /codon_start=1
+                     /product="beta globin"
+                     /protein_id="BAE47570.1"
+                     /db_xref="GI:78675139"
+                     /translation="DDLKAYYADLSHIHCKKLFVDPANFKLFCGIVSIVVGMHLGTDY
+                     TPQKQAAFEKFLHHVETALXTGYH"
+ORIGIN      
+        1 tttatgagct cgacctggtg ccaaagtgat gacttccatt gtggatgcag tcggccacct
+       61 gggatgacct gaaggcatac tatgccgatc tcagccacat tcactgcaaa aaactatttg
+      121 tggatcctgc caacttcaag gtaaatccaa ataatctact ctttttggga ttgctttctg
+      181 gtagcattag atgtgtttgc ttgcacttta gcgtgtctta tttatcgact ggtggtggct
+      241 tcttctgaac tctgctcgtg cagacatgtt ttgggtgtga ctacagtcac aataacgcgc
+      301 aagcatgtaa atactcaacc agtcaactga tgcttacctc tgtgtcttgt ttgcagcttt
+      361 tttgtggaat cgttagcatt gtcgtgggca tgcaccttgg aactgactac acccctcaga
+      421 agcaggctgc ctttgagaag ttcctgcatc acgttgaaac agccctancc actgggtacc
+      481 actgatctgt gaagaagcgc ctctctaaag ggtcctgcag ctacagatgt ccacctatgg
+      541 ganattgtcc atccacccct acatgaatta aaatgttttt tgggtnattn g
+//
+

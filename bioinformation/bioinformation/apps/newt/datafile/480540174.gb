@@ -1,0 +1,74 @@
+LOCUS       AB818537                1444 bp    mRNA    linear   VRT 12-NOV-2014
+DEFINITION  Cynops pyrrhogaster mRNA for citrate synthase, complete cds.
+ACCESSION   AB818537
+VERSION     AB818537.1  GI:480540174
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Ueno,T., Ohgami,T., Harada,Y., Ueno,S. and Iwao,Y.
+  TITLE     Egg activation in physiologically polyspermic newt eggs:
+            involvement of IP3 receptor, PLCgamma, and microtubules in calcium
+            wave induction
+  JOURNAL   Int. J. Dev. Biol. 58 (5), 315-323 (2014)
+   PUBMED   25354451
+  REMARK    DOI:10.1387/ijdb.130333yi
+REFERENCE   2  (bases 1 to 1444)
+  AUTHORS   Ueno,S., Iwao,Y., Harada,Y. and Ueno,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-APR-2013) Contact:Shuichi Ueno Yamaguchi University,
+            Department of Applied Molecular Biosciences; 1677-1 Yoshida,
+            Yamaguchi, Yamaguchi 753-8512, Japan URL
+            :http://ds.cc.yamaguchi-u.ac.jp/~suenoscb/index.html
+FEATURES             Location/Qualifiers
+     source          1..1444
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+     CDS             47..1444
+                     /note="CS"
+                     /codon_start=1
+                     /product="citrate synthase"
+                     /protein_id="BAN16452.1"
+                     /db_xref="GI:480540175"
+                     /translation="MALLSVSRLLGTRAFPCLGVAARHVSSTTNLKDVLAELIPKEQT
+                     RIKNFKQQHGATVIGQITVDMIYGGMRGMKGLVYETSVLDPDEGIRFRGYSIPECQQL
+                     LPKAPEGEEPLPEGLFWLLVTGDVPTQEQVSWVSKEWAKRAALPSHVATMLDNFPTNL
+                     HPMSQLSAAVTALNGESCFARGYAEGINRAKYWELVYEDSMDLIAKLPCIAAKIYRNL
+                     YREGSGIGAIDSNLDWSHNFTNMLGYTEPEFTELMRMYLTIHSDHEGGNVSAHTSHLV
+                     GSALSDPYLSFSAAMNGLAGPLHGLANQEVLVWLTNLQKELGGEVSDEKLKEFIWNTL
+                     NSGRAVPGYGHAVLRKTDPRYTCQREFALKHLPNDPMFKLVSQLYKIVPDVLLEQGKA
+                     KNPWPNVDAHSGVLLQYYGMKEMNYYTVLFGVSRALGVLAQLIWSRALGFPLERPKSM
+                     STDGLMKLVSSTKSG"
+ORIGIN      
+        1 ctttcaacct tgtccccgcc ctgcagcaca ctcgaaccga agcaccatgg ccttgctgag
+       61 cgtcagccgg cttctgggga cccgggcttt cccgtgcctt ggcgttgctg ctcgacacgt
+      121 aagctccact acgaatttga aagacgttct agctgaatta attccaaagg aacagaccag
+      181 aatcaaaaac tttaagcagc agcatggtgc aacggtcatc ggccagatca ccgtggacat
+      241 gatctacggt ggaatgaggg gtatgaaagg cttggtctac gagacgtcgg tcctggatcc
+      301 cgacgagggc attcgtttcc gtggctacag cataccagag tgccagcagt tgctcccaaa
+      361 agcaccggaa ggggaagagc ctctgcccga gggtctgttc tggctgctcg tcacaggaga
+      421 cgtccctaca caggagcagg tgagctgggt atccaaggaa tgggcaaaga gggcagctct
+      481 cccgtcccac gtagccacca tgctcgacaa ttttcctact aacctgcacc cgatgtcgca
+      541 gctcagcgct gcagtcactg ctctaaacgg tgagagttgc tttgcccgag gatatgctga
+      601 agggatcaac cgcgccaagt actgggagtt ggtttacgag gactctatgg atctgattgc
+      661 caagctgcca tgcattgctg ctaagatcta ccgtaacctg tatcgggagg ggagcggaat
+      721 tggcgccatc gactccaacc ttgactggtc gcacaacttc accaacatgt taggttacac
+      781 cgagccagag ttcacagagc tgatgagaat gtacctcaca atccacagtg atcatgaagg
+      841 tggtaatgta agtgcccata ccagtcacct tgtgggaagc gccttgtctg acccatacct
+      901 gtccttctct gcagccatga atgggctggc tggaccactc catggcctgg caaatcagga
+      961 agtgctggtg tggctaacca accttcagaa ggaactaggt ggagaagtgt cggatgaaaa
+     1021 actgaaagaa ttcatatgga acaccctcaa ctctggcagg gcggttcctg gttacggaca
+     1081 tgcagtgctt aggaagacgg acccacgtta cacttgccag agagagtttg ccctaaaaca
+     1141 tctcccaaat gaccccatgt tcaaactggt atctcagctt tacaagatag tcccagatgt
+     1201 tctactagag cagggcaagg ccaagaaccc gtggcccaat gtggatgccc acagcggagt
+     1261 actcttacag tattatggaa tgaaggagat gaattactat acagtcctgt tcggcgtatc
+     1321 acgggccttg ggtgtgcttg ctcagcttat ttggagccgt gcgctgggct tcccgctgga
+     1381 acgacccaag tccatgagca cagacggtct catgaagctc gtcagtagca ccaagtctgg
+     1441 ctaa
+//
+

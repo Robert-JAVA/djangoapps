@@ -1,0 +1,85 @@
+LOCUS       HQ873488                1805 bp    DNA     linear   VRT 05-AUG-2011
+DEFINITION  Notophthalmus viridescens Prod1 (prod1) gene, promoter region and
+            partial cds.
+ACCESSION   HQ873488
+VERSION     HQ873488.1  GI:340343734
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1805)
+  AUTHORS   Shaikh,N., Gates,P.B. and Brockes,J.P.
+  TITLE     The Meis homeoprotein regulates the axolotl Prod 1 promoter during
+            limb regeneration
+  JOURNAL   Gene 484 (1-2), 69-74 (2011)
+   PUBMED   21684325
+REFERENCE   2  (bases 1 to 1805)
+  AUTHORS   Gates,P.B. and Brockes,J.P.
+  TITLE     Cloning the axolotl and newt Prod1 promoters
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1805)
+  AUTHORS   Gates,P.B. and Brockes,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2011) Biochemistry, University College London,
+            Gower Street, London WC1 E6BT, UK
+FEATURES             Location/Qualifiers
+     source          1..1805
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     gene            1..>1805
+                     /gene="prod1"
+     regulatory      1..1735
+                     /regulatory_class="promoter"
+                     /gene="prod1"
+     regulatory      1703..1708
+                     /regulatory_class="TATA_box"
+                     /gene="prod1"
+     mRNA            1736..>1805
+                     /gene="prod1"
+                     /product="Prod1"
+     5'UTR           1736..1802
+                     /gene="prod1"
+     CDS             1803..>1805
+                     /gene="prod1"
+                     /codon_start=1
+                     /product="Prod1"
+                     /protein_id="AEK31188.1"
+                     /db_xref="GI:340343735"
+                     /translation="M"
+ORIGIN      
+        1 cctctcaaat ggcgtatgtt aatgaaaggt gagaacccca aactacttag gtggtccatt
+       61 tccctacagg gtatggactt cgaagtggaa caccgactag ccatgccaat gcagatgggc
+      121 tttccaggtt cttccactta ggtgatgaag actcactagg gaaagggtag tctcatcctc
+      181 tttcatttgg aggggggcta tgtaggaaag tatcactttt tgacatggta ggcccccact
+      241 gttcgctaag tgtctgatgt gattttgagt ttgtagtgtg ctgggttcct gctaaccagg
+      301 tgtcaaggac taacctgttt gttcccacag tgacacaagg cagctcccag tagctaaatt
+      361 ccctattccc actggatccc agcgttccca ccggatacct gatcactggt ggcccttggg
+      421 agtccagggg aaaaggggat ggggatgaga cataagacaa atcgatcaca tcagctggac
+      481 tcgggttcct ggaagaattt gtctggctgg cttttgaaga agaaaacaca aaaagattga
+      541 tgttgagcaa ctataccctt ctcaacaggc tacactatgc ttgttgtgaa caccagtaca
+      601 ctaactacct tataggtccc tttctcactt tcgttggtct caatgtctca tgggtgtctc
+      661 tttaatacag tatgataatt tccctgaaat agtaaacatt catgtaagca tcatcttata
+      721 atgacagtac agtttctttg caaaagcttt tcttattact cagttagtac ctcttacaca
+      781 gccactcaga cacccataca gacactcata cactcattca ctcaccaata cagccactca
+      841 ctccctcatg cagccactca cacacccact tattcgccca tgtaggcact cacacagcca
+      901 ctcacacaca gattcagata cacagccact caggtgacat atgttagaaa tactcactca
+      961 gtagtggaaa agaatagtaa tttcacgtat gcagtagctt aaaatatctt taaatttcag
+     1021 aaactttttc gaaacacact aactgaaaga tgtcattggt gatgtcactg accatgtcat
+     1081 gagtgatgta atatgtgaag tcatatgcag tgcattgcgg gagcgtaagt tatagttagt
+     1141 tcaggtaact ataactgctg aatttcaata gttttgtacg agtgaaatct aagcctaact
+     1201 atattgcccc tgtaaccttt agttttttct aggaatatat atgtatatta tataaagatg
+     1261 gcaggagccc aacgttttct taggagatcc tcagaggcgc agggaatgcc agagttgcca
+     1321 aacacaaagg ctgcaaagtc gttgagtcaa cttcttgcct cctttttcca ccgcctgtca
+     1381 cttcctgcgt tgttatctca ttcctgccgg ttccctttcg tcactgcttt ctccctttgt
+     1441 cattttccag tctttctctt cctctttctt tctctctgtt ccgcgcttgc caaagtcaga
+     1501 caatgacaaa taaaaatacg tgccggtgtc aaccacctgc agccactaca tagattaagc
+     1561 aatgaggctc gttaggtgtt gatagagatc tcgtaacatg aacaaacagt actctcatgt
+     1621 cagtctgagc cagacgcatg gctgacgtca ctgttgtgta ctctcatcac accctctttg
+     1681 gcactgctgc gtgtacgggc tataaatacg cgcagctgtt ctcccaggtt ggcactgggg
+     1741 cagacacctc gcgctgattt tacctggact cgaagcgttg agggtttcgt cagctacaag
+     1801 acatg
+//
+

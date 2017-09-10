@@ -1,0 +1,71 @@
+LOCUS       NEWEDSP                 1657 bp    mRNA    linear   VRT 18-DEC-2007
+DEFINITION  Cynops pyrrhogaster mRNA for epidermal differentiation-specific
+            protein, complete cds.
+ACCESSION   D11395
+VERSION     D11395.1  GI:286129
+KEYWORDS    epidermal differentiation-specific protein.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1657)
+  AUTHORS   Takabatake,T., Takeshima,K. and Takahashi,T.
+  TITLE     Cloning of an epidermis-specific Cynops cDNA from neurula library
+  JOURNAL   Dev. Growth Differ. 34, 277-283 (1992)
+REFERENCE   2  (bases 1 to 1657)
+  AUTHORS   Takahashi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-1992) Contact:Tadashi Takahashi Nagoya Univ.,
+            School of Science, Radioisotope Research Center; Furo-cho, Chikusa,
+            Nagoya, Aichi 464-01, Japan
+FEATURES             Location/Qualifiers
+     source          1..1657
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /clone="pG3m11N138-48"
+                     /dev_stage="neurula embryo (stage 17)"
+     CDS             169..1176
+                     /codon_start=1
+                     /product="epidermal differentiation-specific protein"
+                     /protein_id="BAA01991.1"
+                     /db_xref="GI:286130"
+                     /translation="MNTITVYEHSNFQGLHKTFTSDVPNLVNESFNDCISSVKIVGQP
+                     WILHQDINYSGQCLPLEEGEYSGISMNDGASSLRLITDDLSNPQITVYEHVNGGGKAL
+                     VLTEETNLAFGNMHDNISSHRVQRGAWALYEHINRGGRCIVARAGEYLANYCTIGFND
+                     QVSHVYPLRAGKTSVTATILWDRKKVESERNVQIDQYFYTNNTSIEQQFTATSTKEFE
+                     KYVSHSFEFSNETSIKVGTSFTLKGVVDINTEVSNTFTVKKGETESFTTRKKAELSMP
+                     VKAPPRSKLTVNFMCKEITISVPVELKIVRGSKTDIETGTYRCESGTETYIDVQSLPI
+                     S"
+ORIGIN      
+        1 gacggacgag ggacatctcc agatccagcc aaaattgtca gctgcctggt gtgagacttg
+       61 ttaagagcca gcaggagtcc accggaagcc atctaattct gcttggaaaa ccagtcttgt
+      121 gagagggtca aataagggac cacattgaaa cctacatagc tgatcaccat gaacacaatc
+      181 actgtctacg aacacagcaa cttccaggga ctacataaga cgtttacttc agatgttcca
+      241 aatctggtga atgaaagctt caatgactgc atctcctctg tgaagatcgt cgggcagcct
+      301 tggatcctgc accaggatat taactatagc ggacagtgtc tacccctaga ggagggagag
+      361 tactcaggga ttagcatgaa tgatggggca tcttctctta ggctgatcac tgatgacctg
+      421 agcaatcccc agatcacagt ctatgagcat gtcaatggag ggggtaaggc gttagtgctg
+      481 actgaggaaa ccaatctagc gtttggaaac atgcatgata atatatcctc ccacagagtc
+      541 cagcgtggag cttgggctct gtacgagcat ataaatagag gtgggaggtg cattgtagcc
+      601 agggctggtg aatatttggc gaattactgt actattggtt tcaatgatca agtctcccat
+      661 gtgtatcctc tgcgtgctgg aaagacctct gtgacagcca caattctgtg ggacaggaaa
+      721 aaggtagaaa gtgaaaggaa cgttcagata gatcagtatt tttacaccaa caacacaagc
+      781 attgagcagc agttcacagc cacttccacc aaagagtttg aaaaatatgt ctcccatagc
+      841 tttgaattca gcaatgagac gtcaatcaag gtgggtacct catttacctt gaaaggagtg
+      901 gtcgatatta atacagaggt gtccaacacc ttcacagtga agaaagggga gactgagtca
+      961 ttcaccacga ggaaaaaggc agagttgagc atgccggtga aggctccacc acgctcaaaa
+     1021 ttgaccgtca atttcatgtg caaagagatc acaatctcag taccggtgga gctgaaaatc
+     1081 gtccggggca gtaaaactga cattgaaact ggaacatacc gatgtgagtc tggcacagaa
+     1141 acttacattg atgtgcaatc ccttcccata agttgatcct agtggaatca caatttcctc
+     1201 tcttcagtgg ccatatctta aattatatta gctattcttt gggtgatctt gattgtgctt
+     1261 tgctaaaact tgataaatct gagaagaatc ctttcctttc taactgcctt tttcccagat
+     1321 attatttgaa aaatcatcct taggcaggag gcagtcattc tgtgacccaa ttcttatgat
+     1381 ttctaccttt tcaccctgat gaaatgtcaa aggataaggt actagacctg tcaatatttt
+     1441 gttaggggat actgcatggc caaacgttga cagtttcact tgtttcacac atgtttatgt
+     1501 ttttgatggg caaacacata aactaaatca agttaactgg ataattcctt taatgatgtt
+     1561 tgtgcctcaa atttccaata agtgacttga aggtacaggc ttcattaaca tcatgaatgt
+     1621 gctgcagtat acattaaatc ctttctgtga agctcta
+//
+

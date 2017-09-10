@@ -1,0 +1,54 @@
+LOCUS       KC733384                 491 bp    DNA     linear   VRT 31-MAR-2014
+DEFINITION  Tylototriton kweichowensis voucher GZNU2008050808
+            proopiomelanocortin (POMC) gene, partial cds.
+ACCESSION   KC733384
+VERSION     KC733384.1  GI:488888672
+KEYWORDS    .
+SOURCE      Tylototriton kweichowensis (red-tailed knobby newt)
+  ORGANISM  Tylototriton kweichowensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 491)
+  AUTHORS   Yang,C.-Z. and Gu,X.-M.
+  TITLE     Phylogenetic relationships of Tylototriton (Caudata: Salamandridae)
+            based on Partial Nuclear gene and Mitochondrial DNA Gene Sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 491)
+  AUTHORS   Yang,C.-Z. and Gu,X.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2013) School of Life Sciences, Guizhou Normal
+            University, No. 116 BaoshanBeiLu, Guiyang, Guizhou 550001, China
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Tylototriton kweichowensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GZNU2008050808"
+                     /db_xref="taxon:385676"
+     gene            <1..>491
+                     /gene="POMC"
+     mRNA            <1..>491
+                     /gene="POMC"
+                     /product="proopiomelanocortin"
+     CDS             <1..>491
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="proopiomelanocortin"
+                     /protein_id="AGL08632.1"
+                     /db_xref="GI:488888673"
+                     /translation="KFGRKNITSGNTAGNKREELPSNPMVSLFTTSESQSSGAHDSSK
+                     EGEGMERQDSKRSYSMEHFRWGKPVGRKRRPIKVYPNGVEDESSESYPLDLKRDLSLG
+                     IDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERRQTPL
+                     MTL"
+ORIGIN      
+        1 caagttcggc agaaagaaca tcaccagtgg gaatactgca ggaaataaga gagaggagct
+       61 ccctagcaat ccaatggtca gcctcttcac cacatcagag agccagagca gcggcgccca
+      121 tgacagcagc aaagagggtg agggcatgga aaggcaagat agcaaacgct cctattccat
+      181 ggagcacttc cggtggggga aaccagtcgg caggaagagg aggcccatca aggtgtaccc
+      241 taacggcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggatt gactaccccg aatatgactc ccaagaaggc ctggaaaata atgaggtgat
+      361 gatgggccta gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaagcgct atggtgggtt catgacccct gagcggagac aaacccctct
+      481 aatgactctt t
+//
+

@@ -1,0 +1,83 @@
+LOCUS       NM_001009335            1196 bp    mRNA    linear   MAM 18-APR-2013
+DEFINITION  Ovis aries homeobox C6 (HOXC6), mRNA.
+ACCESSION   NM_001009335
+VERSION     NM_001009335.1  GI:57164348
+KEYWORDS    RefSeq.
+SOURCE      Ovis aries (sheep)
+  ORGANISM  Ovis aries
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Ruminantia;
+            Pecora; Bovidae; Caprinae; Ovis.
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from U33049.1.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U33049.1 [ECO:0000332]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1196
+                     /organism="Ovis aries"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9940"
+                     /chromosome="3"
+                     /map="3"
+     gene            1..1196
+                     /gene="HOXC6"
+                     /note="homeobox C6"
+                     /db_xref="GeneID:443349"
+     CDS             13..474
+                     /gene="HOXC6"
+                     /function="unknown"
+                     /note="homeo box C6; Antennapedia-type homeotic factor"
+                     /codon_start=1
+                     /product="homeobox protein Hox-C6"
+                     /protein_id="NP_001009335.1"
+                     /db_xref="GI:57164349"
+                     /db_xref="GeneID:443349"
+                     /translation="MLSNCRQNTLGHNTQTSIAQDFSSEQGRTAPQDQKASIQIYPWM
+                     QRMNSHSGVGYGADRRRGRQIYSRYQTLELEKEFHFNRYLTRRRRIEIANALCLTERQ
+                     IKIWFQNRRMKWKKESNLTSTLSGGGGGAAADSLGGKEEKREETEEEKQKE"
+     misc_feature    130..147
+                     /gene="HOXC6"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49925.1);
+                     Region: Antp-type hexapeptide"
+     STS             58..267
+                     /gene="HOXC6"
+                     /standard_name="MARC_44017-44022:1098368610:3"
+                     /db_xref="UniSTS:471619"
+     misc_feature    129..144
+                     /gene="HOXC6"
+                     /note="encodes IYPWM pentapeptide; The IYPWM motif is
+                     found in many but not all Antennapedia-type homeotic
+                     factors"
+     misc_feature    187..368
+                     /gene="HOXC6"
+                     /note="encodes homeodomain, DNA-binding motif; Ovine Hox
+                     C6 contains a homeodomain of the Antennapedia type and it
+                     is most similar to mammalian (human and mouse) homeotic
+                     factors Hox C6 and vertebrate (frog and newt) hox c6"
+ORIGIN      
+        1 ggggagaaag acatgctctc aaactgcaga caaaacacct taggacataa cacacagacc
+       61 tcaatcgctc aggattttag ttctgagcag ggcaggactg cgccccagga ccagaaagcc
+      121 agtatccaga tttacccctg gatgcagcga atgaattcgc acagtggggt cggctatgga
+      181 gcggaccgga ggcgcggtcg ccaaatctac tcgaggtacc agacgctgga actggagaag
+      241 gaatttcact tcaaccgcta cctaacgcgg cgccggcgca tcgagatcgc caacgcgctc
+      301 tgcctgaccg agcgacagat caagatctgg ttccagaacc gccggatgaa gtggaaaaaa
+      361 gagtctaacc tcacgtccac gctctcaggg ggcggcggag gggccgcggc tgacagcctg
+      421 ggcggaaaag aggaaaagcg ggaagagaca gaggaggaga agcagaaaga gtgaccagga
+      481 ctgtccctgc cacccctctt tctcctgctc cctcgctgcc cccataccct cctaatcaca
+      541 cactcgatat ttatcactgg cacaattgat gtgtttggac tccctgagac aaaattaggg
+      601 agtcaaatat ggacctgaag agtcaactct ggacgccccc ctccctcacc gcacaaactc
+      661 ttttcaccag gcgcctcctc ctcctcgctc cctcgctagc tcgttctcgg ctcgtctgca
+      721 ggccccttcg cccgcccagg ccttggggct cgtcctgaac ctcgctttag actccacaga
+      781 tctccctcca aacgaggact tggcctccca ccccctcggc gccccccatc tccgcccccg
+      841 cgcagagagc cggctcccgg gccccggggc tctgctcccg gcctcggggc ctcgcagccg
+      901 ggagggcggg aggcaggagg gcgtcggggc cccacagcag cccccagggc ctccccgcag
+      961 cccctgcccg gcccctctgc cccagcaaat gcccagccca ggcgaattgt atttaaagaa
+     1021 tcctgggggt cattatggca tattacaaac tgtgaccgtt tctgtgtgaa tatttttagc
+     1081 tgtatttgtg gtctctgtat ttatatttat gtttagcacc gtccgtgttc caatcccatc
+     1141 ttaaaaagga aaaaaaaaaa aaaagaggga aaattacaaa aaaaaaaaaa aaaaaa
+//
+

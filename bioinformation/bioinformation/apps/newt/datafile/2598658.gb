@@ -1,0 +1,59 @@
+LOCUS       AB000846                 766 bp    mRNA    linear   VRT 05-FEB-1999
+DEFINITION  Cynops pyrrhogaster ptc2 mRNA, partial cds.
+ACCESSION   AB000846
+VERSION     AB000846.1  GI:2598658
+KEYWORDS    ptc2; patched-2.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Takabatake,T., Ogawa,M., Takahashi,T.C., Mizuno,M., Okamoto,M. and
+            Takeshima,K.
+  TITLE     Hedgehog and patched gene expression in adult ocular tissues
+  JOURNAL   FEBS Lett. 410 (2-3), 485-489 (1997)
+   PUBMED   9237688
+REFERENCE   2  (bases 1 to 766)
+  AUTHORS   Takabatake,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-1997) Takashi Takabatake, Nagoya University,
+            Radioisotope Research Center; Furo-cho, Chikusa, Nagoya, Aichi
+            464-8602, Japan (E-mail:j45998a@nucc.cc.nagoya-u.ac.jp,
+            Tel:052-789-2573, Fax:052-789-2567)
+COMMENT     On Nov 9, 1997 this sequence version replaced gi:2293340.
+            Sequence updated (06-Nov-1997).
+FEATURES             Location/Qualifiers
+     source          1..766
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="neural retina"
+     gene            <1..>766
+                     /gene="ptc2"
+     CDS             <1..>766
+                     /gene="ptc2"
+                     /codon_start=2
+                     /protein_id="BAA23305.1"
+                     /db_xref="GI:2598659"
+                     /translation="SLLQGGSAYLPGRPEIQWKNLNPMQLMEELGQFTSVDGFKEMLD
+                     KADVGQAYMERPCLDPMDPQCPESAPNKQKRRVPNIAQELAGGCYGFSKRFMHWQEEL
+                     ILGGTVRDSQDRLLSAEALQTMFLLMSSRQLYEHFRDNYEIHDINWTEEKAAAILETW
+                     QRKFVELAQQSAPENSSQIIHAFSTTTLNDIMKSFSDVSVIRVAGGYLLMLAYACVTM
+                     LRWDCTKSQGAVGLAGVLLVALSVASGLGLCSLLGIS"
+ORIGIN      
+        1 ctccctgctg cagggcggct ctgcctacct tcctgggagg cccgaaatcc agtggaaaaa
+       61 cctaaatcca atgcagctga tggaagagct tgggcagttc acctctgtcg atggctttaa
+      121 ggagatgctg gacaaggcgg acgtgggcca ggcatacatg gagcggccgt gcctcgatcc
+      181 catggacccc cagtgcccag agagcgcgcc aaacaagcag aagagacggg ttcccaacat
+      241 cgcccaggag ctggctgggg gctgctacgg cttctccaag aggttcatgc actggcagga
+      301 ggaactgatc cttggaggca cagtgaggga ctcccaggac agactgctga gcgctgaagc
+      361 tctccagacg atgttcctgc tcatgagctc gcgacagctc tatgagcatt tcagggataa
+      421 ctacgagatc catgacatca actggactga agagaaggcg gcggccatct tggaaacatg
+      481 gcagaggaag tttgtcgagc tcgctcaaca gtccgctccg gaaaactcct ctcagatcat
+      541 ccacgccttc tccaccacca ccctcaatga catcatgaag tctttctccg acgtcagtgt
+      601 gatccgtgta gctggcgggt acctcctgat gcttgcctac gcctgcgtga ccatgctacg
+      661 atgggattgc accaagtcac aaggggctgt ggggctggcc ggtgtgctgc tcgttgccct
+      721 atcagtggca tctggcctcg gactttgctc cttgctgggc atctct
+//
+

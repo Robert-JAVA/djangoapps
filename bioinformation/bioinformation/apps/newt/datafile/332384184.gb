@@ -1,0 +1,69 @@
+LOCUS       JF712657                1711 bp    DNA     linear   VRT 15-MAY-2011
+DEFINITION  Paramesotriton guanxiensis haplotype GZNU2006002 12S ribosomal RNA
+            gene, partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   JF712657
+VERSION     JF712657.1  GI:332384184
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton guanxiensis (Guangxi warty newt)
+  ORGANISM  Paramesotriton guanxiensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1711)
+  AUTHORS   Chen,G.
+  TITLE     The Phylogenetic Relationships of Paramesotriton (Caudata:
+            Salamandridae) Based on Partial Mitochondrial DNA Gene Sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1711)
+  AUTHORS   Chen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAR-2011) School of Life Science, Guizhou Normal
+            University, Baoshan North Road No. 116, Guiyang, Guizhou 550001,
+            China
+FEATURES             Location/Qualifiers
+     source          1..1711
+                     /organism="Paramesotriton guanxiensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164971"
+                     /haplotype="GZNU2006002"
+                     /country="China"
+     rRNA            <1..670
+                     /product="12S ribosomal RNA"
+     tRNA            671..740
+                     /product="tRNA-Val"
+     rRNA            741..>1711
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ctcaaagggt ggttaaacac acaaattaaa taaggctaaa aactaactct gctgtcgcac
+       61 gcaatagtta aaataagtac aacttcgaaa gtagccctac taaaataagc ttgaacccac
+      121 gacaactagg gaacaaactg ggattagata ccccactatg cctagttata aactttgatt
+      181 tatccgccag aatactacga gcaacagctt aaaactcaaa ggacttggcg gtgctctaca
+      241 cccccctaga ggagcctgtt ctataatcga taatccacga taaacctcac catctattgc
+      301 caatacagcc tatataccac cgtccagccc acccttcaaa gggccaacag taggcataat
+      361 tataaacata agaacgtcag gtcaaggtgt agcatataaa atgggaagaa atgggctaca
+      421 ttttctaatt tagaaaatta cggaaaagct tgtgaaacaa aactataaag gaggatttag
+      481 cagtaaaaag aaaaaagagc gttcttttta aaccggcaat ggagcgcgca cacaccgccc
+      541 gtcaccctct tcaaacaacc aaaacaataa ataaacaaaa ccccctaaaa agaagaggca
+      601 agtcgtaaca tggtaagtct accggaaggt gaacttggaa catcaattta tagcttagtt
+      661 aaagcatctt gcttacacca agagaatacc cgttaaactc gggttaaatt gagctaaaat
+      721 tctagccaat taaccctaac taccaaaaaa caaaacaaac catttaatct aatagtatag
+      781 gcgatagaaa tttattatgc gcaataaaaa agtaccgcag gggaaagatg aaataaaaat
+      841 gaaataaata ataaaacaaa gaaaagaaaa gactaaaccc tatacctttt gcataatggt
+      901 ctagtaagtc caacctaaca aaaagaaata aagttagcca ccccgaaact agacgagcta
+      961 ctcaaaagca gcattaacca gggccaaccc gtctctgtgg caaaagagtg ggacgacttt
+     1021 taagtagagg tgaaaagcct aacgagccta gtgatagctg gttgcttgag aaatgaatat
+     1081 tagttcagct taaagtactt tcaactaatg agaaagtaaa aataacactt taaagttaat
+     1141 taataggggt acagccctat taataaagga cacaacctac acaatgaata aagattatat
+     1201 taacaaaaga aattaaccat gtaggcctaa aagcagccac cacaagaaag cgtcaaagct
+     1261 caaccaacca acccccttat tatactaata aaaaaatcta aattcacaaa tatatcaagc
+     1321 ctatctacta gtagatgagt ttatactaga atgagtaaca agaacaaatt ctctatatgc
+     1381 aagcgtaaat cagggcgaaa aaatcactga taattaacaa cttcaaatac taaacaacaa
+     1441 gaaaagcaca ttaaagtaat tgttaacccg acacaggagc atcaaaaaag atttaaagat
+     1501 taaaaaggaa ctcggcaacc aagagctccg cctgtttacc aaaaacatcg cctcttgccc
+     1561 tccaagtata agaggtcccg cctgcccagt gattaatttt aacggccgcg gtatcatgac
+     1621 cgtgcaaagg tagcgtaatc acttgtcttt taaataaaga cctgtatgaa aggcaaaacg
+     1681 aaagctcaac tgtctcttta atccaatcag t
+//
+

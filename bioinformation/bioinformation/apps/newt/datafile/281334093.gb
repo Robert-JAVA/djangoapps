@@ -1,0 +1,108 @@
+LOCUS       GU067486                2239 bp    DNA     linear   VRT 05-JAN-2010
+DEFINITION  Calotriton asper haplotype B NADH dehydrogenase subunit 4 gene,
+            partial cds; tRNA-His and tRNA-Ser genes, complete sequence;
+            tRNA-Leu gene, partial sequence; cytochrome b gene, partial cds;
+            and D-loop, partial sequence; mitochondrial.
+ACCESSION   GU067486
+VERSION     GU067486.1  GI:281334093
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 2239)
+  AUTHORS   Mila,B., Carranza,S., Guillaume,O. and Clobert,J.
+  TITLE     Marked genetic structuring and extreme dispersal limitation in the
+            Pyrenean brook newt Calotriton asper (Amphibia: Salamandridae)
+            revealed by genome-wide AFLP but not mtDNA
+  JOURNAL   Mol. Ecol. 19 (1), 108-120 (2010)
+   PUBMED   19943891
+REFERENCE   2  (bases 1 to 2239)
+  AUTHORS   Carranza,S. and Mila,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2009) Institut de Biologia Evolutiva (CSIC-UPF),
+            Barcelona, Barcelona 08003, Spain
+FEATURES             Location/Qualifiers
+     source          1..2239
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /haplotype="B"
+     CDS             <1..710
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:710,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADA61219.1"
+                     /db_xref="GI:281334094"
+                     /translation="PVAGSMILAAVLLKLGGYGMIRITIILTPLTKEMSYPFMTLALW
+                     GVVMTSLICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISST
+                     LFCLANLNYERTHSRTLLLMRGAQAILPLMTTWWLLANLSNMALPPTMNLWGELTIMV
+                     SLFNWSPLTILITGTGTLITASYTLYMFLMTQRGPTPPHISPINPSYTREHFLIVMHL
+                     MPMLLLIFKPALISGAFS"
+     tRNA            711..779
+                     /product="tRNA-His"
+     tRNA            780..846
+                     /product="tRNA-Ser"
+     tRNA            847..>895
+                     /product="tRNA-Leu"
+     gap             896..995
+                     /estimated_length=unknown
+     CDS             <996..>1369
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADA61220.1"
+                     /db_xref="GI:281334095"
+                     /translation="LKIINNSFIDLPTPSNISYWWNFGSLLGICLITQILTGLFLAMH
+                     YTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYYGSYLFKET
+                     WNIGVILLFLVMATAFVGYVLP"
+     gap             1370..1469
+                     /estimated_length=unknown
+     D-loop          <1470..>2239
+                     /note="control region"
+ORIGIN      
+        1 ccctgtagcc gggtcaataa tcttagcagc agttttactt aaactaggag gatatggtat
+       61 gattcgaatt accattattt taaccccact aacaaaagaa atatcatacc catttataac
+      121 cttggccttg tggggggtgg taataactag cttaatctgc atacgacaaa cagacctaaa
+      181 gtcactaatc gcatactcat ctgtaagcca catgggcctg gttattgctg ccattataat
+      241 ccaaactcca tgaagcctca caggggcaat tatcttaata atttcacacg gacttatctc
+      301 atccaccctc ttctgcttag caaacttaaa ctacgaacga acacacagtc gaaccctact
+      361 attaatacgc ggggctcaag caatccttcc actaatgacc acctgatgac ttcttgcgaa
+      421 cctatcaaat atggccctcc ccccaacaat aaacctgtgg ggagagctta caatcatagt
+      481 ctcattattc aactgatctc ctctaacaat tctaattaca ggaacgggga ccctaattac
+      541 agcttcctac acgctttaca tatttctaat aacacaacga ggcccaaccc ccccacatat
+      601 cagcccaatc aacccctctt acacccgaga acactttcta atcgtaatgc acctaatacc
+      661 aatactacta ctaattttta aacccgccct catttctggg gcattctcat gtgcgcataa
+      721 tttaaaaaaa tattagattg tgattctaaa aatgaaagtt aaaccctatc tgcgtaccga
+      781 gaagagctat gaaacacaga aactgctaat atctgaccct aaagttaaaa tctttagtct
+      841 tcttagcttt taaaggataa tagttatcca ttggtcttag gaaccaaata ctcctnnnnn
+      901 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      961 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnactaa aaatcattaa caactcattt
+     1021 attgacctcc caacaccgtc aaacatctca tactgatgga acttcggctc tcttcttgga
+     1081 atttgtctaa ttacacaaat cctcacaggt cttttcttgg caatacacta cacagcagac
+     1141 acacaatcag cattctcatc tgttgcccat atttgccgag atgttaacta cggctgacta
+     1201 gtacgaagca cccacgccaa cggagcctca ttattcttca tttgtattta cctacatatt
+     1261 ggacgcggcc tatattacgg atcatacctg tttaaagaga cctgaaacat cggtgtaatc
+     1321 ttgctattct tagtcatggc aactgccttt gtcggatatg tcctgcccgn nnnnnnnnnn
+     1381 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1441 nnnnnnnnnn nnnnnnnnnn nnnnnnnnng gcctaaatta ccccttgact cactttcccg
+     1501 taatttttgt aacgcggaga catactatgt ttaatcgtgc attcatctac tttccaaacg
+     1561 cctttgtttt agtattattc tgatttttga ccttacccac aggcgagaaa ccaccaaccc
+     1621 gacccctacg atcctcgttt cgaagtttca aggacctcaa ttgtagagtg attgtctatt
+     1681 aattatactg gcagctggtt atgaatctat gagcatcacc ctagagtttc tatcatttat
+     1741 ctttaagagg cctgaacgtc taagtatcat ttagtaacta gatggcacat gccgagcata
+     1801 actgatctaa atcacatttc tcactttttt ttctctgtga agtcaattcc ccataaagtc
+     1861 ttgagtcggc accaacggcc taaatctgaa catgcactgc aattgtaaaa gtgacaaata
+     1921 cagaaccgcg gataatatgt ttatgttata aggacataac atatttttcc ctctaaagca
+     1981 agggatatat tctttttcct gtttcccccc ggagctagtt tttcgaagaa tataaaattt
+     2041 gaatattatc tcattttttt ttggataacc cccccacccc ccaataaccg tcttatcagt
+     2101 atgcgaaact ttttagccaa ccccaaagct aaaaagacct acatacttac gacataaggc
+     2161 ttgtactaga aaaagtgtga tttttgatga attaaaactt ctatatacag tgttacactg
+     2221 taagttaatg tagcttaca
+//
+

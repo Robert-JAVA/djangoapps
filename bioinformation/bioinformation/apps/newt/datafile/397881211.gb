@@ -1,0 +1,61 @@
+LOCUS       JQ290459                 524 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Triturus carnifex voucher SG09m_D12 cytochrome b (CytB) gene,
+            partial cds; mitochondrial.
+ACCESSION   JQ290459
+VERSION     JQ290459.1  GI:397881211
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 524)
+  AUTHORS   Brede,E.G.
+  TITLE     A molecular evaluation of hybridization and introgression in a
+            native UK population and its historically introduced non-native
+            congener
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 524)
+  AUTHORS   Brede,E.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2011) BEPG, Cardiff University, Museum Ave,
+            Cardiff, Cardiff CF10 3AX, UK
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SG09m_D12"
+                     /db_xref="taxon:8326"
+                     /country="Italy"
+                     /collection_date="28-Apr-2010"
+                     /collected_by="D.Seglie"
+                     /identified_by="D.Seglie"
+                     /PCR_primers="fwd_name: tri_cyb2f, fwd_seq:
+                     acagcagacacacaatcggcat, rev_name: tri_cyb2r, rev_seq:
+                     ggtaactaaggagtttgctggg"
+     gene            <1..>524
+                     /gene="CytB"
+     CDS             <1..>524
+                     /gene="CytB"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFO68111.1"
+                     /db_xref="GI:397881212"
+                     /translation="YGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVI
+                     LLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDKITFHPYFSYKDMLGFLL
+                     MLLILMLISLLAPN"
+ORIGIN      
+        1 actacggctg gctagtgcga aacatccacg ctaacggggc ctcactattt tttatctgca
+       61 tctacttaca catcggacgc ggcctgtact acggttcata catatttaaa gagacttgaa
+      121 acattggcgt aatcttacta ttcttggtta tagctactgc tttcgttggg tatgtcctgc
+      181 catgaggaca aatatcattt tgaggcgcca cagttattac caaccttcta tcagctattc
+      241 cgtatttagg agactctctc gtccaatgaa tctggggggg cttttcagta gataaggcaa
+      301 cactcacccg attttttgca tttcacttcc tgttcccatt cttaatcgca gggactagca
+      361 ttgtccacct gctcttctta caccaaaccg ggtcaaacaa cccaacaggt atctcttcta
+      421 accaggacaa aatcaccttt cacccatact tttcctacaa agatatatta gggttcctac
+      481 tcatgctgct tatcttaata ttaatctctc tactcgcacc aaac
+//
+

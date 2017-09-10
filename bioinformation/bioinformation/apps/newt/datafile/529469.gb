@@ -1,0 +1,45 @@
+LOCUS       NVIMTCYTBA               375 bp    DNA     linear   VRT 12-AUG-1994
+DEFINITION  Notophthalmus viridescens (11.N.v.NC) mitochondrial cytochrome b
+            gene, partial cds.
+ACCESSION   L22881
+VERSION     L22881.1  GI:529469
+KEYWORDS    cytochrome b.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 375)
+  AUTHORS   Tan,A.-M. and Wake,D.B.
+  TITLE     Phylogeny and biogeography of the newt genus Taricha (Caudata,
+            Salamandridae), inferred from mitochondrial cytochrome b DNA
+            sequences. II. The species T. granulosa and T. rivularis, with a
+            discussion of evolution in the genus
+  JOURNAL   Unpublished
+COMMENT     Original source text: Mitochondrion Notophthalmus viridescens
+            (organelle Mitochondrion Notophthalmus viridescens) DNA.
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+     CDS             <1..>375
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAA31971.1"
+                     /db_xref="GI:529470"
+                     /translation="HPLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFL
+                     AMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMF
+                     KETWNIGVILLFLVMATAFVGYV"
+ORIGIN      
+        1 cacccactta taaaaattat caataactca tttattgacc tcccaacgcc atcgaatatc
+       61 tcctattgat gaaacttcgg ctccctcctc ggggtgtgcc taatcacaca aatcctcaca
+      121 ggcctcttct tagcaataca ctacacagca gacactcaat cggcattctc atcagtagcc
+      181 cacatctgcc gagatgtaaa ctatggctga ctagtacgaa atatccacgc caacggggcc
+      241 tccctctttt tcatctgcat ctacctgcac atcggacgtg gcttatacta tggctcctac
+      301 atgtttaaag aaacttgaaa cattggcgtt attctactct tcctggtaat agccaccgct
+      361 ttcgtggggt acgtc
+//
+

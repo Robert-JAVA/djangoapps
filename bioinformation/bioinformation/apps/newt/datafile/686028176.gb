@@ -1,0 +1,54 @@
+LOCUS       KJ776977                 625 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate Eastern_GC_sub_29 NADH
+            dehydrogenase subunit 2 (ND2) gene, partial cds; and tRNA-Trp gene,
+            partial sequence; mitochondrial.
+ACCESSION   KJ776977
+VERSION     KJ776977.1  GI:686028176
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Eastern_GC_sub_29"
+                     /db_xref="taxon:8316"
+     gene            <1..592
+                     /gene="ND2"
+     CDS             <1..592
+                     /gene="ND2"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91076.1"
+                     /db_xref="GI:686028177"
+                     /translation="NLLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLS
+                     FAPALTMFNLMIYLMLTSSMFMMMMATHSTNINKLSTSWLKTPTLAASTMITLMALGG
+                     LPPTSGFLPKWLILQEMTKQHLETLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNS
+                     NFTWRMKNNKLQTLPTLIVLSAMMMPIAPTLLTMMN"
+     tRNA            591..>625
+                     /product="tRNA-Trp"
+ORIGIN      
+        1 aaacttacta attacaatag cactagcatc aacaattatt ggaggatgag gaggcctcaa
+       61 tcaaacacaa atacgaaaaa ttatagcata ttcatctatt gcacatctag gatgaataat
+      121 tttagtctta tctttcgccc ctgccctaac aatatttaac ttaataatct atttaatatt
+      181 aacctcttct atatttataa taataatagc cacacattcc acaaatatta ataaactctc
+      241 aacttcatga ctaaaaacac ctacactagc agcatccaca ataattaccc ttatagccct
+      301 tggaggactt cctccaacct caggcttcct accaaaatga ctaattttac aagaaataac
+      361 aaaacaacac ctagagacac tatcaactat aatagctata tccgctttac tcagcttatt
+      421 cttttatcta cgcctatctt atactatctc tctaacctcc cccccaaata tttccaattc
+      481 aaacttcacc tgacgaataa aaaacaataa actacaaact ctcccaactc ttattgtact
+      541 ttcagcaata ataataccta tcgccccaac actattgaca ataataaact aaagacttag
+      601 gataataaga ccaaaagacc ttcaa
+//
+

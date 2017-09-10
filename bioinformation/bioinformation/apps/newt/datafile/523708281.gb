@@ -1,0 +1,77 @@
+LOCUS       KC165184                1266 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis dermatan sulfate epimerase-like protein (DSEL)
+            gene, partial cds.
+ACCESSION   KC165184
+VERSION     KC165184.1  GI:523708281
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1266)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 1266)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1266
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>1266
+                     /gene="DSEL"
+     mRNA            <1..>1266
+                     /gene="DSEL"
+                     /product="dermatan sulfate epimerase-like protein"
+     CDS             <1..>1266
+                     /gene="DSEL"
+                     /codon_start=1
+                     /product="dermatan sulfate epimerase-like protein"
+                     /protein_id="AGQ56535.1"
+                     /db_xref="GI:523708282"
+                     /translation="RHSYLVKIQSVSEEMYEYSKVRSWGKQLLHNHQPTNMIALLTGA
+                     LVTGLYQESRAHIWKQVVVDVMEKTMFLLNHVVDGSLDEGVAYGSYTSKSITQYVFLA
+                     QRHFGMNNLENYWLKTHFWFYYATLLPGFQRTVGIADSNYNWFYGPESQLVFLDKFVL
+                     KNGAGNWLAQQIRKHRPKDGPMVQSSSQRWSTLHTEFIWYDPSLTPQPPSEHGTAKLH
+                     IFPNWGVITYGAGLPNTQTNTFLSFKSGKLGGRAVYDIVHFQPYSWVDGWRSFNPGHE
+                     HPDQNSFTFAPNGQVFVSEALYGPKHSHLNNVLVFAPSPTSQCNNPWEGQLGECGQWL
+                     KWTADEAGDTAGDIITASQHGEMMFASGEAVSAYSSTMRLKSVYRALVLLNPQTLLVV
+                     DHIEKHKDSPLSLLSAFFHNLDIDFKYIPY"
+ORIGIN      
+        1 agacatagct acttggtgaa gatacagagt gtgagtgaag aaatgtatga atattcaaaa
+       61 gtccgctcat ggggcaagca gctgcttcat aaccaccaac ccactaacat gatagcgctg
+      121 ctcacggggg ccctcgtcac tggcctctat caggagtccc gagctcacat ttggaagcaa
+      181 gtcgttgttg atgtaatgga aaagaccatg tttttgctca atcatgttgt tgatggctct
+      241 ttagatgaag gagttgcata tggcagctat acatcaaaat cgatcactca gtacgttttc
+      301 ctggcgcagc gacattttgg tatgaataac ttggaaaatt actggctgaa aacgcacttt
+      361 tggttctatt atgcaaccct tttgccaggt tttcagagaa cggtaggcat tgcagactca
+      421 aattataatt ggttctatgg tccagaaagc cagttagtat ttttggacaa atttgtgtta
+      481 aaaaatggag caggcaactg gctagcacag caaatcagaa agcataggcc aaaagatggg
+      541 cctatggtac agtctagttc acagaggtgg agcactcttc acacagaatt catatggtac
+      601 gatccaagct taacacctca acctccttcg gagcatggaa ctgctaagtt gcatatattt
+      661 cccaactggg gagtcattac atatggagct gggttgccaa atactcagac taacacattt
+      721 ctttcattta aatcaggaaa gcttggtggc cgggctgtct atgatatagt gcattttcaa
+      781 ccgtactcct gggttgatgg atggagaagc ttcaatcctg gtcatgagca cccagaccag
+      841 aactcattta catttgcccc aaatggtcag gtttttgttt cagaagctct ctatggacca
+      901 aaacatagtc acttaaataa tgtactagta tttgccccat cacctactag tcagtgcaac
+      961 aatccttggg aggggcaact tggtgaatgt gggcagtggc tgaaatggac agctgatgag
+     1021 gctggagaca cagctggcga tatcataact gctagccagc atggcgaaat gatgtttgca
+     1081 agtggtgagg cagtgtctgc ctactcatcg accatgagac tgaagagcgt ttaccgtgct
+     1141 ttggtacttt taaaccccca gaccctgcta gtagtggacc atattgagaa acacaaagac
+     1201 tctcccctta gtttgctcag tgccttcttc cacaatctgg atattgattt taagtacata
+     1261 ccttat
+//
+

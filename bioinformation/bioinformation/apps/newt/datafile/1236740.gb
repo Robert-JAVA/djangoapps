@@ -1,0 +1,53 @@
+LOCUS       NEWEF1AC                 397 bp    mRNA    linear   VRT 05-OCT-2006
+DEFINITION  Cynops pyrrhogaster EF1-alpha mRNA, partial cds.
+ACCESSION   D64019
+VERSION     D64019.1  GI:1236740
+KEYWORDS    EF1-alpha gene.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Takabatake,T., Takahashi,T.C., Inoue,K., Ogawa,M. and Takeshima,K.
+  TITLE     Activation of two Cynops genes, fork head and sonic hedgehog, in
+            animal cap explants
+  JOURNAL   Biochem. Biophys. Res. Commun. 218 (1), 395-401 (1996)
+   PUBMED   8573168
+REFERENCE   2  (bases 1 to 397)
+  AUTHORS   Takabatake,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-1995) Takashi Takabatake, Nagoya University,
+            Radioisotope Research Center; Furo-cho, Chikusa, Nagoya, Aichi
+            464-8602, Japan (E-mail:j45998a@nucc.cc.nagoya-u.ac.jp,
+            Tel:81-52-789-2573, Fax:81-52-789-2567)
+FEATURES             Location/Qualifiers
+     source          1..397
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /dev_stage="Embryo"
+                     /note="Common name: Japanese newt"
+     mRNA            <1..>397
+                     /standard_name="EF1-alpha"
+                     /note="obtained by RT-PCR"
+     CDS             <1..>397
+                     /standard_name="EF1-alpha"
+                     /codon_start=2
+                     /protein_id="BAA10895.1"
+                     /db_xref="GI:1890072"
+                     /translation="STTTGHLIYKCGGIDKRTIEKFEKEAAEMGKGSFKYAWVLDKLK
+                     AERERGITIDISLWKFETAKYYITIIDAPGHRDFIKNMITGTSQADCAVLIVAGGVGE
+                     FEAGISKNGQTREHALLAYTLGVKQLIIGV"
+     variation       274
+                     /replace="c"
+ORIGIN      
+        1 gtccaccacc actggccacc tcatctacaa gtgtgggggc atcgacaaga gaaccatcga
+       61 gaagttcgag aaggaggcag ccgagatggg caaaggatct ttcaagtacg cctgggtgtt
+      121 ggacaagctt aaggcggaga gggaacgtgg tatcacaatc gacatctccc tctggaagtt
+      181 cgagactgcc aagtattaca tcaccatcat tgatgccccc ggacacaggg atttcatcaa
+      241 gaacatgatc accggcacct cgcaggctga ctgtgcggtg ctgattgttg ctggcggcgt
+      301 gggtgagttt gaagctggta tttccaagaa cggacagacc cgcgagcacg ccctgctggc
+      361 ctacaccctg ggagtgaagc aactgatcat tggtgtg
+//
+

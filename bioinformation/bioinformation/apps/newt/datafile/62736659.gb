@@ -1,0 +1,127 @@
+LOCUS       AY916027                2048 bp    DNA     linear   VRT 31-DEC-2005
+DEFINITION  Taricha rivularis NADH dehydrogenase subunit 1 (ND1) gene, partial
+            cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence;
+            NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp,
+            tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete
+            sequence; and cytochrome c oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   AY916027
+VERSION     AY916027.1  GI:62736659
+KEYWORDS    .
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 2048)
+  AUTHORS   Weisrock,D.W., Harmon,L.J. and Larson,A.
+  TITLE     Phylogenetic Relationships among Salamander Families: Analyses of
+            Mitochondrial and Nuclear Genomic Data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2048)
+  AUTHORS   Weisrock,D.W., Harmon,L.J. and Larson,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JAN-2005) Biology, Washington University, Campus Box
+            1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2048
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ158853"
+                     /db_xref="taxon:36313"
+                     /country="USA"
+     gene            <1..381
+                     /gene="ND1"
+     CDS             <1..381
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAX97641.1"
+                     /db_xref="GI:62736660"
+                     /translation="TNWAPFDLTEGEFELVSGFNVEYAGGPFALFFLAEYSNILLMNT
+                     LSAILFLGTTLNHLQPELLTISLIMKTSALSIMFLWTRASYPRFRYDQLMHLIWKNFL
+                     PITIMMTLMHLSLPLMMSGIPPLL"
+     tRNA            381..451
+                     /product="tRNA-Ile"
+     tRNA            456..525
+                     /product="tRNA-Gln"
+     tRNA            529..597
+                     /product="tRNA-Met"
+     gene            598..1641
+                     /gene="ND2"
+     CDS             598..1641
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAX97642.1"
+                     /db_xref="GI:62736661"
+                     /translation="MSPYALSMLLSSLAIGTITTLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLMQATASALILFSTIMNAWATGEWTITSMSNNMSTTLLTIAL
+                     AMKLGVAPFHLWLPDVLQGLNLMTGLILSTWQKLAPMALLILTSHQLNTNLLIMMALA
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMIMILSFAPALTILNLMIYLMLTSTMFMM
+                     MMTMYSTNINKLSTSWLKSPTLAASTMIALMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     ALSILMAMSTLLSLFFYLRLSYAISLTSPPNTSNSNSTWRMMNNKPQILSTLITLSAM
+                     TLPITPTLLAMMN"
+     tRNA            1640..1707
+                     /product="tRNA-Trp"
+     tRNA            1710..1777
+                     /product="tRNA-Ala"
+     tRNA            1779..1850
+                     /product="tRNA-Asn"
+     rep_origin      1851..1886
+                     /note="light strand replication"
+     tRNA            1885..1949
+                     /product="tRNA-Cys"
+     tRNA            1951..2017
+                     /product="tRNA-Tyr"
+     gene            2019..>2048
+                     /gene="COI"
+     CDS             2019..>2048
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AAX97643.1"
+                     /db_xref="GI:62736662"
+                     /translation="MMITRWLFST"
+ORIGIN      
+        1 acaaattgag ccccatttga cctcacagaa ggtgagtttg aactagtatc agggttcaac
+       61 gtagaatatg caggaggccc atttgcactg ttttttttag cagagtactc aaatattcta
+      121 ttaataaaca ccctctcagc catcctattc cttggtacca cactaaacca cctccaacca
+      181 gagttactaa cgatcagttt gattataaaa acatcagcac tatcaatcat atttttgtga
+      241 acgcgcgcat catacccccg attccgatat gatcagctca tacacctaat ctgaaaaaac
+      301 ttcctgccaa ttacaatcat aatgacgctc atacaccttt ccctccccct tataatatca
+      361 ggcatccccc ccctactata ggacatgtgc ccgaaagata ggacccactt tgatagagtg
+      421 actcatagag gttcaaaccc tctcatctcc tgcactaaaa aaataggact tgaacctacc
+      481 ccaaggagat caaaacccct cgtgcatcca ctacaccact ttttaaaaag taagataagc
+      541 taaataagct tttggggcca taccccaaaa atgttggtta aactccctct cttactaatg
+      601 agcccctatg cattatcaat attattatca agcctagcaa tcggaacaat taccacgctc
+      661 tctagctctc actgattttt agcatgaatg gggctagaaa ttaatacact agccattatc
+      721 cccctaataa ccaaaataca ccacccacga gcaacagaat cggcaacaaa gtacttccta
+      781 atacaagcca cggcatccgc cctaatttta ttttccacaa tcataaatgc ttgggccaca
+      841 ggagaatgaa caatcacaag cataagcaac aacatatcaa caacactctt aacaatcgcc
+      901 ctagcaataa aactaggagt cgcaccattt cacctatgac tcccagacgt actacaagga
+      961 ctaaacctaa taacaggcct aattctgtca acatgacaaa aactggctcc aatggcactc
+     1021 cttattttaa ccagccacca actcaataca aaccttctaa ttataatggc actagcatcc
+     1081 acaattattg gagggtgggg gggcctaaat caaacacaaa tacgaaaaat tatggcatat
+     1141 tcatcaattg cacacttagg ctgaataatc ataatcttat ccttcgcccc agctctgacc
+     1201 atcttaaatc ttataatcta ccttatactt acctccacca tatttataat gataataact
+     1261 atatactcaa caaacattaa caaactctca acctcatgac taaaatcccc aacacttgca
+     1321 gcatccacaa taattgccct gatggcctta gggggcctcc cccccacctc gggcttccta
+     1381 ccaaaatgac taattctaca agaaataaca aaacaacacc tagaagcact atcaatccta
+     1441 atagccatgt ctaccctact aagcctattt ttttacctcc gcctatccta tgcaatctca
+     1501 ttaacctccc caccaaacac ctcaaactca aactcaacct gacgaataat aaacaacaaa
+     1561 ccacaaatct tatcaaccct aatcacactt tccgcaataa cattaccaat caccccaaca
+     1621 ctactagcaa taataaacta aggacttagg ataacaagac caaaggcctt caaagcctta
+     1681 agcagaagtt aaaatcttct agtctttgta agacctgcag gaccctatcc cacatcttct
+     1741 gaatgcaact cagacacttt aattaagata aggcctccta gaccagtagg cttttaccct
+     1801 acgacctttt agttaacagt taaacgctca gtccagcgag ctttagtcta cttttcccgc
+     1861 ttgtaggggg ggggaagcgg gagaagcccc ggcagaagtc attctgctct ttaaaatttg
+     1921 caattttata tgccgaacat cacggagctt ggtaaaaaaa ggactctaac ctttatgaca
+     1981 agggctacaa tcttgcacct gcttcggcca tcttaccagt gataatcact cgatgactat
+     2041 tttctact
+//
+

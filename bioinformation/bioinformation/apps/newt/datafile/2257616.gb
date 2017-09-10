@@ -1,0 +1,59 @@
+LOCUS       AB005588                 950 bp    mRNA    linear   VRT 07-OCT-2008
+DEFINITION  Cynops pyrrhogaster mRNA for newt elongation factor 1-alpha,
+            partial cds.
+ACCESSION   AB005588
+VERSION     AB005588.1  GI:2257616
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yamamoto,T., Nakayama,Y., Matsuda,Y. and Abe,S.
+  TITLE     Cloning and Expression of a cDNA Encoding a Prolactin Receptor of
+            the Japanese Red-Bellied Newt, Cynops pyrrhogaster
+  JOURNAL   Zool. Sci. 15, 741-747 (1998)
+REFERENCE   2  (bases 1 to 950)
+  AUTHORS   Nakayama,Y., Yamamoto,T., Matsuda,Y. and Abe,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-1997) Contact:Yuki Nakayama Kumamoto University,
+            Priority Organization for Innovation and Excellence; 2-39-1
+            Kurokami, Kumamoto, Kumamoto 860-8555, Japan
+FEATURES             Location/Qualifiers
+     source          1..950
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+     CDS             <1..708
+                     /codon_start=1
+                     /product="newt elongation factor 1-alpha"
+                     /protein_id="BAA21513.1"
+                     /db_xref="GI:2266402"
+                     /translation="LLEALDSIIPPTRPTDKPLRLPLQDVYKIGGIGTVPVGRVETGI
+                     IKAGMVVTFAPSNVTTEVKSVEMHHEALVEALPGDNVGFNVKNVSVKDIRRGNVAGDS
+                     KNDPPMEAGSFTAQVIILNHPGQISQGYAPVLDCHTAHIACKFAELKEKIDRRSGKKL
+                     EDSPKALKSGDAAIVEMIPGKPMCVESFSNYPPLGRFAVRDMRQTVAVGVIKAVEKKA
+                     ASAGKVTKSAIKASGKK"
+     polyA_site      950
+                     /note="17 a nucleotides"
+ORIGIN      
+        1 ctgctcgaag ccctagactc aatcatcccg cctacccgtc ccaccgacaa gcccctgcgt
+       61 ctgcccctgc aggacgtcta caagatagga ggtattggca cagtcccagt gggccgtgtg
+      121 gaaacgggta tcattaaggc tggcatggtg gtgacctttg cccccagtaa cgtaaccact
+      181 gaagtaaagt ctgtggaaat gcaccacgag gcgctggtgg aggctctccc aggtgacaat
+      241 gttggcttca acgtgaaaaa cgtctctgtg aaagatatcc gaagagggaa tgttgctggt
+      301 gacagcaaaa acgatccccc gatggaggct gggagcttca cagcccaggt cattattctg
+      361 aatcaccctg gtcagatcag tcagggatac gctcctgtgt tggattgcca cactgctcac
+      421 attgcctgca aattcgctga gctgaaggaa aaaattgaca gacgatctgg caagaagctt
+      481 gaagatagcc ccaaagcact caagtctgga gatgccgcca ttgttgagat gattccaggc
+      541 aaacccatgt gtgtggagag cttctcaaac taccctcctc ttggtcgttt tgctgtccgc
+      601 gacatgaggc agacggtagc tgtcggagtt ataaaggcgg ttgagaagaa ggctgccagt
+      661 gctggcaaag tcacaaagtc cgccatcaag gcctctggca agaagtagcg ccagcaacac
+      721 ccagttccct tatatgcact ggggaccccg agacctcctg gtggtccgag gatcgcctgc
+      781 atgcactcta tgatcaggga ctggttactg agcattaggg tccatcacaa gagccttcgc
+      841 aggaaaggga ggctagactt ggcgcttgtt ctgatgttct aatattttgt gacttacatt
+      901 ctggttattc ccccgtctgt gatttctgaa taaaatattg gcacaactcc
+//
+

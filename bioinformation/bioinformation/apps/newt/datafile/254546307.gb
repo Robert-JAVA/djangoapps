@@ -1,0 +1,57 @@
+LOCUS       GQ258933                 615 bp    DNA     linear   VRT 26-JUL-2009
+DEFINITION  Triturus marmoratus voucher NNMN:1533 NADH dehydrogenase subunit 4
+            (ND4) gene, partial cds; mitochondrial.
+ACCESSION   GQ258933
+VERSION     GQ258933.1  GI:254546307
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 615)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Multiple nuclear and mitochondrial genes resolve the branching
+            order of a rapid radiation of crested newts (Triturus,
+            Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 52 (2), 321-328 (2009)
+   PUBMED   19348957
+REFERENCE   2  (bases 1 to 615)
+  AUTHORS   Espregueira Themudo,G., Wielstra,B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2009) Department of Zoology, NNMN, P.O. Box 9517,
+            Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NNMN:1533"
+                     /db_xref="taxon:8328"
+     gene            <1..>615
+                     /gene="ND4"
+     CDS             <1..>615
+                     /gene="ND4"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ACT66249.1"
+                     /db_xref="GI:254546308"
+                     /translation="LKLGGYGIIRVTMLLTPLTKEMSYPFVILALWGVVMTSLICMRQ
+                     TDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISSALFCLANLNYERT
+                     HSRTLLLVRGAQAVLPLMATWWLIANLSNMALPPSMNLWGELTIMVSLFNWSPWTILI
+                     TGLGTLITASYTLYMFLMTQRGPTPLHLGQITPSHTREHFLIMM"
+ORIGIN      
+        1 tactaaaatt aggcggatat ggcatcattc gagtcaccat gctcctcacc cccctaacaa
+       61 aagaaatatc atatccgttt gtaatcctgg ccctatgggg agtggtaata acgagcctaa
+      121 tctgcatacg acagacagac cttaaatcac taattgcata ctcatctgta agccatatag
+      181 gcctagtcat cgccgccatt ataattcaaa caccatgaag cctaacaggg gcaattattt
+      241 taataatctc acacggactt atttcatcag ccctcttttg tctggcaaac ttaaactacg
+      301 aacgaaccca cagtcggacc ttgcttttag tccggggggc tcaagcagta ttacccctaa
+      361 tggccacctg atgactcatt gcaaacctct caaacatagc acttcccccc tcaataaacc
+      421 tgtgaggaga actaactatt atagtctcac tattcaactg gtccccatgg acaattttaa
+      481 tcaccggcct cggtacccta attacggcct cttacacgct ctacatattt ctaataacac
+      541 aacgaggccc aaccccccta catcttggcc aaattacccc gtcccacact cgagaacact
+      601 tccttattat aatac
+//
+

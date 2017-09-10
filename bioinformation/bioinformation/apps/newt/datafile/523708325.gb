@@ -1,0 +1,64 @@
+LOCUS       KC165166                 738 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis dolichol kinase (DOLK) gene, partial cds.
+ACCESSION   KC165166
+VERSION     KC165166.1  GI:523708325
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 738)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>738
+                     /gene="DOLK"
+     mRNA            <1..>738
+                     /gene="DOLK"
+                     /product="dolichol kinase"
+     CDS             <1..>738
+                     /gene="DOLK"
+                     /codon_start=1
+                     /product="dolichol kinase"
+                     /protein_id="AGQ56557.1"
+                     /db_xref="GI:523708326"
+                     /translation="GGISFVLNHLIKRSLNSVDSKGDPVDYLLLVAVVGTVLLGILFA
+                     ALFFFMDSGTWISSLFFHMLTAVLALGVLLPWFQYLTWKNPLIWLAGFLLQTRTRLCL
+                     LLYWCLLTVLACSVVFYQNAKRSSECKKHRVSTITRKYFHFIVVATYVPGIIMDQQLL
+                     FVASVVCMSVFVFLEYVRYFRIRPLGQTLRHLLALFLDERDSGPLVLTHIYLLLGMSL
+                     SIWLFPRRCGHKGSLFGAGALVPYCGVL"
+ORIGIN      
+        1 ggtggtatca gctttgttct caaccatctc attaaacgct ccttgaattc agtggacagc
+       61 aaaggtgacc ccgtggacta tctcctcctg gtggcagtgg ttggcacggt ccttctaggc
+      121 attctctttg ctgcgctttt tttcttcatg gattctggga cgtggatctc ctccttgttc
+      181 ttccacatgt tgacagcggt gctggcactt ggtgtccttt tgccatggtt ccagtacctg
+      241 acctggaaga acccactcat ttggctggct ggcttcctct tgcaaacacg caccaggctc
+      301 tgcctgctcc tgtactggtg cctgctgacc gtgcttgcct gcagtgttgt tttctaccaa
+      361 aatgccaagc gatcttcaga gtgcaaaaag catcgcgtct cgaccattac caggaaatat
+      421 tttcatttca ttgtggtggc cacctacgtt cccggcatta tcatggacca gcaacttctg
+      481 tttgtggcat cggtggtctg tatgtcagtg tttgtttttc tggagtatgt gcggtacttc
+      541 agaatccggc ctctgggaca gaccttgcgt cacctgttgg cgctcttcct ggatgagcga
+      601 gacagtgggc ccctggttct cacacatatc tacctcctcc tgggcatgtc cctctccatc
+      661 tggctgtttc ccagacgatg tggccataaa gggtccctgt ttggcgctgg tgcgctcgtt
+      721 ccctactgtg gagtgcta
+//
+

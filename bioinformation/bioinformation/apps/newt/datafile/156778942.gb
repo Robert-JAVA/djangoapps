@@ -1,0 +1,55 @@
+LOCUS       EF627455                 753 bp    DNA     linear   VRT 31-OCT-2007
+DEFINITION  Tylototriton taliangensis haplotype X cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   EF627455
+VERSION     EF627455.1  GI:156778942
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton taliangensis (Taliang knobby newt)
+  ORGANISM  Tylototriton taliangensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Zhang,M., Rao,D., Yu,G. and Yang,J.
+  TITLE     The validity of red knobby newt (Tylototriton shanjing) species
+            status based on mitochondrial cyt b gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Zhang,M., Rao,D., Yu,G. and Yang,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2007) Kunming Institute of Zoology, Chinese
+            Academy of Sciences, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Tylototriton taliangensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:129885"
+                     /haplotype="X"
+     CDS             <1..>753
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABU95617.1"
+                     /db_xref="GI:156778943"
+                     /translation="SFIDLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADTY
+                     SAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVI
+                     LLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGTSIVHLLFLHETGSNNPTGVTSEGDKIPFHPYFSYKDILGFLL
+                     MLLTLVFISLLTPNLLGDPENFTPANPLVTPPH"
+ORIGIN      
+        1 tcgttcatcg accttccaac gccgtcaaac atctcatatt gatgaaactt tggctccctc
+       61 ttaggcattt gcctcatcac acaaattgta acaggactat ttctagcaat acactacaca
+      121 gcagacacat actcagcatt ttcatcagtc gctcatattt gtcgagacgt aaactatggg
+      181 tgacttgtac gaaacattca cgcaaacgga gcctcactct tcttcatctg catctacctt
+      241 cacatcggac gaggcctata ctatggttct tatatattta aagagacatg aaacatcggc
+      301 gtaatcctac tactcctagt catagccaca gcctttgtcg gatacgtcct cccatgagga
+      361 caaatatcct tctgaggggc cactgtcatt acaaacctac tctcagcaat cccgtacata
+      421 ggagactcac tagtacagtg aatttgaggt ggcttttcag tagacaaagc caccctaacc
+      481 cggttctttg cgttccattt tctattccca ttcctgatcg ccggaacaag cattgtccac
+      541 ctcttattcc tccacgaaac gggctcaaat aacccaacag gggttacatc agaaggagac
+      601 aaaattccat ttcacccata cttttcatac aaagacatcc taggatttct gctaatattg
+      661 ttaaccttag tattcatctc attattgacc ccaaacctcc tgggcgaccc agaaaacttc
+      721 acccctgcaa acccattagt aacacccccg cac
+//
+

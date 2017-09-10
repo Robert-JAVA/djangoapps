@@ -1,0 +1,50 @@
+LOCUS       AJ535722                 744 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Triturus vulgaris microsatellite DNA, clone Tv11.
+ACCESSION   AJ535722
+VERSION     AJ535722.1  GI:27368963
+KEYWORDS    microsatellite; repetitive DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Jehle,R., Dawson,D.A., Morales-Hojas,R., Sztatecsny,M., Pandhal,J.
+            and Burke,T.
+  TITLE     Microsatellite loci in the common newt, Triturus vulgaris
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 744)
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..744
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     repeat_region   1..744
+                     /satellite="microsatellite"
+     repeat_region   197..643
+                     /rpt_family="TC"
+                     /rpt_type=TANDEM
+                     /rpt_unit_range=197..198
+     primer_bind     269..289
+     primer_bind     complement(435..452)
+ORIGIN      
+        1 gatcaacctt acaagcccct tgcaacactt ttgcaccaac gttgtgtcac ttttgtaatg
+       61 cagcggcggc gtaaacaatg cagacaattt acaacatgac acatctaggg agatgcagca
+      121 cattataaag ccctgcgccc cattacacct gtgttaggta gaatgtatgt agggtgggcg
+      181 ttcccacgca ggaaagtctc gtanaaatgt taaaatctag tttgcgacat caacattatc
+      241 ggcgccatct tgtccctttt caggctcata tgtgcgcata agtagcagcc attttgaatg
+      301 ccatggcctc tctgcccact gccgatagcc agcgcgtctc tctctctctc cccctctaaa
+      361 ctcgcaagca tccccctaca cgctgaaagc cctgctctca catgcttggg gcataaaact
+      421 cccttcantg cgacctgcct ccgaaccaca tcccgtacca gccaaaactc cctccatccc
+      481 tctcatgaac atacatcctt tgatnaancc cccctcctct gtgctcnaat gtcctgctcc
+      541 ttcccanggc ancanctggg cccgcggaat acaatttatt gccccntnca ntangaaact
+      601 ctctcntcca angattaatt ttggantggg ttaaaattgt ctctttattc aaaaatcttt
+      661 catcnccccc cctttctnaa acattttgtt ccccnaancn tggaaggttt cccnatttta
+      721 ttcccncncc tggnccnccg gatc
+//
+

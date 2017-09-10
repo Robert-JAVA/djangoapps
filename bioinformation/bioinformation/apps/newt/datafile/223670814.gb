@@ -1,0 +1,55 @@
+LOCUS       AB476741                 654 bp    mRNA    linear   VRT 28-MAY-2009
+DEFINITION  Notophthalmus viridescens c-myc mRNA for c-myc, partial cds.
+ACCESSION   AB476741
+VERSION     AB476741.1  GI:223670814
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Maki,N., Suetsugu-Maki,R., Tarui,H., Agata,K., Del Rio-Tsonis,K.
+            and Tsonis,P.A.
+  TITLE     Expression of stem cell pluripotency factors during regeneration in
+            newts
+  JOURNAL   Dev. Dyn. 238 (6), 1613-1616 (2009)
+   PUBMED   19384853
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Maki,N., Maki,R. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2009) Contact:Nobuyasu Maki University of Dayton,
+            Department of Biology; 300 College Park, SC46, Dayton, Ohio
+            45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>654
+                     /gene="c-myc"
+     CDS             <1..>654
+                     /gene="c-myc"
+                     /codon_start=3
+                     /product="c-myc"
+                     /protein_id="BAH22630.1"
+                     /db_xref="GI:223670815"
+                     /translation="TESLPKASPPSPNVELPSCMDTPPATSSSDSEEEQDDDEDDDEE
+                     DEEEIDVVTIEERQPTGRKPESRPQHSPLVLKRCHVSIQQHNYAAPHSPIHQHDYAAP
+                     PLTRTSSSKTDYPSAKRVKTDHSSRVLKPITNNRKCTSPRTSDSEENDKRRTHNVLER
+                     QRRNELKMSFFALRDQIPEVADNEKAPKVVILKKATEYTLTIQADEQRLIAEKEQLR"
+ORIGIN      
+        1 tgactgagag tcttccgaag gccagcccgc ccagtccgaa cgtggagctg cccagctgca
+       61 tggacacccc tccggccacc agcagcagtg actcagaaga agaacaggat gacgatgaag
+      121 atgatgatga ggaggacgag gaagagatag atgtagtcac aatcgaggaa aggcaaccta
+      181 ctggcaggaa acctgaatct cgtccccagc acagtcctct cgttcttaag aggtgccatg
+      241 tctctatcca gcaacacaac tacgcagcgc cccatagccc aattcatcaa cacgattacg
+      301 ctgcgccccc cttgacgcgg acatcttcct caaaaacgga ctacccctct gccaagaggg
+      361 taaaaactga ccacagcagc agagtgctca agcccatcac caacaaccgg aagtgcacaa
+      421 gtcctaggac atcagactct gaagagaacg acaagaggag gactcacaat gttctggagc
+      481 gccagaggcg gaacgagctc aagatgagct tctttgcact gcgcgaccag ataccagagg
+      541 tggcggacaa tgaaaaagca ccaaaagtgg tgatcttgaa aaaagccaca gaatacacac
+      601 tgactattca ggcagatgag cagagactga ttgcagagaa agaacagttg agga
+//
+

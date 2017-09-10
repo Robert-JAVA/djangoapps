@@ -1,0 +1,70 @@
+LOCUS       AB686174                1141 bp    DNA     linear   VRT 19-SEP-2012
+DEFINITION  Tylototriton verrucosus mitochondrial cytb gene for cytochrome b,
+            partial cds.
+ACCESSION   AB686174
+VERSION     AB686174.1  GI:405778091
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Honda,M., Matsui,M., Tominaga,A., Ota,H. and Tanaka,S.
+  TITLE     Phylogeny and biogeography of the Anderson's crocodile newt,
+            Echinotriton andersoni (Amphibia: Caudata), as revealed by
+            mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 65 (2), 642-653 (2012)
+   PUBMED   22846685
+  REMARK    DOI:10.1016/j.ympev.2012.07.019
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Honda,M., Matsui,M., Tominaga,A., Ota,H. and Tanaka,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2011) Contact:Masanao Honda University of
+            Tsukuba, Faculty of Life and Environmental Sciences; Tennodai,
+            Tsukuba, Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164973"
+     gene            1..>1141
+                     /gene="cytb"
+     CDS             1..>1141
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAM44814.1"
+                     /db_xref="GI:405778092"
+                     /translation="MAHTMRKTHPLMKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIVTGLFLAMHYTADTYSAFSSVTHICRDVNYGWLMRNIHANGASLFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPFMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGVVSNGDK
+                     IPFHPYFSYKDILGFLLMLLTLVLISLLTPNLLGDPENFTPANPLMTPPHIQPEWYFL
+                     FAYAILRSIPNKLGGVMALLMSILILMIFPLLHTSKQRSLMFRPISQILFWSMVANTL
+                     ILTWIGGKPVEPPFIEIGQIASILYFSLFIILIPMAGLLENKLMKW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aacccaccca ctaataaaaa ttattaacaa ctcattcatc
+       61 gaccttccaa caccgtcaaa catctcatat tgatgaaact ttggctccct tctcggcatc
+      121 tgcctcatca cacaaattgt aacaggatta tttctagcaa tacactacac agcagacaca
+      181 tactcagcat tctcatcagt tacccacatc tgtcgagacg taaattacgg atgacttata
+      241 cgaaacattc acgcaaatgg ggcctcacta ttcttcatct gcatctacct tcacattgga
+      301 cgaggcctat actacggatc ctacatgttt aaagaaacat gaaacatcgg agtaatatta
+      361 ttactcctag tcatagccac agcctttgtc ggatacgtcc tcccatgagg acaaatatcc
+      421 ttctgagggg ccacagtcat tacaaacctg ctatcagcag tcccgttcat gggagactca
+      481 ctagtacaat gaatctgagg tggcttctca gtagacaaag ccaccctaac ccgattcttc
+      541 gcattccact tcctattccc attcctgatt gccggagcaa gcattgtcca cctcttattc
+      601 cttcacgaaa caggctcaaa caacccaaca ggagttgtat caaacggaga caaaatccca
+      661 ttccacccat acttctcgta caaagacatt ctaggctttc tactaatact actaacccta
+      721 gtactcatct cattattaac cccaaacctc ctgggagacc cagaaaactt tacccctgca
+      781 aacccactaa taaccccccc gcacattcaa ccagaatggt actttctatt tgcttacgca
+      841 atccttcgct ctatcccgaa caagctagga ggagtgatgg ccctgcttat atccatccta
+      901 atcttaataa tcttcccact actacataca tcgaaacagc gaagcctgat attccgacca
+      961 atctctcaaa tcctattttg atccatggta gcaaacaccc ttattctaac ctgaatcgga
+     1021 ggaaaaccag tagaaccccc attcattgaa atcggacaaa ttgcctccat cctatacttc
+     1081 tcactattta ttatcctaat cccaatagca ggactactag aaaataaact aataaaatga
+     1141 t
+//
+

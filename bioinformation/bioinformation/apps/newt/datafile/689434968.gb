@@ -1,0 +1,63 @@
+LOCUS       KJ715420                 939 bp    DNA     linear   VRT 01-OCT-2014
+DEFINITION  Cynops orientalis phosphatidylinositol-4,5-bisphosphate 3-kinase
+            catalytic subunit gamma (PIK3CG) gene, partial cds.
+ACCESSION   KJ715420
+VERSION     KJ715420.1  GI:689434968
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 939)
+  AUTHORS   Mao,R.L., Chen,M.Y. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2014) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..939
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>939
+                     /gene="PIK3CG"
+     mRNA            <1..>939
+                     /gene="PIK3CG"
+                     /product="phosphatidylinositol-4,5-bisphosphate 3-kinase
+                     catalytic subunit gamma"
+     CDS             <1..>939
+                     /gene="PIK3CG"
+                     /codon_start=1
+                     /product="phosphatidylinositol-4,5-bisphosphate 3-kinase
+                     catalytic subunit gamma"
+                     /protein_id="AIR08081.1"
+                     /db_xref="GI:689434969"
+                     /translation="VIELAKRDPRLYSMDPWVTSKPLPEYLVNKIMTNNIFIILHKGT
+                     TSQTIKVSIDETPDMILQSFFTKMAKKKLLLDISEERSEVDFVLRVCGRDEYITGDTP
+                     IKDFHWIRQCLKNGEEIHLVLESPPDPALDDVEKEEWPLVDDCTGVTGFHEQLTIEGK
+                     DHEKVFTISLWDCNRKFRVKIQGIDVPVMPRNTELTVFVEANIQHGQQLLAQKRTLSK
+                     PFLEEVLWNTWLEFDIKIRDLPKGALLNLQIYCGKAPPLSTKTSLQPRDSAAADYKYK
+                     NQLLYYVNLLLIDHRFLLRQGEYVLHMWKIPGKGEEQ"
+ORIGIN      
+        1 gtgatcgaac tggcaaaaag agatcccaga ctgtattcaa tggacccgtg ggtcacatcc
+       61 aagccgctgc ctgaatattt ggtaaacaag ataatgacca ataacatttt cataatccta
+      121 cacaaaggaa caaccagtca gaccatcaaa gtgtcgatcg atgaaactcc ggacatgatc
+      181 cttcagagtt tctttacaaa aatggcgaag aagaagctgt tgctcgacat ttccgaggag
+      241 cgcagtgagg tggactttgt tcttcgtgtt tgtggcagag atgagtatat aacaggtgac
+      301 actccaatca aggactttca ctggatcagg cagtgcctga aaaatgggga agaaatccac
+      361 cttgttctcg agtctccccc agaccctgct cttgatgacg ttgaaaagga agagtggccc
+      421 ctcgtcgacg actgcacagg agttactggg tttcacgagc agttgacaat tgaagggaaa
+      481 gaccatgaga aagtgttcac aatctccctg tgggactgca acaggaaatt tagggttaaa
+      541 atccagggca ttgatgtccc ggtgatgcca agaaacactg aactcactgt ctttgttgaa
+      601 gccaatattc aacatgggca gcaacttcta gctcagaaga ggacccttag caagcctttc
+      661 ttggaagagg tgctgtggaa tacatggctt gaatttgata taaaaattag agatttgccc
+      721 aaaggtgcgc tcctgaatct tcagatatat tgtggtaaag caccaccatt gtccacaaag
+      781 accagcctgc agccacgcga ttctgcagct gcagactaca aatacaagaa ccagcttctg
+      841 tattatgtga atcttttgct aatagaccac cgtttccttt tgcggcaagg agaatatgtg
+      901 ctccatatgt ggaaaatccc aggcaaagga gaggaacag
+//
+

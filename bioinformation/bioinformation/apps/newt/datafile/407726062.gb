@@ -1,0 +1,70 @@
+LOCUS       AB710470                1342 bp    mRNA    linear   VRT 01-AUG-2013
+DEFINITION  Cynops pyrrhogaster mRNA for pepsinogen A, complete cds.
+ACCESSION   AB710470
+VERSION     AB710470.1  GI:407726062
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Inokuchi,T., Ikuzawa,M., Yamazaki,S., Watanabe,Y., Shiota,K.,
+            Katoh,T. and Kobayashi,K.
+  TITLE     Molecular cloning of pepsinogens A and C from adult newt (Cynops
+            pyrrhogaster) stomach
+  JOURNAL   Comp. Biochem. Physiol. B, Biochem. Mol. Biol. 165 (4), 226-235
+            (2013)
+   PUBMED   23701991
+  REMARK    DOI:10.1016/j.cbpb.2013.05.003
+REFERENCE   2  (bases 1 to 1342)
+  AUTHORS   Inokuchi,T., Ikuzawa,M., Yamazaki,S., Watanabe,Y., Shiota,K.,
+            Katoh,T. and Kobayashi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-APR-2012) Contact:Tomofumi Inokuchi Utsunomiya
+            University, Faculty of Education; 350, Mine, Tochigi 321-8505,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1..1342
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="stomach"
+     CDS             45..1178
+                     /codon_start=1
+                     /product="pepsinogen A"
+                     /protein_id="BAM46129.1"
+                     /db_xref="GI:407726063"
+                     /translation="MKWLLLLGLVALSECMVKIPLMKGKSLRDHLRESGKLKEFLETY
+                     KVNPATKYYPTKYGQVANEPMTNYMDMQYYGVVSLGTPPQSFNMMFDSGSSNFWVPSV
+                     YCNSAACSNHNKFNPSSSSTFQGTSTSLSCGYGTGSMTGVLGYDTLQVGGLTITEQVF
+                     GAAYTEANFFYQMPFDGILGVAFPSLAQDQATPVFDNMWSQGLLAQDLFSVYLSPSGQ
+                     SGSVITFGGYDTSYYTGNMNWIPLSAESYWEITLDSITMNGNVIACNGGCQAIVDTGT
+                     SLISGTSSGVGSILNAIGAYQNSNGEYQVNCNSISSLPDIVFNINGVGYPVPASAYIN
+                     ENYCTSNFQTMPAGFWILGDVFIREYYVVFDRAGNYIGLANVA"
+ORIGIN      
+        1 gtctgagatc tccctcccgc gtgccttgga ccaaagaagg aaccatgaag tggctgctgc
+       61 tcctggggct ggtggccctc tctgagtgca tggtcaagat tcccttgatg aaagggaagt
+      121 cccttaggga ccacctgagg gagagcggga agctgaaaga gttcctggag acgtataaag
+      181 tgaatccggc caccaagtat tacccaacca agtatggaca agtggccaat gagccgatga
+      241 ccaactacat ggacatgcag tactatggag ttgtctccct tggaactcca cctcagagct
+      301 tcaacatgat gtttgacagc ggctcatcca atttctgggt cccctctgtg tactgcaaca
+      361 gtgcagcctg ctcaaatcac aacaaattca acccctccag ttcctccaca ttccagggga
+      421 ccagcaccag tctgtcttgt ggctacggca ctggaagcat gaccggggtc ctgggatacg
+      481 acaccctcca ggttggaggt ctcaccatca ctgagcaggt cttcggagcg gcctacactg
+      541 aagccaactt cttctaccaa atgccttttg acgggatcct gggagtggcc ttcccaagcc
+      601 ttgcccaaga tcaagccacc cccgtctttg acaacatgtg gagccaaggt ctgctggcac
+      661 aggacctctt ctcggtctac ctgagcccga gcgggcagag cgggagcgtg atcacctttg
+      721 gaggctatga cacgagttac tacaccggga acatgaactg gatccctctg tctgctgaga
+      781 gttactggga gatcaccctg gacagcatca ccatgaatgg gaacgtcatc gcctgcaatg
+      841 gaggatgtca agccatcgtg gacaccggga cctccctgat ctcaggaacc tcttcgggtg
+      901 tgggcagcat cctcaatgct attggagctt accagaactc caatggggag taccaagtaa
+      961 actgcaactc catcagctcc ctgcctgata tcgtcttcaa catcaacggg gttggttacc
+     1021 cagtgcctgc cagcgcctat ataaatgaga actactgcac cagcaacttc cagaccatgc
+     1081 ccgctggctt ctggatcctg ggagatgtct tcatcaggga atactacgtt gtgttcgaca
+     1141 gagctggcaa ctatattggt ctggccaatg tcgcctgagg atgaaggtgt tccaaaacct
+     1201 tttaatattt tgaggagtga aagtttgaat gaaaggagca tgactgctct agccacaaga
+     1261 cagactggtg ctcagtcctg gagagagcaa taaatcatgt caatgaatgc ccaaaaaaaa
+     1321 aaaaaaaaaa aaaaaaaaaa aa
+//
+

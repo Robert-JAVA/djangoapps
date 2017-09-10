@@ -1,0 +1,101 @@
+LOCUS       HE583591                2372 bp    mRNA    linear   VRT 19-AUG-2013
+DEFINITION  Pleurodeles waltl mRNA for DNA polymerase mu (polymerase mu gene).
+ACCESSION   HE583591
+VERSION     HE583591.1  GI:460417121
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Schenten,V., Gueguinou,N., Baatout,S. and Frippiat,J.P.
+  TITLE     Modulation of Pleurodeles waltl DNA Polymerase mu Expression by
+            Extreme Conditions Encountered during Spaceflight
+  JOURNAL   PLoS ONE 8 (7), E69647 (2013)
+   PUBMED   23936065
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2372)
+  AUTHORS   Frippiat,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2011) Nancy-University, Henri Poincare
+            University, Development and Immunogeneti, Faculty of Medicine. 9
+            Avenue de la foret de HayeF- 54500 Vanduvre-les-Nancy, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..2372
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /isolation_source="laboratory animal facility"
+                     /db_xref="taxon:8319"
+                     /tissue_type="spleen"
+                     /country="France"
+     gene            1..2372
+                     /gene="polymerase mu"
+     5'UTR           1..208
+                     /gene="polymerase mu"
+     CDS             209..1705
+                     /gene="polymerase mu"
+                     /codon_start=1
+                     /product="DNA polymerase mu"
+                     /protein_id="CCD30537.1"
+                     /db_xref="GI:460417122"
+                     /db_xref="UniProtKB/TrEMBL:M5B5N0"
+                     /translation="MTLPLRKRRRPPPAVADSSQGAVRFPEVGIFLVEKRMGSSRRAF
+                     LSKLARSKGFRVEAVYSDTVTHVVSEQNTRDEVCEWLQAQPGPGRLDTPALLDVSWFT
+                     ESMASGSPVLIEPRHCLVSSQCPESDASEVEGPTVPVYACQRRTALPNWNQILTDALE
+                     ILAEEAEFGNSEGRSLAFARAAPVLRSIPYAVTRFEDLNSLPCFGAHSRKIVQEITED
+                     GSSVEVQRVLHSERYRTLKVFSGIFGVGKKTADRWYQEGLRTLDDLRKKEKKLNRQQE
+                     AGLQHYTDLNSPVTRLEADKIQHVVQDAVLRFLPGAIITLTGGFQRGKQSGHDVDFLI
+                     THPTEGKEMGLLIKVVSWLSSQGLLLYHHMKQNSYKEPTQMSVQASKDRLDHFESCFS
+                     IFKLDTPNEQMESSSTAAENIRNWKALRVDLVVTPFSQYPFALLGWTGSKHFERELRR
+                     FAVHERKMILNSHALYDTKQNVMLPAHSEEDIFAHLGLDYILPTERNA"
+     3'UTR           1706..2372
+                     /gene="polymerase mu"
+     regulatory      2320..2325
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="polymerase mu"
+     polyA_site      2343
+                     /gene="polymerase mu"
+ORIGIN      
+        1 catgctctct gtgaaccagg acacatccct aatacgactc actatagggg ctaatacgac
+       61 tcactatagg gcaagcagtg gtatcaacgc agagtacgcg gggcagtggt atcaacgcag
+      121 agtacgcggg cacacgagca caacagagta tggcgttatc taggaacaca gagcaatatc
+      181 tgatcggaga ctggtgcact tgtctataat gacactccct ttgaggaaga gaaggcgtcc
+      241 tccacctgcg gtggcagata gcagtcaggg agctgtccgg ttccctgagg ttgggatctt
+      301 cctggtagaa aaacgaatgg ggagtagccg gcgggccttc ttgagcaaac tagccaggtc
+      361 aaaaggattc cgtgtagaag cggtttacag tgacactgtt actcacgtgg tctccgagca
+      421 gaacaccaga gatgaggttt gtgagtggct gcaggctcaa cctggaccag gcaggctgga
+      481 cacacctgca cttctggatg tgtcctggtt cacagagagc atggcttctg gttctccggt
+      541 tctgattgaa ccacgacatt gcttggtgag tagccagtgt ccggaatctg atgcttctga
+      601 ggtagaaggt ccaaccgtgc cagtatatgc ctgccagaga cggacagcac ttcccaattg
+      661 gaaccaaatc ctcacggatg ctttggagat actggcagag gaggcagagt tcggcaacag
+      721 tgaggggcgc agtctggcat tcgcccgggc agcacctgta cttcggtcga taccctacgc
+      781 tgtgacacgc tttgaggatt tgaacagtct tccgtgtttt ggagctcatt ccaggaagat
+      841 tgtgcaggag attacggagg atggtagctc tgttgaagta cagcgggtac tgcactcaga
+      901 gagatatcgc accctgaagg tcttcagtgg tatctttgga gttgggaaga agacggctga
+      961 cagatggtac caagaagggc tgcgaacctt ggatgacctg cgaaaaaaag aaaagaaact
+     1021 gaataggcaa caggaagctg ggcttcaaca ctacacagat ctcaacagtc ctgtgacccg
+     1081 attggaagct gacaagatcc agcatgttgt acaagacgct gtcctgagat tccttcctgg
+     1141 agccattatc actctaactg gagggtttca aagagggaag cagagtgggc atgatgtgga
+     1201 ctttctcatc acgcacccta cggaaggcaa agagatgggg ctccttatta aagtagtgag
+     1261 ctggttaagt agccagggtt tactactgta tcatcatatg aagcagaact cgtacaaaga
+     1321 gcccacgcaa atgtcagtac aggccagcaa ggatcgtctg gaccactttg aaagttgctt
+     1381 ctccatcttc aaacttgata ctcctaatga acaaatggag agctccagca cagcagcaga
+     1441 aaatattcgg aattggaagg ctctgcgtgt agacttggtg gttaccccat tttcacagta
+     1501 cccatttgct ctgcttgggt ggactggatc aaagcacttt gagcgagaac tgcgacgttt
+     1561 cgctgtccat gaaaggaaga tgatactaaa cagccatgcc ctgtacgaca ccaaacagaa
+     1621 tgtgatgctc ccagcgcact ccgaggaaga catctttgca cacttgggcc tggactatat
+     1681 actgccaact gagcgcaatg catagagcta cgcctgcagg aactttgtgc aaagtagctt
+     1741 actggcatcc aagttagaag ccatgatatg gtagctatgg ggtccatcca tcacttttta
+     1801 atttgggagt gtagtgattc tttgaaattg atcaagatga ggctggtgga cttctttgac
+     1861 tccctcctca cactttggtt tattgagact gataacgatt gttgaagtat tcaccacctt
+     1921 gtcgtaccac gctcttggga tggtttgatt tcatcaagat gttgagggat ttgttcactc
+     1981 tccccgtgtg aaccattgta gcataatagt atgcctggga ctgtgatgtt gtggcccgtt
+     2041 gaaagtgcac tgtagccctg catagtgttg tagcttgtca caggcactgt caacaccatc
+     2101 actttccttg attttttgtt ccataatatt gacctctata ccacctaaga tttgccattt
+     2161 tttattgcct atcagtcgat attgcacttc aaccatccca ttagttaaat ttttccagct
+     2221 gtttgccgtt tttatcatta agtggaatag gccaaagtgg ccccagattt tgttaaaaga
+     2281 agttgctgac aatccagggt tttggggtaa caagagttaa ataaagtata catgtaaagg
+     2341 tgaaaaaaaa aaaaaaaaaa aaaaaaaaaa aa
+//
+

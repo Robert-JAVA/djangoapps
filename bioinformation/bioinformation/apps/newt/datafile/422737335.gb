@@ -1,0 +1,51 @@
+LOCUS       JX050459                 668 bp    DNA     linear   VRT 26-NOV-2012
+DEFINITION  Triturus pygmaeus isolate 1313 note copy b PDGFRA gene, intron 11.
+ACCESSION   JX050459
+VERSION     JX050459.1  GI:422737335
+KEYWORDS    .
+SOURCE      Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 668)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Is dispersal guided by the environment? A comparison of
+            interspecific gene flow estimates among differentiated regions of a
+            newt hybrid zone
+  JOURNAL   Mol. Ecol. 21 (21), 5324-5335 (2012)
+   PUBMED   23013483
+REFERENCE   2  (bases 1 to 668)
+  AUTHORS   Espregueira Themudo,G., Nieman,A.M. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2012) Netherlands Centre for Biodiversity
+            Naturalis, P.O. Box 9517, Leiden 2300, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..668
+                     /organism="Triturus pygmaeus"
+                     /mol_type="genomic DNA"
+                     /isolate="1313"
+                     /db_xref="taxon:171367"
+                     /country="Portugal"
+                     /lat_lon="39.4767 N 7.9386 W"
+                     /note="copy b"
+     gene            <1..>668
+                     /gene="PDGFRA"
+     intron          <1..>668
+                     /gene="PDGFRA"
+                     /number=11
+ORIGIN      
+        1 ggaatttcca cgggatggac tagtgcttgg taagtagata tttggggcta attttggagc
+       61 aaatgctaag tgggttgcca ctgactatct tgctaaacag taagtgctct gctacatttt
+      121 tggtaggtat gagccataga aataccttat actcacatac atacataaaa taacactacc
+      181 agaaaaaatg atcagtttta tagattgtgc cgaattatca ttaaccatat ccttcaaaca
+      241 gcaatgcatt aagttccaat caggctcttt cgagtggcct ctaaatccct aagcccgtta
+      301 aggctttctg ataccatccc aggcatgctg ctttctgaag cagcgtttgc agcacatgat
+      361 gttgtggatt acatgctgtg ccctctcacg ccatctaatg ttctgctttg aatagttcaa
+      421 cttggtctac ttacaaacct ttgttatggt tctattccct tccctaccat ttatagttgc
+      481 acagtttgtc aagacattga agttcagttg cattatactt gagtgatccc tgtcttcact
+      541 ttacatcctc ttgtctacct aaagggggat tgatcgtatt tggaactgta cacagtattc
+      601 attattacag caagtcatgt ggaaaaaaac taaacaaatg atactatctc cactacagga
+      661 agaatcct
+//
+

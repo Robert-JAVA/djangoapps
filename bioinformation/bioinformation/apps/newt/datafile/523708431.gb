@@ -1,0 +1,70 @@
+LOCUS       KC165135                 972 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Tylototriton asperrimus dispatched-like protein 1 (DISP-1) gene,
+            partial cds.
+ACCESSION   KC165135
+VERSION     KC165135.1  GI:523708431
+KEYWORDS    .
+SOURCE      Tylototriton asperrimus (black knobby newt)
+  ORGANISM  Tylototriton asperrimus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 972)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 972)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /organism="Tylototriton asperrimus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385674"
+     gene            <1..>972
+                     /gene="DISP-1"
+     mRNA            <1..>972
+                     /gene="DISP-1"
+                     /product="dispatched-like protein 1"
+     CDS             <1..>972
+                     /gene="DISP-1"
+                     /codon_start=1
+                     /product="dispatched-like protein 1"
+                     /protein_id="AGQ56610.1"
+                     /db_xref="GI:523708432"
+                     /translation="SITLQHAALSMFVTSFTTAAAFYANYVSNITAIRCFGIYAGTAI
+                     LVNYVLMVTWLPAVVVLHERYLLNVFDCFRKPQQHVYNHKHCWTLLCQKFQDLLFAVS
+                     EASRIFFEKVLPCIVIKFRYIWLFWFLALTVGGAYIVCINPKMKLPSLELSEFQVFRS
+                     SHPFERYDAEYKKLFMFERVHHGEELHMPITIIWGVSPEDNGDPLNPKSKGKLKLDSS
+                     FNIASQESQVWIYNFCQKLRNQTFFHQPDEQDFTSCFIETFKQWMENDCDEPSHYPCC
+                     SQPKFPFKQEVFELCIKRAIMEIERSTGYHLDSKTPGPRFDRNDTIRA"
+ORIGIN      
+        1 agcatcactc tgcaacatgc tgctctttct atgtttgtta ccagctttac aaccgcagct
+       61 gccttttatg ccaactatgt gagcaatatc actgcaattc ggtgttttgg tatttatgct
+      121 ggcacagcca tattggtgaa ttatgtttta atggtaacgt ggctacctgc agtagtcgtg
+      181 ctccatgaac ggtatcttct caatgtattt gattgcttcc gaaaacctca gcagcatgta
+      241 tacaaccaca aacattgttg gacacttttg tgccaaaagt tccaagacct tctctttgca
+      301 gtctcagaag catctcggat attttttgaa aaagttctgc catgcattgt catcaaattt
+      361 cggtacatct ggttattctg gtttcttgcc ttaactgttg gtggtgcata tattgtatgt
+      421 attaatccaa agatgaagct gccttcacta gagctttcag agtttcaggt ttttaggtca
+      481 tctcatcctt ttgaacgtta tgatgcggaa tacaaaaaac ttttcatgtt tgaacgtgtc
+      541 caccatggag aagaacttca catgcccatc accataattt ggggtgtgtc tccagaagac
+      601 aatggagatc ccttgaaccc caaaagtaaa ggaaagctga aattggacag tagctttaat
+      661 atagcaagcc aagaatcaca ggtctggatt tataattttt gccaaaagtt gaggaaccaa
+      721 acgttttttc accaaccaga tgagcaagac ttcaccagct gcttcatcga gacttttaaa
+      781 cagtggatgg aaaatgattg tgatgagcct tctcattacc cctgctgcag ccagccaaaa
+      841 tttcccttta agcaagaagt gtttgaactt tgcattaaga gagcaataat ggaaattgaa
+      901 agaagtactg gataccattt agacagcaag actccaggtc ctaggtttga tagaaacgat
+      961 actatcagag ct
+//
+

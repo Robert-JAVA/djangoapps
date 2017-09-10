@@ -1,0 +1,73 @@
+LOCUS       AB280579                1324 bp    mRNA    linear   VRT 30-MAR-2007
+DEFINITION  Cynops pyrrhogaster aon001 mRNA for aonirin precursor, complete
+            cds.
+ACCESSION   AB280579
+VERSION     AB280579.1  GI:116874827
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Nakada,T., Toyoda,F., Iwata,T., Yamamoto,K., Conlon,J.M., Kato,T.
+            and Kikuyama,S.
+  TITLE     Isolation, characterization and bioactivity of a region-specific
+            pheromone, [Val(8)]sodefrin from the newt Cynops pyrrhogaster
+  JOURNAL   Peptides 28 (4), 774-780 (2007)
+   PUBMED   17275139
+REFERENCE   2  (bases 1 to 1324)
+  AUTHORS   Nakada,T., Iwata,T., Toyoda,F., Yamamoto,K., Kato,T. and
+            Kikuyama,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2006) Tomoaki Nakada, Department of Biology,
+            School of Education, Waseda University; Nishiwaseda 1-6-1,
+            Shinjuku-ku, Tokyo 169-8050, Japan (E-mail:tomoaki@suou.waseda.jp,
+            Tel:81-3-5286-1519, Fax:81-3-3207-9694)
+FEATURES             Location/Qualifiers
+     source          1..1324
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /sex="male"
+                     /tissue_type="abdominal gland"
+                     /country="Japan:Nara prefecture"
+                     /collection_date="May-2005"
+     gene            1..1324
+                     /gene="aon001"
+     CDS             31..600
+                     /gene="aon001"
+                     /codon_start=1
+                     /product="aonirin precursor"
+                     /protein_id="BAF36045.1"
+                     /db_xref="GI:116874828"
+                     /translation="MRAIIAAVVLLQALITGDCLFCEQCFALQTSSCSGIFTQCSPDV
+                     THCVTGLENCTLGTHVILTAFKDCLDPSEKAACGREVSFTAPAASLWTSRTCCDSDFC
+                     NGGDVQVPPPDDTPNGCGSDQPCTAPGNLRETVRSTRSIREKRRQRMKKLNAPVGRTD
+                     EAPSMELPPGLVKLGESIPSKDAVLKICA"
+ORIGIN      
+        1 catcacccta ctccttactc tcctagcacc atgagggcca tcattgcagc tgtcgtcctg
+       61 ctccaggcac tgataactgg agattgccta ttttgcgagc agtgtttcgc tctccaaacc
+      121 agcagctgct cgggtatctt cacgcagtgc tctcctgatg tcactcactg cgtcacaggc
+      181 ctagagaact gcacactggg gactcatgtt attctaactg cgttcaagga ctgtctggat
+      241 ccttccgaaa aagcagcctg cggtagagag gtctccttca cagctccagc ggcctcttta
+      301 tggacaagca ggacgtgctg tgactctgat ttctgcaacg gtggggatgt gcaggtgcct
+      361 cctccagacg acactcccaa tggttgtggc agtgaccagc cctgcacagc gccaggaaac
+      421 ctaagggaaa cagtgcgctc tacaagatcg attagagaga agagaagaca gcgaatgaag
+      481 aagctcaatg ctccggtcgg aagaacggat gaggcacctt ctatggaact gcctccaggc
+      541 ctggtgaagc tgggggagag tataccttca aaggatgcag tactcaagat ttgtgcatag
+      601 ctggaatttt ccacatggcg gggacgcaag gctacgatta tgttttaaag tgttcccctg
+      661 ccctgaaagt ttgagacttt tgttcatacc ccataggcac tcctactcta gcttagtagt
+      721 tgtctgtaga aatattccta aagcgctaca agtatgtgga atgcagtgtc tgatcttgtg
+      781 atgaggaagc atatgaactc atgtcagcct ctctgagaca gtgtacaagt ggccaatgtg
+      841 cttagtacaa tccaggctgg catgccgttt aaccactgtc ttctctattc agccatctta
+      901 agcgcctggg catctcagag ggttatcttg gattcatgca ttgagtgatc caagcacagg
+      961 ccaagcaatc atgcaatgat gctgtcttat ggttgtagaa ggagcttctc ctgatgtgct
+     1021 actaatgctg acttcatgag tagccataaa cagccattcc tgcttttctt ctgctttttg
+     1081 gttgaatacc tcttctaaca taaagtaatt gagaatatct ggcgcagttg tgttgatgct
+     1141 gttaaatata agaggacagg gttattggtt catatctcca atatgaatgt gccttttaat
+     1201 ccagcaataa gcatgctttg tgctacagct agaacccaaa atagaaaaaa tatatagacc
+     1261 tgctttgtac tgcacattga aaaaatgaat aaacattaat ttacaccgct gcaaaaaaaa
+     1321 aaaa
+//
+

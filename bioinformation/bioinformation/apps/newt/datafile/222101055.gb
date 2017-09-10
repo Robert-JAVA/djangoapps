@@ -1,0 +1,53 @@
+LOCUS       FJ588980                 598 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 07 sodium-calcium exchanger
+            1 gene, partial cds.
+ACCESSION   FJ588980
+VERSION     FJ588980.1  GI:222101055
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 598)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 598)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..598
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="07"
+     mRNA            <1..>598
+                     /product="sodium-calcium exchanger 1"
+     CDS             <1..>598
+                     /codon_start=3
+                     /product="sodium-calcium exchanger 1"
+                     /protein_id="ACM43782.1"
+                     /db_xref="GI:222101056"
+                     /translation="EMDGKMINSHTENFIDGSLVLEADEKDQDDDEARRDMAKILKEL
+                     KQKHPDKEIEQLIELANYQVLSQQQKSRAFYRIQATRLMTGAGNILKRHAADQARKAV
+                     SMQEVNCEVIENEPVSKIYFEQATYQCLENCGTVALTIIRRGGDLTNTVFVDFRTEDG
+                     TANAGSDYEFTEGTVVFKPGETQKEIRVGIIDDDIFEE"
+ORIGIN      
+        1 ttgaaatgga tggaaagatg atcaactctc atactgaaaa ctttattgat ggctctctgg
+       61 ttctggaggc cgatgagaaa gatcaagatg atgacgaagc caggagggat atggccaaaa
+      121 tcctaaagga gctgaaacag aaacaccctg acaaggaaat agagcagctc attgagttag
+      181 caaactacca ggtcttgagt caacagcaaa aaagtcgagc attttatcgc attcaagcta
+      241 ctcgcttgat gactggggcc ggaaatattt taaagagaca tgctgcagac caagcaagaa
+      301 aggctgtgag catgcaggaa gttaactgtg aagttataga aaatgagcct gtcagtaaaa
+      361 tctatttcga gcaagccacg taccagtgtc ttgagaactg tgggactgtt gctctgacaa
+      421 ttattcgaag gggtggggat ttgaccaata ctgtgtttgt tgactttaga acagaagatg
+      481 ggacagccaa tgcagggtct gattatgagt tcaccgaagg gacagtggta ttcaaaccag
+      541 gtgagaccca gaaagaaata cgtgttggca tcattgacga tgacatattt gaagaaga
+//
+

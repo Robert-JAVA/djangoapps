@@ -1,0 +1,51 @@
+LOCUS       JQ343948                 746 bp    DNA     linear   VRT 18-APR-2012
+DEFINITION  Lissotriton vulgaris meridionalis clone InCLvm-6 microsatellite
+            sequence.
+ACCESSION   JQ343948
+VERSION     JQ343948.1  GI:384236181
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris meridionalis (southern smooth newt)
+  ORGANISM  Lissotriton vulgaris meridionalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 746)
+  AUTHORS   Usmanova,N.M., Saramud,I.A., Litvinchuk,S.N. and Kazakov,V.I.
+  TITLE     Distribution of TkS1 microsatellite sequences in Lissotriton newt
+            species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 746)
+  AUTHORS   Usmanova,N.M., Saramud,I.A., Litvinchuk,S.N. and Kazakov,V.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-2011) Chromosome Stability and Cellular
+            Engineering, Institute of Cytology RAS, Tikhoretsky,
+            Saint-Petersburg, Saint-Petersburg 194064, Russian Federation
+FEATURES             Location/Qualifiers
+     source          1..746
+                     /organism="Lissotriton vulgaris meridionalis"
+                     /mol_type="genomic DNA"
+                     /sub_species="meridionalis"
+                     /db_xref="taxon:213857"
+                     /clone="InCLvm-6"
+                     /PCR_primers="fwd_name: tks1b, fwd_seq:
+                     attccagaattgagaatgagacc, rev_name: tks1b, rev_seq:
+                     attccagaattgagaatgagacc"
+     repeat_region   1..746
+                     /rpt_type=tandem
+                     /satellite="microsatellite"
+ORIGIN      
+        1 attccagaat tgagaatgag accagtcaca agcaataggc aagtgggata ttacatgtta
+       61 tccctactcg taaatggtga aattaccaca cagttacaca atttagggag ctcatacttg
+      121 gaacgctgcc ctcatgttga aatgtgtgca gtagggcgta ccttacaact ctctcacaaa
+      181 acaatgctgg ctcgactttg tgtcatagca caatgtttag catcatgcta agatgttttt
+      241 tctgcacaaa catggctgag gacatcatcg gcgcatgact cttgctaagt atgacactac
+      301 acaatttttt ctccttcgtg cattgcatcg ctgctgattt ttgcacagtg ctgcatggcc
+      361 tgtatgttag ttgatctggg ccttagtctc tttatccctc attacctttc actgtcaatt
+      421 tggaaatcgc tgataaaaga ctataaaacg ctatggtttg ctatttaaag atgcttaggc
+      481 aaagccagta attctgtctg ttctctataa tagagatccg gtgttgcaca agcaatcact
+      541 ttgcccgaga aaatacgtac ttcatattca ctgccaggat catttgggat attagctctt
+      601 catccctaaa ttgtgataat atggtgataa ggaaatacta gtccagctaa agcactgcac
+      661 tcttcacgag cattttctgt tagaggttgt gcctcttagg tgataattcg ttctgaattt
+      721 ccaggtctca ttctcaattc tggaat
+//
+

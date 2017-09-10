@@ -1,0 +1,122 @@
+LOCUS       GU067489                2239 bp    DNA     linear   VRT 05-JAN-2010
+DEFINITION  Calotriton asper haplotype E NADH dehydrogenase subunit 4 gene,
+            partial cds; tRNA-His and tRNA-Ser genes, complete sequence;
+            tRNA-Leu gene, partial sequence; cytochrome b gene, partial cds;
+            and D-loop, partial sequence; mitochondrial.
+ACCESSION   GU067489
+VERSION     GU067489.3  GI:282938356
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 2239)
+  AUTHORS   Mila,B., Carranza,S., Guillaume,O. and Clobert,J.
+  TITLE     Marked genetic structuring and extreme dispersal limitation in the
+            Pyrenean brook newt Calotriton asper (Amphibia: Salamandridae)
+            revealed by genome-wide AFLP but not mtDNA
+  JOURNAL   Mol. Ecol. 19 (1), 108-120 (2010)
+   PUBMED   19943891
+REFERENCE   2  (bases 1 to 2239)
+  AUTHORS   Carranza,S. and Mila,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2009) Institut de Biologia Evolutiva (CSIC-UPF),
+            Barcelona, Barcelona 08003, Spain
+REFERENCE   3  (bases 1 to 2239)
+  AUTHORS   Carranza,S. and Mila,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-2009) Institut de Biologia Evolutiva (CSIC-UPF),
+            Barcelona, Barcelona 08003, Spain
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 2239)
+  AUTHORS   Carranza,S. and Mila,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2010) Institut de Biologia Evolutiva (CSIC-UPF),
+            Barcelona, Barcelona 08003, Spain
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 4, 2010 this sequence version replaced gi:282767731.
+FEATURES             Location/Qualifiers
+     source          1..2239
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /haplotype="E"
+     CDS             <1..710
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:710,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADA61225.1"
+                     /db_xref="GI:281334103"
+                     /translation="PVAGSMILAAVLLKLGGYGMIRITIILTPLTKEMSYPFMTLALW
+                     GVVMTSLICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIILMISHGLISST
+                     LFCLANLNYERTHSRTLLLMRGAQAILPLMTTWWLLANLSNMALPPTMNLWGELTIMV
+                     SLFNWSPLTILITGTGTLITASYTLYMFLMTQRGPTPPHISPINPSYTREHFLIVMHL
+                     MPMLLLIFKPALISGAFS"
+     tRNA            711..780
+                     /product="tRNA-His"
+     tRNA            781..847
+                     /product="tRNA-Ser"
+     tRNA            848..>896
+                     /product="tRNA-Leu"
+     gap             897..996
+                     /estimated_length=unknown
+     CDS             <997..>1370
+                     /note="coding region disrupted by sequencing gap"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADA61226.3"
+                     /db_xref="GI:282938357"
+                     /translation="LKIINNSFIDLPTPSNISYWWNFGSLLGICLITQILTGLFLAMH
+                     YTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYYGSYLFKET
+                     WNIGVILLFLVMATAFVGYVLP"
+     gap             1371..1470
+                     /estimated_length=unknown
+     D-loop          <1471..>2239
+                     /note="control region"
+ORIGIN      
+        1 ccctgtagcc gggtcaataa tcttagcagc agttttactt aaactaggag gatatggtat
+       61 gattcgaatt accattattt taaccccact aacaaaagaa atatcatacc catttataac
+      121 cttggccttg tggggggtgg taataactag cttaatctgc atacgacaaa cagacctaaa
+      181 gtcactaatc gcatactcat ctgtaagcca catgggcctg gttattgctg ccattataat
+      241 ccaaactcca tgaagcctca caggggcaat tatcttaata atttcacacg gacttatctc
+      301 atccaccctc ttctgcttag caaacttaaa ctacgaacga acacacagtc gaaccctact
+      361 attaatacgt ggggctcaag caatccttcc actaatgacc acctggtgac ttcttgcgaa
+      421 cctatcaaat atggccctcc ccccaacaat aaacctatgg ggagagctta caattatagt
+      481 ctcattattc aactgatctc ctctaacaat tctaattaca ggaacgggga ccctaattac
+      541 agcttcctac acgctttaca tatttctaat aacacaacga ggcccaaccc ccccacatat
+      601 cagcccaatc aacccctctt acacccgaga acactttcta atcgttatgc acctaatacc
+      661 aatactacta ctaattttta aacccgccct catttctggg gcattctcat gtgcgcataa
+      721 tttaaaaaaa atattagatt gtgattctaa aaatgaaagt taaaccctat ctgcgtaccg
+      781 agaagagcta tgaaacacag aaactgctaa tatctgaccc taaagttaaa atctttagtc
+      841 ttcttagctt ttaaaggata atagttatcc attggtctta ggaaccaaat actcctnnnn
+      901 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      961 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnacta aaaatcatta acaactcatt
+     1021 tattgacctc ccaacaccgt caaacatctc atactgatgg aacttcggct ctcttcttgg
+     1081 aatttgtcta attacacaaa tcctcacagg tcttttcttg gcaatacact acacagcaga
+     1141 cacacaatca gcattctcat ctgttgccca tatttgccga gatgttaact acggctgact
+     1201 agtacgaagc acccacgcca acggagcctc attattcttc atttgtattt acctacatat
+     1261 tggacgcggc ctatattacg gatcatacct gtttaaagag acctgaaaca tcggtgtaat
+     1321 cttgctattc ttagtcatgg caactgcctt tgtcggatat gtcctgcccg nnnnnnnnnn
+     1381 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1441 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn ggcctaaatt accccttgac tcactttccc
+     1501 gtaatttttg taacgcggag acatactatg tttaatcgtg cattcatcta ctttccaaac
+     1561 gcctttgttt tagtattatt ctgatttttg accttaccca caggcgagaa accaccaacc
+     1621 cgacccctac gatcctcgtt tcgaagtttc aaggacctca attgtagagt gattgtctat
+     1681 taattatact ggcagctggt tatgaatcta tgagcatcac cctagagttt ctatcattta
+     1741 tctttaagag gcctgaacgt ctaagtatca tttagtaact agatggcaca tgccgagcat
+     1801 aactgatcta aatcacattt ctcacttttt tttctctgtg aagtcaattc cccataaagt
+     1861 cttgagtcgg caccaacggc ctaaatctga acatgcactg caattgtaaa gtgacaaata
+     1921 cagaaccgcg gataatatgt ttatgttata aggacataac atatttttcc ctctaaagca
+     1981 agggatatat tctttttcct gtttcccccc ggagctagtt tttcgaagaa tataaaattt
+     2041 gaatattatc tcattttttt ttggataacc cccccacccc ccaataaccg tcttatcagt
+     2101 atgcgaaact ttttagccaa ccccaaagct aaaaagacct acatacttac gacataaggc
+     2161 ttgtactaga aaaagtgtga tttttgatga attaaaactt ctatatacag tgttacactg
+     2221 taagttaatg tagcttaca
+//
+

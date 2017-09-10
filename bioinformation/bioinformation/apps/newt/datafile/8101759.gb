@@ -1,0 +1,66 @@
+LOCUS       AF259800                1329 bp    mRNA    linear   VRT 06-DEC-2001
+DEFINITION  Pleurodeles waltl putative nuclear movement protein PNUDC mRNA,
+            complete cds.
+ACCESSION   AF259800
+VERSION     AF259800.1  GI:8101759
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1329)
+  AUTHORS   Moreau,N., Aumais,J.P., Prudhomme,C., Morris,S.M. and Yu-Lee,L.Y.
+  TITLE     NUDC expression during amphibian development
+  JOURNAL   Int. J. Dev. Biol. 45 (7), 839-843 (2001)
+   PUBMED   11732844
+REFERENCE   2  (bases 1 to 1329)
+  AUTHORS   Aumais,J.P. and Yu-Lee,L.-Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2000) Medicine, Baylor College of Medicine, One
+            Baylor Plaza, Houston, TX 77030, USA
+FEATURES             Location/Qualifiers
+     source          1..1329
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /cell_type="endodermal progenitor cells"
+     CDS             129..1169
+                     /note="expressed at the onset of gastrulation"
+                     /codon_start=1
+                     /product="putative nuclear movement protein PNUDC"
+                     /protein_id="AAF72649.1"
+                     /db_xref="GI:8101760"
+                     /translation="MTDTDERFDGMLLAMAQQHDGGVQELVNTFFGFLRRKTDFFTGG
+                     ESGSADKLIRETFNHHNQLAQKARKEVQEQQEAQQREKAAQREKAAHQEKAERAAKQA
+                     ADMKREESEPKIRELTDEEAEQLQLEIDQKKASESQQASGNGITQTPTELKDPETKSG
+                     ADSEEEDEKDKGKLRPNSGNGADLPLYRWTQTLSEVDLVVPLNVSFRLKGKDVVVDIQ
+                     RRILKVGLKGQAPVIDGELYNEVKVEESSWLIEDGKVITVHLEKINKMEWWSRIVSTD
+                     PEINTKKINPENSKLSDLDSETRSMVEKMMYDQRQKSMGLPTSEEQKKQDILKKFMEQ
+                     HPEMDFFKAKFN"
+ORIGIN      
+        1 gcacgagcgc atctagagcc tgacatcaag tcgggaaagt gagaataacc ggatacggat
+       61 ctagggtacc ggagacttgg ttttgtgaga gtgtgttaaa gagtggatag agcttgacca
+      121 gagcagagat gactgatacc gacgaaaggt ttgacgggat gctgttggct atggcgcagc
+      181 aacacgatgg gggagtacag gagcttgtga ataccttctt cggttttctg agacggaaga
+      241 cagatttctt tacaggaggt gaatcgggat ccgcagataa gctgatcaga gaaaccttta
+      301 accaccacaa tcagctagcc caaaaggctc gaaaggaggt gcaggagcag caggaggcac
+      361 agcagcgcga gaaggcagca cagcgggaaa aagcagctca ccaggaaaag gccgagagag
+      421 ccgccaaaca ggcggccgac atgaagcgag aagaaagcga gcccaaaatc agagagctga
+      481 ctgatgagga ggcagagcag ctgcagctgg agattgatca gaaaaaggca tccgagagtc
+      541 aacaggcatc tggtaatgga atcacacaaa ctccaactga gctcaaggac ccagaaacca
+      601 aatcgggggc tgactctgag gaagaagatg aaaaagacaa ggggaaactg aggccaaatt
+      661 ctggcaacgg tgctgatctg cctctttacc gatggacaca gacactgtct gaggtggatt
+      721 tggtggtacc cctgaatgtg agctttcggt taaaggggaa ggacgtggtg gtggacattc
+      781 agcgacgaat tctcaaggta ggcctgaagg gccaggctcc agtcatcgat ggggagcttt
+      841 acaatgaagt gaaggtggag gagagctcct ggctgatcga agacggcaaa gtaatcacag
+      901 tccatctgga gaagatcaat aaaatggagt ggtggagtag gatagtttcc acagatcctg
+      961 aaatcaacac caagaagata aacccagaaa actcaaagtt gtcagatctg gatagcgaga
+     1021 cacgcagcat ggtggaaaaa atgatgtatg accaacggca gaagtcgatg gggctcccta
+     1081 cctctgaaga acagaagaag caggacatcc tgaagaagtt catggagcag caccccgaaa
+     1141 tggatttttt caaggctaag ttcaactagc attcatactt gaaagaacac aaggncctga
+     1201 acttgangaa cagaagctgt gcaggacatt ggattgtacc tacacttttg aaaagcaatg
+     1261 tctcaagttt gcacctgcag gcgaagcaac acgccggctg agtactggcc ttgtcctgat
+     1321 gtcaaaata
+//
+

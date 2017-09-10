@@ -1,0 +1,59 @@
+LOCUS       KF731677                 729 bp    mRNA    linear   VRT 25-DEC-2013
+DEFINITION  Pleurodeles waltl collagen type I (COL1A1) mRNA, partial cds.
+ACCESSION   KF731677
+VERSION     KF731677.1  GI:568219217
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 729)
+  AUTHORS   Assaraf-Weill,N., Gasse,B., Silvent,J., Bardet,C., Sire,J.-Y. and
+            Davit-Beal,T.
+  TITLE     Ameloblasts Express Type I Collagen During Newt Amelogenesis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 729)
+  AUTHORS   Assaraf-Weill,N., Gasse,B., Silvent,J., Bardet,C., Sire,J.-Y. and
+            Davit-Beal,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2013) UMR 7138-SAE, Research Group Evolution &
+            Development of the Skeleton, Universite Pierre et Marie Curie, 7
+            quai St-Bernard, Paris 75005, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..729
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            <1..>729
+                     /gene="COL1A1"
+     CDS             <1..>729
+                     /gene="COL1A1"
+                     /codon_start=1
+                     /product="collagen type I"
+                     /protein_id="AHD24673.1"
+                     /db_xref="GI:568219218"
+                     /translation="MPQPPEQKSDGGGRYFRADDANVVRDRDLEVDTTLKSLSAQIEN
+                     IRSPEGTRKNPARSCRDLKMCHSDWKSGDYWIDPNQGCNLDAIKVHCNMETGETCVYP
+                     SQAHIPLKNWYISKNPREKKHVWFGETMSDGFQFEYGGEGSDPADVNIQLAFLRLMAT
+                     EASQNITYHCKNSIAYMNQETGNLKNAVILQGFSDIEIRAEGNSRFTYSVTEDGCTQH
+                     TGEWGKTVIEYKTRKTSRLPIIDIA"
+ORIGIN      
+        1 atgcctcaac cacctgagca gaaatccgat ggaggtggac gctacttcag agctgatgat
+       61 gccaatgtag tccgtgaccg cgacttggaa gtagacacta ccctgaagag tctgagcgca
+      121 cagattgaaa acatccgcag cccagaagga accaggaaga accctgcccg ctcctgccgg
+      181 gacctgaaga tgtgccactc tgattggaag agcggtgatt actggattga tcctaaccag
+      241 ggctgcaatt tggatgctat caaggtccac tgtaacatgg agactggtga gacctgtgtc
+      301 tacccatccc aggctcacat cccactgaag aactggtaca tcagcaagaa tcccagagag
+      361 aagaagcatg tatggtttgg cgagacaatg agcgatggct tccagttcga atatggtggt
+      421 gagggatctg acccagctga tgttaacatc caacttgcat tcctgcgtct catggccact
+      481 gaagcctctc agaacatcac ctaccactgc aagaacagca tcgcctacat gaaccaggag
+      541 actggcaacc tgaagaatgc tgttatcctt caaggtttca gtgacattga aatcagggct
+      601 gagggcaaca gtcgcttcac atacagcgtt accgaagatg gttgcacgca acacaccggc
+      661 gaatggggca aaaccgtcat cgagtacaag acaaggaaaa cttcccgtct gcccatcatt
+      721 gatatcgca
+//
+

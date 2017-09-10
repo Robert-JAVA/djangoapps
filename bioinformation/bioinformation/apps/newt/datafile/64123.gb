@@ -1,0 +1,95 @@
+LOCUS       Z14254                  1697 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  N.viridescens mRNA for retinoic acid receptor alpha 2.
+ACCESSION   Z14254
+VERSION     Z14254.1  GI:64123
+KEYWORDS    retinoic acid receptor; retinoic acid receptor alpha 2 isoform.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 176 to 1377)
+  AUTHORS   Ragsdale,C.W. Jr., Petkovich,M., Gates,P.B., Chambon,P. and
+            Brockes,J.P.
+  TITLE     Identification of a novel retinoic acid receptor in regenerative
+            tissues of the newt
+  JOURNAL   Nature 341 (6243), 654-657 (1989)
+   PUBMED   2552324
+REFERENCE   2  (bases 1 to 495)
+  AUTHORS   Ragsdale,C.W. Jr., Gates,P.B. and Brockes,J.P.
+  TITLE     Identification and expression pattern of a second isoform of the
+            newt alpha retinoic acid receptor
+  JOURNAL   Nucleic Acids Res. 20 (21), 5851 (1992)
+   PUBMED   1333589
+REFERENCE   3  (bases 1 to 1697)
+  AUTHORS   Ragsdale,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-1992) C.W. Ragsdale, Middlesex
+            Hospital/University College, The Ludwig Institute for Cancer
+            Research, 91 Riding House St., London, W1P 8BT, England
+FEATURES             Location/Qualifiers
+     source          1..1697
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="pBZ1, pE2, pE3"
+                     /tissue_type="adult newt tail, newt forelimb regeneration
+                     blastema"
+                     /clone_lib="tail, lambda ZAP. forelimb blastema, lambda
+                     gt10"
+     CDS             339..1697
+                     /codon_start=1
+                     /product="retinoic acid receptor alpha 2"
+                     /protein_id="CAA78621.1"
+                     /db_xref="GI:64124"
+                     /db_xref="GOA:P18514"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18514"
+                     /translation="MYDSVEVSSPSPYIMIDFYSQNRACLMADKGLGHPVPFGSPIRN
+                     PHWSSSSHSIETQSTSSEEIVPSPPSPPPLPRIYKPCFVCQDKSSGYHYGVSACEGCK
+                     GFFRRSIQKNMVYTCHRDKTCIINKVTRNRCQYCRLQKCFEVGMSKESVRNDRNKKKK
+                     QEAPKQECTESYIITPEVEDLVEKVRKAHQETFPALCQLGKYTTNNSSEERVSLDIDL
+                     WDKFSELSTKCIIKTVEFAKQLPGFTTLTIADQITLLKAACLDILILRICTRYTPDQD
+                     TMTFSDGLTLNRTQMHNAGFGPLTDLVFAFANQLLPLEMDDAETGLLSAICLICGDRQ
+                     DLEQPDKVDKLQEPLLEALKIYVRKRRPNKPHMFPKMLMKITDLRSISAKGAERVITL
+                     KMEIPGSMPPLIQEMLENSEGLDSLTGQPPRASSLAPPPGSCSPSLSPSSNRSSPTSH
+                     SP"
+     misc_feature    495^496
+                     /note="site of region A/B junction"
+ORIGIN      
+        1 cccagttttc ggaaagatgt ggaggggcac taggcggaag cggatcggcc ctccccggca
+       61 gggaatggaa ggcccttgtc cttaaaagtg aggaaattag cttggattgt ccggatatcc
+      121 ggggactgga aatccacaat aatctgaatg gattcgacac tggatttaaa agagaaaaca
+      181 caagccgagc gggagccaca gagctgcttt cgagttttgt gtttttgctg ctgtggaagg
+      241 ttgttgtttg gactctcctc gccctgaaag gtccctcctt tgagggtcag gacgcccgca
+      301 ctcacacccc cctctggaag ggctcggggg ctctgaggat gtacgacagt gtggaggtgt
+      361 cgagccccag cccgtacatc atgatcgatt tctacagcca gaaccgagcc tgcctgatgg
+      421 ccgacaaggg gctggggcac cccgtaccct tcgggtcccc cattcggaac ccgcactgga
+      481 gcagctccag ccactcaata gagactcaga gtaccagctc ggaagagatt gtgcccagcc
+      541 ccccctcgcc tcccccgcta ccccgcatct acaagccctg cttcgtgtgc caggacaagt
+      601 catccgggta ccattatgga gtcagtgcct gcgaagggtg caagggtttc ttccggagaa
+      661 gcatccagaa gaacatggtg tacacctgcc atcgggacaa gacctgcatc atcaacaagg
+      721 tgacgcggaa ccgctgccag tactgccggc tgcagaagtg cttcgaagtg ggcatgtcca
+      781 aagagtccgt taggaatgac cggaacaaga agaagaagca ggaggcccca aagcaagagt
+      841 gcaccgagag ctacatcatc accccggagg tggaggatct tgtggagaaa gtacgcaagg
+      901 ctcatcagga aaccttccca gccctctgcc agctcgggaa atacactaca aataacagtt
+      961 cggaagagcg ggtgtctctg gacatcgacc tctgggacaa gttcagtgag ctttcaacca
+     1021 agtgcatcat caagacggtg gagtttgcaa aacagctgcc gggcttcacc acactcacca
+     1081 tcgccgacca aatcaccctc ctcaaagccg cctgcctcga catcctgatt ctgcgaatct
+     1141 gcacacggta tacgcctgac caggacacta tgaccttctc agatgggctc acgctgaatc
+     1201 gcactcagat gcacaatgcc ggctttgggc ccctgacgga cctggtcttc gcctttgcca
+     1261 atcagctgct accactagaa atggatgacg cagagacagg tcttctcagc gccatctgtt
+     1321 tgatctgtgg agaccgccag gacctggagc agcctgacaa ggtggacaag ctgcaggagc
+     1381 cgctgctgga ggcgctaaaa atctacgtcc ggaaaaggag accaaacaag cctcacatgt
+     1441 tccccaagat gctaatgaag atcacagacc tccgcagcat cagcgccaag ggtgccgaac
+     1501 gggtcatcac gctcaagatg gagatcccag gttccatgcc gccgctcatc caggaaatgc
+     1561 tggagaactc tgagggtctg gacagtttga cggggcagcc gccccgtgcc agtagcttgg
+     1621 cgccccctcc aggcagttgc agccccagtc tgtcccccag ctccaacaga agcagcccca
+     1681 cgagccattc cccctga
+//
+

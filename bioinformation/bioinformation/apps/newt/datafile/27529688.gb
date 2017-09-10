@@ -1,0 +1,51 @@
+LOCUS       AJ535727                 337 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Triturus vulgaris microsatellite DNA, clone TvB7.
+ACCESSION   AJ535727
+VERSION     AJ535727.2  GI:27529688
+KEYWORDS    microsatellite; repetitive DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Jehle,R., Dawson,D.A., Morales-Hojas,R., Sztatecsny,M., Pandhal,J.
+            and Burke,T.
+  TITLE     Microsatellite loci in the common newt, Triturus vulgaris
+  JOURNAL   Unpublished
+REFERENCE   2
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+  REMARK    revised by [3]
+REFERENCE   3  (bases 1 to 337)
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2003) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+COMMENT     On Jan 7, 2003 this sequence version replaced gi:27368968.
+FEATURES             Location/Qualifiers
+     source          1..337
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     repeat_region   1..337
+                     /satellite="microsatellite"
+     primer_bind     130..152
+     repeat_region   203..264
+                     /rpt_family="CA"
+                     /rpt_type=TANDEM
+                     /rpt_unit_range=203..204
+     primer_bind     complement(311..333)
+ORIGIN      
+        1 gatcgccgtt tttatgctat taacggattc aatnaaaact atgctgcacc ggcctatcta
+       61 taaanctgta gggtgttgtt taagggaatg gcggggtgta aaancacaaa acgcattatt
+      121 ttagtgattt catttagagt tgtgctatgg tgnaaagtgc tcactcaatc acactctcac
+      181 tcacttnttc ctcgcatact ctcacacaca cacacacact cactcactca cacacacaca
+      241 ctcactcaca cacaatcact cactcctgcc agccctccaa tcgtaaggta ataaggcgcc
+      301 agggtgcttg gagtagtcca acagtggtaa tgggatc
+//
+

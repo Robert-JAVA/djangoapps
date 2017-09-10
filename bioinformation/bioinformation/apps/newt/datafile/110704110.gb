@@ -1,0 +1,66 @@
+LOCUS       DQ821227                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Triturus carnifex macedonicus isolate 603 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ821227
+VERSION     DQ821227.1  GI:110704110
+KEYWORDS    .
+SOURCE      mitochondrion Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Triturus macedonicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="603"
+                     /sub_species="macedonicus"
+                     /specimen_voucher="ZMA9085"
+                     /db_xref="taxon:385668"
+                     /country="Greece"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87975.1"
+                     /db_xref="GI:110704111"
+                     /translation="MAHTMRKTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDK
+                     ITFHPYFSYKDMLGFLLMLLILMLISLLTPNLLGDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aactcaccct ctactaaaaa ttattaacgg ctcatttatt
+       61 gaccttccaa cgccatctaa tatctcatac tgatggaact ttggctctct tctaggagtg
+      121 tgcctaatta cgcaaatcct cacaggcctc ttcctagcaa tacactatac agcagacaca
+      181 caatcagcat tttcatctgt tgctcacatt tgccgagatg taaactacgg ctggctggta
+      241 cgaaacatcc acgctaacgg agcctcacta tttttcatct gcatctactt acacatcgga
+      301 cgcggcctgt actacggctc atacatattt aaagagacct gaaacatcgg cgtagtctta
+      361 ttattcttgg ttatagctac tgctttcgtt gggtatgtcc tgccatgggg acaaatatca
+      421 ttctgaggcg ccacagttat taccaacctt ctatcagctg tcccgtattt aggagactct
+      481 cttgtccaat ggatctgggg gggcttttca gtagataagg caacactcac ccgatttttt
+      541 gcatttcact tccttttccc attcttgatc gcagggacta gcattgttca cctgctcttc
+      601 ttacaccaaa ccgggtcaaa caacccaaca ggtatctctt ctaaccagga caaaatcacc
+      661 tttcacccat acttttccta caaagacatg ttaggatttc tactcatgct gcttatctta
+      721 atattaatct ccctccttac accaaacctt ctcggagacc cagaaaactt caccccagca
+      781 aactccttag ttaccccacc ccacatccag ccagaatga
+//
+

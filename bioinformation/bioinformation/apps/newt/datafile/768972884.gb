@@ -1,0 +1,119 @@
+LOCUS       LC002642                1496 bp    mRNA    linear   VRT 14-MAR-2015
+DEFINITION  Cynops pyrrhogaster Pax6 mRNA for Pax6 transcript variant 2 isoform
+            LL, complete cds.
+ACCESSION   LC002642
+VERSION     LC002642.1  GI:768972884
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Pax6 transcript variants in reprogramming retinal pigment
+            epithelium cells of adult newt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1496)
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Contact:Wataru Inami University of Tsukuba,
+            Faculty of life and Environmental Sciences; Tennodai 1-1-1,
+            Tsukuba, Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..1496
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..1496
+                     /gene="Pax6"
+     misc_feature    join(6..1091,1243..1392)
+                     /gene="Pax6"
+                     /note="Pax6 transcript variant 2 isoform LS;
+                     alternative spicing Pax6 transcript variant 2 gene;
+                     contain region equivalent to human exon-5a but lack region
+                     equivalent to human exon-12"
+     misc_feature    join(6..161,204..1091,1243..1392)
+                     /gene="Pax6"
+                     /note="Pax6 transcript variant 2 isoform SS;
+                     alternative spicing Pax6 transcript variant 2 gene; lack
+                     regions equivalent to human exon-5a and exon-12"
+     CDS             6..1328
+                     /gene="Pax6"
+                     /note="Cynops pyrrhogaster Pax6 transcript variant 2 gene
+                     has 4 alternative spicing isoforms; contain regions
+                     equivalent to human exon-5a and exon-12"
+                     /codon_start=1
+                     /product="Pax6 transcript variant 2 isoform LL"
+                     /protein_id="BAQ59165.1"
+                     /db_xref="GI:768972885"
+                     /translation="MIPCSTVLGHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARP
+                     CDISRILQTHADAKVQVLDSQNVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEV
+                     VSKIAQYKRECPSIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADG
+                     MYDKLRMLNGQTGTWGTRPGWYPGTSVPGQPTPDGCQQQEGGGENTNSISSNGEDSDE
+                     AQMRLQLKRKLQRNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVW
+                     FSNRRAKWRREEKLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSFTSGSMLG
+                     RTDTSLTNTYGGLPPMPSFTMGNNLPMQPPVPSQASSYSCMLPSSPSVNGRSYDTYTP
+                     PHMQAHMNSQSMGTAGATSTGLISPGVSVPVQVPGSEPDLSQYWPRLQ"
+     misc_feature    join(6..161,204..1328)
+                     /gene="Pax6"
+                     /note="Pax6 transcript variant 2 isoform SL;
+                     alternative spicing Pax6 transcript variant 2 gene; lack
+                     region equivalent to human exon-5a but contain region
+                     equivalent to human exon-12"
+     misc_feature    30..455
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238076"
+                     /note="Paired Box domain; Region: PAX; cd00131"
+     misc_feature    order(45..50,63..65,69..77,81..83,96..98,132..134,
+                     138..140,207..209,216..218,222..227,237..239,264..284,
+                     288..299,354..362,417..419,423..428,435..437,444..446)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238076"
+                     /note="DNA binding site [nucleotide binding]"
+     misc_feature    696..869
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="Homeodomain; DNA binding domains involved in the
+                     transcriptional regulation of key eukaryotic developmental
+                     processes; may bind to DNA as monomers or as homo- and/or
+                     heterodimers, in a sequence-specific manner; Region:
+                     homeodomain; cd00086"
+     misc_feature    order(696..707,711..713,762..764,780..782,819..821,
+                     825..830,837..842,846..854,858..863)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="DNA binding site [nucleotide binding]"
+     misc_feature    order(699..701,708..710,828..830,837..842,849..851)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="specific DNA base contacts [nucleotide binding];
+                     other site"
+ORIGIN      
+        1 ggaacatgat tccatgcagc acagttctag gtcatagcgg agtcaaccag ctcgggggag
+       61 tgtttgtgaa cggcagaccc ctgcccgact ccacccgcca gaagatcgtg gagctcgccc
+      121 acagcggagc ccggccctgc gacatctccc gcatcctgca gacccatgca gatgcaaaag
+      181 tccaagtgct ggacagtcaa aacgtgtcca atgggtgtgt gagtaagatt ctgggcaggt
+      241 attacgagac gggctccatc cggccgcgcg ccattggagg cagcaagccc agggtggcga
+      301 cccccgaggt ggtgagcaag atcgcgcagt acaagcgcga gtgcccgtcc atcttcgcct
+      361 gggagatccg cgaccggctg ctgtccgagg gggtttgcac caacgacaac atccccagcg
+      421 tgtcatcgat aaaccgagtg ctccgcaacc tggctagcga aaagcaacaa atgggcgcag
+      481 acggaatgta cgacaagctg cggatgctga acggacagac gggcacctgg ggcacccggc
+      541 cgggctggta cccggggacc tcggtgccgg ggcagcccac accagatggc tgccagcagc
+      601 aggaaggggg aggcgagaac accaactcca tcagctccaa cggtgaagac tcagacgagg
+      661 cccagatgag gctgcagctg aaacgtaaac tgcaaaggaa caggacgtct ttcactcagg
+      721 agcagatcga ggccctggag aaagagtttg aacgaacaca ttaccctgac gtgtttgcaa
+      781 gagagagact agctgccaaa atagacctac ctgaagcacg aatacaggtc tggttctcaa
+      841 acaggagggc aaagtggaga agggaagaga aactgcggaa ccagaggagg caagcaagca
+      901 acactcccag ccatatcccc atcagcagca gcttcagcac cagtgtgtac caacccatcc
+      961 cccagcccac aacacctgtt tcatttacgt ccgggtccat gttgggcaga acagacacat
+     1021 ccctgacaaa cacatacggc ggcctaccac ccatgcccag cttcacaatg ggcaacaacc
+     1081 tgcctatgca acccccagtt cccagccagg cctcctccta ctcttgcatg ctgccctcta
+     1141 gtccgtcagt gaatgggcgg agctatgata catacacacc tcctcacatg caggcacaca
+     1201 tgaacagcca gtccatgggc acagctggcg ccacttcgac aggtctcatt tcccctggag
+     1261 tgtcagtccc agtacaagtt cccggcagtg aacctgacct gtctcaatac tggccaagat
+     1321 tacagtaaaa accgggctaa catagccaat gactttgtgg agaacagttg gatgttcagc
+     1381 agtattctat agaggaggga cacggctggc aaaaagtact cctccactgc aactctgccc
+     1441 tgagttggga ggcttcggaa agactttttc aagggacctt tgcacaattt gaaggc
+//
+

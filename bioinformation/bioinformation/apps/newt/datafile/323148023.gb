@@ -1,0 +1,70 @@
+LOCUS       HQ660498                1335 bp    mRNA    linear   VRT 15-NOV-2011
+DEFINITION  Notophthalmus viridescens dopamine receptor 2 (Drd2) mRNA, complete
+            cds.
+ACCESSION   HQ660498
+VERSION     HQ660498.1  GI:323148023
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1335)
+  AUTHORS   Berg,D.A., Kirkham,M., Wang,H., Frisen,J. and Simon,A.
+  TITLE     Dopamine controls neurogenesis in the adult salamander midbrain in
+            homeostasis and during regeneration of dopamine neurons
+  JOURNAL   Cell Stem Cell 8 (4), 426-433 (2011)
+   PUBMED   21474106
+REFERENCE   2  (bases 1 to 1335)
+  AUTHORS   Wang,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2010) Cell and Molecular Biology, Karonlinska
+            Institute, Stockholm 17177, Sweden
+FEATURES             Location/Qualifiers
+     source          1..1335
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            1..1335
+                     /gene="Drd2"
+     CDS             1..1335
+                     /gene="Drd2"
+                     /note="DRD2"
+                     /codon_start=1
+                     /product="dopamine receptor 2"
+                     /protein_id="ADX33286.1"
+                     /db_xref="GI:323148024"
+                     /translation="MDSLNLSLYNDDVNNRTNGSDIGEKFIYNYYAMLLTLLIFVIVF
+                     GNVLVCIAVSREKALQTTTNYLIVSLAVADLLVATLVMPWVVYLEVVGEWRFSRIHCD
+                     IFVTLDVMMCTASILNLCAISIDRYTAVAMPMLYNTRYSSKRRVTVMISVVWVLSFAI
+                     SCPILFGFNNTADNECLIENPTFVVYSSIVSFYAPFIVTLLVYVQIYIVLRKRRKRVN
+                     TKRNGQGLEHDAPLKDKCTHPEDVKLCTVLVKSNGSFPASKKKVILVQEAINHPEEME
+                     MEMVTSTPPPEIKIKNKEVSQDNNQLTVPVTSNQCNNTSLPSPADSPVKAEKNGNAND
+                     NPKTAKAFEIQAMPNGKTRTSLKTLSKRKLSQQKEKKATQMLAIVLGVFIICWLPFFI
+                     THILKMHCNCNISPALYSAFTWLGYVNSAVNPIIYTTFNVEFRKAFIKILHC"
+ORIGIN      
+        1 atggattcct tgaacctgtc tttgtacaat gacgacgtta ataacaggac taatggatct
+       61 gacatcggtg aaaagtttat ctacaattac tacgccatgc tccttaccct tctcatcttc
+      121 gttattgtct ttggaaatgt gctggtgtgc atagctgtct cacgagaaaa agcgcttcag
+      181 accaccacca actacttgat agttagcctg gcagtggccg atcttcttgt ggccacacta
+      241 gtcatgccat gggtggtcta tcttgaggtt gttggcgagt ggcggttcag ccgaatccac
+      301 tgtgatatct ttgtcaccct ggatgtcatg atgtgcactg ctagcattct caatctctgc
+      361 gccatcagca tcgacaggta tactgctgta gccatgccaa tgctttataa cactagatac
+      421 agttcaaagc gaagagtaac cgtcatgatt tccgttgtct gggtactctc ctttgccatc
+      481 tcctgtccaa ttttatttgg attcaataac acagcagaca atgaatgcct cattgaaaat
+      541 cccacttttg ttgtctattc ctcgattgtc tccttttatg cccccttcat cgtcacactg
+      601 ctggtatatg tgcagattta catcgtcctc cggaagcgcc ggaagagggt gaacaccaag
+      661 cgcaatggcc aaggcctaga gcatgatgcg ccactaaagg acaaatgcac tcacccggaa
+      721 gatgtgaagc tctgcactgt ccttgtcaag tccaatggca gtttcccagc aagcaaaaag
+      781 aaagtgatcc ttgttcagga ggcaattaac caccctgaag agatggaaat ggagatggtg
+      841 accagcaccc cgcccccaga gataaaaata aaaaataagg aggtgtctca ggataacaac
+      901 cagcttactg tgccggtcac ttcaaaccag tgcaacaaca ccagcctgcc ctccccagca
+      961 gacagtcctg tgaaagctga aaagaatggg aatgccaatg ataacccaaa gactgcaaaa
+     1021 gcttttgaga tccaagcaat gcctaatggt aaaacaagga catcacttaa gaccctgagt
+     1081 aagaggaaac tctcacaaca gaaggagaag aaggccaccc agatgttggc cattgtgctt
+     1141 ggtgtattca taatatgctg gctccccttt ttcatcaccc acatcctgaa aatgcactgc
+     1201 aattgcaaca tctcccctgc cctatacagt gcattcacct ggctgggcta tgtcaacagt
+     1261 gctgtcaatc ccatcatcta taccacattc aatgttgagt tccggaaagc cttcatcaaa
+     1321 atccttcact gctaa
+//
+

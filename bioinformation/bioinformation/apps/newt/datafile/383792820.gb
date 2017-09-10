@@ -1,0 +1,45 @@
+LOCUS       JQ320442                 363 bp    DNA     linear   VRT 15-APR-2012
+DEFINITION  Lissotriton vulgaris vulgaris clone InCLvv-11 microsatellite
+            sequence.
+ACCESSION   JQ320442
+VERSION     JQ320442.1  GI:383792820
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris vulgaris
+  ORGANISM  Lissotriton vulgaris vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 363)
+  AUTHORS   Usmanova,N.M., Saramud,I.A., Kazakov,V.I. and Litvinchuk,S.N.
+  TITLE     Distribution of TkS1 microsatellite sequences in Lissotriton newt
+            species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 363)
+  AUTHORS   Usmanova,N.M., Saramud,I.A., Kazakov,V.I. and Litvinchuk,S.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-DEC-2011) Chromosome Stability and Cellular
+            Engineering, Institute of Cytology RAS, Tikhoretsky,
+            Saint-Petersburg, Saint-Petersburg 194064, Russian Federation
+FEATURES             Location/Qualifiers
+     source          1..363
+                     /organism="Lissotriton vulgaris vulgaris"
+                     /mol_type="genomic DNA"
+                     /sub_species="vulgaris"
+                     /db_xref="taxon:385673"
+                     /clone="InCLvv-11"
+                     /PCR_primers="fwd_name: tks1b, fwd_seq:
+                     attccagaattgagaatgagacc, rev_name: tks1b, rev_seq:
+                     attccagaattgagaatgagacc"
+     repeat_region   1..363
+                     /rpt_type=tandem
+                     /satellite="microsatellite"
+ORIGIN      
+        1 attccagaat tgagaatgag accaaactga gatttaaaaa gtgcacggtt gacgttcaaa
+       61 actggatgac aaagaacttc ctgatgctga acgccagcaa aacggagatt gtgctatttg
+      121 gaaaggccga taagacctgg tccaatgact ggtggccagt ttccctcggc ccctgcctgc
+      181 tcccaaatct tcagtcagaa atcttgggtt gatcattgat aataagttat caatgactga
+      241 acatgtcaac aaagtagttc agaccagttt cggccttatg cacagcttga ggaagatttt
+      301 caaatggatc cctctcccat ctcgcacgcc cgttgtccac ggtctcattc tcaattctgg
+      361 aat
+//
+

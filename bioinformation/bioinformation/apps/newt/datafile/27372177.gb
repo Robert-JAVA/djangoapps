@@ -1,0 +1,78 @@
+LOCUS       AB052937                2032 bp    mRNA    linear   VRT 20-FEB-2008
+DEFINITION  Cynops pyrrhogaster mRNA for OTX2, complete cds.
+ACCESSION   AB052937
+VERSION     AB052937.1  GI:27372177
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Sakami,S., Hisatomi,O., Sakakibara,S., Liu,J., Reh,T.A. and
+            Tokunaga,F.
+  TITLE     Downregulation of Otx2 in the dedifferentiated RPE cells of
+            regenerating newt retina
+  JOURNAL   Dev. Brain Res. 155, 49-59 (2005)
+REFERENCE   2  (bases 1 to 2032)
+  AUTHORS   Sakami,S., Sakakibara,S., Hisatomi,O. and Tokunaga,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2000) Contact:Sanae Sakami Osaka University,
+            Graduate School of Science; Machikaneyamacho1-1, Toyonaka, Osaka
+            560-0043, Japan
+FEATURES             Location/Qualifiers
+     source          1..2032
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..2032
+                     /gene="Otx2"
+     CDS             244..1113
+                     /gene="Otx2"
+                     /codon_start=1
+                     /product="OTX2"
+                     /protein_id="BAC53612.1"
+                     /db_xref="GI:27372178"
+                     /translation="MMSYLKQPPYTVNGLSLTSSGMDLLHPSVGYPATPRKQRRERTT
+                     FTRAQLDVLEALFAKTRYPDIFMREEVALKINLPESRVQVWFKNRRAKCRQQQQQQQS
+                     GGQSKARPAKKKSSPGREVSSESGASGQFTPPPSTAVPTISSTSAPVSIWSPASISPL
+                     SDPLSTSSSCMQRSYPMTYSQAPAYAQGYSSSSSYFGGMDCGSYLSPMHHQLTGAGAT
+                     LSPMGTNGVSSHLSQSPASLSTQGYGASSLGFNTATDCLDYKDQATSWKLNFNADCLD
+                     YKDQTSSWKFQVL"
+ORIGIN      
+        1 agccacctca cctcacagca gccgcccctg aggtctgttt gggctgtttt tgtaaagatt
+       61 taggaggaga tttgcagcct ttctcgacca ctgcttccgt accctgttcc ttccaagcca
+      121 gagagggacc atcggaccca ccctaccgag gcgctgagga ccgggagctg cggaagaggc
+      181 cgaagcccga agtgaaccgg cgaaccggtt gtttttacga cgtttgtccc tcacaacttt
+      241 agcatgatgt cttacctgaa gcaaccacct tacaccgtga atgggctgag cctcacctcg
+      301 tcgggaatgg acctgctaca cccctccgtg gggtaccccg ccacgccccg gaagcagcgg
+      361 cgggagagga ccaccttcac cagggcccag ctcgacgtcc tggaggcgct gttcgccaag
+      421 acccgctatc cggacatctt tatgagggaa gaggtagctc tgaagatcaa cctcccggag
+      481 tccagagtgc aggtatggtt taaaaatcgc agagctaaat gccgccaaca gcagcagcaa
+      541 cagcagagtg gaggtcaaag caaagcaagg ccggccaaga agaagagttc tccagggcgg
+      601 gaagtgagct cggagagtgg ggctagtggg cagttcacac caccacctag cacagctgta
+      661 cccaccatct ccagcaccag cgcacctgtg tccatctgga gtccagcttc catctccccc
+      721 ctctctgacc ccctgtccac ctcatcctcc tgcatgcaga ggtcctaccc tatgacctac
+      781 tcccaggctc cggcctacgc tcagggctac tccagctcct cgtcctactt tggcggcatg
+      841 gactgtggat cctatctgag cccgatgcac caccaactga caggagcagg ggctaccctc
+      901 agtcctatgg gcaccaatgg ggtgagctcc cacctcagcc agtccccagc cagcctttcc
+      961 actcagggct acggtgcttc cagtctgggc ttcaacacag ccactgactg cttggattac
+     1021 aaggaccagg ccacctcctg gaaactgaac ttcaatgctg actgcttgga ttacaaggac
+     1081 cagacatcct catggaagtt tcaagttttg tgaatggggt aaagcaaggg gaactctttg
+     1141 ggatgcatac actgggcggg acattccacc ttagccattt tttgggtaaa aaagacgctt
+     1201 cctgtgatcc aagtcatagc aatctcctgc acgcatatgg aatggagaag aagagaattg
+     1261 atcatggcga cacaagatgg attcctttgg actgatggac ttgtgatctt cctagattta
+     1321 gcagacaatg gttacgatgt ttggcgtgag tagtggatcc gtgcctggcc tttcagccct
+     1381 ggtctgcagc ctgtgcagga gtcagctgag gcgtccagtg ttggccaagc actactgaaa
+     1441 gtgctgagat ggcgacgaca ggtccgagct tgtgaacatt tcatgatcaa acctcgagct
+     1501 ggctctgaaa ttacctttca ggactacgtg aactgtgcga ctgactgtcc tagatgcact
+     1561 actttattta aaaaaaataa gaaatgatgt ttataaggag tcaaaatgta gtttttcaga
+     1621 gacaatcagt gtgtgtctta tataaatggt acatctgtgg ttttaatctg tgctagactt
+     1681 caaactgtga tcttctatat tgtatgcaac tgtgaacttg gcgccaccag gggggttctt
+     1741 ctgccactga atagtttata attatgactg gaattccgag cccagcctcc attaccattt
+     1801 gcaaagaatg cctttagcca gaggcaagtg tgtgccgggc ctttcagagc catctgagga
+     1861 ggggagggcc cgcaaggcct ggtggcgcgg gcccctggag cctgctgtgg gacggggtga
+     1921 agggggcgcc ggtcacctga ccttcttcag ccgacactac ggagggccac ctgtttctct
+     1981 gctcgcatat gcgaactcaa ggtataatat gcataaaccg tttccttatc cc
+//
+

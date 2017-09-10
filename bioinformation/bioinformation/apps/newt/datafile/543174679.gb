@@ -1,0 +1,47 @@
+LOCUS       KF442233                 349 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Lissotriton helveticus microsatellite Lh14 sequence.
+ACCESSION   KF442233
+VERSION     KF442233.1  GI:543174679
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 349)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     What remains from a 454 run: estimation of the success rate of
+            microsatellite loci development in selected newt species
+            (Calotriton asper, Lissotriton helveticus, and Triturus cristatus)
+  JOURNAL   Ecol Evol (2013) In press
+REFERENCE   2  (bases 1 to 349)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2013) Department of Animal Behavior, University,
+            Morgenbreede 45, Bielefeld 33615, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Phobos v. 3.3.11
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..349
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:256425"
+                     /PCR_primers="fwd_name: Lh14F, fwd_seq:
+                     gcaacatcctcacgttctga, rev_name: Lh14R, rev_seq:
+                     agcgcatttagaccctcaca"
+     repeat_region   1..349
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Lh14"
+ORIGIN      
+        1 ttctgtgctt tcaaaactgt tgcctacaga ccccctggga atgtgtcacg gacccctggg
+       61 ggtccacgga ccacagtttg ggaaacactg gcatagagta ttttgttaaa gcaacatcct
+      121 cacgttctga tctcaacttg tccataagag cggtttcaac ccattttcca tcagcgcaag
+      181 ttatgcttgc gctgttaaca aacatattcg gcctccctat agcctgcaag ctacgtgcca
+      241 ttcaatcaat caatcaatca atcaatcaat caatcaatca atcaatcata acatttgaaa
+      301 agcgcactac ttacctgtga gggtctaaat gcgctggggg agtgggggt
+//
+

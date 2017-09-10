@@ -1,0 +1,41 @@
+LOCUS       TCHMTCYTBP               331 bp    DNA     linear   VRT 19-DEC-1996
+DEFINITION  Taricha torosa (14.T.t.MT) mitochondrial cytochrome b gene, partial
+            cds.
+ACCESSION   L22709
+VERSION     L22709.1  GI:530928
+KEYWORDS    cytochrome b.
+SOURCE      mitochondrion Taricha torosa (California newt)
+  ORGANISM  Taricha torosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 331)
+  AUTHORS   Tan,A.M. and Wake,D.B.
+  TITLE     MtDNA phylogeography of the California newt, Taricha torosa
+            (Caudata, Salamandridae)
+  JOURNAL   Mol. Phylogenet. Evol. 4 (4), 383-394 (1995)
+   PUBMED   8747295
+FEATURES             Location/Qualifiers
+     source          1..331
+                     /organism="Taricha torosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36314"
+     CDS             <1..>331
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB38986.1"
+                     /db_xref="GI:530929"
+                     /translation="FIDLPTPSNISYWWNFGSLLGVCLITQILTGLFLAMHYTADTQS
+                     AFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVIL
+                     LFLVMATA"
+ORIGIN      
+        1 atttattgac ctccccacac catcaaacat ctcctattga tgaaacttcg gctctctcct
+       61 aggagtctgc ctcatcacac agatccttac aggcctcttt ctggctatac actacacagc
+      121 agacacccag tcagcatttt catcagtagc ccacatctgc cgagatgtaa actacggctg
+      181 actagtgcga aacatccacg ccaacggggc ctcattattt tttatctgca tctacctaca
+      241 catcgggcgc ggcctatact acggctcata catatttaaa gagacctgaa acattggcgt
+      301 tatcctgctc ttcctggtaa tagccaccgc c
+//
+

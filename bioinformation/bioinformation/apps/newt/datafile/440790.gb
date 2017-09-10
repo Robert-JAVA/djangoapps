@@ -1,0 +1,39 @@
+LOCUS       TVU04704                 372 bp    DNA     linear   VRT 26-APR-1996
+DEFINITION  Triturus vulgaris mitochondrion 12S rRNA gene, partial sequence.
+ACCESSION   U04704
+VERSION     U04704.1  GI:440790
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 372)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Molecular Biogeography: using the Corsica-Sardinia microplate
+            disjunction to calibrate mitochondrial rDNA evolutionary rates in
+            mountain newts (Euproctus)
+  JOURNAL   J. Evol. Biol. 7, 227-245 (1994)
+REFERENCE   2  (bases 1 to 372)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-1993) Adalgisa Caccone, Biology, Yale University,
+            165 Prospect St., New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Lissotriton vulgaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     rRNA            <1..>372
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagtcat aaactttgat tttatccgcc agagtactac gagcaacagc ttaaaactca
+       61 aaggacttgg cggtgctcta caccccccta gaggagcctg ttctataatc gataatcccc
+      121 gataaacctc accatctatt gccaatacag cctatatacc accgtccagc ccacccttta
+      181 aaggaaagac agtaggcaca actacataca tataaacgtc aggtcaaggt gtagcaaata
+      241 agatgggaag aaatgggcta cattttctaa cctagaaaaa cacgaaaaag tttatgaaac
+      301 taaactataa aggaggattt agcagtaaaa agaaagaaga gtgttctttt taagccggca
+      361 atggagcggc gc
+//
+

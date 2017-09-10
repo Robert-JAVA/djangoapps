@@ -1,0 +1,49 @@
+LOCUS       DQ066430                 582 bp    mRNA    linear   VRT 14-JUN-2005
+DEFINITION  Taricha granulosa melanocortin 1 receptor mRNA, partial cds.
+ACCESSION   DQ066430
+VERSION     DQ066430.1  GI:67078830
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 582)
+  AUTHORS   Gregory,J.K., Walthers,E.A. and Moore,F.L.
+  TITLE     Characterization of three melanocortin receptors from the
+            rough-skinned newt, Taricha granulosa
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 582)
+  AUTHORS   Gregory,J.K., Walthers,E.A. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2005) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /tissue_type="brain"
+     CDS             <1..>582
+                     /note="G protein coupled receptor; GPCR"
+                     /codon_start=2
+                     /product="melanocortin 1 receptor"
+                     /protein_id="AAY64434.1"
+                     /db_xref="GI:67078831"
+                     /translation="KNRNLHSPMYFFICCLAVSDMLVSVSHLVETTVILMLQHGVVDI
+                     PQNALRQMDNIFDMMICSSVVSSLSFLGVIAVDRYITIFYALRYHNIMTIRRAVIIII
+                     LIWVLSTISSIIFITYHSSKAVIICLISFFLFMLILMVTLYIHMFALARQHAKRIYNL
+                     NKRRSTPHRTSLKGAITLTILLGIFFLCWAPFFL"
+ORIGIN      
+        1 caagaaccgc aacctgcact cgcctatgta cttcttcatc tgctgcctag cggtatctga
+       61 catgctggtc agtgtgagcc accttgtgga gaccacagtc attctcatgc tacagcatgg
+      121 ggttgtggac ataccgcaaa acgccctgcg ccagatggac aatatctttg acatgatgat
+      181 ttgcagttca gtggtgtcct cactatcctt cctcggggtg atagccgtgg accgctacat
+      241 caccatcttc tatgccctgc gctaccacaa catcatgact atccggcggg cagtgatcat
+      301 catcatccta atttgggtgc tcagcaccat ctccagcatt atcttcatca cctatcacag
+      361 cagcaaagcg gtcatcatct gcctcatcag tttcttcctc ttcatgctca ttctgatggt
+      421 gacactctac atccacatgt tcgcgttggc tcgccaacat gccaaaagaa tctacaacct
+      481 caacaagagg aggtccacac ctcacagaac aagcctaaaa ggggccatca ccctcaccat
+      541 cctgctgggg atcttcttcc tctgctgggc tcccttcttc ct
+//
+

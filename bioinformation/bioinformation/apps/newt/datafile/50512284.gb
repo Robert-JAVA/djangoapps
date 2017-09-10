@@ -1,0 +1,90 @@
+LOCUS       AY135485                2015 bp    mRNA    linear   VRT 22-JUL-2004
+DEFINITION  Pleurodeles waltl P450 aromatase mRNA, complete cds.
+ACCESSION   AY135485
+VERSION     AY135485.2  GI:50512284
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2015)
+  AUTHORS   Kuntz,S., Chesnel,A., Duterque-Coquillaud,M., Grillier-Vuissoz,I.,
+            Callier,M., Dournon,C., Flament,S. and Chardard,D.
+  TITLE     Differential expression of P450 aromatase during gonadal sex
+            differentiation and sex reversal of the newt Pleurodeles waltl
+  JOURNAL   J. Steroid Biochem. Mol. Biol. 84 (1), 89-100 (2003)
+   PUBMED   12648528
+REFERENCE   2  (bases 1 to 2015)
+  AUTHORS   Kuntz,S., Chesnel,A., Duterque-Coquillaud,M., Grillier-Vuissoz,I.,
+            Callier,M., Dournon,C., Flament,S. and Chardard,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-2002) EA 3442 - Laboratoire de Biologie
+            Experimentale - Immunologie, Faculte des Sciences, BP 239,
+            Vandoeuvre-les-Nancy 54506, France
+REFERENCE   3  (bases 1 to 2015)
+  AUTHORS   Kuntz,S., Chesnel,A., Duterque-Coquillaud,M., Grillier-Vuissoz,I.,
+            Callier,M., Dournon,C., Flament,S. and Chardard,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2004) EA 3442 - Laboratoire de Biologie
+            Experimentale - Immunologie, Faculte des Sciences, BP 239,
+            Vandoeuvre-les-Nancy 54506, France
+  REMARK    Sequence update by submitter
+COMMENT     On Jul 22, 2004 this sequence version replaced gi:22475178.
+FEATURES             Location/Qualifiers
+     source          1..2015
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             36..1574
+                     /codon_start=1
+                     /product="P450 aromatase"
+                     /protein_id="AAM95462.1"
+                     /db_xref="GI:22475179"
+                     /translation="MFSGETLLEILNPMHYISHVVPEVSPTATVSLLLITCILLLVRS
+                     YEETSTIPGPGYCMGLGPLLSYCRFLWTGIGNAANYYNNLYGDFVRVWINGEETLIIS
+                     KSSATFHVMKHGHYISRFGSTLGLQCVGMNENGIIFNSNPSLWKEIRPYFSKALSGPG
+                     LVQTTELCIKSTIKYLSRLKEVTAENGNVNVLTLMRLIMLDASNNLFLRIPLDVSERE
+                     ITLKIQKYFDAWQALLLKPDIFFKISWMYNKYEKAAKDLKEAIEKLIEKKRQKLSTAE
+                     RLEENMDFASELIFAQNRGDLTADNVNQCILEMLIAAPDTMSVSLYFMLMLIAQHPTV
+                     EAKIMEEIKAVIGDREIQSPDMQNLKVVESVIYESMRYQPVVDVVMRKALADDVIDGY
+                     YVRKGTNIILNLGRMHRDEYFPKPNEFSLENFQKNVPYRYFQPFGFGPRACAGKYIAM
+                     VMMKAMLVTVLKRYRVQTIMGRCLENVQNNNDLAIHPDETQSSMEMVFLPRNGLNTSL
+                     LMAT"
+ORIGIN      
+        1 acacttcttg ttttcctttt gggaagctga aggagatgtt ctcaggcgag acgttgctcg
+       61 aaatattgaa ccccatgcac tacatcagcc atgttgttcc cgaagtgtca cccaccgcca
+      121 ccgtgtctct gctgctgatt acgtgcattc tgcttctcgt caggagttac gaagaaacgt
+      181 caacaatacc aggccccggg tactgcatgg ggcttggccc cctgctgtct tactgcagat
+      241 tcctctggac aggcatcgga aatgcggcca attactacaa caatctgtac ggagactttg
+      301 tgcgagtctg gatcaacggc gaggaaacac tcatcatcag caaatcatca gctacattcc
+      361 atgttatgaa acatggacac tacatctcga gatttggcag tacacttgga ttacagtgtg
+      421 ttggcatgaa tgaaaatgga attattttca acagtaatcc atcactttgg aaagagatcc
+      481 ggccttattt tagcaaagca ctatctggcc caggacttgt gcaaacaaca gaactgtgca
+      541 ttaaatcaac aataaagtac ctaagtagac tgaaggaagt gaccgctgag aatggaaatg
+      601 tgaatgtgtt gacacttatg aggcttatca tgctggacgc ctcaaacaac ctttttctca
+      661 gaattccttt agatgtttca gaaagagaaa ttacattaaa aatccagaaa tactttgatg
+      721 cgtggcaagc acttttactg aagcctgaca tcttcttcaa aatttcgtgg atgtacaaca
+      781 agtacgaaaa ggcagcgaag gatttgaaag aagccattga aaagctaata gaaaaaaagc
+      841 gtcagaaact ttcaactgcg gagaggttgg aagagaatat ggattttgca tctgaattaa
+      901 tttttgccca gaatcgtgga gaccttactg cagataacgt gaaccagtgc atcctggaga
+      961 tgctgattgc agcacctgac acgatgtcag tgtcgctcta ttttatgctc atgcttatcg
+     1021 cacaacatcc aacagtggaa gcaaaaataa tggaagaaat taaggcagta attggtgatc
+     1081 gtgaaattca gagccctgat atgcagaatc taaaggtcgt ggaaagcgtt atatatgaaa
+     1141 gtatgagata tcagccggtt gtggacgtgg tcatgcgtaa agctttagca gatgatgtaa
+     1201 ttgatggcta ctatgtgaga aaaggaacca acatcattct gaacctcggc cgtatgcata
+     1261 gagatgaata tttcccgaag ccaaatgaat tctcccttga aaatttccag aagaatgtcc
+     1321 cttatcgcta ctttcagcca tttggctttg gcccccgtgc ctgtgcaggg aaatatattg
+     1381 ccatggtaat gatgaaagct atgttggtga ccgtactgaa gagatacaga gtgcaaacca
+     1441 tcatggggag atgtttagag aatgtacaga acaacaatga tctcgctata catccagatg
+     1501 aaacacagtc ttcgatggag atggttttcc ttcccagaaa tggattaaat acgtcgctat
+     1561 taatggctac ataaatcatt tatatctgca gtaatgctga cgtgttgtca cctttcgatt
+     1621 accttactgt acctgaagtg taactggaaa gaaatgtgtt tttgtataac atgtcaccag
+     1681 cataatttta ctgattttac tgatgttgat catttgtcct aaaaatgccg taaattgaaa
+     1741 tagtaattta ggatgtataa acctcaatcg tgcatgagcg gacatatctg tcctgtccaa
+     1801 gctaagcaga tacatgagta gagattcctg gtgactggac ctttctttaa tgaccagtaa
+     1861 atacacacac acatatatgt gtatatgcat gcctattatg tgtcaacccc catggaaggt
+     1921 ggaataactg tgcactatgg tgtagaaaat agacttccat gtggaattcc ctattccttt
+     1981 agttttaaga caaacatcta ccaccttact cgagt
+//
+

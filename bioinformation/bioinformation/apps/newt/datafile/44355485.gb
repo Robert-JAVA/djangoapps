@@ -1,0 +1,93 @@
+LOCUS       AY540336                2116 bp    mRNA    linear   VRT 17-FEB-2006
+DEFINITION  Pleurodeles waltl steroidogenic factor 1 (Sf1) mRNA, complete cds.
+ACCESSION   AY540336
+VERSION     AY540336.1  GI:44355485
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2116)
+  AUTHORS   Kuntz,S., Chardard,D., Chesnel,A., Ducatez,M., Callier,M. and
+            Flament,S.
+  TITLE     Expression of aromatase and steroidogenic factor 1 in the lung of
+            the urodele amphibian Pleurodeles waltl
+  JOURNAL   Endocrinology 145 (7), 3111-3114 (2004)
+   PUBMED   15070855
+REFERENCE   2  (bases 1 to 2116)
+  AUTHORS   Kuntz,S., Chardard,D., Ko,C.I., Dumond,H., Ducatez,M., Callier,M.,
+            Flament,S. and Chesnel,A.
+  TITLE     Female-enriched and thermosensitive expression of steroidogenic
+            factor-1 during gonadal differentiation in Pleurodeles waltl
+  JOURNAL   J. Mol. Endocrinol. 36 (1), 175-186 (2006)
+   PUBMED   16461937
+  REMARK    Erratum:[J Mol Endocrinol. 2006 Oct;37(2):375]
+REFERENCE   3  (bases 1 to 2116)
+  AUTHORS   Kuntz,S., Chesnel,A., Ducatez,M., Flament,S. and Chardard,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-2004) Laboratoire de Biologie Experimentale,
+            Universite Henri Poincare, Faculte des Sciences, Bp 239, Vandoeuvre
+            les Nancy 54506, France
+FEATURES             Location/Qualifiers
+     source          1..2116
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..2116
+                     /gene="Sf1"
+     CDS             128..1534
+                     /gene="Sf1"
+                     /note="PwSF1"
+                     /codon_start=1
+                     /product="steroidogenic factor 1"
+                     /protein_id="AAS47030.1"
+                     /db_xref="GI:44355486"
+                     /translation="MEYTYDEDLDELCPVCGDKVSGYHYGLLTCESCKGFFKRTVQNN
+                     KRYTCTENQTCKIDKTQRKRCPYCRFQKCLTVGMRLEAVRADRMRGGRNKFGPMYKRD
+                     RALKQQKKALIRANGFKLETVPQIVSPTQTEYTIPSNIHSIHSVSKSLPLNTVAMTQV
+                     NYDRSPYGTPSLGMTMPNHGALQGYTYPHFPNRTIKSEFPDHYSSPHESVAPAFVYSD
+                     AYQNSFPPDIPETILNLLQLEPDEPQIKARILACLQQEQGKSRHEKPPSTFGLMCKMA
+                     DQTLFSIVEWARSCIYFKELEVGDQMILLQNCWSELLVFDHIYRQIQHGKENSILLVT
+                     GQEIDVSTIAAQAGPALNNLVLKSQELVIQLHSLQVDRQEFVCLKFLILFSVDEKCLE
+                     NNTLARNAQEKINAALHEYTMCHYPHCMDKFRLLLLRLTDIRSISMLAEDYLYHKHMS
+                     GEVPCNNLLIEMLHAKRS"
+ORIGIN      
+        1 agattggcat caagggaagc cacccagcac atctcttcag atgctctcca agggggaagt
+       61 ggactattgc agctctggtg gccaggagca gaccctggac ggctcaagtg gcagccattt
+      121 caagctgatg gaatacacgt acgatgaaga cctggacgag ctgtgcccgg tgtgtggaga
+      181 caaggtgtcc gggtaccact atgggctcct gacctgcgag agctgcaagg gtttcttcaa
+      241 gaggacagtt caaaacaaca aacgttacac ctgtacagaa aaccaaacct gcaaaattga
+      301 caaaacacag aggaaacgct gcccctactg ccggtttcag aagtgtttaa ccgtaggaat
+      361 gaggctggaa gcggtgcggg cagacaggat gagaggtgga agaaacaaat ttgggccaat
+      421 gtacaagagg gaccgtgcct taaaacaaca gaagaaagcc ttaatacgtg caaatggctt
+      481 caaacttgag actgttcctc aaattgtgtc ccccacacag acggagtaca ccatcccctc
+      541 caacatccac agcatccatt ccgtatcgaa gagtttgccc ttgaacactg ttgcaatgac
+      601 tcaagtcaac tacgaccgaa gtccgtatgg gaccccatca ctgggaatga ctatgccaaa
+      661 ccatggggca ctgcaagggt acacctaccc acacttcccc aatcgcacaa ttaaatcaga
+      721 gttccctgac cactactcga gtccacatga atcagtcgct cctgcctttg tctactcaga
+      781 tgcctatcaa aacagtttcc ccccagacat tccggaaacc atcctgaatt tgttgcagtt
+      841 ggagccagac gagcctcaga tcaaggcacg gatacttgcc tgtctgcagc aagagcaagg
+      901 caaaagtcgg catgagaaac cacctagcac ctttggcctc atgtgcaaga tggccgacca
+      961 gacgcttttc tccatcgttg aatgggcaag gagttgcatt tatttcaagg aacttgaggt
+     1021 gggtgatcag atgatattgc tgcagaactg ctggagcgag ctgctggttt tcgaccatat
+     1081 ttaccgccag attcaacatg ggaaggagaa cagcatactc ctggtcacag gccaagagat
+     1141 tgatgtatcc acgattgctg cacaggctgg gccagcgctg aacaatttgg tattgaaatc
+     1201 acaggagctg gttatccagt tgcattcctt acaagttgac cggcaggaat ttgtctgtct
+     1261 gaagttcctc atcctcttca gtgttgatga gaaatgtttg gaaaataaca ctttggccag
+     1321 aaacgcccaa gagaaaatca acgctgccct ccatgaatac accatgtgcc attatcctca
+     1381 ttgcatggac aagttccgac tgttgttgtt gcggttaact gacatccggt ccatcagcat
+     1441 gctggctgaa gattacctct accacaaaca catgagtggg gaggtgcctt gtaacaacct
+     1501 gctcatcgaa atgcttcatg ccaagcggtc ataaatggcc atcacctagt gactcagaga
+     1561 acagccacca gagacagtac gccagaggtg cgcacttgca gtggatacaa atgagaatca
+     1621 gattggccgg tcactgatgc ccatccgcaa aagcattttt cctagtaatg tatttaacct
+     1681 atactattgg aaaattttga aagatttatt ttattataac tgtggtttac ccgcacaaaa
+     1741 atactatgtg atatatgtat cagtctttaa atatgaccat cttattttta cttctatcaa
+     1801 gattcaaaaa gatccatcgg aggacaaatt aaatggttaa atttcaattg aaccccagtg
+     1861 tgatcaaatt taatggactc ccacaatcca tatcctgtag gaggaattgc acctgaagag
+     1921 cctgaaatga gaataatgtg catatttatt tttgttatcc tgcaaaagaa attgctattt
+     1981 tatgcttgag aatgaccaca tctcaatatc ttctgtgtat tgtatatcag ctcactaaat
+     2041 acgcatagac tcagcctaac ttaagaaatt aaatttaact tccagtggaa aaaaaaaaaa
+     2101 aaaaaaaaaa aaaaaa
+//
+

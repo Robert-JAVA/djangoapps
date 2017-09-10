@@ -1,0 +1,46 @@
+LOCUS       AB050012                 216 bp    mRNA    linear   VRT 17-APR-2001
+DEFINITION  Cynops pyrrhogaster IGF-I mRNA for insulin like growth factor I,
+            partial cds.
+ACCESSION   AB050012
+VERSION     AB050012.1  GI:13646957
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yamamoto,T., Nakayama,Y. and Abe,S.
+  TITLE     Mammalian FSH and IGF-I up-regulate the IGF-I gene expression in
+            organ culture of newt testistis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 216)
+  AUTHORS   Yamamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2000) Takashi Yamamoto, Kumamoto University,
+            Faculty of Science; Kurokami 2-39-1, Kumamoto, Kumamoto 860-8555,
+            Japan (E-mail:tybig@gpo.kumamoto-u.ac.jp, Tel:81-96-342-3430,
+            Fax:81-96-342-3431)
+FEATURES             Location/Qualifiers
+     source          1..216
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="liver"
+     gene            <1..>216
+                     /gene="IGF-I"
+     CDS             <1..>216
+                     /gene="IGF-I"
+                     /codon_start=1
+                     /product="insulin like growth factor I"
+                     /protein_id="BAB41098.1"
+                     /db_xref="GI:13646958"
+                     /translation="LKVKMHTVSSIHLFYLTICLLTLTHSAAAGSETLCGAELVDALQ
+                     FVCGDRGFYFSKATGYGLNSRRTSHRGI"
+ORIGIN      
+        1 ttgaaggtga agatgcacac cgtgtcctcc attcatttgt tctacctgac catctgtttg
+       61 cttacattaa ctcattcagc agcagcaggc tcagaaacac tatgtggcgc ggagctggtt
+      121 gatgcgcttc agtttgtgtg tggggacaga ggcttttatt tcagtaaagc gacggggtat
+      181 ggcttgaaca gcagacggac aagtcaccga gggatc
+//
+

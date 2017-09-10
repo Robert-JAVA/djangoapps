@@ -1,0 +1,74 @@
+LOCUS       JX907984                1184 bp    DNA     linear   VRT 30-NOV-2012
+DEFINITION  Pachytriton brevipes voucher CIB 97858 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   JX907984
+VERSION     JX907984.1  GI:410992802
+KEYWORDS    .
+SOURCE      Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1184)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     Significance of pre-Quaternary climate change for montane species
+            diversity: Insights from Asian salamanders (Salamandridae:
+            Pachytriton)
+  JOURNAL   Mol. Phylogenet. Evol. 66 (1), 380-390 (2013)
+   PUBMED   23110935
+REFERENCE   2  (bases 1 to 1184)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2012) Organismic and Evolutionary Biology,
+            Harvard University, 26 Oxford St., Cambridge, MA 02138, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1184
+                     /organism="Pachytriton brevipes"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 97858"
+                     /db_xref="taxon:377299"
+     gene            <1..>1184
+                     /gene="RAG1"
+     mRNA            <1..>1184
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1184
+                     /gene="RAG1"
+                     /codon_start=3
+                     /product="recombination activating protein 1"
+                     /protein_id="AFV95503.1"
+                     /db_xref="GI:410992803"
+                     /translation="ALVSTLKDMEEDILEGLKAHELDDYLSGPFTVVVKESCDGMGDV
+                     SEKHGCGPVVPEKAVRFSFTIMTIAVRHNKDNVRIFEENKPNSELCCKPLCLMLADES
+                     DHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFRGTGYDEKLVREVEGLEAS
+                     GSIYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHHESVDELRDRVKGV
+                     SAKPFIETLPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNASKEERKRWQSTLDKHL
+                     RKKMNLKPIMRMNGNFARKLMSQETVEAVCELVHSEERRAALRELMDMYLKMKPVWRS
+                     SCPSKECPELLCQYSYNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIERDGSI
+                     GA"
+ORIGIN      
+        1 ttgcactagt ctccactctg aaggacatgg aggaggacat tttggaaggc ctgaaagctc
+       61 atgagctgga cgactacctc agtggtccat tcacggtggt cgtcaaggag tcttgtgatg
+      121 gtatgggtga tgtcagtgag aagcatggct gtggaccagt ggttccagaa aaggcagtcc
+      181 gtttctcgtt caccatcatg accattgccg tccgtcacaa caaagacaat gtgaggattt
+      241 ttgaagaaaa caagccgaat tcagagctgt gctgcaagcc cctgtgcctc atgctcgctg
+      301 atgaatctga ccatgagaca ctaaccgcca tcttgagccc actgatagca gaaagagagt
+      361 ccatgaaagg cagtgaactg atgcttgaac ttggtggcat cctcagaaca ttcaagtttg
+      421 tgttcagggg cacaggatat gatgagaagc ttgtgagaga ggttgaagga cttgaggcct
+      481 cgggctcaat ctatatctgt accctgtgtg actcgacacg tcttgaagcc tcccagaaca
+      541 ttgtgctcca ctccatcact cggagtcaca aggagaacct tgagcgctac gagatctggc
+      601 ggtccaacag acaccatgag tcggtcgacg agctgcggga cagagtgaag ggggtttcag
+      661 ccaagccctt cattgagacc ctcccttcca tcgatgcctt gcattgcgac attggaaatg
+      721 ccgctgagtt ttacaagata ttccaactcg aaatagggga ggtcttcaag aaccccaacg
+      781 cctcaaaaga ggagagaaag agatggcagt cgactctgga caagcatctg aggaagaaga
+      841 tgaacttgaa gcccataatg agaatgaacg gtaattttgc aaggaaactg atgtcccagg
+      901 agaccgttga ggcggtctgt gagctggtcc actctgagga acggcgggca gctctacgcg
+      961 aactcatgga catgtacctg aaaatgaagc cagtctggcg atcctcatgc ccaagcaagg
+     1021 agtgcccaga actcctctgc cagtacagct acaactctca acgctttgcc gagcttctct
+     1081 caaccaagtt caagtaccga tatgagggca aaatcacaaa ttatttccac aagacattag
+     1141 cccacgtgcc tgagataatt gaacgagatg ggtctattgg tgcc
+//
+

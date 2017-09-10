@@ -1,0 +1,76 @@
+LOCUS       KJ776974                 991 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  UNVERIFIED: Notophthalmus viridescens isolate AH_9 NADH
+            dehydrogenase subunit 2-like (ND2) gene, partial sequence;
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; and cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ776974
+VERSION     KJ776974.1  GI:686028020
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 991)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..991
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_9"
+                     /db_xref="taxon:8316"
+     gene            <1..589
+                     /gene="ND2"
+     misc_feature    <1..589
+                     /gene="ND2"
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            588..656
+                     /product="tRNA-Trp"
+     tRNA            complement(658..726)
+                     /product="tRNA-Ala"
+     tRNA            complement(727..799)
+                     /product="tRNA-Asn"
+     rep_origin      800..833
+                     /note="origin for light strand replication"
+     tRNA            complement(831..896)
+                     /product="tRNA-Cys"
+     tRNA            complement(897..961)
+                     /product="tRNA-Tyr"
+     gene            963..>991
+                     /gene="COI"
+     CDS             963..>991
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91071.1"
+                     /db_xref="GI:686028021"
+                     /translation="MMITRWLFST"
+ORIGIN      
+        1 ttattaatta caatagcact agcatcaaca attattcggg ggatgaggag gcctcaatca
+       61 aacacaaata cgaaaaatta tagcatattc atctattgcg catctagggt gaataatttt
+      121 agttttatct ttcgccccta ccctaacaat atttaactta ataatctatt taatattaac
+      181 ctcttctata tttataataa taatagccac acattccaca aatattaata agctctcaac
+      241 ttcatgacta aaaacaccta cactagcagc atccacaata attaccctta tagcccttgg
+      301 aggacttcct ccaacctcag gcttcctacc aaaatgacta attttacaag aaataacaaa
+      361 acaacaccta gaaacactat caactataat agctatatcc gctttactca gcttattctt
+      421 ttacctacgc ctatcttata ctatctccct aacctccccc ccaaatattt ccaattcaaa
+      481 cttcacttga cgaataaaaa acaataaact acaaattctc ccaactctta ttgtactttc
+      541 agcaataata atacctatcg ccccaacact attgacaata ataaactaaa gacttaggat
+      601 aataagacca aagaccttca aagtcttaag caggagttaa aaccttctag tctttgatag
+      661 gacctgcaag actctatctc acatcttctg aatgcaaccc aaacacttta attaagctaa
+      721 gaccctctag actagtaggc ctttatccta cgccctttta gttaacagct aaacgctcaa
+      781 tccagcgagc tttaatctac ttctcccgct tatggggtaa aaagcgggag aagccccggc
+      841 agaagctatt ctgctcttta aaatttgcaa ttttatatgc tggacatcac agggcttgta
+      901 aaaaaggact ttaactttat aacaagggct acaatcttgc acctatctcg gccactttac
+      961 cagtgataat cactcgatga ctattttcta c
+//
+

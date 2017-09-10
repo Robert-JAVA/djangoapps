@@ -1,0 +1,80 @@
+LOCUS       AY583348                1509 bp    DNA     linear   VRT 20-JUL-2010
+DEFINITION  Euproctus asper recombination activating protein 1 (RAG-1) gene,
+            partial cds.
+ACCESSION   AY583348
+VERSION     AY583348.1  GI:50957107
+KEYWORDS    .
+SOURCE      Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 1509)
+  AUTHORS   San Mauro,D., Vences,M., Alcobendas,M., Zardoya,R. and Meyer,A.
+  TITLE     Initial diversification of living amphibians predated the breakup
+            of Pangaea
+  JOURNAL   Am. Nat. 165 (5), 590-599 (2005)
+   PUBMED   15795855
+REFERENCE   2  (bases 1 to 1509)
+  AUTHORS   San Mauro,D., Vences,M., Alcobendas,M., Zardoya,R. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2004) Biodiversidad y Biologia Evolutiva, Museo
+            Nacional de Ciencias Naturales, Jose Gutierrez Abascal 2, Madrid
+            28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..1509
+                     /organism="Calotriton asper"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Museo Nacional de Ciencias Naturales
+                     (Spain) MNCN/ADN 8011"
+                     /db_xref="taxon:30374"
+                     /country="Spain: Zuriza"
+     gene            <1..>1509
+                     /gene="RAG-1"
+     mRNA            <1..>1509
+                     /gene="RAG-1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1509
+                     /gene="RAG-1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AAT91052.1"
+                     /db_xref="GI:50957108"
+                     /translation="RTVKAITGRQIFQPLHALRTAEKALLPGYHPFEWMPPLKNVSCN
+                     TEVGIINGLSGLVQSVDEYPVDTISKRFRYDVALVSTLKDMEEDILEGLKAYELDDYL
+                     SGPFTVVIKESCDGMGDISEKHGCGPVVPEKAVRFSFTIMTISVHHNKDNVRIFEESK
+                     PNSELCCKPLCLMLADESDHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFR
+                     GTGYDEKLVREVEGLEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWR
+                     SNRHHESVDELRDRVKGVSAKPFIETLPCIDALHCDIGNAAEFYKIFQLEIGEVFKNP
+                     KASKEERKRWQSTLDKHLRKKMNLKPIMRMNGNFARKLMSQGTIEAVCELVHSEERRT
+                     ALRELMELYLKMKPVWRSSCPSKECPELLCQYSYNSQRFAELLSTKFKYQYEGKITNY
+                     FHKTLAHVPEIIERDGSIGAWASEGNESGNKLFRRFRKMNARQSKFYEMEDVL"
+ORIGIN      
+        1 cggaccgtga aggccatcac tgggcgccag attttccagc ccctgcatgc tctccgcaca
+       61 gccgagaaag ccctcttgcc aggctaccac ccttttgaat ggatgcctcc tctgaaaaat
+      121 gtatcttgca acaccgaagt gggcataatc aatgggctat ccggcctggt gcagtctgtc
+      181 gatgaatatc ctgtagacac catctcaaaa cggtttaggt acgacgtcgc cctagtctcc
+      241 actctgaagg acatggagga ggacattttg gaaggcctga aagcttatga gctagacgac
+      301 tacctcagtg gtccattcac ggtggtcatt aaggagtctt gtgatgggat gggtgatatc
+      361 agtgagaagc acggctgtgg accagtggtt ccagaaaagg cagtacgttt ctcgttcacc
+      421 atcatgacca tttccgtcca tcacaacaaa gacaatgtga ggatttttga agaaagcaag
+      481 ccgaattcag agctgtgctg caagcccctg tgcctcatgc tcgctgatga atctgaccat
+      541 gagacactaa ccgccatctt gagcccactg atagcagaaa gagagtccat gaaaggcagt
+      601 gaactgatgc ttgaacttgg tggcatcctc agaacattca agtttgtgtt caggggcaca
+      661 ggatatgatg agaagcttgt gagagaagtt gaaggactag aggcatctgg ctcagtctat
+      721 atctgtaccc tgtgtgactc gacacgcctt gaagcctccc agaacattgt actccactcc
+      781 atcactcgga gtcacaagga gaaccttgag cggtacgaga tctggcggtc caacagacac
+      841 catgagtcgg tcgacgagct gcgggacaga gtgaaggggg tttcagccaa gcccttcatt
+      901 gagaccctcc cttgcatcga tgccttgcac tgcgacattg gcaatgctgc tgagttttac
+      961 aagatattcc aactcgaaat aggggaggtc ttcaagaacc ccaaagcctc aaaagaggag
+     1021 agaaagaggt ggcagtctac tctagacaag catctgagga agaagatgaa tttgaagccc
+     1081 ataatgagaa tgaacggtaa ttttgcaagg aaactgatgt cccaagggac cattgaggcg
+     1141 gtctgtgagc tggtccactc tgaggaacgg cggactgccc tacgcgaact catggagctg
+     1201 tacctgaaaa tgaagccagt ctggcgatcc tcatgcccaa gcaaggagtg cccagaactc
+     1261 ctctgccagt acagctacaa ctctcaacgc tttgcagagc ttctctcaac caagttcaag
+     1321 taccaatatg agggcaaaat cacaaattat ttccacaaga cactagccca cgtgcctgag
+     1381 ataattgaac gagatgggtc tatcggtgcc tgggcgagtg aaggcaatga atccggtaac
+     1441 aagctcttca gacgtttcag gaaaatgaat gccaggcagt ctaagtttta tgaaatggag
+     1501 gatgtcctg
+//
+

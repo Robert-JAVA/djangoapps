@@ -1,0 +1,85 @@
+LOCUS       AY725817                2267 bp    DNA     linear   VRT 26-SEP-2004
+DEFINITION  Triturus vittatus vittatus 12S ribosomal RNA gene, partial
+            sequence; D-loop, complete sequence; and cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   AY725817
+VERSION     AY725817.1  GI:52353980
+KEYWORDS    .
+SOURCE      mitochondrion Ommatotriton vittatus vittatus (banded newt)
+  ORGANISM  Ommatotriton vittatus vittatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ommatotriton.
+REFERENCE   1  (bases 1 to 2267)
+  AUTHORS   Pearlson,O., Goldberg,D. and Degani,G.
+  TITLE     Cloning and sequence analysis of mitochondrial control region
+            (D-loop) of Triturus vittatus vittatus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2267)
+  AUTHORS   Pearlson,O., Goldberg,D. and Degani,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2004) Aquaculture, Migal Galilee Technology
+            Center, South Industrial Zone, P.O.Box 831, Kiryat Shmona 11016,
+            Israel
+FEATURES             Location/Qualifiers
+     source          1..2267
+                     /organism="Ommatotriton vittatus vittatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="vittatus"
+                     /db_xref="taxon:292827"
+                     /note="common: banded newt"
+     misc_feature    <1..2267
+                     /note="contains 12S ribosomal RNA and D-loop"
+     CDS             complement(1521..>2267)
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAU44355.1"
+                     /db_xref="GI:52353981"
+                     /translation="ATVITNLLSAIPYMGDSLVQWIWGGFSVDKATLTRFFAFHFLFP
+                     FLIAGASIVHLLFLHQTGSNNPTGISSNQDKISFHPYFSYKDILGFLLMILGLVLLSL
+                     LTPNILGDPENFTPANSLVTPPHIQPEWYFLFAYAILRSIPNKLGGVIALLMSILILM
+                     VFPVLHTSKQRXLMFRPTSRVLFWLLVANTLILTWIGGKPVEPPFVEIGQAASVLYFS
+                     LFLVIIPLIGLWENKLMKWYPDSLNKTLVL"
+ORIGIN      
+        1 atagtggggt atctaatccc agctttgttt catagctgtc gtgggttcaa ggttatttta
+       61 gtagggctgc tttcgatatt gtgtttttaa aaacttttgc gtgcgacggc agagtaagtt
+      121 tttagcccta tctggttaac acgtctaacc actctttggg ccgattaggt taatttgagt
+      181 ctctcgtata accgcggtgg ctggcacgag atttaccgac tctgtcaact atcgctgatt
+      241 caagcttgta tcgcttatta ttcaatgttt atcactgctg agttccctta ggggtgtggt
+      301 tgaacaagat gtttttggca aaataagtgc ctgatatctg ctcctatctt acytataggt
+      361 agtgtagggc attttcaccg ggatgcggat actcgcatgt gtaagcgtag tagaaattaa
+      421 cggtaaggct aggaccaaac ctttgtgttt atgagatttt ttaaaaatct gtcttagcat
+      481 tttcagtgct gtgctttatg taagctacat taacttaaag tgtaacactg tatatagaag
+      541 ttctagttca cacaaatcac atttttycta gtaaaaatct aatgtcgtaa gtatgtaggc
+      601 ctttttagtt ttggggttgg ctaaaaagtt tcgcatactg ataagacggt tattgggggg
+      661 tgggggggtt atccataaaa aaaaaagata atgttcaaaa tatatattct tagaaaaact
+      721 agctccgggg ggaaacagga aaaagggtat atccattaat ctagaggaaa gtaagtgtta
+      781 tgtccgaaca acatgaaaat ataatccacg gttttgaatt atgaaaccat acattttcat
+      841 ggaatgttca gatttaggcc gttaacgccg gctcaagact ttatggggga ttgacttctc
+      901 aaagaaaaaa aaaatagaga atgtaggtaa accagttatg cttatcatgg gccatctagt
+      961 tattgaatga tacttagctg ccaggcctct taaagataaa tgatagtcgc cctacggtaa
+     1021 tgctcataga ttcataacca gctgccagta taattaatat aaaatcactc tacaattgaa
+     1081 gtccgtgaag tttcgaaacg agtatcgtgg gggtcgggtt ggtggtttct cgcctgaggg
+     1141 caaggttaaa aatcagaata atactaaaac aaagacgatg ggcaggtaga tgaatgccct
+     1201 attaaacata atatgtcgcc gcgttacaaa aataacggga aaacaagtca aggggtagtt
+     1261 taggcccaga attctgactt tgggtgtcag tggcggaagt gaaaatcttt cctccttgag
+     1321 gagttttttt tgtgtttcgc atagtttgcg ggtaaaaatt tttttattac tcactgcgtt
+     1381 ttacggtatc taattttggg cggagcccgg aagttaagtt tagttgtaac tagctgtgta
+     1441 tgtggtgatt tgttttaggc ggagcccgga tcagagttag ctaagactac tcagagagga
+     1501 gatgagtcct cggtttcggt ttacaagacc aatgttttat ttaaactatc tgggtatcat
+     1561 tttattaatt tattttctca tagcccaatt agcgggatga taacaaggaa taatgaaaag
+     1621 tataagacgg aagcggcttg tccgatttcg acgaatggag gttctactgg tttacctcca
+     1681 attcaggtta aaattagggt gttcgctact aagagccaaa ataatactcg ggatgtaggg
+     1741 cggaatatca gacytcgttg ttttgatgtg tgaagaactg gaaagactat taaaattaaa
+     1801 atagatatga ggagtgcaat aactcctcct agtttattag ggatagatcg aagaatagca
+     1861 taggcgaata agaagtatca ctctggttgg atgtgtgggg gtgtgaccag tgagtttgct
+     1921 ggggtaaaat tctctgggtc ccctaggatg tttggtgtaa gaagggaaag tagtacaagg
+     1981 cctaggatta taagtagaaa ccctaagatg tctttgtagg agaagtatgg atgaaaagag
+     2041 atcttgtctt gatttgatga gattcctgtg gggttgtttg aacctgtttg gtgtaggaat
+     2101 agcaggtgga caatgctagc tcctgcgata aggaacggaa ataggaagtg gaatgcaaag
+     2161 aatcgtgtaa gggttgcctt atctactgag aatccccctc agattcattg aactagggag
+     2221 tctcctatat acgggatggc tgatagtagg ttggtaatga ccgtggc
+//
+

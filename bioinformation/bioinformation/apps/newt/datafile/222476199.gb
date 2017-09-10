@@ -1,0 +1,54 @@
+LOCUS       FJ526253                 490 bp    DNA     linear   VRT 01-MAY-2009
+DEFINITION  Triturus carnifex isolate 780 Firenze calreticulin gene, intron c
+            and partial cds.
+ACCESSION   FJ526253
+VERSION     FJ526253.1  GI:222476199
+KEYWORDS    .
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 490)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     A combination of techniques proves useful in the development of
+            nuclear markers in the newt genus Triturus
+  JOURNAL   Mol Ecol Resour 9 (3), 1160-1162 (2009)
+   PUBMED   21564844
+REFERENCE   2  (bases 1 to 490)
+  AUTHORS   Espregueira Themudo,G., Babik,W. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2008) Department of Zoology, Naturalis, P.O. Box
+            9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Triturus carnifex"
+                     /mol_type="genomic DNA"
+                     /isolate="780 Firenze"
+                     /db_xref="taxon:8326"
+                     /country="Italy"
+                     /lat_lon="43.78 N 11.25 E"
+     intron          <1..429
+                     /number=c
+     mRNA            <430..>490
+                     /product="calreticulin"
+     CDS             <430..>490
+                     /codon_start=3
+                     /product="calreticulin"
+                     /protein_id="ACM61867.1"
+                     /db_xref="GI:222476200"
+                     /translation="PDICGPPTKKVHVIFNYKG"
+     exon            430..>490
+                     /number=d
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag ggggaaaaag cattcaattg gcagtgaatc atgcttttgg ctagaatttc
+      121 gaagtttcag agatatggct ttgatatctg gctttgattg gtctaactta atgaagtgac
+      181 ctgcagttct gagagtttca ggatgtctga gcttaatctg ttaagtcttt cggtgttgcc
+      241 tttcctttgc tgcctgcttt ttggtttgtg gtaagccttt tgctctcaca cactcgcaca
+      301 cactcgcatg aggttggata agcagtgcat acctgaaatg gcaaacccat ggcgtgggtg
+      361 tatttaaata catataatcg tgtgtagctc aggtttgtga agttttaaaa atgtcttcct
+      421 ttgctacagg gccggacatc tgcggacctc cgaccaagaa agtacatgtg attttcaact
+      481 acaaaggcaa
+//
+

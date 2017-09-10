@@ -1,0 +1,58 @@
+LOCUS       GU982384                 658 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus cristatus haplotype Tcri02 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   GU982384
+VERSION     GU982384.1  GI:299773807
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /haplotype="Tcri02"
+     CDS             <1..>658
+                     /note="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADJ38974.1"
+                     /db_xref="GI:299773808"
+                     /translation="ILAAVLLKLGGYGIIRITMILAPLTKEMAYPFMILALWGVVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAVILMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVMPLMATWWLIANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PWTILITGLGALITASYTLYMFLMTQRGPTPPHLGQINPSYTREHFLLMMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctggcag cagtattgct caagcttggg ggatatggca ttattcgaat taccataatc
+       61 cttgccccac taacaaaaga aatggcatat ccatttataa ttctagcctt atgaggggtc
+      121 gtgataacaa gcctaatctg catacgacaa acagacctta agtcgctaat tgcatattcg
+      181 tctgtaagcc acataggcct ggtcattgcc gctattataa ttcaaacacc gtgaagccta
+      241 acgggggctg ttattttaat gatctcacac gggcttattt catccgccct attttgccta
+      301 gcaaacctaa attatgaacg aacgcacagt cgaactctac tattagttcg aggggcccag
+      361 gcagtcatac cattaatggc aacttggtga ctcattgcaa atttatcaaa tatagcactt
+      421 cctccaacaa taaatctatg aggagagctg acaattatag tctcgctgtt taactgatcc
+      481 ccctggacaa tcctaatcac gggcttgggg gccttaatca ctgcctctta caccttatac
+      541 atattcctaa taacacaacg tggcccaacc cccccacatc ttggccaaat taacccatct
+      601 tacactcgag aacacttctt acttataata cacttagccc ctatattact gctaattc
+//
+

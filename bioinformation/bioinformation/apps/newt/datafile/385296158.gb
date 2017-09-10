@@ -1,0 +1,76 @@
+LOCUS       AB689019                 532 bp    DNA     linear   VRT 27-APR-2012
+DEFINITION  Tylototriton taliangensis mitochondrial DNA, cob - trnP region,
+            isolate: TK-2009-pet_trade-Tt01.
+ACCESSION   AB689019
+VERSION     AB689019.1  GI:385296158
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton taliangensis (Taliang knobby newt)
+  ORGANISM  Tylototriton taliangensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Kurabayashi,A., Nishitani,T., Katsuren,S., Oumi,S. and Sumida,M.
+  TITLE     Mitochondrial genomes and divergence times of crocodile newts:
+            Inter-islands distribution of Echinotriton andersoni and the origin
+            of a unique repetitive sequence found in Tylototriton mt genomes
+  JOURNAL   Genes Genet. Syst. 87 (1), 39-51 (2012)
+   PUBMED   22531793
+REFERENCE   2  (bases 1 to 532)
+  AUTHORS   Kurabayashi,A. and Sumida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-2011) Contact:Atsushi Kurabayashi Hiroshima
+            University, Institute for Amphibian Biology, Graduate school of
+            Science; 1-3-1, Kagamiyama, Higashihiroshima, Hiroshima 739-8526,
+            Japan URL :http://home.hiroshima-u.ac.jp/~amphibia/sumida/
+FEATURES             Location/Qualifiers
+     source          1..532
+                     /organism="Tylototriton taliangensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TK-2009-pet_trade-Tt01"
+                     /isolation_source="pet trade individual, preserved in
+                     IABHU"
+                     /db_xref="taxon:129885"
+     gene            <1..320
+                     /gene="cob"
+                     /gene_synonym="cytb"
+     CDS             <1..320
+                     /gene="cob"
+                     /gene_synonym="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:320,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b apoenzyme"
+                     /protein_id="BAM14043.1"
+                     /db_xref="GI:385296159"
+                     /translation="FLFAYAILRSIPNKLGGVMALLMSILILMIFPLLHTSKQRGLMF
+                     RPISQILFWSMVANTLILTWIGGKPVEPPFIEIGQIASILYFSLFIILIPMAGLLENK
+                     LMKW"
+     gene            321..388
+                     /gene="trnT"
+     tRNA            321..388
+                     /gene="trnT"
+                     /product="tRNA-Thr"
+     misc_feature    389..501
+                     /note="Noncoding region (T-P Noncoding region specific in
+                     caudate mtDNAs)"
+     gene            complement(502..>532)
+                     /gene="trnP"
+     tRNA            complement(502..>532)
+                     /gene="trnP"
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 ctttctattt gcttacgcaa tccttcgctc tattccgaac aagctgggag gagtgatggc
+       61 cttgcttata tccatcctta tcttaataat cttcccacta ttacatacat cgaaacagcg
+      121 aggcctgata ttccgaccaa tttcgcaaat cctattttga tccatggtag caaacaccct
+      181 cattctaacc tgaatcggag gaaaacccgt agagcccccg ttcattgaaa tcggacaaat
+      241 tgcctctatc ctatacttct cactgtttat tatcctaatc ccaatagcgg gactattaga
+      301 aaataaacta ataaaatgat gcccgaataa tttaaacaaa atatcggtct tgtaagccga
+      361 aaatgaagac tagcgtgttc ttcgggcagt catccggact ccgccaccaa aataactaaa
+      421 gagggcttgg ccacacaacc gggcaccgcc ctaaatcata gcccccagcc cccagccccc
+      481 cacccacaca caaaaatttt atcaaggggg aaagattttc acttccgcca ct
+//
+

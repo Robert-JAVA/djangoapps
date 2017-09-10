@@ -1,0 +1,43 @@
+LOCUS       JF812954                 390 bp    DNA     linear   VRT 01-JUN-2011
+DEFINITION  Lissotriton helveticus voucher Th98 beta-fibrinogen gene, intron 7.
+ACCESSION   JF812954
+VERSION     JF812954.1  GI:332348434
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 390)
+  AUTHORS   Recuero,E. and Garcia-Paris,M.
+  TITLE     Evolutionary history of Lissotriton helveticus: Multilocus
+            assessment of ancestral vs. recent colonization of the Iberian
+            Peninsula
+  JOURNAL   Mol. Phylogenet. Evol. 60 (1), 170-182 (2011)
+   PUBMED   21530664
+REFERENCE   2  (bases 1 to 390)
+  AUTHORS   Recuero,E. and Garcia-Paris,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2011) Museo Nacional de Ciencias Naturales
+            (CSIC), Jose Gutierrez Abascal, 2, Madrid, Madrid 28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..390
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Th98"
+                     /db_xref="taxon:256425"
+     gene            <1..>390
+                     /gene="beta-fibrinogen"
+     intron          <1..>390
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 tttgatcaga catagattct tgcttctcag catttctttc gagttgtggc attcttttag
+       61 actgataggc acttcaagac agacacatca ttctagtgtg cctttccaca taattccact
+      121 gctggtgctc gttttctgga waggacctca gatacaactg agttatacat ttttnnaaaa
+      181 cccagttctg agacataaag cagaccatwa cagaaaaccg tcacacgttc ccaccttata
+      241 ctttactrta ctgaaktaaa ctattttatt atttactacg ttaaattata ctgtacaaca
+      301 ggaatcaata ttataagtta tgatatgtta tgctttgcta tttagtgcan gatcacacgt
+      361 gcaagcacac atgcatacac atgattgctt
+//
+

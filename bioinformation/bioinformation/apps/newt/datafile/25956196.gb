@@ -1,0 +1,42 @@
+LOCUS       AJ517176                 158 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Triturus vulgaris microsatellite DNA, clone TV02E03.
+ACCESSION   AJ517176
+VERSION     AJ517176.1  GI:25956196
+KEYWORDS    microsatellite; repetitive DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Dawson,D.A., Jehle,R., Pandhal,J. and Burke,T.
+  TITLE     Microsatellite loci in the common newt, Triturus vulgaris
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 158)
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2002) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, South Yorkshire, S10 2TN, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..158
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+                     /clone="TV02E03"
+     primer_bind     1..21
+                     /note="PCR 5' primer"
+     repeat_region   33..80
+                     /rpt_type=TANDEM
+                     /rpt_unit_range=33..37
+                     /rpt_unit_range=43..46
+                     /rpt_unit_range=47..48
+                     /satellite="microsatellite"
+     primer_bind     complement(126..143)
+                     /note="PCR 3' primer"
+ORIGIN      
+        1 gatcggattc ttctttggca gaatctctgt ttcttttctt ttctttctct ctctctctct
+       61 ctctctctct ctctctctct cctcagacag cgtctctaac ctctgtggca tttgccatca
+      121 gctgcgtcgg tgatgggtcg tgacgtctgc gtcggatc
+//
+

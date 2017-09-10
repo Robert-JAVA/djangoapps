@@ -1,0 +1,60 @@
+LOCUS       EU275866                 707 bp    DNA     linear   VRT 14-DEC-2007
+DEFINITION  Pleurodeles poireti brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   EU275866
+VERSION     EU275866.1  GI:161705064
+KEYWORDS    .
+SOURCE      Pleurodeles poireti (Algerian ribbed newt)
+  ORGANISM  Pleurodeles poireti
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 707)
+  AUTHORS   Vieites,D.R., Min,M.S. and Wake,D.B.
+  TITLE     Rapid diversification and dispersal during periods of global
+            warming by plethodontid salamanders
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (50), 19903-19907 (2007)
+   PUBMED   18077422
+REFERENCE   2  (bases 1 to 707)
+  AUTHORS   Vieites,D.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2007) Museum of Vertebrate Zoology and Department
+            of Integrative Biology, University of California Berkeley, 3101
+            VLSB, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..707
+                     /organism="Pleurodeles poireti"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:235673"
+                     /db_xref="taxon:226889"
+     gene            <1..>707
+                     /gene="BDNF"
+     mRNA            <1..>707
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>707
+                     /gene="BDNF"
+                     /codon_start=3
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="ABX76704.1"
+                     /db_xref="GI:161705065"
+                     /translation="ISYFSCMKAAPMKEAGIRGQGSLAYPGLRTHGTLEGIGGPKGSS
+                     RGGLPSLADTFEQVIEEMLEDEQSMRPSEENKDADMFTSRVMLSSQVPLEPPLLFLLE
+                     EYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTASDKKTAVDMSGQTVTVLEK
+                     VPVPKGQLKQYFYETKCNPMGYMKEGCRGIDKRYWNSQCRTTQSYVRALTMDNKKKVG
+                     WRFIRIDTSCVCTLTIK"
+ORIGIN      
+        1 ttatttcata cttcagttgc atgaaagctg cccccatgaa agaagcyggc atcagaggac
+       61 aaggcagctt ggcgtaccca ggtctgagga cccacgggac tctggagggc ataggtgggc
+      121 ctaaaggcag ttcaagagga gggttgccct cactagcaga cacttttgaa caagtcattg
+      181 aggagatgct tgaagatgag cagagcatga ggcccagtga ggagaacaag gacgcagaca
+      241 tgtttacatc tcgagtaatg ctgagcagtc aagtgccttt ggagccccct cttctctttc
+      301 tgctggagga gtacaaaaac tacttggatg ctgcaaatat gtccatgagg gtccgacgtc
+      361 actctgaccc cgcccgccgt ggggagctga gtgtgtgtga cagtattagt gagtgggtga
+      421 cggcatctga caaaaagact gctgtggaca tgtcggggca gacggtaact gttctagaaa
+      481 aagttccagt tcccaaaggc caactgaagc aatacttcta cgagaccaaa tgcaacccta
+      541 tgggttacat gaaggagggc tgcaggggca ttgacaagag gtactggaac tctcagtgcc
+      601 gaactactca gtcgtatgtg cgcgcgctca ccatggataa caagaagaaa gtgggctggc
+      661 ggtttatcag aatagacact tcatgtgtat gtacattgac cattaaa
+//
+

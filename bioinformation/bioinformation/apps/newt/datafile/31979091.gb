@@ -1,0 +1,43 @@
+LOCUS       AY291457                 430 bp    DNA     linear   VRT 17-NOV-2003
+DEFINITION  Notophthalmus viridescens microsatellite Nvi11 sequence.
+ACCESSION   AY291457
+VERSION     AY291457.1  GI:31979091
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 430)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Seven polymorphic microsatellite DNA loci from the red-spotted newt
+            (Notophthalmus viridescens)
+  JOURNAL   Mol. Ecol. Notes 3 (4), 514-516 (2003)
+REFERENCE   2  (bases 1 to 430)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2003) Savannah River Ecology Laboratory, Drawer
+            E, Aiken, SC 29802, USA
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /clone="3-6G"
+     primer_bind     209..225
+     repeat_region   296..359
+                     /note="microsatellite Nvi11"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="agat"
+     primer_bind     complement(373..393)
+ORIGIN      
+        1 acctaatcaa atggcaagcn tactgggaga ggttttaagt gagtgtgtat aagaaacaga
+       61 cagagagaga aagcgactac tctggtaagc aatagtgcta gtaataagaa actgccaaga
+      121 aattgagaaa gagagtgaaa gtcacagaaa ggtaggtata aaagcagagt gataggcaca
+      181 aacctggata gaaaagcata atttttatgg gagagaggaa tagacagagg aagaggtagc
+      241 tggacaggca gacaaactga cggacttatg gatgggcaga gatagataga tggatagata
+      301 gatagataga tagatagata gatagataga taggtagata gatagataga tagatagata
+      361 gtttctatgt caatagagta atcacaatac cattgtattt atatctgtga agctcaatgg
+      421 caacaatagt
+//
+

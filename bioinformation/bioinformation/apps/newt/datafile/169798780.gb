@@ -1,0 +1,38 @@
+LOCUS       EU512167                 218 bp    DNA     linear   VRT 05-MAY-2008
+DEFINITION  Mesotriton alpestris MHC class II antigen (Meal-psI) pseudogene,
+            Meal-psI*02 allele, partial sequence.
+ACCESSION   EU512167
+VERSION     EU512167.1  GI:169798780
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Babik,W., Pabijan,M. and Radwan,J.
+  TITLE     Contrasting patterns of variation in MHC loci in the Alpine newt
+  JOURNAL   Mol. Ecol. 17 (10), 2339-2355 (2008)
+   PUBMED   18422929
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Babik,W., Pabijan,M. and Radwan,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54263"
+     gene            <1..>218
+                     /gene="Meal-psI"
+                     /allele="Meal-psI*02"
+                     /note="MHC class II antigen"
+                     /pseudo
+ORIGIN      
+        1 acacagtcta aggctgagtg ccattaccta aacggctctc agcgggtccc gttcctggac
+       61 cgcttctcct acaaccggca gcagtttgtg cacttcgaca gcgacctcgg gtacttcgtg
+      121 gctgacaccg agttcgggga gatcgacgcg aagtactgga acagcaacga gtcttacctg
+      181 gagcagctgt gggccgcggt ggacaggatc tggagata
+//
+

@@ -1,0 +1,59 @@
+LOCUS       AY233179                 499 bp    DNA     linear   VRT 19-MAY-2004
+DEFINITION  Paramesotriton chinensis isolate SN02063 tRNA-Met, partial
+            sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY233179
+VERSION     AY233179.1  GI:37925346
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton chinensis (Chinese warty newt)
+  ORGANISM  Paramesotriton chinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 499)
+  AUTHORS   Lu,S., Yuan,Z.G., Pang,J., Yang,D., Yu,F., McGuire,P., Xie,F. and
+            Zhang,Y.P.
+  TITLE     Molecular phylogeny of the genus Paramesotriton (Caudata:
+            Salamandridae)
+  JOURNAL   Biochem. Genet. 42 (5-6), 139-148 (2004)
+   PUBMED   15260140
+REFERENCE   2  (bases 1 to 499)
+  AUTHORS   Lv,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-2003) The Department of Herpetology, Chengdu
+            Institute of Biology, Chinese Academy of Sciences, Chengdu,
+            Shichuan 610041, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..499
+                     /organism="Paramesotriton chinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SN02063"
+                     /db_xref="taxon:189294"
+                     /country="China: Jinxiu, Guangxi"
+     misc_feature    <1..29
+                     /note="contains tRNA-Met"
+     gene            30..>499
+                     /gene="ND2"
+     CDS             30..>499
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAP75533.1"
+                     /db_xref="GI:37925347"
+                     /translation="MSPYTLSVLMSSLAVGTITTLSSYHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTIMNAWATGEWTIMDMNHHTSTTILTVAL
+                     AIKLGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILMSHQLNPNLLIM"
+ORIGIN      
+        1 acatgttggc gaaaaccctt cttttactaa tgagccccta cacactatcc gtacttatat
+       61 caagtcttgc agtaggaaca attaccacac tatcaagcta tcactgattt ctggcatgaa
+      121 taggactaga aattaatacg ttggctatta tccccctaat aactaaaata caccaccccc
+      181 gggccacaga atccgcaaca aagtactttt tgacacaggc cacagcctcc gccttaattt
+      241 tattctcaac aattataaac gcatgggcaa caggggagtg aacaatcata gacataaacc
+      301 accacacatc aacgacaatc ttaacagttg ctttagcaat taagctcggg gtcgcaccat
+      361 ttcacctatg actaccagac gtcctacaag gactaaatat aataacatgt ctaattttat
+      421 caacatgaca aaaactagcc cccatggccc tgcttatttt aataagccac caactaaacc
+      481 caaatctgct aattataat
+//
+

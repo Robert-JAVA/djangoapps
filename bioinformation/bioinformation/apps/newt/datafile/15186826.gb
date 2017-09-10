@@ -1,0 +1,58 @@
+LOCUS       AF295681                 718 bp    DNA     linear   VRT 24-APR-2002
+DEFINITION  Cynops pyrrhogaster isolate Cpyr1 cytochrome b (cytb) gene, partial
+            cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF295681
+VERSION     AF295681.1  GI:15186826
+KEYWORDS    .
+SOURCE      mitochondrion Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 718)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Relationships of the Salamandrid Genera Paramesotriton,
+            Pachytriton, and Cynops Based on Mitochondrial DNA Sequences
+  JOURNAL   Copeia 2001 (4), 997-1009 (2001)
+REFERENCE   2  (bases 1 to 718)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-AUG-2000) Museum of Vertebrate Zoology, University of
+            California at Berkeley, 3101 Valley Life Sciences Building,
+            Berkeley, CA 94720, USA
+FEATURES             Location/Qualifiers
+     source          1..718
+                     /organism="Cynops pyrrhogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Cpyr1"
+                     /db_xref="taxon:8330"
+     gene            <1..>718
+                     /gene="cytb"
+     CDS             <1..>718
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAK91159.1"
+                     /db_xref="GI:15186827"
+                     /translation="SFVDLPTPSNISYWWNFGSLLGICLITQIITGLFLAMHYTADTQ
+                     SAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVV
+                     LLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGSLVEWVWGGFSVDKATLT
+                     RFFAFHFLLPFLIAGVSMIHLLFLHETGSNNPTGIPSNQDKISFHPYFSYKDLLGFML
+                     ALLILVLISLIVPNLLVDPE"
+ORIGIN      
+        1 actcattcgt tgacctgcca acaccgtcaa acatctcata ttgatgaaac tttggctccc
+       61 ttctaggaat ctgccttatt acacaaatta ttacaggcct attcctagca atacactaca
+      121 cagcagacac acaatcagcc ttctcatctg tggcccacat ctgccgagat gttaaccacg
+      181 ggtgactgat acgtaatatt catgctaacg gggcctcatt cttctttatc tgcatctacc
+      241 tgcatatcgg acgaggacta tactatgggt catatatatt taaagagaca tgaaacattg
+      301 gagtagtcct attattacta gtcatagcca ctgcctttgt tggatatgtc ctcccgtgag
+      361 gacaaatatc attttgaggg gcttcagtta ttacaaacct cctctcagcc attccatatg
+      421 ttgggggttc cctagtagag tgagtctggg gggggttctc cgtagacaaa gccactctaa
+      481 cacggttctt cgcatttcac ttcctgctac cattcctaat tgcaggagta agcataatcc
+      541 acctgctatt tttacatgaa actgggtcaa acaacccaac aggaatcccc tccaaccaag
+      601 ataaaatttc ttttcaccca tatttttcct ataaagacct gctaggcttt atactggcac
+      661 tcctcatctt agtattaatt tccctcatcg taccaaacct tcttgtagac ccagaaaa
+//
+

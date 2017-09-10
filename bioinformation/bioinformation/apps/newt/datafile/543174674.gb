@@ -1,0 +1,45 @@
+LOCUS       KF442228                 222 bp    DNA     linear   VRT 01-JAN-2014
+DEFINITION  Lissotriton helveticus microsatellite Lh6 sequence.
+ACCESSION   KF442228
+VERSION     KF442228.1  GI:543174674
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 222)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     What remains from a 454 run: estimation of the success rate of
+            microsatellite loci development in selected newt species
+            (Calotriton asper, Lissotriton helveticus, and Triturus cristatus)
+  JOURNAL   Ecol Evol (2013) In press
+REFERENCE   2  (bases 1 to 222)
+  AUTHORS   Drechsler,A., Geller,D., Freund,K., Schmeller,D.S., Kunzel,S.,
+            Rupp,O., Loyau,A., Denoel,M., Valbuena-Urena,E. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2013) Department of Animal Behavior, University,
+            Morgenbreede 45, Bielefeld 33615, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Phobos v. 3.3.11
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..222
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:256425"
+                     /PCR_primers="fwd_name: Lh6F, fwd_seq:
+                     ctggtgatgtgctcaggaga, rev_name: Lh6R, rev_seq:
+                     ggaactgcttcaatgcctct"
+     repeat_region   1..222
+                     /rpt_type=tandem
+                     /satellite="microsatellite:Lh6"
+ORIGIN      
+        1 ctggtgatgt gctcaggaga gtaacacgtc ctgagacgta aattttaaag gtggtgtgct
+       61 acctttactt cgggagatat tacttcgcag catggataga tagatagata gatagataga
+      121 tagatagata tatagataga tagataaaac ctatttgcaa ttgtatctat gtagcactta
+      181 ctacatctga agaggcattg aagcagttcc gcagcacgtt tt
+//
+

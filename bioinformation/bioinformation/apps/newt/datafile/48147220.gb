@@ -1,0 +1,76 @@
+LOCUS       AB154825                1986 bp    mRNA    linear   VRT 04-JUN-2004
+DEFINITION  Cynops pyrrhogaster mRNA for mafB, complete cds.
+ACCESSION   AB154825
+VERSION     AB154825.1  GI:48147220
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Ueda,Y., Okamoto,M. and Kondoh,H.
+  TITLE     FGF2 triggers iris-derived lens regeneration in newt eye
+  JOURNAL   Mech. Dev. 121 (6), 519-526 (2004)
+   PUBMED   15172683
+REFERENCE   2  (bases 1 to 1986)
+  AUTHORS   Mizuno,N., Ikegami,Y., Kondoh,H. and Okada,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Nobuhiko Mizuno, ERATO kondoh
+            differentiation project; Yamadaoka1-3, Suitashi 5650871, Japan
+            (E-mail:nmizuno@fbs.osaka-u.ac.jp, Tel:81-6-6879-7964)
+FEATURES             Location/Qualifiers
+     source          1..1986
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..1986
+                     /gene="mafB"
+     CDS             379..1143
+                     /gene="mafB"
+                     /codon_start=1
+                     /product="mafB"
+                     /protein_id="BAD22539.1"
+                     /db_xref="GI:48147221"
+                     /translation="MKFEVKREPQDGRTGLIARAGASVSSTPCSSVPPSPTFSDPSSG
+                     DQKAALEDLYWMATLHQQMGAEGLSLSTEDAVDALINFATAAVVGGSGQLTGLEAYRG
+                     GHHHLTHQGYLLSAEDLSGQHHQLAHLDDRFSDDQLVSMSVRELNRQLRGFSKGEVLR
+                     LKQKRRTLKNRGYAQSCRFKRVQQKHVLESEKSHLSHQLEQLQHELSRVMRERDTYKA
+                     RYEKLVASSFAESRAVTSAVAEHHASEPTSPSEFFL"
+ORIGIN      
+        1 gctggctcta gggcagacac tgcggccggc gccgcttgat ggcgctgtca ccgaagagcg
+       61 ggacgagaag ctggccctaa agagagcctg ctagagagct gctacttttt ctgccgctct
+      121 atcggatgga gctgtcagtg cagagaggga cgtccagctg actcctcaaa aacagcccag
+      181 cacagagttg cgagtgaccc tcccactgcc agtctcccag tcccgatgga actgtcatcg
+      241 gagagagcgg cgtggagctg aacctggaca gacagacttc cagagcgctt tgcaggacct
+      301 actagcacca tggctcttcc actagtggac cttcccagca gcccgctggc catggagtat
+      361 gtcaacgact ttgacctgat gaagtttgag gtgaagcggg agccgcagga tgggcgaact
+      421 ggccttattg cacgggcagg tgcctctgtc agctccactc catgcagctc ggtacccccc
+      481 tcaccgacct tcagtgaccc cagctcaggt gaccagaagg cggccctgga ggacttgtac
+      541 tggatggcca ccttgcatca gcaaatgggg gctgaggggc tgagcctgag cacagaagat
+      601 gcagtggacg ctctaatcaa ctttgccaca gcggcagtgg tgggtggtag cggccagctc
+      661 actggtttgg aggcttaccg gggtggacac caccacctta cgcaccaagg ctacttgctg
+      721 agtgccgagg atctgagtgg acaacatcat cagctcgccc acttggatga tcgcttctcg
+      781 gatgaccagc ttgtcagcat gtccgtgagg gagctgaatc gccagctgag gggcttcagc
+      841 aaaggggagg tcctgcggct gaagcagaag aggcgcacgc tcaagaaccg tggctacgcc
+      901 cagtcgtgcc gcttcaagcg agtccagcag aagcacgtgc tcgagtccga gaagtcacac
+      961 ctctcgcacc agctggagca actacagcac gagctcagcc gggtcatgcg cgagcgggac
+     1021 acctacaaag ctcgctacga gaagctcgtg gccagcagct ttgctgagag ccgggctgtg
+     1081 acctccgctg tggcagagca ccacgcctcg gaacccacct ccccgtctga gttctttctg
+     1141 tgacccacgg ggagagtggg gcgatggtgt tattgaaaga ctgggcacct ggggtccttg
+     1201 aaacaccact gaggagggtg gggtgaagga attcagggca tgggtcactg caggggaagg
+     1261 gaagtggcac ggcaaggggc aggccagggc actcatgcca actccagagt gtttcccaga
+     1321 atctaatgcc tctccagata cagggctggt tgtgttgggg attgtcgtgg gagagatcac
+     1381 tcaagggatg tgagcttatt tcactgccag gcaaatatat gttctgctca aatgtctcag
+     1441 accatgtttc atataacaaa ggcaaaggtg cagggaggct gatgaggtga gtccatgcgg
+     1501 tatatattcc aaagaaataa gtaccttttc cacctacaaa aagctggtac aaagactaat
+     1561 agggcgagtc ctaaggtgca ttctaaggat ctcctaaatg tggtacaaag ggtggcgagt
+     1621 gagccccagg actgaattcc cttacagacc agaggttttg tttcctttac gaagatggca
+     1681 caggggctga taagccccca tgatgagttc gaaaaagaca cctatgcaaa gatggtacag
+     1741 aaactggtga agaacagccg atgaggtatt caccgaagat ccataaagat ggtgcaaagg
+     1801 ctggagaggt taatccaaat ttgtagggtg accacatcac tccatgtcac ttaaacacca
+     1861 cgattccaat cccgagcttt tcttctccaa attatggtta cccagtgagt tgaaattggt
+     1921 tcaattgagg caaaccaaga ctgcagctcc cacaatgcag tgattttgca aaaaaaaaaa
+     1981 aaaaaa
+//
+

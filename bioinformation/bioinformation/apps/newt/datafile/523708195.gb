@@ -1,0 +1,76 @@
+LOCUS       KC165229                1245 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis exostoses multiple-like 3 protein (EXTL-3) gene,
+            partial cds.
+ACCESSION   KC165229
+VERSION     KC165229.1  GI:523708195
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1245)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 1245)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1245
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>1245
+                     /gene="EXTL-3"
+     mRNA            <1..>1245
+                     /gene="EXTL-3"
+                     /product="exostoses multiple-like 3 protein"
+     CDS             <1..>1245
+                     /gene="EXTL-3"
+                     /codon_start=1
+                     /product="exostoses multiple-like 3 protein"
+                     /protein_id="AGQ56492.1"
+                     /db_xref="GI:523708196"
+                     /translation="RLLPEKDNANLPLPKSNRNCRLHNCFDYSRCPLTSGFPVFVYNG
+                     DKYLFGRFLDSLIKQAFEASVRTNVYVTENANIACIYVVLVGEIQEPTMPKPIELEQQ
+                     LHSLPYWRTDGRNHLIINLSRKSETQNFLYNISTGRAMIAQSTFYDVQYRPGFDIVVS
+                     PLVHAMSEPNFLEITPQVPVKRKYLFSFQGEKIESLRSSLQEAHSFEEEIEGNAPADY
+                     DDRIITTLKAVQDSKLDFVLVEFTCKNQPKASLPTEWALCGEREDRLELLKLSTFALL
+                     ITPGDTHLVISAGCTMRLFEALEVGAIPVIFGEHVQLPYHDLLQWQEAVLIIPKPRIT
+                     EVHFLLRSISDNDLLAMRRQGRFLWETYFSTTDSVVNTVLATIRTRIQIPANPIREEP
+                     AVEIPHRSGKAAGTDPNMADNGD"
+ORIGIN      
+        1 cgacttttgc cagagaaaga caatgctaat ttgccattgc caaaatcgaa caggaattgc
+       61 aggctgcaca actgttttga ctactcccgt tgccccctta cgtctggttt tccagttttt
+      121 gtatataatg gtgataaata tctttttggt aggttcttgg actctctgat taagcaggcc
+      181 tttgaagcct cagtcagaac taacgtctat gttactgaaa atgcgaacat tgcttgtata
+      241 tatgttgttt tagtgggtga gatccaggag cctacaatgc caaaacctat tgaactagaa
+      301 cagcagctgc actctttgcc atactggagg acggacgggc gaaaccatct catcattaac
+      361 ttatcgcgga agtctgaaac gcaaaacttt ctctataaca taagcacagg gcgtgccatg
+      421 attgcccagt ccacttttta tgatgtacag taccggccag ggtttgacat agttgtgtcc
+      481 ccactggttc atgccatgtc tgagcccaat tttctggaga tcacgccaca ggtgccagtg
+      541 aagcgaaagt acctatttag tttccaaggg gaaaaaatcg aatcgctccg ttccagcctg
+      601 caagaggccc actcgtttga ggaggaaatc gagggtaatg ccccagccga ttacgatgat
+      661 cgaatcatta ccaccttgaa ggcagtgcag gacagcaagt tggattttgt cttggtggaa
+      721 ttcacttgta agaaccagcc aaaagcaagt ctgcccaccg agtgggctct ttgtggagaa
+      781 agggaagatc gcctggagct gctgaagttg tctacatttg cacttcttat cacaccagga
+      841 gacacccatc ttgtcatctc tgctgggtgc accatgaggc tcttcgaggc gctggaggtg
+      901 ggggccatcc ctgtaatttt tggtgagcat gtgcagctac cctaccatga cttgctacag
+      961 tggcaagaag cagtattaat aataccaaag cctcgcatta cggaggtgca ctttctcttg
+     1021 agaagcattt ctgacaatga tctccttgcc atgaggcgac aagggcgctt tctgtgggag
+     1081 acctactttt ctaccacgga cagtgtagtc aatacagtct tagcaactat aaggactcgc
+     1141 atccaaatcc cagcgaatcc gatccgggaa gaaccagcag tcgaaattcc tcatcggtcg
+     1201 ggtaaagcgg ctgggacaga tcctaatatg gctgacaatg gggat
+//
+

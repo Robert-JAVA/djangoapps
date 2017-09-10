@@ -1,0 +1,53 @@
+LOCUS       KC295223                 562 bp    mRNA    linear   VRT 11-MAR-2014
+DEFINITION  Pachytriton brevipes Rpl11 protein (Rpl11) mRNA, complete cds.
+ACCESSION   KC295223
+VERSION     KC295223.1  GI:461179970
+KEYWORDS    .
+SOURCE      Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 562)
+  AUTHORS   Jiang,D., Zhu,X.L., Zhao,J.F., Zhou,Y.K., Zhong,C., Zhang,J. and
+            Huang,X.
+  TITLE     Subtractive screen of potential limb regeneration related genes
+            from Pachytriton brevipes
+  JOURNAL   Mol. Biol. Rep. 41 (2), 1015-1026 (2014)
+   PUBMED   24390235
+REFERENCE   2  (bases 1 to 562)
+  AUTHORS   Zhu,X. and Huang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2012) College of Life Science in Zhejiang
+            University, Institute of Cellular and Developmental Biology, Yu
+            Hang Tang Road 388#, Hangzhou, Zhejiang 310058, China
+FEATURES             Location/Qualifiers
+     source          1..562
+                     /organism="Pachytriton brevipes"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:377299"
+     gene            1..562
+                     /gene="Rpl11"
+     CDS             21..554
+                     /gene="Rpl11"
+                     /codon_start=1
+                     /product="Rpl11 protein"
+                     /protein_id="AGH15796.1"
+                     /db_xref="GI:461179971"
+                     /translation="MADKGEKENPMRELRIRKLCLNICVGESGDRLTRAAKVLEQLTG
+                     QTPVFSKARYTVRSFGIRRNEKIAVHCTVRGAKAEEILEKGLKVREYELRKNNFSATG
+                     NFGFGIQEHIDLGIKYDPSIGIYGLDFYVVLGRPGFSIADKKRRTGVIGAKHRISKEE
+                     AMRWFQQKYDGIILPGK"
+ORIGIN      
+        1 ggctcttcca gtctcccatc atggcggata aaggtgaaaa ggagaatccc atgagggaac
+       61 tgcgtattcg caaactctgc ctcaacatct gtgtaggtga aagcggtgac agactgaccc
+      121 gtgcagccaa ggtgcttgaa caactcaccg gccagacacc agtattctcc aaagcccgtt
+      181 acacagtgcg atccttcggc atccgtagaa atgaaaagat tgcagtgcac tgcacagtgc
+      241 gcggggcaaa ggctgaggaa attttggaga aaggccttaa ggtgagagaa tatgagttga
+      301 ggaaaaacaa tttctcagcc accggaaact ttggttttgg aatccaggaa cacattgatc
+      361 tgggaattaa gtatgatcct agcatcggta tttatggcct ggatttttat gtggtcctag
+      421 gcagacccgg cttcagcatt gcagacaaaa aacgcaggac tggagtcatt ggcgcaaagc
+      481 accgaattag caaggaggaa gccatgcgct ggttccagca gaagtacgat ggcatcatcc
+      541 ttccaggaaa gtgaggcgct ca
+//
+

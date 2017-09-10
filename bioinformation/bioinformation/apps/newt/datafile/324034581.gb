@@ -1,0 +1,55 @@
+LOCUS       HM804253                 585 bp    DNA     linear   VRT 26-MAY-2011
+DEFINITION  Notophthalmus perstriatus isolate NP_R cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   HM804253
+VERSION     HM804253.1  GI:324034581
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus perstriatus (striped newt)
+  ORGANISM  Notophthalmus perstriatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 585)
+  AUTHORS   May,S.E., Medley,K.A., Johnson,S.A. and Hoffman,E.A.
+  TITLE     Combining genetic structure and ecological niche modeling to
+            establish units of conservation: A case study of an imperiled
+            salamander
+  JOURNAL   Biol. Conserv. 144 (5), 1441-1450 (2011)
+REFERENCE   2  (bases 1 to 585)
+  AUTHORS   May,S.E., Medley,K.A., Johnson,S.A. and Hoffman,E.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUL-2010) Biology, University of Central Florida,
+            4000 Central Florida Boulevard, Orlando, FL 32816, USA
+FEATURES             Location/Qualifiers
+     source          1..585
+                     /organism="Notophthalmus perstriatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NP_R"
+                     /db_xref="taxon:168684"
+     gene            <1..>585
+                     /gene="cytb"
+     CDS             <1..>585
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADY17166.1"
+                     /db_xref="GI:324034582"
+                     /translation="LLGICLITQIITGLFLAMHYTADTQSAFSSVAHICRDVNYGWLV
+                     RNIHTNGASFFFICIYLHIGRGLYYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQ
+                     MSFWGATVITNLLSAIPYMGDALVQWIWGGFSVDKATLTRFFAFHFLFPFMIAGASIV
+                     HLLFLHETGSNNPTGMTSNPDKIAFHPYFSYKDI"
+ORIGIN      
+        1 tctccttgga atttgcctaa ttacacaaat tattacagga ctattccttg caatacacta
+       61 tacagcagat acacaatcgg cattctcatc agtagcccat atttgccgag acgtgaatta
+      121 tggctgactg gtacgaaata tccacaccaa cggagcctca tttttcttca tctgtattta
+      181 tttacatatc ggacgaggct tatactacgg gtcctatata tttaaagaga cctgaaatat
+      241 cggagtgatt ctactactcc tagttatggc caccgctttt gtaggatatg tcctcccatg
+      301 aggccaaata tcattttgag gcgctacagt tatcacaaat ttactatcag caatccccta
+      361 tataggagat gcactagtac aatgaatttg gggcggattt tcagtagaca aagctacttt
+      421 aacccgattc ttcgcatttc acttcttatt cccctttata attgcaggag caagcatcgt
+      481 ccacctgctt tttcttcatg aaaccggatc aaacaatcca acaggaataa catcaaaccc
+      541 agacaaaatt gcatttcacc catacttctc atataaagac atttt
+//
+

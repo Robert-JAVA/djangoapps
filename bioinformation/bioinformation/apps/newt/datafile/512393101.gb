@@ -1,0 +1,78 @@
+LOCUS       KC762307                1169 bp    DNA     linear   VRT 12-JUL-2013
+DEFINITION  Cynops glaucus isolate KIZ09800 NADH dehydrogenase subunit 2 (ND2)
+            gene, partial cds; tRNA-Trp gene, complete sequence; and tRNA-Ala
+            gene, partial sequence; mitochondrial.
+ACCESSION   KC762307
+VERSION     KC762307.1  GI:512393101
+KEYWORDS    .
+SOURCE      mitochondrion Cynops glaucus
+  ORGANISM  Cynops glaucus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1169)
+  AUTHORS   Yuan,Z., Jiang,K., Ding,L., Zhang,L. and Che,J.
+  TITLE     A New Newt of the Genus Cynops (Caudata: Salamandridae) from
+            Guangdong, China
+  JOURNAL   Asian Herpetol Res 4 (2), 116-123 (2013)
+REFERENCE   2  (bases 1 to 1169)
+  AUTHORS   Yuan,Z., Jiang,K., Ding,L., Zhang,L. and Che,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-2013) Kunming Institute of Zoology, Chinese
+            Academy of Sciences, State Key Laboratory of Genetic Resources and
+            Evolution, and Yunnan Laboratory of Molecular Biology of Domestic
+            Animals, No. 32 East Jiaochang Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 4.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1169
+                     /organism="Cynops glaucus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KIZ09800"
+                     /db_xref="taxon:1346250"
+     gene            <1..1032
+                     /gene="ND2"
+     CDS             <1..1032
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AGO02038.1"
+                     /db_xref="GI:512393102"
+                     /translation="PYTLSMLLSSLAVGTITTLSSYHWFLAWMGLEINTLAMIPLMTK
+                     MHHPRATESATKYFLTQAMASALILFSAIMNAWMTGEWAIVNMNHNMSTTILTIALAI
+                     KLGVAPFHLWLPDVLQGLDMMTCLILSTWQKLAPMALLIMTSHQLSTNLLTMMALASM
+                     IVGGWGGLNQTQMRKIMAYSSIAHLGWMIMIMPFAPNLTLLNLLIYLILTSSMFMTLM
+                     ILKSTNMNKLSTSWLKTPTLAAFTMIVLMALGGLPPTSGFLPKWLILQEMTKQHLNAL
+                     SILMAMSALLSLFFYLRLSYVVSLTSPPHISNSNLTWRKKNNLQIIPMMIMLSTMMMP
+                     MTPALLTMN"
+     tRNA            1033..1100
+                     /product="tRNA-Trp"
+     tRNA            complement(1101..>1169)
+                     /product="tRNA-Ala"
+ORIGIN      
+        1 ccctacacat tatctatatt actatcaagt cttgcagtag ggacaattac caccttatca
+       61 agctatcact gatttttggc atgaatagga ctagaaatta acacactagc tataattccc
+      121 ctaataacaa aaatacacca cccacgagcc acagagtcag caacaaaata ttttttaaca
+      181 caggctatag cctctgccct aattttattt tcagcaatta taaatgcatg gatgacagga
+      241 gaatgagcaa ttgtaaacat aaaccataac atgtcaacaa caattttaac aattgctctg
+      301 gcaattaaac ttggagttgc accctttcac ctatggttgc cagacgttct tcaagggcta
+      361 gatataataa catgcctgat cctatcaaca tgacaaaaac tcgccccaat agccctgctt
+      421 attataacaa gccaccaatt aagcacgaac ctactgacta taatagcact ggcatccata
+      481 atcgtaggag gatgaggagg tttaaatcaa acacaaatac gaaaaattat agcatactcc
+      541 tccatcgcac atttagggtg aataattata attatacctt ttgccccaaa tttaacacta
+      601 ctaaacctac taatttacct catcttaact tcctctatat ttataacact aataatctta
+      661 aaatccacaa acataaacaa actttcaacc tcatgactaa aaacaccaac actagcagcc
+      721 tttacaataa ttgttctaat agctctcgga gggctcccgc caacatctgg atttttacca
+      781 aaatgactta ttcttcaaga gataactaaa caacacctta atgcactatc tattttaata
+      841 gccatgtccg ccctacttag cctatttttt tacctacgcc tctcatatgt ggtctcgtta
+      901 acctcacccc cccacatttc aaattcaaac ttaacctgac gaaaaaaaaa taacctacaa
+      961 atcatcccca taataattat attatctaca ataataatac caatgacccc agcattgctt
+     1021 acaataaact aagggcttag gataacaaga ccaaaggcct tcaaagcctt aagtagaagt
+     1081 taaaatcttc tagcctttga taaaacctgc aggacattac cccacatctt ctgaatgcaa
+     1141 cccagacact ttaattaagc taaagcctt
+//
+

@@ -1,0 +1,54 @@
+LOCUS       JF803795                 385 bp    DNA     linear   VRT 01-SEP-2012
+DEFINITION  Pleurodeles waltl voucher NdB3 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   JF803795
+VERSION     JF803795.1  GI:381333945
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 385)
+  AUTHORS   van de Vliet,M., Diekmann,O., Beebee,T., Serrao,E. and Beja,P.
+  TITLE     Genetic distinctiveness of a Mediterranean amphibian Pleurodeles
+            waltl in southwest Portugal: an 'old' biodiversity hotspot
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 385)
+  AUTHORS   van de Vliet,M., Diekmann,O., Beebee,T., Serrao,E. and Beja,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-2011) CCMAR, Universidade do Algarve, Gambelas,
+            Faro, Algarve 8005-139, Portugal
+FEATURES             Location/Qualifiers
+     source          1..385
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NdB3"
+                     /db_xref="taxon:8319"
+                     /country="Portugal"
+                     /collection_date="2009"
+                     /collected_by="MS vandeVliet"
+                     /identified_by="MS vandeVliet"
+     gene            <1..>385
+                     /gene="cytb"
+     CDS             <1..>385
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFG22603.1"
+                     /db_xref="GI:381333946"
+                     /translation="THPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLITQIMTGLF
+                     LAMHYTADTSSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYMHIGRGLYYGSYM
+                     FKETWNIGVVLLFLVMATAFVGYVLP"
+ORIGIN      
+        1 aacccacccc ctactaaaaa ttattaataa ttcattcatc gacctcccaa cgccgtcaaa
+       61 catctcctac tgatgaaatt tcggctctct acttggcatc tgccttatta cacaaatcat
+      121 aacaggacta ttcctcgcca tacactacac agcagacaca tcctcagcat tttcatcagt
+      181 tgcccacatt tgccgagacg taaactacgg ctgactagta cgaaatattc atgcaaacgg
+      241 cgcctcactc ttcttcattt gtatctacat acatattgga cgaggtttgt attacggctc
+      301 ctatatattt aaagaaacat gaaatattgg ggtagtccta ctatttttag ttatagcaac
+      361 agcattcgtt ggatatgtcc tccca
+//
+

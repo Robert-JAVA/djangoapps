@@ -1,0 +1,79 @@
+LOCUS       KF550338                1195 bp    DNA     linear   VRT 04-MAR-2015
+DEFINITION  Taricha rivularis voucher MVZ:Herp:217860 16S ribosomal RNA gene,
+            partial sequence; tRNA-Leu gene, complete sequence; NADH
+            dehydrogenase subunit 1 gene, complete cds; and tRNA-Ile gene,
+            partial sequence; mitochondrial.
+ACCESSION   KF550338
+VERSION     KF550338.1  GI:558869015
+KEYWORDS    .
+SOURCE      mitochondrion Taricha rivularis (red-bellied newt)
+  ORGANISM  Taricha rivularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 1195)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Discovery of a New, Disjunct Population of a Narrowly Distributed
+            Salamander (Taricha rivularis) in California Presents Conservation
+            Challenges
+  JOURNAL   J Herpetol 48 (3), 371-379 (2014)
+REFERENCE   2  (bases 1 to 1195)
+  AUTHORS   Reilly,S.B., Portik,D.M., Koo,M.S. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2013) Department of Integrative Biology, Museum
+            of Vertebrate Zoology, UC Berkeley, 3101 Valley Life Sciences
+            Building, Berkeley, CA 94720-3160, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1195
+                     /organism="Taricha rivularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Herp:217860"
+                     /db_xref="taxon:36313"
+                     /PCR_primers="fwd_name: lx16s1, fwd_seq:
+                     ggtttacgacctcgatgttggatca, rev_name: met3850h, rev_seq:
+                     ggtatgggcccaaragctt"
+     rRNA            <1..126
+                     /product="16S ribosomal RNA"
+     tRNA            127..200
+                     /product="tRNA-Leu"
+     CDS             202..1170
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AHA93823.1"
+                     /db_xref="GI:558869016"
+                     /translation="MHTLQMLMNSLLYIIPVLLAVAFLTLVERKVLGYMQLRKGPNIV
+                     GPAGLLQPIADGLKLFIKEPVRPSTSSQTLFLLMPVMALTLALMIWVPMPMPFTLSSL
+                     NLGVLFLLALSSLAVYSILGAGWSSNSKYALIGALRAVAQTISYEVTLGLILLCLILM
+                     TGGFTLMNFNTTQEPIWFLIPAWPMAAMWFISTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSAILFLGTTLNHLQPELLTISLIMKTSALSIMFLW
+                     TRASYPRFRYDQLMHLIWKNFLPITIMMTLMHLSLPLMMSGIPPLL"
+     tRNA            1170..>1195
+                     /product="tRNA-Ile"
+ORIGIN      
+        1 tatctataaa agattttttc tagtacgaaa ggaccgaaaa aatagagccc cttaataaac
+       61 aaagctctca tactgctgaa aacaaataaa ggcccccaca aaatacacct taagaacaaa
+      121 ggacaagtta agatggcaga gcccggcaat tgcaaaagac ctaagctctt tcacccagag
+      181 gttcaactcc tcttcttaac tatgcacacc ctccaaatac ttataaactc tctattatac
+      241 atcattccag tccttctagc cgtagcattc ctaaccctcg tagaacgtaa agtgctggga
+      301 tatatacaac tacgaaaagg gccgaacatc gtagggcctg ccggcctact acaaccaatc
+      361 gcagacggac taaaactatt catcaaagag ccagtccgcc cttcaacatc ttcacaaacc
+      421 ctcttcctcc tcataccggt aatagcccta accttggcac taataatctg agtccccatg
+      481 ccaataccat ttacattatc aagcctaaac ctcggagtgt tatttctact agctctctcc
+      541 agcctggctg tttactcgat cttaggggcg ggttggtcat caaactcgaa atatgcccta
+      601 attggagcac ttcgtgcagt agcacagaca atttcttatg aggttacact agggctaatc
+      661 cttctctgcc taatcttaat gaccgggggc tttacgctaa taaacttcaa tacgacacaa
+      721 gaaccaatct ggtttctaat cccagcgtgg ccaatagcag caatatgatt tatctctaca
+      781 ctagcagaaa caaatcgagc cccatttgac ctcacagaag gtgagtctga actagtatca
+      841 ggcttcaacg tagaatatgc aggaggccca tttgcactgt tcttcttagc agagtactca
+      901 aatattctac taataaacac cctctcagcc atcctattcc tcggtaccac actaaaccac
+      961 ctccaaccag agttactaac gatcagtctg attataaaaa catcagcact atcaatcata
+     1021 tttttgtgaa cgcgcgcatc atacccccga ttccgatatg atcagctcat acacctaatc
+     1081 tgaaaaaact tcctgccaat tacaatcata atgacgctca tacacctttc cctccccctt
+     1141 ataatatcag gcatcccccc cctactatag gacatgtgcc cgaaagatag gaccc
+//
+

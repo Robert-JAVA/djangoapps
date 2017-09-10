@@ -1,0 +1,59 @@
+LOCUS       AY233170                 499 bp    DNA     linear   VRT 19-MAY-2004
+DEFINITION  Pachytriton labiatus isolate SN02028 tRNA-Met, partial sequence;
+            and NADH dehydrogenase subunit 2 (ND2) gene, partial cds;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AY233170
+VERSION     AY233170.1  GI:37925328
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 499)
+  AUTHORS   Lu,S., Yuan,Z.G., Pang,J., Yang,D., Yu,F., McGuire,P., Xie,F. and
+            Zhang,Y.P.
+  TITLE     Molecular phylogeny of the genus Paramesotriton (Caudata:
+            Salamandridae)
+  JOURNAL   Biochem. Genet. 42 (5-6), 139-148 (2004)
+   PUBMED   15260140
+REFERENCE   2  (bases 1 to 499)
+  AUTHORS   Lv,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-FEB-2003) The Department of Herpetology, Chengdu
+            Institute of Biology, Chinese Academy of Sciences, Chengdu,
+            Shichuan 610041, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..499
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SN02028"
+                     /db_xref="taxon:156859"
+                     /country="China: Ziyuan, Guangxi"
+     misc_feature    <1..29
+                     /note="contains tRNA-Met"
+     gene            30..>499
+                     /gene="ND2"
+     CDS             30..>499
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAP75524.1"
+                     /db_xref="GI:37925329"
+                     /translation="MSPYTLSMLMSSLAVGTTTTLLSYHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTIMNAWATGEWTITDMSHYTSTTILTVAL
+                     AIKLGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILTSHQLNTSLLTV"
+ORIGIN      
+        1 acatgttggc gaaaaccctt cttttaccaa tgagcccgta tacattgtct atgttgatgt
+       61 caagccttgc agtaggtaca actaccacat tattaagcta tcactgattc ctggcatgaa
+      121 taggactaga gattaataca ctagctatta tcccgctaat aaccaaaata caccaccctc
+      181 gggccacaga gtccgcaaca aagtactttt tgacacaggc cacagcctcc gccttaattt
+      241 tattctcaac aattataaac gcatgggcca caggagagtg aacaatcact gatatgagcc
+      301 actacacatc cacaacaatt ttaacagttg ctttagctat taaactagga gtcgcaccct
+      361 ttcacctgtg actaccagat gttttacaag gactaaatat aataacatgc ctgatcttat
+      421 caacatgaca aaaactagcc ccaatagccc tgctcatcct aacaagtcat caactaaata
+      481 ctagtctact aactgtaat
+//
+

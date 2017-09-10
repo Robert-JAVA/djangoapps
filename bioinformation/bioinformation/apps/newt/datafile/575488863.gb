@@ -1,0 +1,54 @@
+LOCUS       KF941301                 375 bp    DNA     linear   VRT 27-JAN-2014
+DEFINITION  Ichthyosaura alpestris isolate Gist.1 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   KF941301
+VERSION     KF941301.1  GI:575488863
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 375)
+  AUTHORS   Mavrogiorgou,M.C., Vareli,K. and Sainis,I.
+  TITLE     High frequency appearance of dorsal black spots in NW Greek alpine
+            newt populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 375)
+  AUTHORS   Mavrogiorgou,M.C., Vareli,K. and Sainis,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Interscience Molecular Oncology Laboratory,
+            Human Cancer Biobank Center, University of Ioannina, Panepistimiou
+            1, Ioannina, Epirus 45000, Greece
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..375
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Gist.1"
+                     /db_xref="taxon:54263"
+                     /country="Greece"
+                     /altitude="2350 m."
+                     /collected_by="Ioannis Sainis"
+     CDS             <1..>375
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AHG94991.1"
+                     /db_xref="GI:575488864"
+                     /translation="KKLPSNISAWWNLGSLLGLLLASQIATGLFLAMHYTADTQLAFS
+                     SIAHICRDVNGGWFMRSMHINGASFFFICIYLHIGRGLRYGSYMFKETWNIGVILLLL
+                     VMATAFVGYVLPWGQMSFWGAAV"
+ORIGIN      
+        1 aaaaagcttc catccaacat ctcagcatga tgaaacctag gctcccttct tggccttctc
+       61 ctagcatcac aaattgcaac aggactgttc ttagcaatac actacacagc agacacccaa
+      121 ctagctttct catctatcgc ccatatctgc cgagatgtca acggggggtg atttatacgc
+      181 agtatacata tcaacggggc ttcattcttt tttatttgca tttatcttca cattggacgg
+      241 ggcttgcgct acggttcgta catattcaaa gaaacatgaa acattggcgt aattctacta
+      301 cttctagtga tagccaccgc ttttgtagga tatgtcttac cgtgaggaca aatatcattc
+      361 tgaggggctg cagtt
+//
+

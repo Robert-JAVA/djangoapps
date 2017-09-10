@@ -1,0 +1,72 @@
+LOCUS       AB686208                1141 bp    DNA     linear   VRT 19-SEP-2012
+DEFINITION  Echinotriton andersoni mitochondrial cytb gene for cytochrome b,
+            partial cds, haplotype: 34.
+ACCESSION   AB686208
+VERSION     AB686208.1  GI:405778159
+KEYWORDS    .
+SOURCE      mitochondrion Echinotriton andersoni (Ryukyu spiny newt)
+  ORGANISM  Echinotriton andersoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Echinotriton.
+REFERENCE   1
+  AUTHORS   Honda,M., Matsui,M., Tominaga,A., Ota,H. and Tanaka,S.
+  TITLE     Phylogeny and biogeography of the Anderson's crocodile newt,
+            Echinotriton andersoni (Amphibia: Caudata), as revealed by
+            mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 65 (2), 642-653 (2012)
+   PUBMED   22846685
+  REMARK    DOI:10.1016/j.ympev.2012.07.019
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Honda,M., Matsui,M., Tominaga,A., Ota,H. and Tanaka,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2011) Contact:Masanao Honda University of
+            Tsukuba, Faculty of Life and Environmental Sciences; Tennodai,
+            Tsukuba, Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Echinotriton andersoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385653"
+                     /haplotype="34"
+                     /country="Japan:Okinawajima"
+     gene            1..>1141
+                     /gene="cytb"
+     CDS             1..>1141
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAM44848.1"
+                     /db_xref="GI:405778160"
+                     /translation="MAHIMRKTHPLMKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIVTGLFLAMHYTADTHLAFSSVAHICRDVNYGWLMRNIHANGASLFFICIYLHIGRG
+                     LYYGSYMFKKTWNMGVVLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDS
+                     MVQWIWGGFSVDKATLTRFFTFHFLLPFLITGASIVHLLFLHETGSNNPTGIVSNGDK
+                     IPFHPYFSYKDALGFLLMLLALMLISLLTQNLMGDPENFIPANPLTTPPHIQPEWYFL
+                     FAYAILRSIPNKLGGVTALLMSILILMIFPLLHTSKQRSLMFRPISQVLFWLMVTNTL
+                     ILTWIGGKPVEPPFIEIGQIASILYFLLFIILMPMAGLLENKLMKW"
+ORIGIN      
+        1 atggcccaca tcatacgaaa aacccaccca ctaataaaaa ttattaacaa ctcgtttatt
+       61 gacctaccaa ccccatcaaa catctcctat tgatgaaact ttggctcttt gctcggcatc
+      121 tgccttatta cacaaattgt aacaggacta tttttagcaa tacactacac agcagacacc
+      181 cacttggcat tctcatcagt cgcccacatt tgtcgagacg taaactacgg atgacttata
+      241 cgaaatattc acgcaaacgg cgcctcactc ttctttatct gcatctacct gcacatcgga
+      301 cggggcctat actatggttc ttacatgttt aaaaaaacat gaaacatggg cgtagtcctc
+      361 ctactcctag ttatagccac agcctttgtt ggatatgtac ttccatgggg gcaaatatcc
+      421 ttctgaggcg ccacagtcat cacaaatcta ctctcagcaa ttccatacat aggagactca
+      481 atagtacaat gaatctgagg cggattttca gtagacaaag ccaccctaac ccgattcttc
+      541 acattccatt tcctgctccc attcctaatt actggagcaa gtattgtcca cctcttattt
+      601 ctccacgaaa caggctcaaa taacccaaca ggaatcgtgt caaacggaga caaaatccca
+      661 tttcacccct acttctcata caaagacgcc cttggattcc tactaatact attagccctc
+      721 atactaattt cattattaac ccaaaacctt ataggtgacc cagaaaactt catccctgca
+      781 aacccactaa ccacccctcc acacatccag ccagaatgat atttcctatt tgcttacgca
+      841 atccttcgat ctattccgaa caagctagga ggagtgacgg ccttgcttat atccatcctt
+      901 atcttaataa tcttcccatt attacataca tcaaaacaac gaagcctaat attccgacca
+      961 atctcgcaag ttctattttg attaatggta actaacaccc ttattctaac ctgaatcgga
+     1021 ggaaaaccag tagaaccccc attcattgaa atcggacaaa ttgcctcaat cttatacttc
+     1081 ctactattta ttatcctaat accaatagca ggactactgg aaaacaaact aataaaatga
+     1141 t
+//
+

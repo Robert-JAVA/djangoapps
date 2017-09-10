@@ -1,0 +1,52 @@
+LOCUS       KP004100                 481 bp    DNA     linear   VRT 18-FEB-2015
+DEFINITION  UNVERIFIED: Triturus dobrogicus isolate Tdob1126CCa
+            calreticulin-like gene, partial sequence.
+ACCESSION   KP004100
+VERSION     KP004100.1  GI:756764017
+KEYWORDS    UNVERIFIED.
+SOURCE      Triturus dobrogicus (Danube newt)
+  ORGANISM  Triturus dobrogicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 481)
+  AUTHORS   Arntzen,J.W., Baird,A.B., Espregueira Themudo,G., Wallis,G.P. and
+            Wielstra,B.
+  TITLE     Mismatch analysis to identify alleles that compromise phylogeny
+            reconstruction and determine their evolutionary origin, with a case
+            study in newts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 481)
+  AUTHORS   Arntzen,J.W., Baird,A.B., Espregueira Themudo,G., Wallis,G.P. and
+            Wielstra,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-OCT-2014) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P.O. Box 9517, Leiden, Zuid-Holland 2300 RA, The
+            Netherlands
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..481
+                     /organism="Triturus dobrogicus"
+                     /mol_type="genomic DNA"
+                     /isolate="Tdob1126CCa"
+                     /db_xref="taxon:8327"
+     misc_feature    <1..>481
+                     /note="similar to calreticulin"
+ORIGIN      
+        1 gcgtccagtg tattggctgt atatgagtgg tattaaaagt agtctatttg gcatcattaa
+       61 catttataag gggggaaaaa gcattcaatt ggcagtgaat catgcttttg gctagaattt
+      121 cgaagtttca gagatatggc tttgatatct ggctttgatt ggtctaactt aatgaagtga
+      181 cctgcagttc tgagagtttc aggatgtctg agcttaatct gttaagtctt taggtgttgc
+      241 ctttcctttg ctgcctgctt tttggtttgt ggtaagcctt ttgctctcac acactcgcac
+      301 gaggttggat aagcagtgca tacctgaaat ggcaaaccca tggcgtgggt gtatttaaat
+      361 acatataatc gtgtgtagct caggtttgtg aagttttaaa aatgtcttcc tttgctacag
+      421 ggccggacat ctgcggacct ccgaccaaga aagtacatgt gattttcaac tacaaaggca
+      481 a
+//
+

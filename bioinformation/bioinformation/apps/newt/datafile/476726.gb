@@ -1,0 +1,82 @@
+LOCUS       NVI1FGFR                1875 bp    mRNA    linear   VRT 02-MAY-1994
+DEFINITION  Notophtalmus viridescens fibroblast growth factor receptor 1
+            (FGFR1) mRNA, 3' end.
+ACCESSION   L19868
+VERSION     L19868.1  GI:476726
+KEYWORDS    fibroblast growth factor receptor; fibroblast growth factor
+            receptor 1.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 1875)
+  AUTHORS   Poulin,M.L., Patrie,K.M., Botelho,M.J., Tassava,R.A. and Chiu,I.M.
+  TITLE     Heterogeneity in the expression of fibroblast growth factor
+            receptors during limb regeneration in newts (Notophthalmus
+            viridescens)
+  JOURNAL   Development 119 (2), 353-361 (1993)
+   PUBMED   8287792
+COMMENT     Original source text: Notophthalmus viridescens (library: lambda
+            gt11) adult regenerating forelimb blastema cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..1875
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /cell_type="mesenchyme and epithelium"
+                     /tissue_type="regenerating forelimb blastema"
+                     /dev_stage="adult"
+                     /tissue_lib="lambda gt11"
+     gene            1..1875
+                     /gene="FGFR1"
+     CDS             <1..1167
+                     /gene="FGFR1"
+                     /codon_start=1
+                     /product="fibroblast growth factor receptor 1"
+                     /protein_id="AAA49394.1"
+                     /db_xref="GI:476727"
+                     /translation="ASSSMSSGVMLVRPSRLSSSGSPMLTGVSEYELPEDPRWEFSRD
+                     RLILGKPLGEGCFGQVVMGEAIGLDKEKPNRVTKVAVKMLKSDATEKDLSDLISEMEM
+                     MKMIGKHKNIINLLGACTQDGPLYVIVEYASKGNLREYLRARRPPGMEYCYNPIHASK
+                     DMLSFKDLVSCAYQVARGMEYLASKKCIHRDLAARNVLVTEDNVMKIADFGLARDIHH
+                     IDYYKKTTNGRLPVKWMAPEALFDRIYTHQSDVWSFGVLLWEIFTLGGSPYPGVPVEE
+                     LFKLLKEGHRMDKPGNCTNELYMMMRDCWHAVPSQRPTFKQLVEDLDRIVAMTSNQEY
+                     LDLSMPMDQYSPGFPDTRSSTCSSGEDSVFSHDPFPDEPCLPKYQHANGGLKKR"
+     3'UTR           1165..1875
+                     /gene="FGFR1"
+ORIGIN      
+        1 gccagctctt ccatgagctc tggcgttatg ctggtacggc cgtcgcgact atcgtccagt
+       61 ggaagcccaa tgttgactgg agtctcggag tatgaactgc cagaagatcc tcgctgggag
+      121 ttctcacgag acaggttaat attgggcaag cctctcggag agggctgctt tggtcaggtt
+      181 gtaatgggag aagcaattgg cttggacaag gagaaaccca accgagtgac taaagtagca
+      241 gtgaagatgt taaaatctga cgcaactgaa aaggatttgt cagatcttat ttctgagatg
+      301 gaaatgatga aaatgattgg aaagcacaaa aacatcatca atcttcttgg tgcatgtacg
+      361 caggatggcc cactgtatgt cattgtggag tacgcctcaa aaggtaatct gcgagaatac
+      421 ttgcgtgcca gacgtcctcc gggcatggag tactgttata atcccatcca tgcttccaag
+      481 gacatgctgt cttttaagga cctggtgtca tgtgcttacc aagtagcccg aggaatggag
+      541 tatcttgctt ctaagaagtg catccaccgt gaccttgcag ctcgaaacgt gttagtaacg
+      601 gaagacaatg tcatgaagat tgcagacttt ggcttggcgc gagatatcca tcacatcgat
+      661 tattacaaga agacgacaaa tggacgatta ccggtgaagt ggatggcccc tgaggcactc
+      721 tttgaccgca tatatactca tcaaagtgac gtctggtctt tcggcgtgct gctgtgggag
+      781 atcttcacac tgggtggctc tccttaccct ggggtgccag tcgaagaact cttcaagttg
+      841 ttaaaagagg ggcacagaat ggacaaaccc ggcaactgca caaatgaact atacatgatg
+      901 atgagagact gctggcatgc agttccatcc caaagaccaa ccttcaagca gctggttgaa
+      961 gatttggacc gaattgtagc aatgacctca aatcaggaat atttggatct gtccatgcca
+     1021 atggatcagt attctccagg ttttccagac acacgcagtt ctacgtgttc ctcaggagag
+     1081 gactctgtgt tctcccatga tccttttcca gatgaacctt gtcttcccaa gtatcaacat
+     1141 gccaatggtg gccttaaaaa acgctgacag acatgacttc caggcaacag aaactgtgac
+     1201 ctcatttcta ccatctagcc tcttggtttt tattttggga gggcaatgtt gtccagccat
+     1261 taaattacca ggaaatgtct tattttttta ttatggacca taacatgcgc cattatagca
+     1321 tctcactaag accaacacca ccagcccatg cagcatgcca gtttaacaag cctttatctt
+     1381 gtatcacatt gagttatgtt ttttttaact tgaacatttt acttatattt tggtcaatgt
+     1441 actcgtcaag taggcagacc ataaagtccc tgggaacagt ctgctatctg ggaccttgat
+     1501 aggaaaaagt gaagcagtct aacctctgtg gcttcttgag atacatttaa gaccagaatg
+     1561 ccctccggta cttttcaaaa gaaataaaga acagttgatc catcgcaaca cagagtacga
+     1621 gaaatacaca ccttggagaa taaagggatg cagatagtct acccgcttgc agttccattc
+     1681 atgctgagag cagtatctac tcatggaaat tggatgagcc tatctggggg agttctaatg
+     1741 agcctgaacc ctcttttgtt ttggattttg gaaacttgga tcacccttca gttctagaag
+     1801 gcctcttgga cacagcaact tatgattggc tcttctcttt agggatgatt gaagcttcct
+     1861 tgccagtcgt tgtgg
+//
+

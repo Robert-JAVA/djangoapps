@@ -1,0 +1,131 @@
+LOCUS       X74332                  2967 bp    mRNA    linear   VRT 21-OCT-2008
+DEFINITION  P.waltl mRNA for fibroblast growth factor receptor 2.
+ACCESSION   X74332
+VERSION     X74332.1  GI:396744
+KEYWORDS    fibroblast growth factor receptor 2.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 2967)
+  AUTHORS   Shi,D.L., Launay,C., Fromentoux,V., Feige,J.J. and Boucaut,J.C.
+  TITLE     Expression of fibroblast growth factor receptor-2 splice variants
+            is developmentally and tissue-specifically regulated in the
+            amphibian embryo
+  JOURNAL   Dev. Biol. 164 (1), 173-182 (1994)
+   PUBMED   8026621
+REFERENCE   2  (bases 1 to 2967)
+  AUTHORS   Shi,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-1993) D. Shi, UA-CNRS 1135, Lab de Biologie
+            Experimentale, Batiment C-30, 9 Quai Saint-Bernard, 75005 Paris,
+            FRANCE
+FEATURES             Location/Qualifiers
+     source          1..2967
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /cell_type="embryonic"
+                     /dev_stage="tail-bud"
+     gene            1..2967
+                     /gene="FGFR-2"
+     CDS             1..2475
+                     /gene="FGFR-2"
+                     /codon_start=1
+                     /product="fibroblast growth factor receptor 2"
+                     /protein_id="CAA52379.1"
+                     /db_xref="GI:396745"
+                     /db_xref="GOA:Q91286"
+                     /db_xref="HSSP:1AGW"
+                     /db_xref="InterPro:IPR000719"
+                     /db_xref="InterPro:IPR001245"
+                     /db_xref="InterPro:IPR003598"
+                     /db_xref="InterPro:IPR007110"
+                     /db_xref="InterPro:IPR008266"
+                     /db_xref="InterPro:IPR011009"
+                     /db_xref="InterPro:IPR013098"
+                     /db_xref="InterPro:IPR013783"
+                     /db_xref="InterPro:IPR016248"
+                     /db_xref="InterPro:IPR017441"
+                     /db_xref="InterPro:IPR020635"
+                     /db_xref="InterPro:IPR020685"
+                     /db_xref="InterPro:IPR020933"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91286"
+                     /translation="MFSWSYLMGLVMVATATLSLARPSYNIAEDTTLEPEEPPTKYQI
+                     SQPDVHSALPGESVELRCLLGDAIMVTWTKDGAQLVSNNRTLLIGPYLQIREAAPRDS
+                     GLYACGATRPLQSETRYFIVNITDGNSSGDDEDDNDGSEDFTNDNNHKRAPYWTNTEK
+                     LEKKLHAVPAANTVKFRCPAGGNPLPSMRWLKNGKEFKQEHRIGGFKVRSQHWSLIME
+                     SVVPSDKGNYTCIMENEYGSINHTYHLDVVERSPHPPILQAGLPANTTTKVGGDREFV
+                     CKVYSDAQPHIQWRHIELNGSKIGPDGNPYLKVLKAAGGNTTVKEIEVLYVRNVSFED
+                     AGEYTCLAGNSIGISYHSAWLTVLPDEERQLDSSSSEYTEIAIYCVGGFLIACMIGTI
+                     MMCHMKGRGKKSDFSSQPAVHKLSKRLPLRRQVTVSADSSSSMNSNTPLVRITTRLLS
+                     NTDTHLLAGVSEYELPEDPKWEYPRDKLTLGKPLGEGCFGQVVMAEAVGIDKDRPKDA
+                     VTVAVKMLKDDATEKDLSDLVSEMEMMKMIGKHKNIINLLGACTQDGPLYVIVEYASK
+                     GNLREYLRTRRPPGMEYSFDIFRIPEEQMTFKDLVSCTYQLARGMEYLASQKCIHRDL
+                     AARNVLVTETNVIKIADFGLARDINNIDYYKKTTNGRLPVKWMAPEALFDRVYTLQSD
+                     VWSFGVLMWEIFTLGGSPYPGIPVEELFKLLKEGHRMVKPGNCTNELYTMMTDCWRAV
+                     PSQRPTFKQLVEDLDRILTQTTNEEYLDLNNPLEPYSPSYPDTRSSCSFGDDSVFSPD
+                     PMSMNLAFPNPNTQMAPLKHEATQPA"
+     misc_feature    1..1122
+                     /gene="FGFR-2"
+                     /note="extracellular region"
+     misc_feature    1123..1185
+                     /gene="FGFR-2"
+                     /note="transmembrane region"
+     misc_feature    1186..2472
+                     /gene="FGFR-2"
+                     /note="cytoplasmic region"
+ORIGIN      
+        1 atgttcagtt ggagttatct tatgggcttg gtcatggttg ccacggcaac tctttctctc
+       61 gcaaggccat cctacaacat tgcggaagac actacactgg aaccagaaga acctcctacc
+      121 aaatatcaga tatcccagcc tgacgttcat tcagccctgc ctggggagtc ggttgagctg
+      181 cgctgcctgc taggcgacgc cattatggtc acttggacaa aggatggcgc ccaactagtg
+      241 agcaacaatc gcaccttgct gatcgggcct tacctgcaga ttagggaggc tgctccccgg
+      301 gactccggcc tctacgcgtg cggtgcaacc aggccgctcc aaagcgagac ccgctacttc
+      361 attgtgaaca tcacagatgg aaactcatca ggggatgatg aagacgacaa cgacggctct
+      421 gaagatttca caaacgacaa caaccacaag agggctccgt actggacaaa cacagaaaaa
+      481 ttagaaaaga aactccatgc tgtgcccgct gccaacactg tgaagttccg ctgtccagcc
+      541 ggtggcaacc ctctgccctc catgaggtgg ctgaagaacg gcaaggagtt caagcaagag
+      601 caccgcattg gtggtttcaa ggtacgtagt caacactgga gcctgatcat ggagagcgtg
+      661 gttccctcgg acaagggcaa ctacacctgc ataatggaga acgagtatgg ctccatcaac
+      721 cacacctacc acctggatgt tgttgagagg tcaccccacc cgccaatact ccaagctggg
+      781 cttccagcaa acacaaccac aaaagttggg ggtgatcgag agtttgtctg caaagtctac
+      841 agtgacgcac agcctcatat ccaatggaga catattgagc tgaatggcag taaaattgga
+      901 cctgatggga atccatacct gaaagtgcta aaggcggcgg gtggtaacac cacggtcaaa
+      961 gagatcgaag tcctctatgt gcgcaatgtc tcttttgagg atgctgggga gtatacgtgc
+     1021 ttggcgggta attctatcgg gatctcctat cactctgcat ggttgaccgt tctgccagat
+     1081 gaagaacggc aactggactc atcatcctcg gagtatacag aaattgccat ctactgtgtg
+     1141 ggaggcttcc tgatcgcctg catgattggt accatcatga tgtgccatat gaagggcaga
+     1201 ggcaagaagt ctgacttcag cagccaacca gctgtgcaca agctgagcaa gcgcctccca
+     1261 ctgcgcagac aggtcacagt gtctgctgac tccagctctt ctatgaactc caacactcca
+     1321 ctggtccgga tcaccactcg tctgttgtcc aacactgaca cccacctgct ggccggggtc
+     1381 tccgagtacg agctgccaga ggaccccaag tgggagtatc caagggacaa gctcacgctg
+     1441 gggaagcccc tgggcgaagg ttgcttcggg caggtggtga tggcagaggc ggtaggcatc
+     1501 gacaaggacc ggcccaaaga tgcagtgacc gtggcggtga agatgctgaa agacgatgca
+     1561 actgagaagg atctttctga tctggtgtct gagatggaaa tgatgaagat gatcggaaaa
+     1621 cataaaaata tcatcaatct tcttggagcg tgcacccaag atggcccact gtatgtgata
+     1681 gtcgaatatg cttccaaggg gaacctgcgt gagtacctgc gcacccgccg cccacctggc
+     1741 atggagtact cgtttgacat cttcagaatt cctgaagagc agatgacctt caaggaccta
+     1801 gtgtcttgca cgtaccaact cgccaggggc atggagtacc tagcatccca gaagtgcatc
+     1861 catcgggact tggcagctcg gaatgtcttg gtgacagaaa ccaacgtcat caaaattgca
+     1921 gatttcggtt tggccagaga catcaacaac atcgactact acaaaaaaac aaccaatggc
+     1981 cggctccccg tgaagtggat ggctcccgag gcgctgtttg acagagtcta cacactacag
+     2041 agtgacgtat ggtcttttgg cgtgcttatg tgggagatct tcacactggg gggttctcca
+     2101 tacccaggaa ttcctgtgga agaacttttc aagctcctta aggaaggcca ccgaatggtc
+     2161 aaacctggca actgcaccaa tgagctgtac acaatgatga cggactgctg gcgtgctgtg
+     2221 ccctcgcaaa gacccacttt caaacagctt gttgaggatc tagaccgaat cctcacacaa
+     2281 acgaccaacg aggagtacct ggacctcaac aaccccttgg agccgtactc gccaagctat
+     2341 ccggacacca gaagttcctg ctcttttggg gacgactctg tcttctcccc ggatccaatg
+     2401 tctatgaacc ttgccttccc aaatcccaac acacaaatgg caccattaaa acatgaggcc
+     2461 acacaaccag catagacttc ccgttcccac caagaaccgt atataaaaaa agcccaaaaa
+     2521 atatataaaa acgagaagaa aactaacttg gaacttctta cttcctggtg gtgcctccaa
+     2581 cagccaggga gtgtgggagc ctctgccatg gatcccccag cttcttggat tgtacatatg
+     2641 ggggatgagg acagagtcac tggtgggttg ccaccccact gtttcaagct cttaaccgtc
+     2701 accaaaagat ggtgactgac gcccttcaga ggggcacgga ctgctccagc ctttgccccc
+     2761 aagacctggc tagcggcgtt gcccaggcct gctgcaccgg aggcagatac gactgggact
+     2821 ttcttgtgaa ttatgtaaga tttgggagat attctatgcc agcacacact cacagagcac
+     2881 aggcaaagta tggcgctgga tgtatgtaaa tatactcaag atatgtataa atatatatta
+     2941 tatatttaaa aaaaaaaaaa aaaaaaa
+//
+

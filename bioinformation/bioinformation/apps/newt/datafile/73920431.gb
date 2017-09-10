@@ -1,0 +1,40 @@
+LOCUS       DQ092296                 359 bp    DNA     linear   VRT 20-DEC-2005
+DEFINITION  Triturus marmoratus isolate E1806.23 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   DQ092296
+VERSION     DQ092296.1  GI:73920431
+KEYWORDS    .
+SOURCE      mitochondrion Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 359)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Taxonomy, biogeography and evolution of Euproctus (Amphibia:
+            Salamandridae), with the resurrection of the genus Calotriton and
+            the description of a new endemic species from the Iberian Peninsula
+  JOURNAL   Zool. J. Linn. Soc. 145 (4), 555-582 (2005)
+REFERENCE   2  (bases 1 to 359)
+  AUTHORS   Carranza,S. and Amat,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUN-2005) Departament de Biologia Animal, Universitat
+            de Barcelona, Av. Diagonal 645, Barcelona, Barcelona E-08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..359
+                     /organism="Triturus marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="E1806.23"
+                     /db_xref="taxon:8328"
+     rRNA            <1..>359
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 tagccataaa ctttgaccca tccgcccgag tactacgagc aacagcttaa aactcaaagg
+       61 acttggcggt gctctatacc cccctagagg agcctgttct ataatcgata atccacgata
+      121 aacctcacca cttattgcca atacagccta tataccaccg tccagcccac ccttcaaggg
+      181 accaaaagta ggcacaatta tacacataaa aacgtcaggt caaggtgtag caaataaagc
+      241 gggaagaaat gggctacatt ttctaaccta gaaaatacgg aaaagcttat gaaataaaac
+      301 tacgaaggag gatttagcag taaaaagaaa aaagagcgtt ctttttaaac cggcaatgg
+//
+

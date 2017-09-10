@@ -1,0 +1,52 @@
+LOCUS       HM462064                 475 bp    DNA     linear   VRT 20-NOV-2010
+DEFINITION  Taricha granulosa voucher MVZ 225502 proopiomelanocortin (POMC)
+            gene, partial cds.
+ACCESSION   HM462064
+VERSION     HM462064.1  GI:312063816
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 475)
+  AUTHORS   Stuart,B.L., Phimmachak,S., Sivongxay,N. and Robichaud,W.G.
+  TITLE     A new species in the Tylototriton asperrimus group (Caudata:
+            Salamandridae) from central Laos
+  JOURNAL   Zootaxa 2650, 19-32 (2010)
+REFERENCE   2  (bases 1 to 475)
+  AUTHORS   Stuart,B.L., Phimmachak,S., Sivongxay,N. and Robichaud,W.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2010) North Carolina Museum of Natural Sciences,
+            11 West Jones Street, Raleigh, NC 27601, USA
+FEATURES             Location/Qualifiers
+     source          1..475
+                     /organism="Taricha granulosa"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ 225502"
+                     /db_xref="taxon:8321"
+     gene            <1..>475
+                     /gene="POMC"
+     mRNA            <1..>475
+                     /gene="POMC"
+                     /product="proopiomelanocortin"
+     CDS             <1..>475
+                     /gene="POMC"
+                     /codon_start=2
+                     /product="proopiomelanocortin"
+                     /protein_id="ADQ27275.1"
+                     /db_xref="GI:312063817"
+                     /translation="KFGRKNGTSGNTAGNKREELPSNPMVSVFTTSESQSSGAHDSSK
+                     EGEGMQRQDNKRSYSMEHFRWGKPVGRKRRPIKVYPNVVEDESSESYPLDLKRDLSLG
+                     LDYPEYDSQEGLENNEVMMGLAEKKDGTYRMHHFRWGTPPKDKRYGGFMTPERSQT"
+ORIGIN      
+        1 caagttcggc agaaagaacg gcaccagcgg caacactgca ggaaataaga gagaagagct
+       61 ccccagcaat ccaatggtca gcgtcttcac cacatcagag agccagagca gcggcgccca
+      121 cgacagcagc aaagagggcg agggcatgca aaggcaagac aacaaacgct cctactccat
+      181 ggagcacttc cggtggggga aacctgttgg caggaagagg cgaccaatca aggtgtaccc
+      241 caacgtcgtt gaagacgagt cctccgagag ctatcccttg gatctcaaaa gagacctctc
+      301 actagggctc gactatcccg aatatgactc ccaagaaggc ctggaaaaca acgaggtgat
+      361 gatgggcctt gcagagaaaa aagacggaac ctacaggatg catcacttcc ggtggggaac
+      421 cccacccaag gacaaacgct atggtgggtt catgacccct gagcggagtc aaacc
+//
+

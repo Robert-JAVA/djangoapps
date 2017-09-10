@@ -1,0 +1,49 @@
+LOCUS       FJ588919                 706 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 08 growth hormone gene,
+            intron 4.
+ACCESSION   FJ588919
+VERSION     FJ588919.1  GI:222100942
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 706)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 706)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..706
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="08"
+     gene            <1..>706
+                     /gene="growth hormone"
+     intron          <1..>706
+                     /gene="growth hormone"
+                     /number=4
+ORIGIN      
+        1 aaatgtgtgt caaagggtca caatcttcct gataaaatca aacagttttc aacagttgtt
+       61 ttttagctag tcgcaaggtt aagtacactc atatcttgtc acttgcacaa cacaatagag
+      121 ctctaaaccc aatgaaacaa ttgtgtcttc acttaatact gttcgtgagc tgcataaata
+      181 ctttgccttt tagttaagct tgacttcttg tgctaagcta ccagagagtt aagcacgggt
+      241 tattttagtg acttttgtgg ttcaccttga aaaggatttt ggttgttgct tgagggggct
+      301 tccaccccca ccctcacccc ctcaatcaat aacccaattt cttgcacacc gtgattcttc
+      361 gctcactaaa atgtactact aaagtttgac ttaattttct tggaaaaatt gggttctcaa
+      421 acagcataaa ggggaccctc cggcaaacac aactgatcag ctttctctca tgatggaaga
+      481 gtgcacatgc agtctgtgga gtggaggtgc aatatgtgta ttctattatt tcatgaagca
+      541 atcagcctcc tttgtgcatg aagggagaga agatggcacc aatatgctca ctgcaggtct
+      601 aaattgaagc ggttcattca ttatttagcc gatttctaga gctcacatct tcgttaacat
+      661 actttcacct acccatgtac aaacatgatt ttaataatgt ggttac
+//
+

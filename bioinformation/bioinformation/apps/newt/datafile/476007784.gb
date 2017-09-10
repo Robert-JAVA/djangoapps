@@ -1,0 +1,69 @@
+LOCUS       AB812098                1141 bp    DNA     linear   VRT 27-SEP-2013
+DEFINITION  Pachytriton archospotus mitochondrial cyt b gene for cytochrome b,
+            partial cds, specimen_voucher: CIB:GD2009091913.
+ACCESSION   AB812098
+VERSION     AB812098.1  GI:476007784
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton archospotus
+  ORGANISM  Pachytriton archospotus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1
+  AUTHORS   Nishikawa,K., Matsui,M., Wang,B., Yoshikawa,N. and Jiang,J.-P.
+  TITLE     Taxonomic Relationship of Two Newt Species of Pachytriton Recently
+            Described from China (Amphibia: Urodela: Salamandridae)
+  JOURNAL   Curr. Herpetol. 32, 150-158 (2013)
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Yoshikawa,N., Nishikawa,K. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-2013) Contact:Natsuhiko Yoshikawa Kyoto
+            University, Graduate School of Human and Environmental Studies;
+            Yoshida-Nihonmatsu, Sakyo, Kyoto, Kyoto 606-8501, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Pachytriton archospotus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB:GD2009091913"
+                     /db_xref="taxon:702380"
+                     /country="China:Hunan:Guidong"
+     gene            1..>1141
+                     /gene="cyt b"
+     CDS             1..>1141
+                     /gene="cyt b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAN14643.1"
+                     /db_xref="GI:476007785"
+                     /translation="MAPITRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLIM
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGSS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGTSIIHLLFLHETGSNNPTGIPSNQDK
+                     ISFHPYFSYKDLLGFLLALLALVLIALIVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVTALLMSILVLMFIPMLHTSKQRSLMFRSTSQVLFWLLVANTL
+                     ILTWIGGMPVEPPFTEIGQVASILYFLLFIIMVPLVGLWENKLMKW"
+ORIGIN      
+        1 atggccccca ttacgcgaaa aacccaccct ttattaaaaa ttattaataa ttcatttatt
+       61 gacctgccaa cgccatcaaa catctcatat tgatgaaatt tcggctccct tctaggagtt
+      121 tgtctgatta tgcagattat tacaggccta ttcctagcaa tacactacac agcagataca
+      181 caatcagcct tctcatctgt agcccacatc tgtcgagacg ttaatcacgg atgactgata
+      241 cgaaacattc atgctaatgg ggcctcattc ttttttatct gcatctacct tcatattgga
+      301 cgagggctat actacggatc atatatattt aaagaaacat gaaatattgg cgtaatacta
+      361 ctactactag ttatagccac cgcctttgtt ggatatgtcc ttccatgggg acaaatatca
+      421 ttttgagggg cttcggttat cacaaacctc ctctcagcca tcccatatgt aggaagttcc
+      481 ctagtagagt gagtctgggg ggggttttct gtagacaagg ctaccttgac acggtttttc
+      541 gcatttcact tcctgttacc attcttaatt gcaggaacaa gtattattca cctattattc
+      601 ttacacgaaa ccgggtcaaa caatccaaca ggaatcccct ccaaccaaga taaaatctcc
+      661 tttcacccat atttttctta taaagacctg ctaggctttt tactggcact cctcgcctta
+      721 gtattaattg ccctcattgt gccgaatcta ttagtagacc cagaaaactt tattcccgca
+      781 aacccattaa tagcaccccc tcatattaaa ccagagtggt acttcttatt tgcctacgct
+      841 atcttgcggt ctatcccaaa taaactagga ggagttactg cacttctaat atcaatctta
+      901 gttctcatgt tcatcccaat attacacacg tcaaaacaac gaagcctaat gttccgctct
+      961 acatcccaag ttctattttg acttctagta gcaaataccc tcattctaac ctgaattgga
+     1021 ggaataccag ttgaaccccc atttacagaa attggacaag tcgcctcgat cctctacttc
+     1081 ttgctcttca tcatcatagt tccactagtc ggactatgag aaaacaaact tataaaatga
+     1141 t
+//
+

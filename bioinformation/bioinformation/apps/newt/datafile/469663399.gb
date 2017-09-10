@@ -1,0 +1,97 @@
+LOCUS       AB754738                1407 bp    DNA     linear   VRT 22-MAR-2013
+DEFINITION  Cynops ensicauda mitochondrial genes for NADH dehydrogenase subunit
+            6, tRNA-glu and cytochrome b, partial and complete cds, complete
+            sequence, haplotype: H145.
+ACCESSION   AB754738
+VERSION     AB754738.1  GI:469663399
+KEYWORDS    .
+SOURCE      mitochondrion Cynops ensicauda (sword-tailed newt)
+  ORGANISM  Cynops ensicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Nishikawa,K., Hayashi,T.,
+            Misawa,Y., Tanabe,S. and Ota,H.
+  TITLE     Phylogeny and historical demography of Cynops pyrrhogaster
+            (Amphibia: Urodela): taxonomic relationships and distributional
+            changes associated with climatic oscillations
+  JOURNAL   Mol. Phylogenet. Evol. 66 (3), 654-667 (2013)
+   PUBMED   23103571
+  REMARK    DOI:10.1016/j.ympev.2012.10.015
+REFERENCE   2  (bases 1 to 1407)
+  AUTHORS   Tominaga,A., Matsui,M., Yoshikawa,N., Nishikawa,K., Hayashi,T.,
+            Misawa,Y., Tanabe,S. and Ota,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2012) Contact:Atsushi Tominaga University of the
+            Ryukyus, Faculty of Education; senbaru 1, Nishihara, Okinawa
+            903-0213, Japan
+FEATURES             Location/Qualifiers
+     source          1..1407
+                     /organism="Cynops ensicauda"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE:50110"
+                     /db_xref="taxon:102207"
+                     /haplotype="H145"
+                     /tissue_type="liver"
+                     /country="Japan:Kagoshima, Uken"
+     gene            complement(<1..197)
+                     /gene="nadh6"
+     CDS             complement(<1..197)
+                     /gene="nadh6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="BAN05036.1"
+                     /db_xref="GI:469663400"
+                     /translation="MMYLSFLFMIGILVGLIAVASNPSPYFAAFGLVLASVSGCCLLV
+                     DFGVSFLSLILLLIYLGGMMVV"
+     tRNA            198..266
+                     /product="tRNA-Glu"
+     gene            267..1407
+                     /gene="cytb"
+     CDS             267..1407
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA."
+                     /codon_start=1
+                     /transl_except=(pos:1407,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAN05037.1"
+                     /db_xref="GI:469663401"
+                     /translation="MAPITRKTHPMLKIINNSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLVRNIHANGASFFFICIYLHIGRG
+                     MYYGSYLFKETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGVSMIHLLFLHETGSNNPTGIPSSQDK
+                     ISFHPYFSYKDLLGFLLALLILLLISLIVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMFIPMLHTSKQRSLMFRSTSQTLFWLLVANTF
+                     ILTWIGGMPVESPFTEVGQVASVLYFLLFIIVIPLVGLWENKLMKW"
+ORIGIN      
+        1 acaactatca tcccccccaa ataaattagt aacaaaataa gagagaggaa agatacccca
+       61 aaatcaacca acaaacaaca cccactaaca gaagctaaaa ctaacccaaa agccgcaaaa
+      121 taaggggagg ggttagaagc cacagcaatt aaaccaacta agataccaat cataaacaaa
+      181 aagcttaaat atatcattat ttttacctgg gctctaacca agacctctga cctgaaaaat
+      241 caatgttgta ttcaaccata aaaacaatgg cccccattac acgaaaaact caccctatgt
+      301 taaaaatcat taacaactca tttattgacc tgccaacacc atcaaacatc tcatattgat
+      361 gaaacttcgg ctccctttta ggagtttgcc taatcacaca aatcattaca gggctattcc
+      421 tagcaataca ctatacagca gacacacagt cagccttctc gtctgtagcc cacatctgcc
+      481 gagacgttaa ccacgggtga ctagtacgaa atatccacgc taatggagcc tcgtttttct
+      541 ttatttgcat ttacctgcat attggacgag ggatatacta cggatcatac ttgttcaaag
+      601 agacatgaaa cattggcgta gtactcttac tgttggttat agctactgcc tttgttggat
+      661 atgttctccc atgaggacaa atatcatttt gaggggcttc cgtcatcaca aacctcctct
+      721 cagccatccc atatgttggg ggttccctag tagagtgagt ctgggggggg ttctccgtag
+      781 acaaagccac tctaacacgg tttttcgcat tccatttcct gctaccattc ctaattgcag
+      841 gggtaagcat aattcaccta ttgttcctac atgaaaccgg atcaaataac ccaacaggaa
+      901 tcccctccag ccaagataaa atctcttttc acccgtattt ttcctataaa gaccttctgg
+      961 ggtttttatt agccctcctt atcttactac tgatctccct catcgtacca aatctgctcg
+     1021 tagacccaga aaactttatt ccagcaaacc cacttatagc accccctcat attaaaccag
+     1081 agtgatattt cctgtttgcc tacgccattc tgcgatcaat tcctaataaa ctagggggag
+     1141 ttattgcact tctaatatct atcttaattc ttatatttat cccgatacta catacatcaa
+     1201 aacaacgaag tctaatattc cgctctacat cccaaacttt gttttgactt ctagtagcaa
+     1261 atacctttat tcttacctga atcggaggaa taccagttga atccccattt actgaagttg
+     1321 gacaagtcgc ctcagttctt tacttcctac tcttcattat cgtaatccca ttagttggat
+     1381 tatgagaaaa caaacttata aaatgat
+//
+

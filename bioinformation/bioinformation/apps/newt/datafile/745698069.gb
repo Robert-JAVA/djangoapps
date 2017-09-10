@@ -1,0 +1,74 @@
+LOCUS       KM926349                 885 bp    DNA     linear   VRT 13-JAN-2015
+DEFINITION  Echinotriton chinhaiensis voucher KIZ-YPX21331 NADH dehydrogenase
+            subunit 1 and NADH dehydrogenase subunit 2 genes, partial cds;
+            mitochondrial.
+ACCESSION   KM926349
+VERSION     KM926349.1  GI:745698069
+KEYWORDS    .
+SOURCE      mitochondrion Echinotriton chinhaiensis (Chinhai spiny newt)
+  ORGANISM  Echinotriton chinhaiensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Echinotriton.
+REFERENCE   1  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     A missing geographic link in the distribution of the genus
+            Echinotriton (Caudata: Salamandridae) with description of a new
+            species from southern China
+  JOURNAL   Zootaxa 3895 (1), 89-102 (2014)
+   PUBMED   25543556
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2014) Ecology and Evolutionary Biology, Cornell
+            University, Corson Hall, Ithaca, NY 14853, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..885
+                     /organism="Echinotriton chinhaiensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ-YPX21331"
+                     /db_xref="taxon:385654"
+                     /country="China: Ruiyanshi Forest Park, Ningbo, Zhejiang"
+     CDS             <1..266
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:266,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AJD19804.1"
+                     /db_xref="GI:745698070"
+                     /translation="ILLMNTLSTILFFGATINHPQPELLTASLMMKASTLSIVFLWIR
+                     ASYPRFRYDQLMHLIWKNFLPITIGLTLMHISMPILTSGVPPAL"
+     CDS             483..>885
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AJD19805.1"
+                     /db_xref="GI:745698071"
+                     /translation="MSPYALSILLSSLAMGTITTLSGSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRSTESATKYFLTQATASALILFSAITNAWTTGEWTIITMSDNTSTSILTIAL
+                     AMKLGIAPFHLWLPDVMQGLNLTTCLILTTWQ"
+ORIGIN      
+        1 tattttacta ataaatacct tatctactat cttatttttc ggagcaacaa ttaaccaccc
+       61 acaaccagaa ctacttacag ccagcctaat aataaaagca tccaccctat ccattgtatt
+      121 tttatgaatc cgagcatcat atccccgatt tcgttatgac caactaatac acctcatttg
+      181 aaaaaacttt ctaccaatta caatcggact cacacttatg cacatctcta taccaatttt
+      241 aacatctggg gtccccccag cattatagga catgtgcccg aaagacaggg cttactttga
+      301 tagagtaaca cacaggggtt caaaccccct catttcctat ataaaaaaat aggactcgaa
+      361 cctatccaaa ggagatcaaa acccctcgtg ctcccactac accacttttt aatagtaaaa
+      421 taagctaaat aagctcttgg gcccataccc caaacatgtt ggttaaaatc cttcttttac
+      481 taatgagccc atatgcactc tcaattctac tgtcaagcct ggcaatagga acaatcacaa
+      541 ctctatcagg ctcccactga ttcctagcat gagtgggcct agaaattaat acactggcaa
+      601 ttattccact tataacaaaa atacaccacc cacgatcaac agaatcagcc acaaaatact
+      661 tcttaacgca agctactgca tcagccttaa tcttattctc cgcaatcaca aacgcatgaa
+      721 ccacaggaga atgaacaatt attaccataa gcgacaacac atcaacatct atcctaacaa
+      781 ttgctttagc cataaaacta ggaatcgccc catttcactt atgattacca gatgttatac
+      841 aaggactaaa cttaacaaca tgcctaattc ttacaacatg acaaa
+//
+

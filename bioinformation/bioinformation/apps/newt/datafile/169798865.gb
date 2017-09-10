@@ -1,0 +1,45 @@
+LOCUS       EU512212                 218 bp    mRNA    linear   VRT 05-MAY-2008
+DEFINITION  Mesotriton alpestris MHC class II antigen (Meal-DBB) mRNA,
+            Meal-DBB*02 allele, partial cds.
+ACCESSION   EU512212
+VERSION     EU512212.1  GI:169798865
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Babik,W., Pabijan,M. and Radwan,J.
+  TITLE     Contrasting patterns of variation in MHC loci in the Alpine newt
+  JOURNAL   Mol. Ecol. 17 (10), 2339-2355 (2008)
+   PUBMED   18422929
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Babik,W., Pabijan,M. and Radwan,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:54263"
+     gene            <1..>218
+                     /gene="Meal-DBB"
+                     /allele="Meal-DBB*02"
+     CDS             <1..>218
+                     /gene="Meal-DBB"
+                     /allele="Meal-DBB*02"
+                     /codon_start=1
+                     /product="MHC class II antigen"
+                     /protein_id="ACA81833.1"
+                     /db_xref="GI:169798866"
+                     /translation="AECKSECHFVNGSQRVRFLQRYSYNRQQLAHFDSDLGYYVADTE
+                     LGEADVKDWNSDEDVIRRKRAQVDAYCRP"
+ORIGIN      
+        1 gcggagtgta agtctgagtg tcacttcgtg aacggctctc agcgggtccg gttcctgcag
+       61 cgctactcct acaaccggca gcagctcgcg cacttcgaca gcgacctggg gtactacgtg
+      121 gccgacacgg agctcgggga ggcggacgtc aaggactgga acagcgacga ggacgtcata
+      181 aggcggaagc gggcgcaggt ggacgcatac tgcagacc
+//
+

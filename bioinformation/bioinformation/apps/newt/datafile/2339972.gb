@@ -1,0 +1,74 @@
+LOCUS       D84231                  1908 bp    mRNA    linear   VRT 21-AUG-1997
+DEFINITION  Cynops pyrrhogaster mRNA for ep37-L2, complete cds.
+ACCESSION   D84231
+VERSION     D84231.1  GI:2339972
+KEYWORDS    ep37-L2.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Ogawa,M., Takabatake,T., Takahashi,T. and Takeshima,K.
+  TITLE     Metamorphic change in EP37 expression: members of the beta
+            gamma-crystallin superfamily in newt
+  JOURNAL   Dev. Genes Evol. 206, 417-424 (1997)
+REFERENCE   2  (bases 1 to 1908)
+  AUTHORS   Ogawa,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-1996) Masanori Ogawa, Nagoya University, Graduate
+            School of Human Informatics; Furo-cho, Chikusa, Nagoya, Aichi
+            464-01, Japan (Tel:052-789-2573, Fax:052-789-2567)
+FEATURES             Location/Qualifiers
+     source          1..1908
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /dev_stage="embryo and larva"
+     CDS             96..1109
+                     /codon_start=1
+                     /product="ep37-L2"
+                     /protein_id="BAA21834.1"
+                     /db_xref="GI:2339973"
+                     /translation="MTMNTITVYEHSNFQGLHKTFTADVPNLVNESFNDCISSVKIVG
+                     QPWILYQDINYSGQCLPLEEGEYSGISMNDGASSLRLITDDLSNPQITVYEHINSGGK
+                     ALVLTQESNLAFGNMHDNISSHRVQRGAWALYEHINRGGRCIVARAGEYLANYCTIGF
+                     NDQVSHVYPLRAGKSSVTATILWDRKKVESERNVQIDQYFYTNNTSIEQQFTATSTKE
+                     FEKYVSHSFEFSNETTIKVGTSFTLKGVVDINTEVSDTFTVKKGETESFTTRKKAELS
+                     MPVKAPPRSKLTVNFMCKEVTISVPVELKIVRGSKTDIETGTYRCESGTETYIDVQSL
+                     PIS"
+ORIGIN      
+        1 ccagcaggag ttctccggaa gccaactaat tctgcttgga aaaccagtct tgtgagaggg
+       61 tcaaataagg gaccacattg aaacctacat agctgatgac catgaacaca atcactgtct
+      121 acgaacacag caacttccaa ggactccata agacgtttac tgcagatgtt ccaaatctgg
+      181 tgaatgaaag cttcaatgac tgcatctcct ctgtgaagat cgtcgggcag ccttggatcc
+      241 tgtaccagga tattaactat agcggacagt gtctacccct agaggaggga gaatactcag
+      301 ggattagcat gaatgatggg gcatcttctc ttaggctgat cactgatgac ctgagcaatc
+      361 cccagatcac agtctatgag catatcaatt cagggggtaa ggcgttagtg ctgactcagg
+      421 agtccaatct agcgtttggg aacatgcatg ataatatatc ctcccacaga gtccagcgtg
+      481 gagcttgggc tctgtacgag catataaata gaggtgggag gtgcattgta gccagggccg
+      541 gtgaatattt ggcgaattac tgtactattg gtttcaatga tcaagtctcc catgtgtatc
+      601 ctctgcgtgc tggaaagtcc tccgtgacag ccacgattct gtgggacagg aaaaaggtag
+      661 aaagtgaaag gaacgttcag atagatcagt atttttacac caacaacaca agcattgagc
+      721 agcagttcac agccacttcc accaaagagt ttgaaaaata tgtctcccat agctttgaat
+      781 tcagcaatga gacgacaatc aaggtgggca cctcatttac cttgaaagga gtggtcgata
+      841 ttaatacaga ggtgtccgac accttcacag tgaagaaagg ggagactgag tcattcacca
+      901 cgaggaaaaa ggcagagttg agcatgccgg tgaaggcccc gccacgctca aaattgaccg
+      961 tcaatttcat gtgcaaagag gtcacaatct cagtaccggt ggagctgaaa atcgtccggg
+     1021 gcagtaaaac tgacattgaa actggaacat accgatgtga gtctggcaca gaaacttaca
+     1081 ttgatgtgca atcccttccc ataagttgat cctagtggta gtcacaattt cctctcttca
+     1141 gtagccatat cttaacatat attagctatt ctttgggtga tcatgattgt gctttgctaa
+     1201 aaccttagaa agctgagaag aatcctttcc tttctaactg cctttttccc agatattatt
+     1261 tggaaaatca tccttaggca ggaggcagtc attctgtgac ccaattctta tgatttctac
+     1321 cttttcaccc tgatgaaatg tcaaaggata aggtactaga cctgtcaata ttttgtcagg
+     1381 ggatactgca tggccaaacg ttgacagttt cacttgtttc acacatgttt atgtttttca
+     1441 tgggcaaata catgaactaa atcaagttaa ctggataatt cctataacta tgtttgtgct
+     1501 caaatttcca attagtgact tgaaggtaca ggcttcatta acatcatgaa tgtgctgcag
+     1561 tatacattaa atcctttctg tgaagcacta aagcctgtac tgacttttat tttcctttta
+     1621 attgattcct ttttacatat ttgctttcat tgcattgcag ctcaccttga tacatttaga
+     1681 gtttctatgt tctcatttga agtctggtca attaagtgaa atcacagact caacctacca
+     1741 ttaagacagt taacaaggtt aactaatgta gtaattatgc attcatgttg gctctgtgct
+     1801 tcccttccat atgtaaaaga agtcaaagat cggagtttgc tttcttgtat gattattttg
+     1861 ctaggccata tgactaaata aatctcaatt ataagcagtt ctagagta
+//
+

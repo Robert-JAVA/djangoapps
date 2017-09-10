@@ -1,0 +1,39 @@
+LOCUS       GU574493                 318 bp    DNA     linear   VRT 27-MAR-2010
+DEFINITION  Lissotriton montandoni clone Lm_013 microsatellite sequence.
+ACCESSION   GU574493
+VERSION     GU574493.1  GI:291294102
+KEYWORDS    .
+SOURCE      Lissotriton montandoni (Carpathian newt)
+  ORGANISM  Lissotriton montandoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 318)
+  AUTHORS   Nadachowska,K., Flis,I. and Babik,W.
+  TITLE     Characterization of microsatellite loci in the Carpathian newt
+            (Lissotriton montandoni)
+  JOURNAL   Herpetol. J. (2010) In press
+REFERENCE   2  (bases 1 to 318)
+  AUTHORS   Nadachowska,K., Flis,I. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2010) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..318
+                     /organism="Lissotriton montandoni"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:323754"
+                     /clone="Lm_013"
+     repeat_region   121..218
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ga"
+                     /satellite="microsatellite"
+ORIGIN      
+        1 gggaaaaccc tggcgaaccc tggcggacat ctgattcgct atcctgaggg agtcaaagtc
+       61 aatagtgggg ttcttggttc ccagtgagga gacacttgtg gacctactac ttggataggt
+      121 gagagaaaga gagagagaga aagagagaga gagagagaga gagagagaga gagagagaca
+      181 gagacagaga gagagagaga gacagagaca gagagagaac aataacacag cagggagctg
+      241 ccccgtccta acacttactt tgggatggct tgctgaaaaa taaaatagta acaaataaac
+      301 tttaccacct ttttttgt
+//
+

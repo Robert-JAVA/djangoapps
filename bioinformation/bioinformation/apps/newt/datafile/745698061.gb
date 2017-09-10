@@ -1,0 +1,74 @@
+LOCUS       KM926346                 885 bp    DNA     linear   VRT 13-JAN-2015
+DEFINITION  Echinotriton andersoni voucher KIZ-YPX22312 NADH dehydrogenase
+            subunit 1 and NADH dehydrogenase subunit 2 genes, partial cds;
+            mitochondrial.
+ACCESSION   KM926346
+VERSION     KM926346.1  GI:745698061
+KEYWORDS    .
+SOURCE      mitochondrion Echinotriton andersoni (Ryukyu spiny newt)
+  ORGANISM  Echinotriton andersoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Echinotriton.
+REFERENCE   1  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     A missing geographic link in the distribution of the genus
+            Echinotriton (Caudata: Salamandridae) with description of a new
+            species from southern China
+  JOURNAL   Zootaxa 3895 (1), 89-102 (2014)
+   PUBMED   25543556
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 885)
+  AUTHORS   Hou,M., Wu,Y., Yang,K., Zheng,S., Yuan,Z. and Li,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2014) Ecology and Evolutionary Biology, Cornell
+            University, Corson Hall, Ithaca, NY 14853, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..885
+                     /organism="Echinotriton andersoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ-YPX22312"
+                     /db_xref="taxon:385653"
+                     /country="Japan: Okinawajima, Okinawa, Kyushu"
+     CDS             <1..266
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:266,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AJD19799.1"
+                     /db_xref="GI:745698062"
+                     /translation="ILLMNTLSAILFLGTTINHLQPELLTINLMMKASVLSLLFLWVR
+                     ASYPRFRYDQLMHLIWKNFLPIMISLTLMHISMPILTSGVPPTL"
+     CDS             483..>885
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AJD19800.1"
+                     /db_xref="GI:745698063"
+                     /translation="MNPYALSILLSSLAVGTIMTLSSSHWFLAWVGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQAIASALVLFSSTTNAWATGEWTITTMTDNTSSSLLTIAL
+                     AIKLGIAPFHLWLPDVMQGLNLMTCLILATWQ"
+ORIGIN      
+        1 tattttacta atgaacaccc tgtcagctat cttattttta ggaacaacaa ttaatcacct
+       61 acaaccagaa ctacttacaa ttaacctaat aataaaagca tcagtcctct ctcttctgtt
+      121 tttatgagta cgagcatcat atccccgatt tcgttatgac caattaatac accttatttg
+      181 aaaaaacttc ctaccaatta tgatcagcct cacacttata catatttcta tgccaatttt
+      241 aacatctgga gtccccccaa cactatagga catgtgcccg aaagataggg cttactttga
+      301 tagagtaaca catagaggtt caaaccccct catctcctgt ataaaaaaat aggactcgaa
+      361 cctatccaaa ggagatcaaa acccctcgtg ctcccactac accacttttt aacagtaaaa
+      421 taagctaaat aagctcttgg gcccataccc caaacatgtt ggttaaaatc cttcttttac
+      481 taatgaaccc atatgcactc tcaattttat tatcaagcct agcagtagga acaatcataa
+      541 ctctctcaag ctcacactga ttcctagcat gagtaggcct agaaatcaat acattggcaa
+      601 tcattccact tatgacaaaa atacaccatc cacgagcaac agaatcagcc acaaaatact
+      661 ttctaacgca agccatcgca tcagccttag tcttattctc ttcaaccaca aacgcatgag
+      721 ccacaggaga atgaacaatt accactataa ccgacaatac atcatcatcc ctcctaacaa
+      781 ttgctttagc catcaaacta ggaatcgccc catttcacct atgattacca gatgttatac
+      841 aaggattaaa cttaataaca tgcctaatcc ttgcaacatg acaaa
+//
+

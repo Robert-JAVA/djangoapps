@@ -1,0 +1,62 @@
+LOCUS       KM463782                 689 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Cynops pyrrhogaster sodefrin precursor-like factor beta isoform 05
+            (Cloa_05) mRNA, partial cds.
+ACCESSION   KM463782
+VERSION     KM463782.1  GI:695943262
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 689)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 689)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..689
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..689
+                     /gene="Cloa_05"
+                     /note="CyPy_Cloa_05"
+     CDS             <1..600
+                     /gene="Cloa_05"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 05"
+                     /protein_id="AIT39124.1"
+                     /db_xref="GI:695943263"
+                     /translation="AIFAAVVMLHALTTGDCLLCEQCFALHASSCLGIFTQCSPDVTH
+                     CVAGLENSTMGTDIILTAFKDCLDPSQKSACGREFSYKCSVVSFRLNRRCCDSDFCNG
+                     GDLQVPPPDNTPNGYICDDCFDDQSADPCRATGVVQCTGKQNTCASFSGTASRPGEAE
+                     RPYSGKGCTTRDTCKLGVFNLEGTQAYDYGLKCSPALKL"
+ORIGIN      
+        1 gccatctttg cagctgtcgt catgctccat gccctgacaa ctggagattg cctattatgc
+       61 gagcagtgtt tcgctctcca cgccagcagc tgcttgggta tcttcacgca gtgctctcct
+      121 gacgtcactc attgcgtcgc aggcctagag aacagcacaa tggggactga tattattcta
+      181 actgcattca aggactgtct ggatccttcc caaaaatcag cctgtggcag agagttctcc
+      241 tacaaatgct cagtggtttc tttccggctc aacagaaggt gctgtgactc tgatttctgc
+      301 aatggcgggg atctgcaggt gcctcctcca gacaacaccc ccaacggata catatgtgat
+      361 gattgtttcg atgaccagtc cgcggacccc tgcagagcga ctggagtagt tcagtgcact
+      421 gggaagcaga acacctgtgc cagcttctct ggaactgcct ccaggcctgg tgaagctgag
+      481 agaccgtata gcgggaaagg atgcactact cgagacacct gcaaacttgg agtttttaac
+      541 ctggagggaa cacaagcgta tgattatggt ttaaagtgtt cccctgccct gaaactttga
+      601 gacctttgtt cataccccat tggcattcct accccagctt agtaattgtc tgcagaaaca
+      661 ttcctaaaac tctacaagta tgtggaatc
+//
+

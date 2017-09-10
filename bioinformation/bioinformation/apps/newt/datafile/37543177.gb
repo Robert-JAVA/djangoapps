@@ -1,0 +1,50 @@
+LOCUS       AY079489                 307 bp    DNA     linear   VRT 31-DEC-2004
+DEFINITION  Pachytriton labiatus isolate lab1 cytochrome b (cytb) gene, partial
+            cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AY079489
+VERSION     AY079489.1  GI:37543177
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 307)
+  AUTHORS   Yuan,Z., Lu,S., Pang,J., Yang,D. and Zhang,Y.
+  TITLE     Molecular Phylogeny of the Genus Paramesotriton
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 307)
+  AUTHORS   Yuan,Z., Lu,S., Pang,J., Yang,D. and Zhang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-FEB-2002) Kunming Institute of Zoology, The Chinese
+            Academy of Sciences, 32 East Jiaochang Road, Kunming, Yunnan
+            650223, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..307
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="lab1"
+                     /db_xref="taxon:156859"
+                     /country="China: Zhiyuan, Guangxi"
+     gene            <1..>307
+                     /gene="cytb"
+     CDS             <1..>307
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAM08122.1"
+                     /db_xref="GI:37543178"
+                     /translation="FGSLLGICLITQIITGLFLAMHYTADTQSAFSSVAHICRDVNHG
+                     WLMRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVILLLLVMATAFVGYVLP
+                     "
+ORIGIN      
+        1 cttcggttct cttctaggaa tctgcctaat tacacaaatt attacaggcc tattcctagc
+       61 aatgcactac acagcagata cacaatcagc cttctcatcc gtagcccaca tctgccgaga
+      121 cgttaaccac gggtgactaa tacgaaacat tcatgctaac ggagcctcat tcttctttat
+      181 ctgcatctac ctacacattg gacgagggct atactacggg tcatatatgt ttaaagaaac
+      241 atgaaatatt ggtgtaatcc tactactact agttatagcc actgcctttg ttggatatgt
+      301 ccttcca
+//
+

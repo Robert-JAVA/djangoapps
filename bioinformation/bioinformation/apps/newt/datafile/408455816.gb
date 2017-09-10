@@ -1,0 +1,55 @@
+LOCUS       JX508595                 772 bp    mRNA    linear   VRT 14-OCT-2012
+DEFINITION  Pleurodeles waltl amelogenin (AMEL) mRNA, complete cds.
+ACCESSION   JX508595
+VERSION     JX508595.1  GI:408455816
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 772)
+  AUTHORS   Assaraf-Weill,N., Gasse,B., Al-Hashimi,N., Delgado,S., Sire,J.-Y.
+            and Davit-Beal,T.
+  TITLE     Conservation of amelogenin gene expression during tetrapod
+            evolution
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 772)
+  AUTHORS   Assaraf-Weill,N., Gasse,B., Al-Hashimi,N., Delgado,S., Sire,J.-Y.
+            and Davit-Beal,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-2012) UMR 7138, Universite Pierre et Marie Curie,
+            7 Quai St-Bernard, Paris 91120, France
+FEATURES             Location/Qualifiers
+     source          1..772
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            1..772
+                     /gene="AMEL"
+     CDS             101..628
+                     /gene="AMEL"
+                     /codon_start=1
+                     /product="amelogenin"
+                     /protein_id="AFU67045.1"
+                     /db_xref="GI:408455817"
+                     /translation="MRPWILLTCLLGVTFAMPLPPHPNHPGYINFSYEVMTPLKWYQS
+                     MMRQQYPSYAYEPVGGWLQSQIMPGSPMMPQQHFPHMHTIPHMQPHHPMLPHQQMMPQ
+                     HQQLLQQPGQQPLLPQQPTHVQQTAQAIQPILPHPPQQSGQTIYQVQQQPPLLPEAPL
+                     EPWQPVDKANQEEQD"
+ORIGIN      
+        1 agagtaggcg ggggcagcag attgactgga cctcgacaaa cggagagccg gagcacaaac
+       61 cagaagtaca caagacagaa caactctcac cacaactaag atgaggccct ggatcctgct
+      121 cacttgcctt ctaggtgtga cttttgcaat gccactaccg cctcacccca accacccagg
+      181 ttacatcaac ttcagctacg aggtaatgac tccgttaaag tggtatcaat ccatgatgag
+      241 gcaacagtat ccatcctacg cctatgaacc agtgggtgga tggctgcaga gtcaaatcat
+      301 gccaggatct cccatgatgc cccagcagca ttttccacac atgcacacaa ttccacatat
+      361 gcagccccat caccctatgc tgccccatca acaaatgatg ccacagcacc agcagctcct
+      421 gcaacagcct ggccagcagc cactcttacc ccaacaacca acacacgttc agcaaactgc
+      481 acaagcaatt caaccaattc tgccccaccc gccacaacag tcaggccaga caatatatca
+      541 agtgcagcag cagccacctc tcctacctga ggcgccactg gagccttggc aaccggtgga
+      601 taaagccaac caagaagaac aggattaaac tggggaagaa ctggaagtca gaaaagtatt
+      661 ctaggctttt cggctgcatt ttttttagaa cactcttcag tcaacaatca tgggccactc
+      721 cgtttcaatt attcataatt attactgcag ataagaaaac tgaatcaaaa tg
+//
+

@@ -1,0 +1,81 @@
+LOCUS       HQ873487                1979 bp    DNA     linear   VRT 23-JUL-2011
+DEFINITION  Ambystoma mexicanum Prod1 (prod1) gene, promoter region and partial
+            cds.
+ACCESSION   HQ873487
+VERSION     HQ873487.1  GI:340343732
+KEYWORDS    .
+SOURCE      Ambystoma mexicanum (axolotl)
+  ORGANISM  Ambystoma mexicanum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Ambystomatidae;
+            Ambystoma.
+REFERENCE   1  (bases 1 to 1979)
+  AUTHORS   Gates,P.B. and Brockes,J.P.
+  TITLE     Cloning the axolotl and newt Prod1 promoters
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1979)
+  AUTHORS   Gates,P.B. and Brockes,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2011) Biochemistry, University College London,
+            Gower Street, London WC1 E6BT, UK
+FEATURES             Location/Qualifiers
+     source          1..1979
+                     /organism="Ambystoma mexicanum"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8296"
+     gene            1..>1979
+                     /gene="prod1"
+     regulatory      1..1895
+                     /regulatory_class="promoter"
+                     /gene="prod1"
+     regulatory      1873..1878
+                     /regulatory_class="TATA_box"
+                     /gene="prod1"
+     mRNA            1896..>1979
+                     /gene="prod1"
+                     /product="Prod1"
+     5'UTR           1896..1976
+                     /gene="prod1"
+     CDS             1977..>1979
+                     /gene="prod1"
+                     /codon_start=1
+                     /product="Prod1"
+                     /protein_id="AEK31187.1"
+                     /db_xref="GI:340343733"
+                     /translation="M"
+ORIGIN      
+        1 ctgccatctg ggtccgctcg atgatggatc cgtgaatggg tcaaacggct ggaccagtgt
+       61 cgacgaactc ccgtgtgtgc gaggtggagg tgacgtcatg gacaggttcg ccgcaattct
+      121 ggacggcgtg gtgggcccag gcgtggacgt gccggccgcc atgttggcgt ggacctgatc
+      181 ggtgttgtcg tgagttcttc cgacgaccac cagcgccgtg atgtcgggcc tatcttggag
+      241 gtgctgccgt tcctaggcgc tgtgtgggac agttcagggc ctggcgctcc cgtcactctg
+      301 tgttgctgcc ctctggtgtt ggatgccaga tgccaccagg ttctccagtg cccagaggaa
+      361 gagctttggt catggtggat ggggcgaaaa acggagtggc agagagaagg aagagagaaa
+      421 aaatgttttt tttttttttt ttggggtggg ggggtcacgt gtgtgattcc acccccaccg
+      481 ggtgtccaaa attttcgccg cgatggctgt agggcgttag ggtgccttca aaacaccgag
+      541 cttgtggtgg aattcatctc gcctcgtcgc cattgttatg ttgtcagccc atggcctgcg
+      601 cgcgcggggc tggcagaacg ctggtaggcc gcgcggcctg ttgcgcagct ccagcgggag
+      661 ccgaataatc atacacccac acaggttgct ggtcggcccc ggaactgcct accgaacgcg
+      721 ggggcggggc ttttatttag gacgccctgc gtcactgcgt agcgggacgc agggcggaac
+      781 ttaacagatg gtatgcatct tccttcctgc aaacaaggag aagggtgatt tttgaagtaa
+      841 aaaacacaaa ggtttgtgtc cattaaatca tgataaaggg ttacaacacc ccgatgcttg
+      901 acattttcta acctacacaa gacaaccaga catctctgtg tattgtggta cttgtttaca
+      961 cccacataat tgtttcacac gagcatctcc ttaataaaca tttgcaaatg tgtatgcatc
+     1021 aatttagaca cattagagac tagctagaaa agaaatcagg cttatgtggg gcaggcattt
+     1081 actctggagt atacagagat tgaggggctg tggaatgcta ctggcccctt cccattgagc
+     1141 tgcgacttgt cagggaaagg ggccattggc actcttcatt tcacacttgc gtctgcccca
+     1201 gcccagtgat aaaagagaag acttgcccag taatacaaga gaagacttta tagaaatgtg
+     1261 cacacaaaac acaattgttt tactccttga tttcgggtgc aaggggtgtt taaaattaaa
+     1321 gttgcaaaca agaaaagggg gtgttttaaa aaattctaga cgagcatgac agagatgtta
+     1381 atgtccgtcg aattcatacc ttcttgctaa cgtcatatgt accgtccatt tgctttgttt
+     1441 tagaacagag agggtttgca gaacttcctg ctgaactgtg ctgggtccac atcctgttca
+     1501 tgattaaacc ttacgcaaaa cccagggcgg cagacacccg ccctgaaccc actgccctag
+     1561 cttatgtttg tgttcccatc agcctgtgtt gattcacttg gcacgagcga acctctgctg
+     1621 cggccgccca ataaggaagt tgccattttg cggctttttt cgcaaccagt ctcgagtccc
+     1681 accgtcccaa cctgaacctt gcacgcattt acccctatag gctcacctat tcacgcttgc
+     1741 aatcaaaaca aatgtttttt caagtgggtg tgacctgtca cagtacaaat ttacaacacc
+     1801 tctccattgc cacatcggtg tgtacaacaa atgtccatag tggcgaaacc cactccctcc
+     1861 cccctccctg cataaatacc agaggccatt acactcctgc gtcagctttc acaggtggca
+     1921 gtgagcacag ggtgccctcg agcagacaga tctcgcgtga ctggacggcc acaggcatg
+//
+

@@ -1,0 +1,50 @@
+LOCUS       EU430910                 397 bp    DNA     linear   VRT 03-JUN-2008
+DEFINITION  Neurergus crocatus ATPase subunit 6 gene, partial cds;
+            mitochondrial.
+ACCESSION   EU430910
+VERSION     EU430910.1  GI:168203566
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus crocatus (Lake Urmia newt)
+  ORGANISM  Neurergus crocatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 397)
+  AUTHORS   Veith,M., Lipscher,E., Oz,M., Kiefer,A., Baran,I., Polymeni,R.M.
+            and Steinfartz,S.
+  TITLE     Cracking the nut: geographical adjacency of sister taxa supports
+            vicariance in a polytomic salamander clade in the absence of node
+            support
+  JOURNAL   Mol. Phylogenet. Evol. 47 (3), 916-931 (2008)
+   PUBMED   18455442
+REFERENCE   2  (bases 1 to 397)
+  AUTHORS   Veith,M., Lipscher,E., Oez,M., Kiefer,A., Baran,I., Polymeni,R.M.
+            and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JAN-2008) Biogeography, Universitaet Trier, Am
+            Wissenschaftspark 25-27, Trier 54296, Germany
+FEATURES             Location/Qualifiers
+     source          1..397
+                     /organism="Neurergus crocatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:213851"
+     CDS             75..>397
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATPase subunit 6"
+                     /protein_id="ACA21640.1"
+                     /db_xref="GI:168203567"
+                     /translation="MNLSFFDQFMSPMTLGIPLMGLALLLPWLLFPKATDHWLNNRLS
+                     ATQTWFFGTFTKQLMSPINTKGHSWSLLLASLMMFLITTNLLGLLPYTFTPTTQLSLN
+                     LGLAVP"
+ORIGIN      
+        1 aacaacttca aatatcaaaa tgaaccaaca ccacaaaaca caaaaaaaga caaaacaaca
+       61 ccctgatact gaccgtgaat ttaagctttt ttgatcaatt cataagcccc ataacacttg
+      121 gaattcctct gataggacta gcactgctac taccttgatt attgtttcca aaagcaactg
+      181 atcattgatt aaataaccgc ctctcggcca cacaaacttg attctttggg acatttacaa
+      241 aacaattaat gtccccaatt aatacaaaag gtcatagctg atccctccta ttagcctccc
+      301 taataatatt tttaattacc acaaacctct taggcctcct accatataca tttaccccaa
+      361 caacccaact atccttaaat ctaggacttg cggttcc
+//
+

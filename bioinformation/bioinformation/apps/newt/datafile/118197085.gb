@@ -1,0 +1,59 @@
+LOCUS       AB201955                 859 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Frizzled2 mRNA for Newt Frizzled2, partial cds.
+ACCESSION   AB201955
+VERSION     AB201955.1  GI:118197085
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Takada,R., Takada,S. and Kondoh,H.
+  TITLE     Determinative role of Wnt signals in dorsal iris-derived lens
+            regeneration in newt eye
+  JOURNAL   Mech. Dev. 123 (11), 793-800 (2006)
+   PUBMED   17030116
+REFERENCE   2  (bases 1 to 859)
+  AUTHORS   Hayashi,T., Mizuno,N. and Kondoh,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-FEB-2005) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..859
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..>859
+                     /gene="Fz2"
+     CDS             <1..>859
+                     /gene="Fz2"
+                     /codon_start=3
+                     /product="frizzled2"
+                     /protein_id="BAF37017.1"
+                     /db_xref="GI:118197086"
+                     /translation="NLLGHTNQEDAGLEVHQFYPLVKVQCSPELKFFLCSMYAPSVHE
+                     SWSRAIPPCRSICERARQGCEALMNKFGFQWPERLRCENFPRHGAEQICVGQNHSEDG
+                     GGPLPGGGVGSPGLLTTPPPHHRGERPSPQPPRYATPERPFHCPRVLKVPPYLNYRFL
+                     GEKDCAAPCEPDRPDGSLFFTAEETRFARLWILVWSVLCCASTFFTVATYLVDMQRFR
+                     YPERPIIFLSGCYTMVSVAYIAGYVLGDRVACNERFTDDGYRTVVQGTKKEGCTILFM
+                     MLYFFSMASS"
+ORIGIN      
+        1 ccaacctgct gggacacacg aaccaggaag acgcgggcct tgaggtgcat cagttctatc
+       61 cgttggtaaa ggtgcagtgt tcgcccgaac ttaagttctt tctgtgctca atgtatgctc
+      121 cgagtgtgca cgagtcctgg agcagagcca tcccaccctg ccgctcaatt tgcgaaagag
+      181 cccgccaggg ctgcgaggca ctcatgaaca aattcggctt tcaatggccc gagcgcctgc
+      241 gctgcgagaa ctttcctcgg catggggcag agcagatctg cgtggggcaa aaccacagcg
+      301 aggacggcgg agggcccctg ccgggcggag gagtcggaag cccgggtctt ctcaccaccc
+      361 cgccgccaca ccaccgtgga gaaaggccta gcccgcagcc cccgcggtac gccacgcccg
+      421 agcgaccctt ccactgcccg cgggtgctca aggtgccccc atacctaaac taccgctttc
+      481 tgggcgagaa ggactgcgcc gctccttgcg aacctgaccg gcccgacggc tccctcttct
+      541 tcactgcaga agagacgcgg ttcgcccgcc tctggatcct ggtgtggtct gtgctctgct
+      601 gcgcctccac cttttttacc gtggccactt acctggtgga catgcaacgc ttccgctacc
+      661 ccgagcgtcc cataatcttc ttgtcaggct gctacaccat ggtctccgtg gcctacatcg
+      721 cgggctacgt tctgggcgac cgagtggcct gcaacgaacg cttcacggac gacggctacc
+      781 gcaccgttgt gcagggcacc aagaaggagg gctgcaccat cctcttcatg atgctgtact
+      841 tcttcagcat ggccagctc
+//
+

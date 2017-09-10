@@ -1,0 +1,59 @@
+LOCUS       EF107285                 544 bp    DNA     linear   VRT 24-JAN-2007
+DEFINITION  Triturus marmoratus isolate 0512TriMar recombinase activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   EF107285
+VERSION     EF107285.1  GI:123286112
+KEYWORDS    .
+SOURCE      Triturus marmoratus (marbled newt)
+  ORGANISM  Triturus marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 544)
+  AUTHORS   Roelants,K., Gower,D.J., Wilkinson,M., Loader,S.P., Biju,S.D.,
+            Guillaume,K., Moriau,L. and Bossuyt,F.
+  TITLE     Global patterns of diversification in the history of modern
+            amphibians
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 104 (3), 887-892 (2007)
+   PUBMED   17213318
+REFERENCE   2  (bases 1 to 544)
+  AUTHORS   Roelants,K., Gower,D.J., Wilkinson,M., Loader,S.P., Biju,S.D.,
+            Guillaume,K., Moriau,L. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2006) Biology Department, Unit of Ecology and
+            Systematics, Vrije Universiteit Brussel, Pleinlaan 2, Brussels
+            B-1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..544
+                     /organism="Triturus marmoratus"
+                     /mol_type="genomic DNA"
+                     /isolate="0512TriMar"
+                     /db_xref="taxon:8328"
+     gene            <1..>544
+                     /gene="RAG1"
+     mRNA            <1..>544
+                     /gene="RAG1"
+                     /product="recombinase activating protein 1"
+     CDS             <1..>544
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombinase activating protein 1"
+                     /protein_id="ABM74218.1"
+                     /db_xref="GI:123286113"
+                     /translation="CGPAVPEKAVRFSFTIMTIAVHHNKDNVRIFEESKPNSELCCKP
+                     LCLMLADESDHETLTAILSPLIAERESMKGSELMLELGGILRTFKFVFRGTGYDEKLV
+                     REVEGLEASGSVYICTLCDSTRLEASQNIVLHSITRSHKENLERYEIWRSNRHHESAD
+                     ELRDRVKGVSAKPFIETLPSI"
+ORIGIN      
+        1 ctgtggacca gcagttccag aaaaggcagt ccggttctcg ttcaccatca tgaccattgc
+       61 cgtccatcac aacaaagaca atgtgaggat ttttgaagaa agcaagccaa attcagagct
+      121 gtgctgcaag cccctgtgcc tcatgctcgc tgatgaatct gaccatgaga cactaaccgc
+      181 catcttgagc ccactgatag cggaaagaga gtccatgaaa ggcagtgaac tgatgcttga
+      241 acttggtggc atcctcagaa cattcaagtt tgtgttcagg ggcacaggat atgatgagaa
+      301 gcttgtgagg gaagttgaag gactagaggc atctggctca gtctatatct gtaccttgtg
+      361 tgactcgaca cgccttgaag cctcccagaa cattgtactc cactccatca ctcggagtca
+      421 caaggagaac cttgagcggt acgagatctg gcggtccaac agacaccatg agtcagccga
+      481 cgagctgcgg gacagagtga agggggtttc agccaagccc ttcattgaga ccctcccttc
+      541 catt
+//
+

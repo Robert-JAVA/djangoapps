@@ -1,0 +1,58 @@
+LOCUS       JF827269                 753 bp    DNA     linear   VRT 30-APR-2013
+DEFINITION  Tylototriton verrucosus cytochrome b (cyt b) gene, partial cds;
+            mitochondrial.
+ACCESSION   JF827269
+VERSION     JF827269.1  GI:334878560
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Hou,M.
+  TITLE     A new species of Tylototriton (Amphibia; Caudata; Salamandridae)
+            from South Yunnan Province, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Hou,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2011) Shenyang Normal University, Center for
+            Chinese Endemic Herp-breeding and Conservation Research, 253# North
+            Huanghe Road, Shenyang, Liaoning 110034, China
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Tylototriton verrucosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164973"
+     gene            <1..>753
+                     /gene="cyt b"
+     CDS             <1..>753
+                     /gene="cyt b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AEH20529.1"
+                     /db_xref="GI:334878561"
+                     /translation="SFIDLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADTY
+                     SAFSSVTHICRDVNYGWLMRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNIGVM
+                     LLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPFMGDSLVQWIWGGFSVDKATLT
+                     RFFAFHFLFPFLIAGASIVHLLFLHETGSNNPTGVVSNGDKIPFHPYFSYKDILGFLL
+                     MLLTLVLISLLTPNLLGDPENFTPANPLMTPPH"
+ORIGIN      
+        1 tcattcatcg accttccaac accgtcaaac atctcatatt gatgaaactt tggctccctt
+       61 ctcggcatct gcctcatcac acaaattgta acaggattat ttctagcaat acactacaca
+      121 gcagacacat actcagcatt ctcatcagtt acccacatct gtcgagacgt aaattacgga
+      181 tgacttatac gaaacattca cgcaaatggg gcctcactat tcttcatctg catctacctt
+      241 cacattggac gaggcctata ctacggatcc tacatgttta aagaaacatg aaacatcgga
+      301 gtaatattat tactcctagt catagccaca gcctttgtcg gatacgtcct cccatgagga
+      361 caaatatcct tctgaggggc cacagtcatt acaaacctgc tatcagcagt cccgttcatg
+      421 ggagactcac tagtacaatg aatctgaggt ggcttctcag tagacaaagc caccctaacc
+      481 cgattcttcg cattccactt cctattccca ttcctgattg ccggagcaag cattgtccac
+      541 ctcttattcc ttcacgaaac aggctcaaac aacccaacag gagttgtatc aaacggagac
+      601 aaaatcccat tccacccata cttctcgtac aaagacattc taggctttct actaatacta
+      661 ctaaccctag tactcatctc attattaacc ccaaacctcc tgggagaccc agaaaacttt
+      721 acccctgcaa acccactaat aacccccccg cac
+//
+

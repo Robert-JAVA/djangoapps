@@ -1,0 +1,95 @@
+LOCUS       AK389028                2583 bp    mRNA    linear   HTC 06-JUL-2012
+DEFINITION  Dugesia japonica cDNA, clone: Dj_aH_000_06612HH.full, full-insert
+            sequence, expressed in adult head.
+ACCESSION   AK389028
+VERSION     AK389028.1  GI:393794604
+KEYWORDS    HTC.
+SOURCE      Dugesia japonica
+  ORGANISM  Dugesia japonica
+            Eukaryota; Metazoa; Platyhelminthes; Rhabditophora; Seriata;
+            Tricladida; Continenticola; Geoplanoidea; Dugesiidae; Dugesia.
+REFERENCE   1
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Comparative transcriptome analysis between planarian Dugesia
+            japonica and other platyhelminth species
+  JOURNAL   BMC Genomics 13 (1), 289 (2012)
+   PUBMED   22747887
+  REMARK    DOI:10.1186/1471-2164-13-289
+            Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2583)
+  AUTHORS   Nishimura,O., Hirao,Y., Tarui,H. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2011) Contact:Kiyokazu Agata RIKEN Center for
+            Developmental Biology, Genome Resource and Analysis Unit; 2-2-3
+            Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan
+COMMENT     BrainEST
+            (RIKEN CDB Extensive EST Project for Brain Evolution and
+            Development)
+            <purpose>
+            The project of the RIKEN CDB Extensive EST Project for Brain
+            Evolution and Development (BrainEST) aims to develop a gene
+            database to represent brain evolution and development. Gene sets
+            involved in brain development and function are collected from
+            juveniles of sponges, brain, neural tube and related tissues of a
+            variety of organisms including planula larva of jellyfish,
+            Convolutidae, planarian, arrow worm, squid, lancelet, lamprey,
+            newt, turtle, crocodile, snake, and chicken, collaborating with
+            many laboratories. The goal of the BrainEST project is to provide a
+            fundamental database to investigate brain evolution and development
+            by combination with other environmental data.
+FEATURES             Location/Qualifiers
+     source          1..2583
+                     /organism="Dugesia japonica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:6161"
+                     /clone="Dj_aH_000_06612HH.full"
+                     /tissue_type="head fragments"
+                     /clone_lib="planarian head cDNA library"
+                     /dev_stage="adult"
+ORIGIN      
+        1 aggagtaatc ctatggttgt tgctaacgct gtagctgcga tttcagagat tcttgaatgc
+       61 actcagtcag acagtgctca tcagttattg gcattcagtc aaagtgttgt taataaattg
+      121 ttgactgctc tcaatgaatg cacagaatgg ggacaagtgt tcattctcga tgctattgcc
+      181 aactaccaac caaaagatga ttccgaagct cagggaatct gtgaacgagt agttccaaga
+      241 ttgtcgcatg caaatgcggc agttgtattg tctgctgtga aagtaatcat gaaattgttg
+      301 gaaatgctca atccgggtga tgattttgtg caaacaatga tcaagaaatt ggcaccaccg
+      361 ctggtaaccc agctatcagc agaaccggaa attcaatatg tcgcattgag aaacatcaat
+      421 ttaattgtac aaaagcgacc ggaaatactg aaaaacgaag tgaaagtgtt tttcgtcaag
+      481 tacaacgatc cgatttatgt gaaattggaa aagctggata tcatgattcg acttacaaat
+      541 catcaaaata taccccaagt gctggctgaa ctaaaggagt acgctaaaga agtcgacgtg
+      601 gattttgtcc ggaagtcagt acgtgcgatt gggcgctgtg caatcaaagt tgaggctgcc
+      661 gctgaaagat gtatgacaac gcttatcgat ctcattcaga caaaggtcaa ctatgttgta
+      721 caggaagcaa ttgttgttat caaggatata tttcgaaaat atcctaataa atatgaaagt
+      781 atcattgcaa cgttatgtga aaatctcgat acccttgatg aaccagaagc gaaagcatca
+      841 atgatttgga ttattggtga atacgctgag cgtattgata atcttgaaga attgctggaa
+      901 tcatttttgg aaggattcca ggatgaaaac actcaagtcc aattacaact tcttactgca
+      961 atagtgaaat tgtttttaaa gcgaccagct cacactcaag aattggtaca aaatgttctc
+     1021 agtctggcta cacaagaatc ggataatcca gatcttcgtg atcgtggtta catttactgg
+     1081 agattacttt ccacagatcc tgctgcagct aaagaagtag tattagcaga gaaaccttta
+     1141 atcagtgaag aaaccgatct tcttgaacct agtttattag atgagcttat ttgtcattta
+     1201 gcaacacttg ctagtgtata ccatcgacct ccaaattcat ttgtcgacgg taaacatttc
+     1261 gttcgacgac aacttaattc cagaacagaa ggtggagata ctgattctgt tgaaaacgtt
+     1321 aagggaagtg gtacctactc agacagttat tccatctcag gatccctgat tggtgatctt
+     1381 atggatcttg atttaaatcc aatgcagaat aatcaaatgt ttggtggttc gtacaaccaa
+     1441 ccatcccagc atcaagcgat gtctggttca tttgatctat tgggagatgg attagatagt
+     1501 ctcttaaatt tgaatcctcc ccaaacctct gtacagccaa ccgggagctc tgtagacgcg
+     1561 ttagccgaca ttttcggtaa tttcggagca cctctcggtg ctagttcgaa tctatccatt
+     1621 ccacaaggtt atattgcacc aaaagaagtc tggctgagtt ctgccaaagg aaaaggactc
+     1681 gaagttcagg gaacattttc caggaaatct cagaatcaaa tgtttatgga actgactcta
+     1741 acaaatcgag ctgtccaagc tctcactgat ttcgctatac aattcaataa aaacagcttc
+     1801 ggcattgttc cagctcaacc tctagcgatc accaatccgc tcctgcctaa tcaaacgatc
+     1861 aattattcac tgcctctcaa ccataacggt ccagtaatga agctggagaa tcttaacgct
+     1921 ctacaagtgg ctctacgaac caatatcgat gtgttgtact tccaatgcgt tattccgttg
+     1981 aatagtctaa tggtcgacga aggagaaatg gagaaacggg tgttcttgtc cacctggaaa
+     2041 gatatacccg gagcttatga aacacaatat cgattgagtg gaatccattt atcggcagaa
+     2101 gagtgcagtg aaagactgaa gaagaacaac atattcacga ttgccaaacg aaatgtcgat
+     2161 ggacaggaca tgctctacca atcgttgaga ttgaccaata ctatttgggt gttggcagaa
+     2221 ctgaagatca aaccaggaga cggagaatac acattgtccc tgaagtcgcg agttatggag
+     2281 gtgtacccgt atgtgcagaa ggcgtatttg gacattcttc agtgacacac actcacacac
+     2341 ggctgtgtgt gagagtgtgt gtgtgtgtga gagagagagt gagtgttgta gtgacgctgt
+     2401 gatgtggata tttacaatat atgataattt gttatttgaa tagattccat tattgttgtt
+     2461 gtgttcctat tgtgttccgt tactgtatca tcattgtagt ttgtcagctg catcattcat
+     2521 catgtttgtg tgttttaatt gattacaata aaaatgattt tgcttaaaaa aaaaaaaaaa
+     2581 aaa
+//
+

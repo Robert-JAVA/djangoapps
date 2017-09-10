@@ -1,0 +1,49 @@
+LOCUS       HE681911                 344 bp    mRNA    linear   VRT 28-APR-2013
+DEFINITION  Triturus carnifex mRNA for metallothionein (mt gene).
+ACCESSION   HE681911
+VERSION     HE681911.1  GI:484306425
+KEYWORDS    .
+SOURCE      Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1
+  AUTHORS   Trinchella,F., Esposito,M.G. and Scudiero,R.
+  TITLE     Unexpected diversity of metallothionein primary structure in
+            amphibians: insights from comparative evolutionary analysis in
+            vertebrates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 344)
+  AUTHORS   Scudiero,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2012) University of Naples Federico II,
+            Department of Biological Sciences, via Mezzocannone 8, 80134
+            Napoli, ITALY
+FEATURES             Location/Qualifiers
+     source          1..344
+                     /organism="Triturus carnifex"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8326"
+                     /tissue_type="liver"
+     gene            1..344
+                     /gene="mt"
+     CDS             1..192
+                     /gene="mt"
+                     /codon_start=1
+                     /product="metallothionein"
+                     /protein_id="CCG27894.1"
+                     /db_xref="GI:484306426"
+                     /translation="MDPKDCGCASGGSCSCAGSCKCENCKCTSCKKSCCSCCPAGCDK
+                     CGQGCVCKGGSTEKCSCCT"
+     3'UTR           193..344
+                     /gene="mt"
+ORIGIN      
+        1 atggacccta aagactgcgg ctgtgcctcc ggtggctctt gttcatgtgc tgggtcgtgc
+       61 aagtgcgaga actgcaaatg tacctcctgc aaaaaaagct gctgttcctg ttgccctgcc
+      121 ggatgcgata aatgtggcca gggttgtgtg tgcaaaggag ggtcgactga gaaatgcagc
+      181 tgttgcacct aatttgcaga ttggcttatc cagtgcccgc ggagttgctt aacacacaat
+      241 gaattgcact ttttgattta ttttactcta ttgtggaaat gagcaatctt acatttcgat
+      301 attataactt tttgcatata aatgttctgc taataaagta acct
+//
+

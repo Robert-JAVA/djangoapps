@@ -1,0 +1,44 @@
+LOCUS       AJ535720                 377 bp    DNA     linear   VRT 23-OCT-2008
+DEFINITION  Triturus vulgaris microsatellite DNA, clone Tv7.
+ACCESSION   AJ535720
+VERSION     AJ535720.1  GI:27368961
+KEYWORDS    microsatellite; repetitive DNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Jehle,R., Dawson,D.A., Morales-Hojas,R., Sztatecsny,M., Pandhal,J.
+            and Burke,T.
+  TITLE     Microsatellite loci in the common newt, Triturus vulgaris
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 377)
+  AUTHORS   Dawson,D.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2002) Dawson D.A., Animal and Plant Sciences,
+            University of Sheffield, Alfred Denny Building, Western Bank,
+            Sheffield, S10 2TN, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..377
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     repeat_region   1..377
+                     /satellite="microsatellite"
+     repeat_region   12..346
+                     /rpt_family="GT"
+                     /rpt_type=TANDEM
+                     /rpt_unit_range=12..13
+     primer_bind     63..81
+     primer_bind     complement(342..362)
+ORIGIN      
+        1 gatctgtctg ggtgtgtgcc tacgctcttt ctgggtgtgt gcctggactc tgtctgggtg
+       61 agtgcatggg ctctgtcagg tgagtcccag ggctctatct gggttagtgc ctgaactctg
+      121 tgtgggtgta tgtgcctggg ctctgtctgg gtgtgtgcct ggcctctgta tgggtgtgtg
+      181 cctgggctct gtctggtagt gtgccngtac tctgtctggg tgagtgcctc ggctctgtgt
+      241 gtgtgtgtgt gtgtgcatgg gctttgtctg ggtaagtgcc tgggctctgt ctgggtgtgt
+      301 gtccctgggc tctgtctggg tgtgtgccgg cnatgtttgg gtgtgtgcct gtgctcnatg
+      361 ggtgtgtgcg tgggatc
+//
+

@@ -1,0 +1,70 @@
+LOCUS       GQ303645                1172 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Pachytriton labiatus voucher CIB 88152 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   GQ303645
+VERSION     GQ303645.1  GI:281494657
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1172)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Homoplastic evolution of external coloration in Asian stout newts
+            (Pachytriton) inferred from molecular phylogeny
+  JOURNAL   Zool. Scr. 39 (1), 9-22 (2010)
+REFERENCE   2  (bases 1 to 1172)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1172
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 88152"
+                     /db_xref="taxon:156859"
+     gene            7..1147
+                     /gene="cytb"
+     CDS             7..1147
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:1147,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADA72088.1"
+                     /db_xref="GI:281494658"
+                     /translation="MAPTTRKTHPLLKIINNSFIDLPTPLNISYWWNFGSLLGVCLIM
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGVSIIHLLFLHETGSNNPTGVPSNQDK
+                     ISFHPYFSYKDLLGFLLALLTLVLIALIVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILVFIPMLHTSKQRSLMFRSTSQILFWLLVANTL
+                     ILTWIGGMPVEPPFTEIGQIASILYFLLFIIMIPLIGLWENKLMKW"
+ORIGIN      
+        1 aaaataatgg cccccactac acgaaaaaca caccccctat taaaaattat taacaactca
+       61 tttattgacc taccaacgcc attaaacatc tcatactgat gaaacttcgg ctcccttcta
+      121 ggagtttgtc ttattataca aatcattaca ggcctattcc tagcaataca ctatacagca
+      181 gatacacaat cagccttctc atccgtagcc cacatctgtc gagacgtcaa ccacgggtga
+      241 ctgatacgaa atatccatgc taatggggcc tcattcttct ttatctgcat ctacctgcat
+      301 attggacgag gactatacta cggatcatat atatttaaag aaacatgaaa tattggtgta
+      361 atcctactac tactagttat agccacagcc tttgttggat atgtccttcc gtgaggacaa
+      421 atatcctttt gaggggcttc agttatcaca aacctcctct cagccatccc atatgtaggg
+      481 ggttccctag tagagtgagt ctgggggggg ttttctgtag acaaggctac cctgacacgg
+      541 ttttttgcat ttcacttcct gctaccattc ttaattgccg gagtaagtat tattcaccta
+      601 ttgttcttac acgaaaccgg atcaaataac ccaacagggg tcccctccaa ccaagataaa
+      661 atttcctttc acccatattt ttcttataaa gacctactag gcttcttact ggcactcctc
+      721 accttagtac taattgccct cattgtacca aatctactag tagacccaga aaactttatc
+      781 cccgcaaacc cattaatagc accccctcat attaaacctg agtggtattt cttatttgcc
+      841 tacgccatct tacggtccat cccaaataaa ctagggggag ttattgcact tctaatatca
+      901 atcttaattc tcgtatttat cccaatatta cacacatcaa aacaacgaag tctaatattc
+      961 cgctctacat cccaaattct attttgactt ctagtggcaa atacccttat tttaacttga
+     1021 atcgggggaa taccagttga acccccattt actgaaattg gacaaatcgc ctcaatcctc
+     1081 tatttcttac tcttcatcat cataattcca ctaattggac tatgagaaaa caaacttata
+     1141 aaatgatacc cagatagttt agataaaaca tc
+//
+

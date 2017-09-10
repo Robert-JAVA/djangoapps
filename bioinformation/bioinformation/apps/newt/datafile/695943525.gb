@@ -1,0 +1,60 @@
+LOCUS       KM463918                 561 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Taricha granulosa sodefrin precursor-like factor beta isoform 02
+            (Cloa_02) mRNA, partial cds.
+ACCESSION   KM463918
+VERSION     KM463918.1  GI:695943525
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..561
+                     /gene="Cloa_02"
+                     /note="TaGr_Cloa_02"
+     CDS             <1..561
+                     /gene="Cloa_02"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 02"
+                     /protein_id="AIT39255.1"
+                     /db_xref="GI:695943526"
+                     /translation="LVTGDCLLCEQCFATGTSQCSGIFKQCSPGVTQCVKGLENNTVG
+                     GHVILTAFKDCLDPSQKAACGREESFKNSVASFRISRTCCDSDFCNGGDVKVPAVDET
+                     PNGYKCEDCFTTQSATGCTESGEVQCTGKQNTCTSFTGTASRPGEAVGQYSVKGCASY
+                     DFCDLFYLAGSQAFTYVLMCSPAEKI"
+ORIGIN      
+        1 ctggtgactg gagattgcct actttgtgag cagtgttttg ctacaggcac cagccaatgc
+       61 tcaggtatct tcaagcaatg ctctcccggc gtcactcaat gcgtcaaagg gctggagaac
+      121 aacacagtgg ggggtcatgt tattctaact gcgttcaagg actgtctgga tccttcccaa
+      181 aaagcagcct gtggaagaga ggaatccttc aaaaactcag ttgcctcttt cagaattagc
+      241 agaacgtgct gcgactccga cttctgcaat ggaggggatg tgaaagtgcc tgctgtagac
+      301 gagaccccca acggatataa atgtgaagat tgtttcacta cccagtccgc gaccggctgc
+      361 acagagagtg gagaggttca gtgcaccggg aagcagaaca cctgcaccag cttcactgga
+      421 actgcctcca gacctggtga agcggtggga cagtayagcg taaaaggatg tgcttcttat
+      481 gatttctgtg atttattcta cctggctggg tcacaagcct tcacttatgt tttaatgtgc
+      541 tcacctgccg agaagatttg a
+//
+

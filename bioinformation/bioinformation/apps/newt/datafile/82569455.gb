@@ -1,0 +1,77 @@
+LOCUS       DQ265802                1778 bp    mRNA    linear   VRT 02-MAY-2008
+DEFINITION  Pleurodeles waltl doublesex- and Mab-3-related transcription factor
+            1 mRNA, complete cds.
+ACCESSION   DQ265802
+VERSION     DQ265802.1  GI:82569455
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1778)
+  AUTHORS   Dumond,H., Maufroid,J.P., Ko,C.I., Chardard,D., Chesnel,A. and
+            Flament,S.
+  TITLE     Freemartin in the amphibian Pleurodeles waltl: parabiosis between
+            individuals from opposite sex triggers both germ and somatic cells
+            alterations during female gonad development
+  JOURNAL   Mol. Reprod. Dev. 75 (3), 439-449 (2008)
+   PUBMED   18008317
+REFERENCE   2  (bases 1 to 1778)
+  AUTHORS   Sandra,K., Martine,C., Chesnel,A., Chardard,D., Dumond,H. and
+            Flament,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-OCT-2005) EA3442, UHP-Nancy 1, Boulevard des
+            Aiguillettes, Vandoeuvre les Nancy 54505, France
+FEATURES             Location/Qualifiers
+     source          1..1778
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             46..1179
+                     /note="DMRT1"
+                     /codon_start=1
+                     /product="doublesex- and Mab-3-related transcription
+                     factor 1"
+                     /protein_id="ABB83370.1"
+                     /db_xref="GI:82569456"
+                     /translation="MIWSILVFHIVLRLPSEGGRREGAPGALGAGAGTMPNEEPFSKP
+                     KAGGAGGGAHGGGGMPPGALGKKSPRLPKCARCRNHGYASPLKGHKRFCMWRDCQCKK
+                     CSLIAERQRVMAAQVALRRQQAQEEEMGISHPIPLPGTAEMLVKRESSGSSSCLLLEN
+                     SSSSQTSGTSSTVSTTASEGRVLITDIPSISSRGHLENTSDLVMDPSYYSNFYQPSLY
+                     SYNNYLYNYPQYQVAVASEASASEMGGSLGSSPAKNSFRSIPASYVSGQSGNQWQMKT
+                     SEGRLSSHVSSQYRMHSYYPAAASYLSQGACVSQVHVSDDSPSYTESKAHVFSPPSSQ
+                     DSGLASLSSSSSVSNESTKGVADCGSTPEHDTFTVTTVIEDGE"
+ORIGIN      
+        1 acgcggggag cactgcccgc ccggacagcg ctctgggtgc agccaatgat ctggtccatt
+       61 ttagtatttc acatcgtcct tcgtttaccg tcagaggggg gcaggagaga gggggcaccc
+      121 ggggcgcttg gtgctggagc aggcacgatg cccaacgagg agcccttctc gaagcctaag
+      181 gctggcggtg ctggcggagg agcccacggt ggcggcggca tgccccctgg ggccctgggc
+      241 aagaagtccc cgaggctgcc caagtgcgcg cgctgcagga accacggcta cgcctcgccg
+      301 ctcaagggcc acaagcgctt ctgcatgtgg agggactgcc agtgcaagaa gtgcagcctg
+      361 atcgccgagc gccagcgggt catggccgcc caggttgcat tgagaaggca acaagcccaa
+      421 gaagaagaga tggggataag ccaccccatc cctctccccg gcacagcaga aatgcttgtc
+      481 aagagagaaa gcagtggcag cagctcctgt ctcttactgg agaatagcag ttcctcacag
+      541 acttcaggca catcaagtac agtatccact acagcatcag agggtcgtgt gctgatcaca
+      601 gacattcctt ccatcagcag cagagggcac ctggagaaca cgtcagactt ggtgatggac
+      661 ccctcatatt acagcaactt ctaccagccg tccctgtact cttacaacaa ctacctgtac
+      721 aactacccgc agtaccaggt ggcagtggcg tcagaggctt ctgctagtga aatggggggc
+      781 tctctaggca gctcgccggc caaaaatagc ttccggagca tcccagcaag ttacgtgtcc
+      841 gggcagtcgg gaaatcagtg gcagatgaaa acctcagagg gtcgcttgtc cagccatgtc
+      901 agttcccagt acaggatgca ctcctattac cctgcggcag cctcgtacct cagccagggt
+      961 gcatgtgtat ctcaggtgca tgtctctgac gacagcccct catacaccga atcaaaagca
+     1021 catgtgtttt ctccacccag tagtcaagac tcgggactgg cttccctctc aagcagctcc
+     1081 tctgtgagca acgaaagtac caaaggcgtg gctgattgtg ggagcactcc agagcatgac
+     1141 accttcacgg tcaccaccgt cattgaagat ggggaataag agcctcgaag gaactgtcga
+     1201 ggcctcccct ttaaggccta ctctcaagac aaaaatacag cacgtgaata ccaagatgta
+     1261 ccgtcctaat caaatgtggc acctcttcta tttttgaagt tttttagctg tatgcaatga
+     1321 agttgaaaaa gtttgtggaa catggagggg gcggcagaga agctgtgagg ccttccctcc
+     1381 ttgcgcttgt ttagttttgt ttatagtcta taactctgta ggtttaatac acactcttcc
+     1441 gactaattac atgcagagtg acatagttcg cattttacaa tttaatcaat aacctgtggt
+     1501 tcagttcttg attgaaaata gcgttcccct aaaaaagatg tcttcagatt tgcatgctca
+     1561 ctgcagcgtg tgttcataaa ttgcttactg tacggttgac ttttcctggg ctacaaaagc
+     1621 ccccctgaaa tgaaactagg ctggaaaaag aaattcatcg ctcactgaag ctgcagccgc
+     1681 acctgaaata aaaatgttat tgatgactga attttcttgt gtgtatattt ggcgagctgt
+     1741 attaaaccgg aaaaaaaaaa aaaaaaaaaa aaaaaaaa
+//
+

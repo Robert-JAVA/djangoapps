@@ -1,0 +1,57 @@
+LOCUS       FJ617548                 704 bp    mRNA    linear   VRT 26-MAY-2009
+DEFINITION  Notophthalmus viridescens sex determining region Y-box 2 (Sox2)
+            mRNA, partial cds.
+ACCESSION   FJ617548
+VERSION     FJ617548.1  GI:223551639
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 704)
+  AUTHORS   Maki,N., Suetsugu-Maki,R., Tarui,H., Agata,K., Del Rio-Tsonis,K.
+            and Tsonis,P.A.
+  TITLE     Expression of stem cell pluripotency factors during regeneration in
+            newts
+  JOURNAL   Dev. Dyn. 238 (6), 1613-1616 (2009)
+   PUBMED   19384853
+REFERENCE   2  (bases 1 to 704)
+  AUTHORS   Maki,N., Maki,R. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2009) University of Dayton, Department of
+            Biology, 300 College Park, SC46, Dayton, OH 45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..704
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>704
+                     /gene="Sox2"
+     CDS             <1..>704
+                     /gene="Sox2"
+                     /note="SRY (sex determining region Y)-box 2"
+                     /codon_start=3
+                     /product="sex determining region Y-box 2"
+                     /protein_id="ACM89960.1"
+                     /db_xref="GI:223551640"
+                     /translation="RPFIDEAKRLRALHMKEHPDYKYRPRRKTKTLMKKDKYTLPGGL
+                     LGPPGGNGMGSGGGVGGGMNSSQRMDSYAAHMNGWANGGYGMMQEQLSYAQHPGLSAA
+                     AQMQPMHRYDVSALPYNSMDPSAAAAAAAAQGYMNGSYMSYSQQGGGGAGGGGMLGSM
+                     GSVVKSESSSSSPPVVTSSSSHSRPGCHQAGDLRDMISMYLPGADVQEQAAAAAQSRL
+                     HMSQHYQSAPVPSSIN"
+ORIGIN      
+        1 aacggccctt catcgacgag gccaagcgcc tgcgagcgct gcacatgaag gagcacccgg
+       61 attacaagta ccggccgcgg cgcaagacca agactctgat gaagaaggac aagtacacgc
+      121 tgcccggagg gctgctcgga ccgcccggcg gcaacggcat gggctccggg ggcggcgtag
+      181 gcggcggcat gaactccagc cagcgcatgg acagctacgc tgcgcacatg aacggctggg
+      241 ccaacggcgg ctacggcatg atgcaggagc agctgagtta cgcgcagcac ccggggctga
+      301 gcgcggccgc gcagatgcag cccatgcacc gctacgacgt cagcgcgctt ccctacaact
+      361 ccatggatcc ctccgctgcc gcggcagccg ccgccgcgca gggatacatg aacggctcct
+      421 acatgtccta ctcgcagcag gggggcggcg gcgccggcgg gggcggcatg ttgggctcca
+      481 tgggctcagt ggtcaagtcc gagtccagct cgtccagccc gcctgtggtc acctcgtcat
+      541 cttcgcactc ccggccgggc tgccaccagg ccggggacct gagggacatg atcagcatgt
+      601 acctgcccgg ggccgacgtg caggagcaag cggcggcggc cgcgcagagc agactgcaca
+      661 tgtcccagca ctaccagagc gcgcccgtgc cctcctccat aaac
+//
+

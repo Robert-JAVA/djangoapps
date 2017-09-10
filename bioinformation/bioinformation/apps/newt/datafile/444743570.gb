@@ -1,0 +1,49 @@
+LOCUS       JX511486                 705 bp    DNA     linear   VRT 20-MAR-2013
+DEFINITION  Triturus macedonicus haplotype Tmac3274PDGa platelet-derived factor
+            receptor alpha gene, intron 11.
+ACCESSION   JX511486
+VERSION     JX511486.1  GI:444743570
+KEYWORDS    .
+SOURCE      Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     A multimarker phylogeography of crested newts (Triturus cristatus
+            superspecies) reveals cryptic species
+  JOURNAL   Mol. Phylogenet. Evol. 67 (1), 167-175 (2013)
+   PUBMED   23353071
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 705)
+  AUTHORS   Wielstra,B., Baird,A.B. and Arntzen,J.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) Terrestrial Zoology, Naturalis Biodiversity
+            Center, P. O. Box 9517, Leiden 2300 RA, The Netherlands
+FEATURES             Location/Qualifiers
+     source          1..705
+                     /organism="Triturus macedonicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:385668"
+                     /haplotype="Tmac3274PDGa"
+     gene            <1..>705
+                     /gene="platelet-derived factor receptor alpha"
+     intron          <1..>705
+                     /gene="platelet-derived factor receptor alpha"
+                     /number=11
+ORIGIN      
+        1 ggaatttcca cgggatggac tagtgcttgg taagtaaata tttggtgcta attttggagc
+       61 aaatgctaag tgggttgcca ttgactatca tgctttgtaa acagttagtg ctctgctacc
+      121 tttttggtag gtatgagcca tagaaatacc atatacacac atacatacat aaaataacac
+      181 taccagaaaa aataatcagt tttatagatt gtgcagaatt atcaataacc acatccttca
+      241 aacagcaatg cattaagttc caaccaggct ctttctccga gtggcctcta aatctctaag
+      301 cccacttaag gctttctgat accatcccag gcatgctgct ttctgaagca gcgtttgctg
+      361 cacatgatgt tgtggattac atgctgtgcc ctctcacgcc atctaatgtt ctgctttgaa
+      421 tagttcaact tggtctactt acaagccttt gttttggttc tattcccttc cctaccattt
+      481 atagtcacac agtttgtcaa gacattcaag ttcggtgcat tatacttgag tgatccctgt
+      541 cttcacttta catcctcttg tctacctaaa gggggattga tcgtatttgg aactgtacac
+      601 agtattcatt attacagcaa gtcatgtgga aaaaaactaa acaaatgata ctatctccac
+      661 cacaggaaga atcctcggct ctggcgcatt cggcaaagtg gtcga
+//
+

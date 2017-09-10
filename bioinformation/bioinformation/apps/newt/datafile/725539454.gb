@@ -1,0 +1,51 @@
+LOCUS       KJ703155                 325 bp    DNA     linear   VRL 29-NOV-2014
+DEFINITION  Bosca's newt virus isolate GA11002 proliferating cell nuclear
+            antigen gene, partial cds.
+ACCESSION   KJ703155
+VERSION     KJ703155.1  GI:725539454
+KEYWORDS    .
+SOURCE      Bosca's newt virus
+  ORGANISM  Bosca's newt virus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 325)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Catastrophic declines of host communities due to an introduced and
+            indiscriminate virus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 325)
+  AUTHORS   Price,S.J., Garner,T.W.J., Nichols,R.A., Balloux,F., Ayres,C.,
+            Mora-Cabello de Alba,A. and Bosch,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2014) UCL Genetics Institute, University College
+            London, Gower Street, London, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..325
+                     /organism="Bosca's newt virus"
+                     /mol_type="genomic DNA"
+                     /isolate="GA11002"
+                     /host="Lissotriton boscai"
+                     /db_xref="taxon:1574221"
+                     /country="Spain: Pontillon"
+                     /collection_date="2011"
+     CDS             complement(<1..>325)
+                     /note="CMTVorf22L"
+                     /codon_start=1
+                     /product="proliferating cell nuclear antigen"
+                     /protein_id="AIY30281.1"
+                     /db_xref="GI:725539455"
+                     /translation="VFTSYVYKSDAECLYAGLPHAALPDLKSFKAKCNVTLRLMGDPE
+                     CGQYTMKIIIANASHMSTSINMVVDHGKKEADRGHPEGAGKPFTLNQQEFNTLCKTFK
+                     QGPVNL"
+ORIGIN      
+        1 ccaggttcac cggaccctgc ttgaaggtct tgcagagggt gttgaactct tgctggttga
+       61 gagtaaacgg cttacccgcc ccctctgggt gccctctgtc tgcttccttt ttaccgtgat
+      121 ccacaaccat gtttatgctg gtggacatgt ggctggcgtt tgcgatgata atcttcatcg
+      181 tgtactgccc gcactctggg tcccccatga gcctcagcgt cacattgcac ttggccttga
+      241 aggactttag gtcgggcagg gcggcgtgcg gcaggccggc gtacaggcac tctgcgtcgg
+      301 acttgtagac gtagctggta aagac
+//
+

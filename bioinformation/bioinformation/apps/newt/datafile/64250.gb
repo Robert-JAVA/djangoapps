@@ -1,0 +1,138 @@
+LOCUS       X59380                  3873 bp    mRNA    linear   VRT 18-APR-2005
+DEFINITION  P.waltlii mRNA for fibroblast growth factor receptor.
+ACCESSION   X59380
+VERSION     X59380.1  GI:64250
+KEYWORDS    fibroblast growth factor receptor.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 3873)
+  AUTHORS   Shi,D.L., Feige,J.J., Riou,J.F., DeSimone,D.W. and Boucaut,J.C.
+  TITLE     Differential expression and regulation of two distinct fibroblast
+            growth factor receptors during early development of the urodele
+            amphibian Pleurodeles waltl
+  JOURNAL   Development 116 (1), 261-273 (1992)
+   PUBMED   1483392
+REFERENCE   2  (bases 1 to 3873)
+  AUTHORS   Shi,D.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-1991) D.L. Shi, 9 Quai Saint Bernard, 75005 Paris
+            Cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..3873
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /strain="P;K"
+                     /db_xref="taxon:8319"
+                     /haplotype="diploid"
+                     /tissue_type="embryo"
+                     /dev_stage="tail bud"
+     CDS             100..2550
+                     /codon_start=1
+                     /product="fibroblast growth factor receptor"
+                     /protein_id="CAA42023.1"
+                     /db_xref="GI:432966"
+                     /db_xref="GOA:Q91285"
+                     /db_xref="HSSP:2FGI"
+                     /db_xref="InterPro:IPR000719"
+                     /db_xref="InterPro:IPR001245"
+                     /db_xref="InterPro:IPR003598"
+                     /db_xref="InterPro:IPR007110"
+                     /db_xref="InterPro:IPR008266"
+                     /db_xref="InterPro:IPR011009"
+                     /db_xref="InterPro:IPR013098"
+                     /db_xref="InterPro:IPR013783"
+                     /db_xref="InterPro:IPR016248"
+                     /db_xref="InterPro:IPR017441"
+                     /db_xref="InterPro:IPR020635"
+                     /db_xref="InterPro:IPR020685"
+                     /db_xref="InterPro:IPR020933"
+                     /db_xref="UniProtKB/Swiss-Prot:Q91285"
+                     /translation="MLSWRHLVFWAMLVMATLSAARPAPTLPEQVSPKAKVEVESYSA
+                     HHGDLLQLRCRLRDDVHSINWEKDGVQLAETNRTRITGAEVEVRDAVQEDSGLYACMT
+                     HRPSGTETTFFAVNVSDRIPSVEDDDDDDEKSSSEEKEAENSKPNPVAPFWAHPEKME
+                     KKLHAVPAAKTVKFRCPAGGTPSPTLRWLKNGKEFKPDHRIGGYKVRYQTWSIIMDSV
+                     VPSDKGPYTCLVENNYGSINHTYQLDVVERSPHRPILQAGLPANQTVPVGSNVDFVCK
+                     VYSDPQPHIQWLKHVTVNGSKYGSDGLPLVQVLKAAGVNTTDKEMEVLHLRNVSFEDA
+                     WEYTCLAGNSIGISHHSAWLTVVEAISENPVIMTSPLYLEIIIYCTGAFLISCMLVTV
+                     IIYKMKNTTKKTDFNSQPAVHKLAKSFPLQRQVSADSSSSMSSGVMLVRPSRLSSSGS
+                     PMLTGVSEYELPEDPRWEFSRDRLILGKPLGEGCFGQVVMGEAIGLDKEKPNRVTKVA
+                     VKMLKSDATEKDLSDLISEMEMMKMIGKHKNIINLLGACTQDGPLYVIVEYASKGNLR
+                     EYLRARRPPGMEYCYNPIHVSKDMLSFKDLVSCAYQVARGMEYLASKKCIHRDLAARN
+                     VLVTEDSVMKIADFGLARDIHHIDYYKKTTNGRLPVKWMAPEALFDRIYTHQSDVWSF
+                     GVLLWEIFTLGGSPYPGVPVEELFKLLKEGHRMDKPGNCTNELYMMMRDCWHAVPSQR
+                     PTFKQLVEDLDRIVAMTSNQEYLDLSMPVDQYSPGFPDTRSSTCSSGEDSVFSHDPLP
+                     DEPCLPKYQHANGGLKKR"
+     sig_peptide     100..162
+     mat_peptide     163..2547
+                     /product="fibroblast growth factor receptor"
+ORIGIN      
+        1 agaaggtttt gggaacagct gtgctctaga agctggttaa gactggattc cccatggact
+       61 gcccgtgccc agctggcggc cagtagcagc ggagcaggga tgctgtcctg gaggcacctc
+      121 gtgttttggg ccatgctggt catggccacc ctctcagctg cacggcccgc gcccacgctg
+      181 cccgaacaag tttcacctaa agccaaggtt gaagtagagt cgtattctgc gcaccatggc
+      241 gatttactcc agttgcgctg caggcttcgg gatgatgtgc acagcatcaa ctgggagaaa
+      301 gatggggttc agctggcgga gaccaacagg acgcgcatca ctggggcaga ggttgaggtc
+      361 agggatgcgg tgcaggagga ctcggggctg tatgcctgca tgacccacag gccctcgggg
+      421 accgagacca ccttcttcgc tgttaacgtc tcagatcgaa tcccttcagt cgaagatgac
+      481 gacgacgatg atgagaaatc gtcttctgaa gaaaaggaag cagagaattc gaaaccaaat
+      541 cctgtggctc cattttgggc tcatcctgaa aaaatggaaa agaagcttca tgcagttcca
+      601 gctgcaaaaa cggtgaagtt cagatgcccg gctggcggta ccccttcccc aacactccgg
+      661 tggctgaaga atggcaagga gttcaagccc gatcaccgga tcggtggata taaggttcgc
+      721 taccagacgt ggagcattat tatggactcc gtagtgccgt ccgacaaggg cccctacact
+      781 tgccttgtgg agaacaatta tggaagcata aaccacacgt accagctgga tgttgttgaa
+      841 cggtcacctc atcggcccat tcttcaggct gggcttcctg ctaatcaaac tgtacccgtg
+      901 ggcagcaatg tggactttgt ttgcaaagtg tacagtgacc cacaacccca cattcagtgg
+      961 ctgaagcacg ttactgtgaa cggaagcaaa tacggctctg acgggctacc cttggttcag
+     1021 gtcctgaagg cagctggcgt taacacgaca gacaaagaaa tggaagtcct ccacttgagg
+     1081 aatgtctctt ttgaggatgc atgggagtat acgtgcttgg cgggtaactc tattgggatc
+     1141 tctcatcatt ctgcatggtt gacggtcgtc gaagccattt cagagaaccc cgtgatcatg
+     1201 acctccccac tctatctgga gatcatcatt tactgcacag gagccttcct catctcatgc
+     1261 atgttggtca cggtcattat ctacaagatg aagaacacta ccaagaaaac ggactttaac
+     1321 agccagcccg ccgtgcacaa gctggccaag agcttcccct tgcaaagaca ggtgtctgca
+     1381 gattccagct cttccatgag ctctggagtt atgctggtgc ggccatcacg actgtcatcc
+     1441 agtggaagcc caatgttgac cggagtctct gaatatgaac ttccagaaga tcctcgttgg
+     1501 gagttctcac gagacaggtt aatcctgggt aaacctcttg gagagggctg ctttggtcag
+     1561 gttgtaatgg gagaagcaat tggcttggac aaggagaaac ctaatcgagt gactaaagta
+     1621 gcagtgaaga tgttaaaatc tgatgcaact gaaaaggatt tgtcagatct tatttcggag
+     1681 atggaaatga tgaaaatgat tggaaagcac aagaacatca tcaatcttct tggtgcttgt
+     1741 acccaggatg gtccactcta tgtgattgtg gagtacgcct caaaaggaaa tctgcgagaa
+     1801 tacttgcgtg ccagacgtcc tccaggcatg gagtactgtt ataatcccat ccatgtctca
+     1861 aaggacatgc tgtcttttaa ggacctggtg tcatgtgctt accaagtagc ccgaggaatg
+     1921 gagtatctcg cttccaagaa gtgcatccac cgagacctcg cagctcgaaa tgtgttggta
+     1981 actgaagaca gtgtcatgaa gattgcagac ttcggcttgg cgcgagatat ccatcatatt
+     2041 gattattaca agaagacgac aaatggacga ttgccggtga agtggatggc tcctgaagca
+     2101 ctctttgacc ggatatacac tcatcaaagt gacgtctggt ctttcggcgt gctgctatgg
+     2161 gagatcttca cactgggtgg ctctccttac cctggggtgc cagtcgaaga actcttcaag
+     2221 ttgttaaaag agggacacag aatggacaaa cccggaaact gcacaaatga actgtacatg
+     2281 atgatgagag actgctggca tgcagttcca tcccaaagac caaccttcaa gcagctggtt
+     2341 gaagatttgg accgaattgt agcaatgacc tccaatcagg aatatttgga cctgtccatg
+     2401 ccagtggatc agtattctcc aggttttcca gacacacgca gttctacgtg ttcctcagga
+     2461 gaggactctg tgttctccca tgatcctctt ccagatgaac cttgtcttcc caaatatcaa
+     2521 catgctaatg gtggccttaa aaaacgctga caatcgtgac ttccaggcaa cagaaactgt
+     2581 gacctctggt ctaccatctg gcctcttggt ttttattttt gagaggggga gggcaatgtt
+     2641 gtccagccat caagctacca ggaaatgtct tattgttttg tattatggac cataacatgc
+     2701 gccagtgtag catctcacca gaccaatgcc accagcccac tgcagatgct ggtttaacaa
+     2761 gccttaatct tgtatcacgt tgagttgtgt ttttataact tgaacatttt ccttaatatt
+     2821 tggtcagtgt actcgtcaag taggcaggac cataaagttt ctgggaacag tctgctatct
+     2881 gggaccttgt taggaaaaag tgaagcagtc tgacctctgt ggcttcttga gatacattta
+     2941 agaccagaag gccctccgaa tattttcaaa aacataaaga acacttgatc ttcgcaacac
+     3001 agagtgcgag aaataaacac ctaggagaat aaagggatgg aaaatagtct acccacttcg
+     3061 agctccatat ggctgagagc agtgtctact cacggaaact ggatgaggct atctgtggaa
+     3121 attccaatga gcctgaaccc tcttttgttt tggattttgg aacctgaatc acccttaact
+     3181 tccatattga tcatccaggc cttgctcaag gacacagcaa gtatgattgg ttcttctctt
+     3241 taaggatgat tgaagcttct ttgccagtcg ttgtagttgc aaagaggcgt ctgttctctc
+     3301 acagagtaat aagctagtcc agaggagatc ttctccagtt ccaacagtag tttgctttcc
+     3361 ttgacgtatg aagaactgtg aagtcatagt cacattcaga ccaatctttg gtctcttttt
+     3421 tgggagcgcc aggagctgtc gttcctcgtg tttttttttt tttctttttc tttcaatatt
+     3481 cataccagga cacacagttt tgataattcc ggtactaatg ttctttcctg accaaacaga
+     3541 cggtactttt aaaccgccta ttgccgccta attaccttct gctgagcact gacaatagag
+     3601 caggcagcca aatcaacccc agtgctaaaa taaatcttct gtatatagct agaactgtat
+     3661 aaatatgaat tatatattta catgtttttg aaagggtggt tacctgaaag atgccagttc
+     3721 agtagtaagt tactattaac tggtagagat gttgattgct gtaaacaaac aaaaaagttc
+     3781 atatattttg ctactttgct gtttattttt ttaaattatg ttctaaactt ccgtattcca
+     3841 atgtaggtcc ctgaataaac acagaaaatg ctg
+//
+

@@ -1,0 +1,91 @@
+LOCUS       AY847515                2251 bp    mRNA    linear   VRT 24-JUN-2008
+DEFINITION  Notophthalmus viridescens retinoic acid receptor beta-2 mRNA,
+            complete cds.
+ACCESSION   AY847515
+VERSION     AY847515.2  GI:192786490
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Carter,C.J., Spencer,G.E., Dmetrichuk,J.M., Bourque,B.M.,
+            Skandalis,A. and Carlone,R.L.
+  TITLE     Cloning and characterization of a retinoic acid receptor beta-2
+            from the CNS of the adult newt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Carter,C.J., Spencer,G.E., Dmetrichuk,J.M., Bourque,B.M.,
+            Skandalis,A. and Carlone,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2004) Biological Sciences, Brock University, 500
+            Glenridge Ave, St. Catharines, Ontario L2S3A1, Canada
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Carter,C.J., Spencer,G.E., Dmetrichuk,J.M., Bourque,B.M.,
+            Skandalis,A. and Carlone,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2008) Biological Sciences, Brock University, 500
+            Glenridge Ave, St. Catharines, Ontario L2S3A1, Canada
+  REMARK    Sequence update by submitter
+COMMENT     On Jun 24, 2008 this sequence version replaced gi:57164671.
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             796..2142
+                     /note="RAR beta-2"
+                     /codon_start=1
+                     /product="retinoic acid receptor beta-2"
+                     /protein_id="AAW34271.2"
+                     /db_xref="GI:192786491"
+                     /translation="MFDCMDVLAVSPGHMLDFYTTGPSSCMLQEKALKACFNGLAQSD
+                     WQHRHSAQSIETQSTSSEELVPSPPSPLPPPRVYKPCFVCQDKSSGYHYGVSACEGCK
+                     GFFRRSIQKNMIYTCHRDKNCVINKVTRNRCQYCRLQRCFEVGMSKESVRNDRNKKKK
+                     EPIKQECIESLEMTAELDDLTEKIRKAHQETFPSLCQLGKYTTNSSAEQRIRLDLGLW
+                     DKFSELATKCIIKIVEFAKRLPGFTSLTIADQITLLKAACLDILILRICTRYTPEQDT
+                     MTFSDGLTLNRTQMHNAGFGPLSDLGFPFANQLLPLEMDDTQTGHLSAICLICEDRQD
+                     LEEPTKVDKLQEPLLEALKIYIRKRRPSKPHMFPKILMKITDLRSISAKGAERVITLK
+                     LEIPGSMPPLIQEMLENSEGLEAGSPSPDEDTTEHSPTISTSSADNRSTGESPPVK"
+ORIGIN      
+        1 ggtcccttca ttatttacat tttatttgaa tttttgatgc agcatggacc gatcctagag
+       61 ccggggacca gggaccccct gccctttaca cgccccggag ttcatgttaa tagatgccaa
+      121 cttggattat tgctacccaa gtcgtccaca gtggcttgga ccactccagg atatttttag
+      181 ctgccacagc agattttatg aaggcggtgg tattttttat ttgaccaaga agtggtagga
+      241 gggatgaaag gcagttaagc aacgggttgt gcgccgctga ccattgaagt tggacctcct
+      301 tacgttgcta gatactatct tactttgaac ttttactata ggtgctggag tactttgagt
+      361 ttagtgggtg tccgcttgga ccaacagtac cctctattcc tcctcagtac ggaacccaac
+      421 atattgcccc ccacaccagt ttggtgttac catttgttgg actaatgcac gtcatataca
+      481 aacaagcttt gaagtcatca acccttcttc agatagagat gaactcaatt ttattctgag
+      541 agctttgcta gtgagaggac cacatccatt gcccaatagt aagttgttgt gacttctctc
+      601 tcaccgaagt ggccttctga ggttacacgc ttgaacaaat gacacccctc taacctgctt
+      661 cggcctcccc gaatacatgg tgtggtgggt caagacctgg catcagacag cgggcctaga
+      721 gtggatgggt ttggccacgc gctggcgccc catttaacct agcgcctaaa gaagacacac
+      781 tgccaaagtg gcaccatgtt tgactgcatg gacgtgctgg cagtgagccc cgggcacatg
+      841 ctggacttct acacgacagg cccgtcctca tgcatgcttc aggagaaagc cctcaaggcg
+      901 tgcttcaatg ggctggcaca gagcgactgg cagcaccgac acagcgcaca atcgatcgaa
+      961 acccagagca cgagttcaga ggagctggtt ccgagccccc cgtcgccgct gccacccccg
+     1021 agggtttaca agccatgttt cgtgtgccag gacaagtcgt ctgggtacca ctatggtgtc
+     1081 agtgcgtgtg aaggatgcaa gggctttttc cgcaggagta ttcagaagaa catgatttac
+     1141 acgtgtcacc gggacaagaa ctgtgtcatt aataaagtca ccaggaaccg ctgccagtac
+     1201 tgccggctgc agagatgctt tgaagttggc atgtccaaag aatccgtccg caatgacagg
+     1261 aacaagaaga agaaggagcc gataaaacag gaatgtatcg agagcctcga gatgacggcc
+     1321 gagctggacg acctcaccga gaagatccga aaagctcatc aggaaacctt cccctctctt
+     1381 tgccagctcg gcaagtacac cacgaattcc agtgctgaac agcgaatccg gcttgacctc
+     1441 ggactttggg acaaatttag tgagcttgca actaagtgca ttatcaaaat tgtggaattt
+     1501 gcaaagcggt tgcccggctt taccagctta accatcgcag accagatcac actactaaag
+     1561 gcagcatgcc tggatatctt gattctgcga atttgcaccc ggtacacacc tgagcaggac
+     1621 actatgacct tttctgatgg ccttacactc aaccgaaccc agatgcacaa tgcaggcttt
+     1681 gggccactca gcgacctggg cttccctttt gccaatcaac tgctgcctct ggagatggac
+     1741 gacacacaaa cgggtcatct cagcgctatt tgtctcattt gtgaagaccg acaagacctt
+     1801 gaagaaccaa cgaaggtgga caaactccaa gagccactgc tcgaagcact gaaaatctac
+     1861 atcaggaaga gacggcccag caaaccccac atgttcccaa agattctcat gaagatcacg
+     1921 gatctccgca gcatcagcgc aaaaggtgct gaacgtgtta tcaccttaaa gttggagatc
+     1981 ccaggatcca tgccgcctct catccaggaa atgttagaaa actctgaggg acttgaagca
+     2041 ggctccccaa gtccagatga ggatacgaca gagcacagcc ccaccatctc aacaagctcg
+     2101 gcagacaacc gcagcactgg ggaatctcct ccagtgaaat aggaagttaa ttgacttttt
+     2161 aagacattca tattaaaaaa aaaccttata cacagctagg aaaacccctc atggcttggt
+     2221 ttccagaaca aaaaaaaaaa aaaaaaaaaa a
+//
+

@@ -1,0 +1,70 @@
+LOCUS       KC165629                 963 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis spastic ataxia of Charlevoix-Saguenay (SACS)
+            gene, partial cds.
+ACCESSION   KC165629
+VERSION     KC165629.1  GI:523707395
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 963)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 963)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..963
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>963
+                     /gene="SACS"
+     mRNA            <1..>963
+                     /gene="SACS"
+                     /product="spastic ataxia of Charlevoix-Saguenay"
+     CDS             <1..>963
+                     /gene="SACS"
+                     /codon_start=1
+                     /product="spastic ataxia of Charlevoix-Saguenay"
+                     /protein_id="AGQ56092.1"
+                     /db_xref="GI:523707396"
+                     /translation="DIPRRVAVKLGAIPKRHKALERYASNIHFTTLGTEFGQKEKLTS
+                     RIKSILNAYPSEKEMLKELLQNADDAKATEICFVFDPRYHPVDRIFDEKWAPLQGPAL
+                     CVYNNQPFTEDDIRGIQNLGRGTKEANPCKTGQYGIGFNSVYHITDCPSFISCNDILC
+                     IFDPHARYAPGATTVSPGRMFKDLDADFKTQFSDVLDLYLGKYFKLGKTTMFRFPLRN
+                     SEMAKQSEISTVPASDRMVQNLLDKLRTDGAELLMFLNHMEKISICEIEKTTGFLNVL
+                     YSVRAKITDGDRLKRKQFHASVIESVTKKKMLKDIPVQQITYTMD"
+ORIGIN      
+        1 gatataccaa ggagggtagc agtaaagcta ggtgccatac ctaagcgtca caaggcctta
+       61 gaacgatatg catcaaacat tcattttacc acgcttggga cagaatttgg tcaaaaagaa
+      121 aaactgacga gtagaataaa aagtattctc aatgcttatc cttcagaaaa ggagatgtta
+      181 aaagagcttc ttcaaaatgc agatgatgcc aaagctactg aaatctgttt tgtgtttgat
+      241 ccaagatacc atccagttga ccgaatcttt gatgaaaagt gggctccact tcaagggcca
+      301 gcgctttgtg tgtacaataa ccagccattc acagaagatg atattagagg cattcaaaac
+      361 ctggggaggg gcaccaaaga agcaaatcct tgcaaaactg ggcagtacgg tataggattt
+      421 aattctgttt accacattac agactgccct tctttcattt cctgcaatga tatcctctgt
+      481 atatttgatc ctcacgcaag atatgcacca ggagcaacaa cagtaagtcc tggccgcatg
+      541 tttaaggatt tagacgcaga ttttaaaaca cagttctctg atgtccttga tctctatcta
+      601 ggaaaatatt tcaaacttgg gaaaacaaca atgttcaggt ttccgctgcg taattcagaa
+      661 atggcaaagc aatctgaaat ttcaacagtt cctgcttccg acagaatggt gcaaaatttg
+      721 ctggataaac tgcgtacaga tggagcggaa ctgttaatgt ttttaaatca tatggagaaa
+      781 atttcaatat gtgaaattga gaaaacaaca gggtttctta atgtactgta ttctgtgagg
+      841 gctaaaatca cagatggtga tcgtctcaaa cgtaagcaat tccatgcctc tgtcattgaa
+      901 agtgtaacta aaaagaaaat gttgaaggat attccagttc agcagattac atacaccatg
+      961 gac
+//
+

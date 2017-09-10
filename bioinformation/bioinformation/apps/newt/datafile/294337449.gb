@@ -1,0 +1,86 @@
+LOCUS       FN555146                1751 bp    mRNA    linear   VRT 07-APR-2010
+DEFINITION  Pleurodeles waltl mRNA for activation-induced cytidine deaminase
+            (aid gene), clone AIDshort.
+ACCESSION   FN555146
+VERSION     FN555146.2  GI:294337449
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Bascove,M. and Frippiat,J.P.
+  TITLE     Molecular characterization of Pleurodeles waltl activation-induced
+            cytidine deaminase
+  JOURNAL   Mol. Immunol. 47 (7-8), 1640-1649 (2010)
+   PUBMED   20132986
+REFERENCE   2  (bases 1 to 1751)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2009) Frippiat J.P., Development and
+            Immunogenetics team, JE 2537, Nancy-University, Henri Poincare
+            University, Faculty of Medicine. 9 Avenue de la foret de Haye, F-
+            54500 Vandouvre-les-Nancy, FRANCE
+  REMARK    revised by author [06-JAN-2010]
+FEATURES             Location/Qualifiers
+     source          1..1751
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /clone="AIDshort"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+     gene            1..1751
+                     /gene="aid"
+     5'UTR           1..88
+                     /gene="aid"
+     CDS             89..676
+                     /gene="aid"
+                     /codon_start=1
+                     /product="activation-induced cytidine deaminase"
+                     /protein_id="CBG76579.1"
+                     /db_xref="GI:294337450"
+                     /db_xref="GOA:D5GRW2"
+                     /db_xref="InterPro:IPR007904"
+                     /db_xref="InterPro:IPR013158"
+                     /db_xref="UniProtKB/TrEMBL:D5GRW2"
+                     /translation="MLMKKTKFLYHYKNMRWARGRHETYLCYIIKVRDSATSCSMDFG
+                     YLRNKFGCHVELLFLRYIVGWKMDPHRCYRITWFTSWSPCYDCARHTADFLQEHPNLR
+                     LRIFTSRLYFCEEQNAEPEGLRRLHLAGVQLGVMTFKDYFYCWNTFVETKEKTFKAWE
+                     GLHENAVRLSRKLRRILQPLYEVEDLRDSLHILGF"
+     3'UTR           677..1751
+                     /gene="aid"
+ORIGIN      
+        1 tttgttggtc tgagtcagta cacaatgaat tgctgcacgt gggtgccaga tgttccggga
+       61 caacacggtg acatgagtga cacagtgcat gctaatgaag aaaactaagt tcctgtacca
+      121 ctacaagaac atgcgctggg ctcgtggtcg ccacgagacc tacctgtgct acatcatcaa
+      181 ggtaagggac agcgccactt catgctctat ggacttcggc tacttgcgga acaagtttgg
+      241 ctgccatgtc gagctgctct tcctgcgcta cattgtgggc tggaagatgg accctcatcg
+      301 atgctaccgc atcacctggt tcacctcctg gagcccctgc tacgactgcg ctcggcacac
+      361 agccgacttc ctgcaggagc accccaacct acgtcttcgc atcttcacct ctcgtctcta
+      421 cttctgtgag gagcagaacg ctgagcctga gggactgcga cgcctgcact tggccggggt
+      481 ccagctgggg gtcatgacct tcaaagatta cttttactgc tggaatacat ttgtggaaac
+      541 aaaggagaag accttcaagg cttgggaggg cctgcatgaa aacgctgtgc gtctgtccag
+      601 gaagctgcgc cggatccttc agccgctcta cgaggtggaa gatttaagag attcattaca
+      661 tattttggga ttttgaggaa acaatcaatg aagaagaact tttacaaact tggttgatac
+      721 cagaacatag tgcatcaagc tctggtggaa gcttaccgtg ccaaaatgag aggaaggact
+      781 tattgctcat ctaattctcc ctactgaata aagtgctaag tcctttttta acaggacagt
+      841 cctctaatgc actgttggag tgtcccattc ttgaagaagc aagattagat gaaactgccg
+      901 accctaaaag tgatgcattt ttagaaaagg gtatatgtct ttcagggttt cttgccattt
+      961 tctgtaaaca catttttatt tgattatgct atgtatacac atatgtaccc atttaagtgt
+     1021 gaattagatc cctgtcttgc tggtgtaagg ggtctgttat gtagtgcttg tccagatcct
+     1081 ctgatacatt caaaaaagta aattttctct aaataatggg aacatagcaa gttttcacaa
+     1141 ttttctttca gctacattat ttttaatgtt tctccctagg tgacccttgt ctttcaaaac
+     1201 ctgagacttc ttgaaccctt ctggttgctc ctagtagcta aaggcgaata gctggccaaa
+     1261 atgatgcttt gagcatgacc agtggttcac agaaagtaaa atactcattt tctatgatag
+     1321 gtcttgcaaa ttctaacaga gttaatggga taaccaaaca ctgaagttat tggaaaactg
+     1381 tgtccacttt tcaactgctc caagcagagg gtggtgagaa gtatgttaca ggagcagatg
+     1441 accaaagacc ctatgaagaa gcattagact gcctgccctt tgtgactttt ccttctggaa
+     1501 gtcctaagtg gacttttttt cagcccttaa aatggctgga gcttaagcct tgtgagctgc
+     1561 atgggctaga agagactgct taaatttgct aagcactagc atcccttcga gttacatctt
+     1621 ggatcgtata agttgtaaac actcctgttt gtctttgttg tggttctttt taactgctat
+     1681 atttttttaa ttgtgtaata aaattatgtg cttttttact acgaaaaaaa aaaaaaaaaa
+     1741 aaaaaaaaaa a
+//
+

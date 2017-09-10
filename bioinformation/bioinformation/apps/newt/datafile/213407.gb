@@ -1,0 +1,29 @@
+LOCUS       NVIHIS4P                 168 bp    DNA     linear   VRT 28-APR-1993
+DEFINITION  Newt histone H4 gene, partial.
+ACCESSION   J00954
+VERSION     J00954.1  GI:213407
+KEYWORDS    histone; histone H4.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 168)
+  AUTHORS   Stephenson,E.C., Erba,H.P. and Gall,J.G.
+  TITLE     Characterization of a cloned histone gene cluster of the newt
+            Notophthalamus viridescens
+  JOURNAL   Nucleic Acids Res. 9 (10), 2281-2295 (1981)
+   PUBMED   6265868
+COMMENT     Original source text: Newt (N.viridescens viridescens) testis,
+            liver and spleen DNA.
+FEATURES             Location/Qualifiers
+     source          1..168
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+ORIGIN      
+        1 ggggctaagc ggcacaggaa ggtgctccgn gacaacatcc agggcatcac caagcctgct
+       61 atcgnncgnc tggcgcgccn tggaggagtc aagcgcatct ccggcctcat ctacgaggag
+      121 acccgngntg tgctcaaggt tnncctggag aatgtgatca gnnacgcg
+//
+

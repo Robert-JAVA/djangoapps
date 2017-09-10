@@ -1,0 +1,86 @@
+LOCUS       DQ517833                1178 bp    DNA     linear   VRT 17-OCT-2013
+DEFINITION  Triturus macedonicus voucher DWW1189 tRNA-Leu gene, complete
+            sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds;
+            and tRNA-Ile and tRNA-Gln genes, complete sequence; mitochondrial.
+ACCESSION   DQ517833
+VERSION     DQ517833.2  GI:225676381
+KEYWORDS    .
+SOURCE      mitochondrion Triturus macedonicus (Macedonian crested newt)
+  ORGANISM  Triturus macedonicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 1178)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E., Jowkar,H. and Larson,A.
+  TITLE     A molecular assessment of phylogenetic relationships and lineage
+            accumulation rates within the family Salamandridae (Amphibia,
+            Caudata)
+  JOURNAL   Mol. Phylogenet. Evol. 41 (2), 368-383 (2006)
+   PUBMED   16815049
+REFERENCE   2  (bases 1 to 1178)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E. and Larson,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2006) Department of Biology, Washington
+            University, Campus Box 1137, St. Louis, MO 63130, USA
+REFERENCE   3  (bases 1 to 1178)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E. and Larson,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2009) Department of Biology, Washington
+            University, Campus Box 1137, St. Louis, MO 63130, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Mar 25, 2009 this sequence version replaced gi:114150525.
+FEATURES             Location/Qualifiers
+     source          1..1178
+                     /organism="Triturus macedonicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="DWW1189"
+                     /db_xref="taxon:385668"
+                     /country="Montenegro"
+     tRNA            1..74
+                     /product="tRNA-Leu"
+     gene            76..1044
+                     /gene="ND1"
+     CDS             76..1044
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="ACO05662.1"
+                     /db_xref="GI:225676382"
+                     /translation="MYLLSMVLNPLLYIVPVLLAVAFLTLVERKVLGYMQLRKGPNVV
+                     GPVGLLQPIADGLKLFIKEPVRPSTASQTLFLVMPTMALTLALMIWLPLPMPFMLSNL
+                     NLGVLFLLALSSLAVYSILGSGWSSNSKYALIGALRAVAQTISYEVTLGLILLCLILM
+                     TGGFMLTAFNTTQEAIWFIIPAWPMAMMWFISTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSTILFLGPTVNHLQPEILTVNLMIKASALSVVFLW
+                     VRASYPRFRYDQLMHLIWKNFLPFTLAMTLLHISLPIMMTSIPPLS"
+     tRNA            1044..1113
+                     /product="tRNA-Ile"
+     tRNA            complement(1117..1178)
+                     /product="tRNA-Gln"
+ORIGIN      
+        1 gttaagatgg cagagcccgg taattgcaaa aggtctaagc cctttctacc agaggttcaa
+       61 ctcctcttct taactatgta ccttctttct atagtcttaa acccattact atatatcgta
+      121 ccagtcctgc tagccgtagc attcctaacc cttgttgaac gaaaagtcct agggtatata
+      181 caactacgaa agggccccaa tgttgttggc ccagtaggcc ttcttcaacc aattgcagac
+      241 ggtttaaaac tatttattaa agaaccagtt cgaccgtcaa cagcatcaca aactctattt
+      301 cttgttatac ccacaatggc actaaccctg gcacttataa tctgactccc tctgcccata
+      361 ccatttatac tgtcaaattt gaaccttggg gtcctttttc tactagctct atcaagcctg
+      421 gccgtatact caattttagg ctcaggctga tcctcaaact caaaatacgc cctaattggg
+      481 gcacttcgag cagtagcaca gactatctcg tatgaggtta ccctagggct tattctatta
+      541 tgccttattt taataacggg gggcttcata ctaacggcct ttaatactac acaagaggca
+      601 atctggttta ttattccagc atgacccata gcaataatat ggtttatttc tactctggca
+      661 gagacaaatc gagccccatt tgacctcaca gaaggagagt ccgaacttgt atccggattt
+      721 aacgtagaat atgcgggagg cccgtttgcc ttatttttct tagcagaata ttctaatatt
+      781 ttactaataa acaccctgtc aaccatccta tttttaggac caacagtaaa ccaccttcaa
+      841 ccagaaatct tgacagttaa tcttataatt aaggcatcag cactttcagt tgtatttcta
+      901 tgagtacgag catcctaccc acgattccga tatgaccagc taatacacct aatttgaaaa
+      961 aactttttgc cattcacgct tgcaataaca ctattacaca tttcccttcc tattatgata
+     1021 acgagtattc cacctttatc ctaggacatg tgcccgaaag ataggagtta ctttgataga
+     1081 gtgaccaata gaggttcaaa ccctctcatc tcctactaaa aaataggact cgaacctacc
+     1141 cctaggagat caaaacccct tgtgctccca ctacacca
+//
+

@@ -1,0 +1,54 @@
+LOCUS       DQ284038                 316 bp    DNA     linear   VRT 03-AUG-2012
+DEFINITION  Triturus cristatus rhodopsin gene, exon 1 and partial cds.
+ACCESSION   DQ284038
+VERSION     DQ284038.1  GI:90184317
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 316)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     The Amphibian Tree of Life
+  JOURNAL   Bull. Am. Mus. Nat. Hist. 297, 1-291 (2006)
+REFERENCE   2  (bases 1 to 316)
+  AUTHORS   Frost,D.R., Grant,T., Faivovich,J., Bain,R., Haas,A.,
+            Haddad,C.F.B., de Sa,R.O., Channing,A., Wilkinson,M.,
+            Donnellan,S.C., Raxworthy,C., Campbell,J.A., Blotto,B.L., Moler,P.,
+            Drewes,R.C., Nussbaum,R.A., Lynch,J.D., Green,D.M. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-OCT-2005) Herpetology, Division of Vertebrate
+            Zoology, American Museum of Natural History, Central Park West at
+            79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..316
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH A168421"
+                     /db_xref="taxon:8323"
+                     /note="pet trade"
+     mRNA            <1..>316
+                     /product="rhodopsin"
+     CDS             <1..>316
+                     /codon_start=2
+                     /product="rhodopsin"
+                     /protein_id="ABD91100.1"
+                     /db_xref="GI:90184318"
+                     /translation="NFYVPFSNKTGVVRNPFEYPQYYLAEPWKYSALAAYMFLLILLG
+                     FPVNFLTLYVTIQHKKLRTPLNYILLNLAFANHFMVFGGFPVTMYSSMNGYFVFGVTG
+                     CNV"
+     exon            <1..>316
+                     /number=1
+ORIGIN      
+        1 aaatttctat gtccccttct ccaacaagac tggagtggtg cggaatccct ttgagtaccc
+       61 ccagtattac ctggccgagc catggaagta ctccgcgctg gcggcctaca tgttcttgtt
+      121 gattctgctg ggcttccccg tcaactttct gactctgtat gtcaccatcc aacacaagaa
+      181 gctrcgaacc ccrctgaact atatccttct gaacctggcg ttcgccaacc acttcatggt
+      241 ctttggaggg ttccccgtga ccatgtactc ttcaatgaat ggctacttcg tcttyggggt
+      301 gacgggttgc aacgtt
+//
+

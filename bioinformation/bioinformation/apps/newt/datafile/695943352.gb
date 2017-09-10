@@ -1,0 +1,62 @@
+LOCUS       KM463828                 733 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Lissotriton vulgaris sodefrin precursor-like factor beta isoform 05
+            (Cloa_06) mRNA, partial cds.
+ACCESSION   KM463828
+VERSION     KM463828.1  GI:695943352
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 733)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 733)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..733
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8324"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..733
+                     /gene="Cloa_06"
+                     /note="LiVu_Cloa_06"
+     CDS             <1..207
+                     /gene="Cloa_06"
+                     /note="earlier stop codon through 10nt deletion"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 05"
+                     /protein_id="AIT39169.1"
+                     /db_xref="GI:695943353"
+                     /translation="GLENSTLGSKIIPTAFKDCLDPSQKAAQGREFSLKNSVLSFQLT
+                     RTCCDSDFCNGGDVQGQHTQWIHM"
+ORIGIN      
+        1 ggcctagaga acagcacact ggggagtaaa attattccaa ctgcgttcaa ggactgtctg
+       61 gatccttctc aaaaagcagc ccaaggaaga gagttctcat taaaaaactc agtgctttca
+      121 ttccagctca ccagaacatg ctgcgactcc gacttctgca acggagggga tgtgcaggga
+      181 caacacaccc aatggataca tatgtgaaga ttgtttcaat gaccattaca cggacccctg
+      241 cacagcaact ggagtggttc agtgcaccgg gaagcagaac acctgtgccg gctactttgg
+      301 aactggctcc agacctgatg acccagagtg ccttggtgat tgtagctgca caggaaggaa
+      361 gtgttccaga gactggatgt tcctgtctat aaaaacagcg gaacttataa gcaggaagct
+      421 attggaagac atcaaggaac tggaggaagc cctcaaaact aactctacca cctcagatgc
+      481 gaaagcctca ttagctcaaa ttgagaaaga gattggcaac ttcaagtata aatataaatc
+      541 aaattggatt tgtagattgg tgctaatcac ctctgatggt atctaggcac tgagttctta
+      601 gtgggatcag tcaaaaaaca gaaggagaaa acaagaagaa atcaatacaa atcagggtaa
+      661 agtaaggaga gatcattaaa aaataggggg aaaagcaaga taaaagaagt gaaaacacgg
+      721 aaaagcaagg aga
+//
+

@@ -1,0 +1,44 @@
+LOCUS       AB238599                 388 bp    DNA     linear   VRT 15-SEP-2007
+DEFINITION  Cynops pyrrhogaster DNA, satellite CYP-St-BamA1.
+ACCESSION   AB238599
+VERSION     AB238599.1  GI:78675123
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Cynops pyrrhogaster repeat sequence: CYP-St-BamA1
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 388)
+  AUTHORS   Maki,N. and Agata,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2005) Nobuyasu Maki, Graduate School of Science,
+            Kyoto univ., Department of Biophysics; Kitashirakawa-Oiwake,
+            Sakyo-ku, Kyoto, Kyoto 606-8502, Japan (E-mail:nmaki@cdb.riken.jp,
+            URL:http://mdb.biophys.kyoto-u.ac.jp/, Tel:81-75-753-4200,
+            Fax:81-75-753-4203)
+FEATURES             Location/Qualifiers
+     source          1..388
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /sex="male"
+                     /tissue_type="testis"
+                     /country="Japan:Okayama"
+                     /note="Satellite DNA sequence obtained by digestion of
+                     newt genomic DNA by Bam HI"
+     repeat_region   1..388
+                     /note="satellite CYP-St-BamA1"
+ORIGIN      
+        1 ggatcctcaa actttcacac accctgcatt ccccatagtc tcctgataaa ggtggtatct
+       61 cacttgtgtg ggtaggcctt gtgcctgcca caggaaatgg cacggaacac aacgtggaca
+      121 catcatgatt ttgcaatgaa aactgaccct gttttgcaat atgacaaaat gtggatgttg
+      181 aaccctagct cagtcgggac ctaggttaac ctagaaaacc tatacatttt tgaaaactag
+      241 acatccaggg gaacctagga tgtggggact tgtgtggttt tcaccaggtt ctgttaccca
+      301 gaattcctat caaaccgcaa agtttgtaaa aaaaaacaca ttttcctaac atttctgtga
+      361 tagaaacttc tggaatctac gtggatcc
+//
+

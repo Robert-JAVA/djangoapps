@@ -1,0 +1,70 @@
+LOCUS       LC017836                1038 bp    DNA     linear   VRT 20-MAR-2015
+DEFINITION  Tylototriton anguliceps mitochondrial ND2 gene for NADH
+            dehydrogenase subunit 2, partial cds, specimen_voucher: HNUE
+            A.I.1.111.
+ACCESSION   LC017836
+VERSION     LC017836.1  GI:775465090
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton anguliceps (angular-headed newt)
+  ORGANISM  Tylototriton anguliceps
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1
+  AUTHORS   Le,D.T., Nguyen,T.T., Nishikawa,K., Nguyen,S.L.H., Pham,A.V.,
+            Matsui,M., Bernardes,M. and Nguyen,T.Q.
+  TITLE     A New Species of Tylototriton Anderson, 1871 (Amphibia:
+            Salamandridae) from Northern Indochina
+  JOURNAL   Curr. Herpetol. 34, 38-50 (2015)
+  REMARK    DOI:10.5358/hsj.34.38
+REFERENCE   2  (bases 1 to 1038)
+  AUTHORS   Eto,K. and Nishikawa,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2015) Contact:Koshiro Eto Kyoto University, Human
+            and Environmental studies; Yoshida-Nihonmatsu, Sakyoku, Kyoto,
+            Kyoto 606-8501, Japan URL :http://www.h.kyoto-u.ac.jp/jinkan
+FEATURES             Location/Qualifiers
+     source          1..1038
+                     /organism="Tylototriton anguliceps"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HNUE A.I.1.111"
+                     /db_xref="taxon:1591418"
+                     /country="Viet Nam"
+     gene            <1..1038
+                     /gene="ND2"
+     CDS             <1..1038
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="BAQ95392.1"
+                     /db_xref="GI:775465091"
+                     /translation="PYALSILLSSLAVGTITTLSSSHWFLAWVGLEINTLAMTPLMTK
+                     THHPRSTESATKYFLTQAAASALILFSTIMNAWTTGEWTIITMNDNSSTFMLTVALAI
+                     KLGVAPFHLWLPDVMQGLNLTTCLILATWQKLAPMSLMIMINHQLNTNLLITMAVLSA
+                     VIGGWGGLNQTQIRKMMAYSSIAHLGWMTLVLSFSPNLTTLNLMIYLMLTSSMFLMMT
+                     TLNSTNINKLSTSWLKAPLLASSMMITLMALGGLPPTSGFLPKWLILQEMTKQHLGAV
+                     STLMAMSALLSLFFYLRLSYAISLTTAPNTSNSNMTWRMTHTQMQTLPMMITLTTMML
+                     PITPTLLAMLN"
+ORIGIN      
+        1 ccgtatgcac tatcaatcct gttgtcgagc ctagcagtag gaacaattac aactctctca
+       61 agctcccatt gatttctggc atgagtagga ctagaaatta acacactagc aataaccccg
+      121 ctaataacaa aaacacacca cccacgatca acagaatcag ccacaaaata cttcctaacg
+      181 caagccgccg catcagcctt aatcttattt tctacaatca taaacgcatg gaccacagga
+      241 gaatgaacaa ttatcaccat aaatgacaac tcatcaacat ttatattaac agttgcccta
+      301 gctattaaac ttggagtcgc cccttttcat ctatgactac cagatgtcat acaagggtta
+      361 aacctaacaa catgcctaat ccttgcaaca tgacaaaaat tagccccaat atccttaata
+      421 attataatca accaccaatt aaacacaaac ctcctaatta caatagccgt attatccgca
+      481 gtaattggag gatgaggtgg acttaaccaa acacaaatcc gaaaaataat agcatattca
+      541 tctatcgccc acctcgggtg aatgacacta gtcctatcct tctccccaaa tttaacaacc
+      601 cttaacctaa taatttacct aatactaaca tcatcaatgt tcttaataat aacaacccta
+      661 aactcaacaa atattaacaa actttcaaca tcttgactga aggccccact actagcatca
+      721 tcaataataa ttacactcat agccctaggg ggcctacccc ccacatcagg gttcctacca
+      781 aaatggctca tcctacaaga aataaccaaa caacacctag gagctgtatc cacactaata
+      841 gctatatctg cactactaag cctattcttc tacctacgac tatcatatgc aatctcacta
+      901 actaccgcac caaacacatc aaactctaac ataacctgac gaataaccca cacccaaata
+      961 caaaccctac caataataat tacactgact acaataatac taccaatcac gccaacacta
+     1021 ctagcaatac taaactaa
+//
+

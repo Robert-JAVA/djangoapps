@@ -1,0 +1,65 @@
+LOCUS       DQ821260                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Triturus pygmaeus isolate 272 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821260
+VERSION     DQ821260.1  GI:110704176
+KEYWORDS    .
+SOURCE      mitochondrion Triturus pygmaeus (southern marbled newt)
+  ORGANISM  Triturus pygmaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Triturus pygmaeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="272"
+                     /specimen_voucher="ZMA7676"
+                     /db_xref="taxon:171367"
+                     /country="Spain"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG88008.1"
+                     /db_xref="GI:110704177"
+                     /translation="MAHTMRKTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYLGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPTGISSNQDK
+                     ISFHPYFSYKDALGFLLMLLILVLISLLTPNLLGDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aacccacccc ttactaaaaa ttatcaacgg ctcattcatt
+       61 gatctcccaa caccatctaa catctcatac tgatgaaatt ttggttctct cctaggcatc
+      121 tgcttaatca cacagattct tacagggcta ttcctagcaa tgcactacac agcagacaca
+      181 caatcagcat tttcatctgt tgcccatatt tgccgagatg taaactatgg ctgactagta
+      241 cgaaacatcc atgctaacgg ggcctcacta ttcttcatct gcatttacct gcacattgga
+      301 cgtggcttgt actacggctc ctacatattc aaagagacct gaaacatcgg cgtaattcta
+      361 ttattcttag ttatggccac tgcttttgtc ggctacgtcc taccatgagg gcaaatatca
+      421 ttttgaggcg ccacagtcat tactaatctt ctctcagcta tcccatatct aggggattct
+      481 cttgtacaat gaatctgagg tgggttttca gtagataagg caacacttac acgatttttt
+      541 gcattccact tcttattccc tttcttaatt gcaggagcta gcatcgttca ccttcttttc
+      601 cttcaccaaa ctgggtcaaa caacccaaca ggaatttctt ctaatcaaga caaaatttct
+      661 tttcatccat acttctctta taaggatgcc ttaggatttc tactcatact gcttatctta
+      721 gtattaattt cccttcttac accaaacctt ctcggagacc cagaaaactt tacccccgca
+      781 aactccttag ttacccctcc ccacatccaa ccagaatga
+//
+

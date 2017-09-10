@@ -1,0 +1,90 @@
+LOCUS       NEWSPA                  1807 bp    mRNA    linear   VRT 05-OCT-2006
+DEFINITION  Cynops pyrrhogaster sonic hedgehog mRNA for secretion protein
+            (sonic hedgehog protein), complete cds.
+ACCESSION   D63339
+VERSION     D63339.1  GI:1236743
+KEYWORDS    secretion protein; sonic hedgehog protein.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Takabatake,T., Takahashi,T.C., Inoue,K., Ogawa,M. and Takeshima,K.
+  TITLE     Activation of two Cynops genes, fork head and sonic hedgehog, in
+            animal cap explants
+  JOURNAL   Biochem. Biophys. Res. Commun. 218 (1), 395-401 (1996)
+   PUBMED   8573168
+REFERENCE   2  (bases 1 to 1807)
+  AUTHORS   Takabatake,T., Takahashi,T., Inoue,K., Ogawa,M., Kobayashi,T. and
+            Takeshima,K.
+  TITLE     Molecular Studies of Cynops Embryo: Temporal Alteration of
+            Competence to Activin and the roles of Sonic Hedgehog in Neural and
+            Eye Differentiation
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1807)
+  AUTHORS   Takabatake,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-1995) Takashi Takabatake, Nagoya University,
+            Radioisotope Research Center; Furo-cho, Chikusa, Nagoya, Aichi
+            464-8602, Japan (E-mail:j45998a@nucc.cc.nagoya-u.ac.jp,
+            Tel:81-52-789-2573, Fax:81-52-789-2567)
+FEATURES             Location/Qualifiers
+     source          1..1807
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /dev_stage="Embryo"
+                     /note="Common name: Japanese newt"
+     mRNA            1..1807
+                     /standard_name="sonic hedgehog"
+     CDS             248..1546
+                     /standard_name="sonic hedgehog protein"
+                     /codon_start=1
+                     /product="Secretion protein"
+                     /protein_id="BAA09657.1"
+                     /db_xref="GI:1236744"
+                     /translation="MDEMILLRRVLLAGFICALLVPSGLSCGPGRGIGTRKRFKKLTP
+                     LAYKQFTPNVPEKTLGASGRYEGKITRNSERFKELTPNYNPDIIFKDEENTGADRLMT
+                     QRCKDKLNALAISVMNQWPGVKLRVTEGWDEDGHHFEESLHYEGRAVDITTSDRDRSK
+                     YGMLARLAAEAGFDWVYFESKAHIHCSVKAENSVAAKSGGCFPGSATVALEQGVRIPV
+                     KDLRPGDRVLAADGLGKLVYSDFLLFMDKEETVRKVFYVIETSRERVRLTAAHLLFVG
+                     QAHPGNDSGGDFRSVFGSAGFRSMFASSVRAGHRVLTVDREGRGLREATVERVYLEEA
+                     TGAYAPVTAHGTVVIDRVLASCYAVIEEHSWAHWAFAPLRVGLGILSFFSPQDYSSHS
+                     PPAPSQSEGVHWYSEILYRIGTWVLQEDTIHPLGMAAKSS"
+     sig_peptide     248..325
+     polyA_site      1807
+ORIGIN      
+        1 cggtagcgtc cattaaaatc agatctcgtc tgcttttttt tgccccctga ttgctgcctt
+       61 gacacccaac tccgatgtgt tcggctgcca gcgcccagag agcctgtctt ttcagcacct
+      121 gcgtggatag ggaccggcgg atggtgcagc actgaagggg cagccgatac ggggccaggt
+      181 ggtgcgcgcg aggagccagc agcacaagtg ccgcggaccc agggtggggg aagttcgcga
+      241 cccctgtatg gacgagatga ttctccttag gcgagtcctg ctggcggggt tcatctgcgc
+      301 cctcctggtg ccctcggggc tgagctgcgg gccgggcaga ggcattggca caaggaaacg
+      361 cttcaagaag cttaccccac tggcatacaa gcagttcacc cccaacgtgc ccgagaagac
+      421 cctgggggcc agtggacgtt atgagggcaa gatcacgcgc aactcggagc gcttcaagga
+      481 gctaaccccc aattacaacc ccgacattat ttttaaggat gaggagaaca cgggagcgga
+      541 caggctgatg acccagaggt gtaaggataa gctgaatgcc ctggcgatct ctgtgatgaa
+      601 ccagtggcct ggagtcaagt tgcgggtgac cgagggctgg gatgaggacg gccaccattt
+      661 tgaggagtcc ctgcactacg agggccgggc ggtggacatt accacctcgg accgggaccg
+      721 cagcaagtat ggcatgctgg cccgcctggc cgcggaggct ggcttcgact gggtctactt
+      781 tgagtccaag gcccacatcc actgctcagt gaaagcagag aactcggtag ctgcaaaatc
+      841 gggaggctgc ttcccaggct ctgccacggt ggccttggag caaggggtga ggattcccgt
+      901 gaaggacctg aggccggggg acagggtgct cgccgcggat ggcctgggca agctggtcta
+      961 cagcgacttc cttttgttca tggataagga ggagacggtc aggaaagtct tctacgtgat
+     1021 agagacctct cgggagaggg tccgtctgac cgccgctcac ctcctctttg taggccaggc
+     1081 gcacccagga aacgacagtg ggggcgactt ccggtccgtg ttcggcagcg caggcttccg
+     1141 ctccatgttc gccagcagcg tgcgagcggg ccaccgggtg ctcacagtgg accgggaagg
+     1201 ccgggggcta agggaagcca ctgtggagcg agtctacctg gaggaggcca cgggggccta
+     1261 cgctcccgtc actgcacacg ggacagtggt catagacagg gtgctggcct cctgctacgc
+     1321 ggtcatagag gaacacagct gggcgcactg ggccttcgcc cctctgagag tgggcttagg
+     1381 gatcttgtct ttcttctctc cccaagacta ctccagccat tccccgccag cgccctctca
+     1441 gtcagaggga gtccactggt actcggagat cctctaccgg atagggacat gggtgttaca
+     1501 ggaggacact atccacccat tgggaatggc agcaaagtcc agctgaaaaa cagcctggga
+     1561 gccagtttaa agactttcag aacaataaaa acaaaagtag gactgtccaa agtagacatt
+     1621 aagtaaacaa agaccccgga agtttgtttt tctttgttat gtttatacct ttattgttgt
+     1681 agtccttatt tgttccgttg tttccttgcc tgttggatat ttatttcttc gggaatgcca
+     1741 gatgagccca gctgaaagcc aatgtcttca aagcgctaaa ataatagaaa taaaagcagg
+     1801 acactcc
+//
+

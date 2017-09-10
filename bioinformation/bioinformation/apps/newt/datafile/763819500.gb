@@ -1,0 +1,75 @@
+LOCUS       KJ855096                1376 bp    DNA     linear   VRT 07-MAR-2015
+DEFINITION  Salamandrella tridactyla recombination activating protein 1 (RAG1)
+            gene, partial cds.
+ACCESSION   KJ855096
+VERSION     KJ855096.1  GI:763819500
+KEYWORDS    .
+SOURCE      Salamandrella tridactyla (Schrenck's Siberian newt)
+  ORGANISM  Salamandrella tridactyla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Cryptobranchoidea; Hynobiidae;
+            Salamandrella.
+REFERENCE   1  (bases 1 to 1376)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V. and Denisova,G.A.
+  TITLE     Phylogenetic Relationships among Asiatic Salamanders of the Genus
+            Salamandrella Based on Variability of Nuclear Genes
+  JOURNAL   Russ. J. Genet. 51 (1), 91-97 (2015)
+REFERENCE   2  (bases 1 to 1376)
+  AUTHORS   Malyarchuk,B.A., Derenko,M.V. and Denisova,G.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAY-2014) Genetics Laboratory, Institute of
+            Biological Problems of the North, Portovaya street, 18, Magadan
+            685000, Russia
+FEATURES             Location/Qualifiers
+     source          1..1376
+                     /organism="Salamandrella tridactyla"
+                     /mol_type="genomic DNA"
+                     /isolate="26"
+                     /db_xref="taxon:476251"
+                     /country="Russia: Primorye region"
+     gene            <1..>1376
+                     /gene="RAG1"
+     mRNA            <1..>1376
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1376
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AJQ31859.1"
+                     /db_xref="GI:763819501"
+                     /translation="GYHPFEWKPPLKNVSANTDVGIINGLSGLVQSVDDYPVDTISKR
+                     FRYDVALVSTLKDMEEDILEGLKDQDLDDYLSGPFTVVVKESCDGMGDVSEKHGCGPA
+                     VPEKAVRFSFTVMTIAVPHNGGNVRIFEESKPNSELCCKPLCLMLADESDHETLTAIL
+                     SPLIAEREAMKGSELMLEVGGILRTFKFVFRGTGYDEKLVREVEGLEASGSIYICTLC
+                     DSTRLEASQNIVLHSITRSHTENLERYEMWRSNRHHESADELRDRVKGVSAKPFIETL
+                     PSIDALHCDIGNATEFYKIFQLEIGEVFKNPEASKEERKRWQSTLDKHLRKKMNLKPI
+                     MRMNGNFARKLMAKETVDAVCELVHTEERRAALRELMDLYLKMKPVWRSSCPAKECPE
+                     LLCQYSFNSQRFAELLSTKFKYRYEGKITNYFHKTLAHVPEIIERDGSIGAWASEGNE
+                     SGNKLFRR"
+ORIGIN      
+        1 ggctatcacc catttgaatg gaaacctcct ctgaaaaatg tgtctgccaa cacagatgtg
+       61 ggcatcataa atggactgtc aggtctggtg cagtctgtgg acgactaccc agtagataca
+      121 atctcgaaac gattcaggta cgatgttgca ctggtctcca ccttgaagga catggaagag
+      181 gacattctgg aaggcctgaa agatcaagac ctggatgact acctgagcgg cccatttaca
+      241 gtggtcgtca aagaatcctg tgacgggatg ggagatgtca gtgagaagca tggatgtggc
+      301 ccggcggtcc cagaaaaggc agttcgcttt tccttcactg tcatgaccat tgcggttcct
+      361 cacaatggag gcaacgtgag gatttttgaa gaaagcaagc ccaactccga gctgtgctgc
+      421 aaacctctat gcctcatgct ggccgatgaa tctgaccatg agacactgac cgcgatcttg
+      481 agccccctca tagctgaaag agaggcaatg aaaggtagcg aactaatgct tgaagtggga
+      541 ggcatactca gaacattcaa attcgtattc aggggcacgg gatatgatga aaagcttgtg
+      601 agggaagttg aaggccttga ggcctccggt tccatatata tctgtaccct gtgtgactct
+      661 acccgcctgg aagcatccca aaacattgtc cttcactcca tcaccaggag ccatactgag
+      721 aaccttgagc gctatgagat gtggaggtct aacagacacc atgagtccgc cgatgagctc
+      781 agggacagag tgaagggagt ttctgccaag cccttcattg aaaccctccc ttcgattgat
+      841 gcgttgcact gtgatattgg gaatgcgaca gagttctaca agatattcca actggagata
+      901 ggggaggttt tcaagaaccc tgaagcatcg aaagaggaac ggaagcggtg gcagtcgaca
+      961 cttgacaagc acctcaggaa gaagatgaac ctgaagccca tcatgaggat gaatgggaat
+     1021 tttgctcgga agctcatggc aaaggagacc gtcgatgcgg tttgtgaatt ggtacatacc
+     1081 gaagaaaggc gggctgctct gcgtgaactc atggacctct acctgaagat gaaaccagtg
+     1141 tggagatcct cctgcccggc caaggagtgc cctgagcttc tgtgccaata cagcttcaac
+     1201 tcacagcgct tcgctgagct cctgtccacc aagttcaagt acagatacga gggcaagatc
+     1261 actaactact tccacaaaac cctagcccac gtgcctgaga tcattgagag agatggctcc
+     1321 attggggcct gggccagtga agggaacgaa tccggcaaca aactgttcag acgttt
+//
+

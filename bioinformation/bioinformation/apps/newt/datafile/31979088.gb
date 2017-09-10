@@ -1,0 +1,43 @@
+LOCUS       AY291454                 450 bp    DNA     linear   VRT 17-NOV-2003
+DEFINITION  Notophthalmus viridescens microsatellite Nvi7 sequence.
+ACCESSION   AY291454
+VERSION     AY291454.1  GI:31979088
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 450)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Seven polymorphic microsatellite DNA loci from the red-spotted newt
+            (Notophthalmus viridescens)
+  JOURNAL   Mol. Ecol. Notes 3 (4), 514-516 (2003)
+REFERENCE   2  (bases 1 to 450)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2003) Savannah River Ecology Laboratory, Drawer
+            E, Aiken, SC 29802, USA
+FEATURES             Location/Qualifiers
+     source          1..450
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /clone="1-3E"
+     primer_bind     73..88
+     repeat_region   124..141
+                     /note="microsatellite Nvi7"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="ct"
+     primer_bind     complement(173..193)
+ORIGIN      
+        1 acccccatcg ttaccgcttc cttctgtgct actgtggctg cagmtgytyt tcaagtgcaa
+       61 tccgtcccca gttgccttgc tgtgattcca tgttytggcc cggattcttt ctgtcctttt
+      121 tgtctctctc tctctctctc tatccttatt ttgctttttc ttatggtaga ggagtatgtg
+      181 agcttgaatg tcctgccagg gtttgatatc taactactct atccaggccg ttctgtattt
+      241 cagtgggtaa gcctttcttc agaatgttat akaaaaatgt gacttgtggg cccgtgttgg
+      301 cccacggctg tccggtttcc tgtccccatc tttccctgat tctatttagg aaatggttta
+      361 tgctttcctc tggcttcatg gtctctgcct ttagccctcc tacatctcgg cggtcaggga
+      421 atatctctct ccgagagatc cgggtcctgt
+//
+

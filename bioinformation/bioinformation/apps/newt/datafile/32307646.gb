@@ -1,0 +1,45 @@
+LOCUS       AY314996                 351 bp    mRNA    linear   VRT 02-JUL-2003
+DEFINITION  Notophthalmus viridescens retinoic acid receptor beta-2 mRNA,
+            partial cds.
+ACCESSION   AY314996
+VERSION     AY314996.1  GI:32307646
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 351)
+  AUTHORS   Bourque,B.M., Carter,C.J., Skandalis,A., Toltl,L.J., Spencer,G.E.
+            and Carlone,R.L.
+  TITLE     Notophthalmus viridescens brain and spinal cord putative retinoic
+            acid receptor beta mRNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 351)
+  AUTHORS   Bourque,B.M., Carter,C.J., Skandalis,A., Toltl,L.J., Spencer,G.E.
+            and Carlone,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2003) Biology, Brock University, 500 Glenridge,
+            St. Catharines, ON L2S3A1, Canada
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             <1..>351
+                     /codon_start=2
+                     /product="retinoic acid receptor beta-2"
+                     /protein_id="AAP79220.1"
+                     /db_xref="GI:32307647"
+                     /translation="WIESLEMTAELDDLTEKIRKAHQETFPSLCQLGKYTTNSSAEQR
+                     IRLDLGLWDKFSELATKCIIKIVEFAKRLPGFTSLTIADQITLLKAACLDILILRICT
+                     RYTPEQDTMTFSDGL"
+ORIGIN      
+        1 atggatcgag agcctcgaga tgacggccga gctggacgac ctcaccgaga agatccgaaa
+       61 agctcatcag gaaaccttcc cctctctttg ccagctcggc aagtacacca cgaattccag
+      121 tgctgaacag cgaatccggc ttgacctcgg actttgggac aaatttagtg agcttgcaac
+      181 taagtgcatt atcaaaattg tggaatttgc aaagcggttg cccggcttta ccagcttaac
+      241 catcgcagac cagatcacac tactaaaggc agcatgcctg gatatcttga ttctgcgaat
+      301 ttgcacccgg tacacacctg agcaggacac tatgaccttt tctgatggcc t
+//
+

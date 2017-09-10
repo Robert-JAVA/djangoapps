@@ -1,0 +1,50 @@
+LOCUS       DQ196258                 368 bp    DNA     linear   VRT 04-OCT-2006
+DEFINITION  Taricha torosa torosa voucher MVZ 217918 cytochrome b gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ196258
+VERSION     DQ196258.1  GI:75857983
+KEYWORDS    .
+SOURCE      mitochondrion Taricha torosa torosa
+  ORGANISM  Taricha torosa torosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 368)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Lineage diversification on an evolving landscape: phylogeography of
+            the California newt, Taricha torosa (Caudata: Salamandridae)
+  JOURNAL   Biol. J. Linn. Soc. Lond. 89 (2), 213-239 (2006)
+REFERENCE   2  (bases 1 to 368)
+  AUTHORS   Kuchta,S.R. and Tan,A.-M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2005) Integrative Biology, Museum of Vertebrate
+            Zoology (University of California, Berkeley), 3101 Valley Life
+            Science Bldg, Berkeley, CA 94720-3160, USA
+FEATURES             Location/Qualifiers
+     source          1..368
+                     /organism="Taricha torosa torosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="13_Alameda"
+                     /sub_species="torosa"
+                     /specimen_voucher="MVZ 217918"
+                     /db_xref="taxon:344926"
+     CDS             <1..>368
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABA28566.1"
+                     /db_xref="GI:75857984"
+                     /translation="PLMKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLFLA
+                     MHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFK
+                     ETWNIGVILLFLVMATAFVG"
+ORIGIN      
+        1 cccacttata aaaatcatta acaactcatt tattgacctc cccacaccat caaacatctc
+       61 ctattgatga aacttcggct ctctcctagg agtctgcctc atcacacaga tccttacagg
+      121 cctatttctg gctatacact acacagcaga cacccagtca gcattttcat cagtagccca
+      181 catctgccga gatgtaaact acggctgact agtgcgaaac atccacgcca acggggcctc
+      241 attatttttt atctgcatct acctacacat cgggcgcggc ctatactacg gctcatacat
+      301 atttaaagag acctgaaaca ttggcgttat cctgctcttc ctagtaatgg ccaccgcctt
+      361 tgtggggt
+//
+

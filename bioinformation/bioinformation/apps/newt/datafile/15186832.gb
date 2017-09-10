@@ -1,0 +1,58 @@
+LOCUS       AF295684                 691 bp    DNA     linear   VRT 24-APR-2002
+DEFINITION  Tylototriton taliangensis isolate Ttal1 cytochrome b (cytb) gene,
+            partial cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF295684
+VERSION     AF295684.1  GI:15186832
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton taliangensis (Taliang knobby newt)
+  ORGANISM  Tylototriton taliangensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Relationships of the Salamandrid Genera Paramesotriton,
+            Pachytriton, and Cynops Based on Mitochondrial DNA Sequences
+  JOURNAL   Copeia 2001 (4), 997-1009 (2001)
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Chan,L.M., Zamudio,K.R. and Wake,D.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-AUG-2000) Museum of Vertebrate Zoology, University of
+            California at Berkeley, 3101 Valley Life Sciences Building,
+            Berkeley, CA 94720, USA
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Tylototriton taliangensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ttal1"
+                     /db_xref="taxon:129885"
+     gene            <1..>691
+                     /gene="cytb"
+     CDS             <1..>691
+                     /gene="cytb"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAK91162.1"
+                     /db_xref="GI:15186833"
+                     /translation="DLPTPSNISYWWNFGSLLGICLITQIVTGLFLAMHYTADTYSAF
+                     SSVAHICRDVNYGWLVRNIHANGASLFFICIYLHIGRGLYYGSYMFKETWNVGVILLL
+                     LVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDSLVQWIWGGFSVDKATLTRFF
+                     AFHFLFPFLIAGTSIVHLLFLHETGSNNPTGVMSEGDKIPFHPYFSYKDILGFLLMLL
+                     TLVSISLLAPNL"
+ORIGIN      
+        1 cgaccttcca acgccgtcaa acatctcata ttgatgaaac tttggctccc tcttaggcat
+       61 ttgcctcatc acacaaattg taacaggact atttctagca atacactaca cagcagacac
+      121 atactcagca ttttcatcag tcgctcatat ttgtcgagac gtaaactacg ggtgacttgt
+      181 acgaaacatt cacgcaaacg gagcctcact cttcttcatc tgcatctacc ttcacatcgg
+      241 acgaggccta tactatggtt cttatatatt taaagagaca tgaaacgtcg gcgtaatcct
+      301 actactccta gtcatagcca cagcctttgt cggatacgtc ctcccatgag gacaaatatc
+      361 cttctgaggg gccacagtca ttacaaacct actctcagca atcccgtaca taggagactc
+      421 actagtacag tgaatctgag gtggcttttc agtagacaaa gccaccctaa cccgattctt
+      481 tgcgttccat tttctattcc cattcctgat cgccggaaca agcattgtcc acctcttatt
+      541 cctccacgaa acgggctcaa ataacccaac aggggttata tcagaaggag acaaaatccc
+      601 atttcacccc tacttttcat acaaagacat cctaggattt ctgctaatat tgttaacctt
+      661 agtatccatc tcattattgg ccccaaacct c
+//
+

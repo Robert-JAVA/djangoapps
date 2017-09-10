@@ -1,0 +1,51 @@
+LOCUS       KM463829                 565 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Lissotriton vulgaris sodefrin precursor-like factor beta (Cloa_07)
+            pseudogene mRNA, partial sequence.
+ACCESSION   KM463829
+VERSION     KM463829.1  GI:695943354
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 565)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8324"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..565
+                     /gene="Cloa_07"
+                     /note="sodefrin precursor-like factor beta; LiVu_Cloa_07"
+                     /pseudogene="unknown"
+ORIGIN      
+        1 tggaggtcag attgcctgtt ttgcgagcag tgtcttgcta ccggcagcag ccaatgctca
+       61 gggatcttca agcaatgctc cctgacgtca ctcactgcat caaaggactg gagaacagca
+      121 cagttgggag taatgttatt ctaactgcat tcaaggactg tctggatcct tcctagaaaa
+      181 gagtctgcga aagagactta acccttaaga cctcagttgc ctatttagga attcgcagaa
+      241 cttgctgcga ctctgacttc tgcaatggag gagatgtgca aatgcctgct gtagacgaaa
+      301 cccccaatgg atacaaatgt gaggattgtt tcactaccga gactgtggac ccctgcagag
+      361 gggctggagc agttcagtgt accggggagc tcaacacctg taccagcttc tctggaactg
+      421 ccgcaagacc tggaaaggca gatcctggaa gctgtggaga tgaacagtcg ataaactact
+      481 tgttcttaca cctacctggt ttggcctaat tatggcaaaa ttggcggcga ggtgactgtt
+      541 cctctctcca cccacgtgtg cagca
+//
+

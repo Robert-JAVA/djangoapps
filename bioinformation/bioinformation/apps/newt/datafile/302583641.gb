@@ -1,0 +1,75 @@
+LOCUS       GU301783                1219 bp    DNA     linear   VRT 16-AUG-2010
+DEFINITION  Cynops orientalis isolate CIB88167 tRNA-Met gene, partial sequence;
+            NADH dehydrogenase subunit 2 (ND2) gene, complete cds; and tRNA-Trp
+            and tRNA-Ala genes, complete sequence; mitochondrial.
+ACCESSION   GU301783
+VERSION     GU301783.1  GI:302583641
+KEYWORDS    .
+SOURCE      mitochondrion Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1219)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     A new newt of the genus Cynops (Caudata: Salamandridae) from Fujian
+            Province, southeastern China
+  JOURNAL   Zootaxa 2346, 42-52 (2010)
+REFERENCE   2  (bases 1 to 1219)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1219
+                     /organism="Cynops orientalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CIB88167"
+                     /db_xref="taxon:137245"
+     tRNA            <1..44
+                     /product="tRNA-Met"
+     gene            45..1082
+                     /gene="ND2"
+     CDS             45..1082
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADL57129.1"
+                     /db_xref="GI:302583642"
+                     /translation="MSPYTLSVLMSSLAVGTITTLSSYHWFLAWMGLEINTLAMIPLM
+                     TKLHHPRATESATKYFLTQATASALILFSTIMNAWMTGEWTIINMNHFTSTTILTIAL
+                     AIKLGVAPFHLWLPDVLQGLNMMTCLILSTWQKLAPMALLILTSHHLNTNLLILMALT
+                     SMIVGGWGGLNQTQVRKIMAYSSIAHLGWMVMIMPFTPNLALLNLLVYIILTSSMFLT
+                     LMALNSTNMNKLSISWLKTPTLAALSMVVLMALGGLPPTSGFLPKWLILQEMTKQHLN
+                     ALSVIMAMSALLSLFFYLRLSYTISLTSPPHISNSNLTWRKKNNLQLIPMMITLSMMM
+                     MPVTPMLLMMN"
+     tRNA            1081..1149
+                     /product="tRNA-Trp"
+     tRNA            complement(1151..1219)
+                     /product="tRNA-Ala"
+ORIGIN      
+        1 gggcccatac cccaaatatg ttggtgaaac tccatctttt actaatgagc ccatatacac
+       61 tatccgtatt gatatcaagt ctcgcagtcg gaacgattac caccctatca agctatcact
+      121 gatttttggc atgaataggg ttagaaatta atacactggc tataatcccg ttaataacaa
+      181 aattacacca tccacgagcc acagagtccg caacaaaata ttttttaaca caagccacag
+      241 cctccgcctt aattctcttc tcaacaatta taaacgcgtg gataacaggg gaatggacaa
+      301 ttattaacat aaaccatttc acatcaacaa caattttaac aattgcccta gcaattaaac
+      361 taggagttgc accctttcac ctgtgactac ctgacgtcct acaggggtta aacataataa
+      421 catgcttaat tttatcaaca tgacaaaaac tagccccaat ggccctactt attttaacaa
+      481 gccaccatct aaatacaaac ttactgattt taatagcact aacatctata attgtagggg
+      541 gatgaggggg cctaaatcaa acacaagtac gaaaaattat agcatactca tccattgcac
+      601 atctaggttg aatagttata attatacctt ttaccccaaa tctagcacta ctaaacctat
+      661 tagtttatat tatcctaact tcctctatat ttttaacatt aatagcttta aattcaacaa
+      721 acataaacaa actctcaatc tcgtgactaa aaacaccaac attagcagcc ttgtcaatgg
+      781 tagtccttat agccttgggc ggactcccac caacatcagg atttttacca aaatggttaa
+      841 ttttacaaga aataaccaag caacatctta atgcactatc tgttattata gccatatcgg
+      901 ccctacttag cttatttttt tatctccgct tatcatacac aatctcacta acctcgcccc
+      961 ctcacatctc aaactcaaac cttacctgac gaaaaaaaaa taatcttcaa cttatcccta
+     1021 taatgattac attgtccata ataataatac cagtaactcc aatactacta ataataaatt
+     1081 aaggacttag gataataaga ccaaaggcct tcaaagcctt aagtagaagt taaaatcttc
+     1141 tagtctttga taaaacctgc aggacactac cccacatctt ctgaatgcaa cccagacact
+     1201 ttaattaagc taagacctt
+//
+

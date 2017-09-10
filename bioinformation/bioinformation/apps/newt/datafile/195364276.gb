@@ -1,0 +1,99 @@
+LOCUS       EU872027                3376 bp    mRNA    linear   VRT 06-AUG-2008
+DEFINITION  Pleurodeles waltl SOX9 mRNA, complete cds.
+ACCESSION   EU872027
+VERSION     EU872027.1  GI:195364276
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 3376)
+  AUTHORS   Kuntz,S. and Dumond,H.
+  TITLE     Pleurodeles waltl Sox9 partial cDNA sequence
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3376)
+  AUTHORS   Kuntz,S. and Dumond,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUL-2008) EA3442 Aspects Cellulaires et Moleculaires
+            de la Reproduction et du Developpement, Nancy-Universite, Boulevard
+            des Aiguillettes - Bp239, Vandoeuvre les Nancy 54506, France
+FEATURES             Location/Qualifiers
+     source          1..3376
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             1..1440
+                     /codon_start=1
+                     /product="SOX9"
+                     /protein_id="ACF95883.1"
+                     /db_xref="GI:195364277"
+                     /translation="MNLLDPFMKMTEEQEKCLSGAPSPSMSEDSVGSPCPSGSSSDAE
+                     NTRPMENGFPKGELQELKKENEEDKFPVCIREAVSQVLKGYDWTLVPMPVRVNGSSKN
+                     KPHVKRPMNAFMVWAQAARRKLADQYPHLHNAELSKTLGKLWRLLNEGEKRPFVEEAE
+                     RLRVQHKKDHPDYKYQPRRRKSVKNGQAETEEGSEQTHISPNAIFKALQADSPHSSSG
+                     MSEVHSPGEHSGQSQGPPTPPTTPKTDVQPGKPDLKREGRPLQEEGRQPPHIDFGDVD
+                     ISVLSSDVISNFTPIDIQEFDQYLPPNSHPGVPTTHGQAGPGTYTNSYGAGNTAAPQP
+                     GAPAHAWLAKQQQQHTLTTLGSEQSQAQQRTHIKTEQLSPTHYSEQQQHSPQQLSYSP
+                     FNLQHYNSTYPTITRAQYDYTDHQSSNTYYSHAAGQSSNLYSTFSYMNPTQRPMYTPI
+                     ADTTGVPSIPQTHSPQHWEQPVYTQLTRP"
+ORIGIN      
+        1 atgaatctcc tagacccctt catgaaaatg accgaggagc aggagaagtg cctgtctgga
+       61 gcccccagcc cctccatgtc cgaggactcg gtgggctcgc cctgcccctc gggctccagc
+      121 tcggacgccg agaacacccg gcccatggag aacggcttcc cgaagggcga gctgcaggag
+      181 ctgaagaagg agaacgagga agacaagttc cccgtctgca tccgcgaggc ggtcagccag
+      241 gtgctgaagg gctacgactg gaccctggtg cccatgcccg tgcgggtgaa cggctccagc
+      301 aagaacaagc cgcacgtcaa gcggcccatg aacgccttca tggtgtgggc gcaggcggcg
+      361 cgcaggaagc tggccgacca gtacccgcac ctgcacaacg ccgagctcag caagacactg
+      421 ggcaagctct ggaggctgct gaatgagggc gagaagcgcc cctttgtgga ggaagcagag
+      481 agactgcgtg tccagcacaa gaaggaccac ccggactaca agtaccagcc ccgcaggcgg
+      541 aagtctgtga agaacggcca ggcggagacg gaggagggct ccgagcaaac gcacatctct
+      601 cccaacgcca tcttcaaggc gctgcaggcc gactcaccgc actcatcatc cggcatgagc
+      661 gaggtgcact cgcccggaga gcactctggc cagtcccagg gtccacccac acctccaact
+      721 accccaaaaa ccgacgttca gccagggaaa cctgacctga agcgggaagg acgccctctc
+      781 caggaggaag ggagacagcc tccccacatt gacttcgggg atgtggacat ctcggtgctg
+      841 agcagtgacg tcatctctaa ctttactccc atcgacatcc aggagtttga tcaatacctt
+      901 ccgcccaaca gccaccctgg tgtgcccaca acccatgggc aggctggacc aggtacctat
+      961 accaacagct acggggctgg caacacagca gctccccaac ctggggctcc agcccatgcc
+     1021 tggctggcca aacagcaaca gcagcacacg ttgaccacac tgggcagcga gcagagccag
+     1081 gcgcagcaga ggacacacat caagaccgaa caacttagcc ccacacacta cagcgagcag
+     1141 cagcagcact ccccccagca gctgagctac agcccgttca acctgcagca ctacaactct
+     1201 acctacccta ctattacacg tgcgcagtat gactacaccg accaccagag ctctaacacc
+     1261 tactacagcc acgctgctgg ccagagctcc aacctctact ccactttctc ctacatgaac
+     1321 cccactcagc gccccatgta tacccctatt gctgacacaa caggggttcc ctccattcca
+     1381 cagacccaca gcccccagca ctgggagcag ccagtctata cacagctcac ccggccttag
+     1441 atgccttaag ctgctcccaa gacttatgag acatggaagg ggccatcgtg gttgagaacc
+     1501 atgttggaag gtccaagaac ttgtcctctg cactacagct tgggctcaga agagtggtca
+     1561 gacgaacatt cgaaggggat tgttgccccc tctggatcag gtggacttgg tacattccag
+     1621 gggtcatctc ggaagtgaac tgtgatcttt ggtcacaaca ggactggaac ggaagaaaat
+     1681 aaagagttag gataactagc tcattttcaa gcgttttgtt ggccttatag aacttttttg
+     1741 taattatttt tatataacaa caactaagga aatcaaaaga gaaaatcctc tgtgaggaat
+     1801 attttccaat tgaatcccat gggtgtaatt ctgcaggaga aaagggacag gctttacctc
+     1861 tgaatccgtc ccactggcag cctcagaaac atgcctgctt ctgcttaacc ggcctttgtg
+     1921 tgcagaatta aatccacaca ttgtagtata tactgtgtat gtttcatcac ttttttgtga
+     1981 cgagttctac attatttttg ggaaatgctt ttataatgct cttaatgctc tccttccaat
+     2041 acactatttc ctcctggtgc tgtataccct gctttcttgc aatcgaagat atttttgtac
+     2101 aactctcttt ccattacctg aaaaagctaa cctttatttt gtttagctat tgttcatttt
+     2161 gcatgtgtga tgctgaatga gatattgcct tgagaaagaa catttggatg taacttgttg
+     2221 gtttctggcc aactctgtca tagtaaagtc aggaagtaaa atagctttag aaatattttt
+     2281 tctaaaaaaa aattctctaa acaccagtag ccttatgggg gaaaggagtg ctttatataa
+     2341 tacataagtg acctttgaaa ctttggtact gaagggtgtt cactgggcgt atctaggctg
+     2401 gggatggcca aacctgcata ggccaaatct accatctgga gatttggcac agactcgtga
+     2461 atcaccagcc ccaccaccct gtgtgggaac catgtgcaca acagatgcgg caagtgtcct
+     2521 tatactgtca acacccacct cccagtgagg aatctctgca cacccttaag atattcacca
+     2581 catgtacatt atttattttg tactaaacca tatctgtaaa acgttttttt ttctggaaaa
+     2641 ttgctaaaaa aacgcgtctt tagatattga catgttgcca gagggtactc ttgtttactg
+     2701 ttaaattatg acttcacttc taaattgttt tttatttatc tctattcttc ttacatgttt
+     2761 catttgtttg ttttgtttga gcctgctccc ttcttgtttc tacaaacatg ttcctcttct
+     2821 gttgaaaaaa gttgtgtatt tttgatgggt ggattttgaa cctatgcaac acatcccact
+     2881 gtagtgcttc tgcttctcaa ctctttcatc aatccagcat ctccacagaa caccgtttcc
+     2941 atcccagttc ctcctaagca atatgctgta atgcccatgc aaaagaaaac gaaatgaaaa
+     3001 tgttattttt tttaaatgca gatgctttgc tagacttaca tccctgtagc tgagcatttc
+     3061 aataactgtt ttaaaagaga tcaacatata tttttcttta agaaaatgca cacttgtttt
+     3121 aacagtggta ggtggtcggt aaaattgaaa ttcaaagcac tcttttattg tgtcattttt
+     3181 catttctaag ttaaagtgcc cttttctttt attttaacgt atttctttaa cttaaaaatg
+     3241 ttttactttg aaaccatatt tctcctctgt aggtgaggtt tttttttaca aaaaagttct
+     3301 ttttgtgaaa gtaccccctt ttgtgtatta atgttttgca ataaatataa attgtatcaa
+     3361 aaaaaaaaaa aaaaaa
+//
+

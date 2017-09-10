@@ -1,0 +1,127 @@
+LOCUS       AB019787                2955 bp    RNA     linear   VRT 17-OCT-2008
+DEFINITION  Cynops pyrrhogaster CpTbx2 premature mRNA, partial cds, alternative
+            splicing.
+ACCESSION   AB019787
+VERSION     AB019787.1  GI:5931586
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Sone,K., Takahashi,T.C., Takabatake,Y., Takeshima,K. and
+            Takabatake,T.
+  TITLE     Expression of five novel T-box genes and brachyury during
+            embryogenesis, and in developing and regenerating limbs and tails
+            of newts
+  JOURNAL   Dev. Growth Differ. 41 (3), 321-333 (1999)
+   PUBMED   10400394
+REFERENCE   2  (bases 1 to 2955)
+  AUTHORS   Sone,K., Takeshima,K. and Takabatake,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-NOV-1998) Contact:Kiyoaki Sone Nagoya University,
+            Graduate School of Human Informatics; Furo-cho, Chikusa, Nagoya,
+            Aichi 464-8601, Japan
+FEATURES             Location/Qualifiers
+     source          1..2955
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="transcribed RNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="embryo"
+                     /dev_stage="gastrula"
+                     /tissue_lib="embryo"
+     gene            <1..1827
+                     /gene="CpTbx2"
+     CDS             <1..1827
+                     /gene="CpTbx2"
+                     /note="CpTbx2H;
+                     T-box family member; T-box domain"
+                     /codon_start=1
+                     /protein_id="BAA84721.1"
+                     /db_xref="GI:5931588"
+                     /translation="RMVITKSGRRMFPPFKVRVSGLDKKAKYILLMDIVAADDCRYKF
+                     HNSRWMVAGKADPEMPKRMYIHPDSPATGEQWMAKPVAFHKLKLTNNISDKHGFIHVW
+                     SGTRDTELRQEHPTYNTILNSMHKYQPRFHIVRANDILKLPYSTFRTYVFPETDFIAV
+                     TAYQNDKITQLKIDNNPFAKGFRDTGNGRREKRKQLTLPSLRMYEDHCRPDRDGAESD
+                     ASSCEPALGRDILNSPLSAEPSPLRLSRSIRDEKSCVDSDQEDLDKPEDRSVGSHSPE
+                     GEASLPNSPRLEEKGKDRPSPQKKDLSPDRHHHHHPHHHRKDTDSIFSIRHLEKDKIE
+                     SRRKDEPKKDLECGTLGKESFSPLMVQTDSPPHLSASHLQSLALSGFHGQHFFNPLGA
+                     GQPLFIHPGQFAMAPGAFSAMGMGHLLASVTGGSGLDNGALSSLQGAAGATSPFPFHL
+                     SQHMLASQGIPMPTFGGLFPYPYTYMAAAAAAASAAMPATSVASSLSRNPFLTTTRPR
+                     LRFSPYQIPVSIPPSTNLLTTGVPASLNPGSESSKPGSSRESSPLPEPPTLKSSHQRS
+                     ASSSLSPKTSIKYSINELQNIQRLVSGLESQREVSPGRETPK"
+     CDS             join(<1..294,355..1827)
+                     /gene="CpTbx2"
+                     /note="CpTbx2L;
+                     T-box family member; T-box domain"
+                     /codon_start=1
+                     /protein_id="BAA84720.1"
+                     /db_xref="GI:5931587"
+                     /translation="RMVITKSGRRMFPPFKVRVSGLDKKAKYILLMDIVAADDCRYKF
+                     HNSRWMVAGKADPEMPKRMYIHPDSPATGEQWMAKPVAFHKLKLTNNISDKHGFTILN
+                     SMHKYQPRFHIVRANDILKLPYSTFRTYVFPETDFIAVTAYQNDKITQLKIDNNPFAK
+                     GFRDTGNGRREKRKQLTLPSLRMYEDHCRPDRDGAESDASSCEPALGRDILNSPLSAE
+                     PSPLRLSRSIRDEKSCVDSDQEDLDKPEDRSVGSHSPEGEASLPNSPRLEEKGKDRPS
+                     PQKKDLSPDRHHHHHPHHHRKDTDSIFSIRHLEKDKIESRRKDEPKKDLECGTLGKES
+                     FSPLMVQTDSPPHLSASHLQSLALSGFHGQHFFNPLGAGQPLFIHPGQFAMAPGAFSA
+                     MGMGHLLASVTGGSGLDNGALSSLQGAAGATSPFPFHLSQHMLASQGIPMPTFGGLFP
+                     YPYTYMAAAAAAASAAMPATSVASSLSRNPFLTTTRPRLRFSPYQIPVSIPPSTNLLT
+                     TGVPASLNPGSESSKPGSSRESSPLPEPPTLKSSHQRSASSSLSPKTSIKYSINELQN
+                     IQRLVSGLESQREVSPGRETPK"
+     intron          295..354
+                     /gene="CpTbx2"
+                     /note="Neither 5' nor 3' splice site follows GT-AG rule"
+ORIGIN      
+        1 aggatggtca tcacaaagtc gggcaggcgg atgttccccc ccttcaaggt acgggtcagc
+       61 ggcctggaca agaaggccaa gtacatcctg ctgatggaca tcgtggcggc cgacgactgc
+      121 cgctacaagt tccacaactc gcgctggatg gtggccggca aggccgaccc cgagatgccg
+      181 aagcgcatgt acatccaccc ggacagcccg gccacgggcg agcagtggat ggcgaagccc
+      241 gtggccttcc acaagctgaa gctcaccaac aacatctcgg acaagcacgg cttcatccac
+      301 gtttggtctg gtacaaggga cacagagctc cgacaagaac acccaacata caataccatc
+      361 ctgaactcca tgcacaaata ccagccgcgt ttccacatcg tgcgagccaa cgacatcctg
+      421 aaactgcctt acagcacctt ccggacatac gtgttccccg agacggactt catcgccgtc
+      481 accgcctacc agaacgataa gatcacgcag ctgaagattg ataacaaccc gtttgcaaag
+      541 ggcttcaggg acacgggcaa tggaagacga gagaagagga agcagttgac tctgccctcc
+      601 ctgcggatgt atgaagacca ctgcagaccc gaccgagatg gggccgagtc ggatgcctcc
+      661 tcctgcgagc ctgccctggg cagagatatc ctgaactccc ccttgagcgc ggagcccagc
+      721 cccctgagac tcagccgcag cattagagat gagaaatctt gtgtggacag tgaccaggag
+      781 gacctggaca aacctgagga tcgctcggtg ggcagccaca gccccgaagg ggaagcatct
+      841 ttacccaaca gtcctaggct cgaagagaag gggaaggacc gtcccagccc acagaagaag
+      901 gacctatctc ccgaccgcca ccaccaccac cacccacacc accaccgcaa ggacaccgat
+      961 agcattttca gcatcagaca cttggagaaa gacaaaatag agagcagaag gaaggatgag
+     1021 cccaagaagg acctggagtg tgggaccttg ggcaaggaga gcttctcacc gctgatggta
+     1081 cagacagaca gtcctcccca cctgagtgcc agccacctgc agagccttgc cctgtccggc
+     1141 tttcatgggc agcacttttt taatccactt ggtgccggcc agcccttgtt tatccacccg
+     1201 ggacagtttg caatggcgcc tggagctttc tcggccatgg ggatggggca cctgctggcc
+     1261 tccgtgactg gcgggagtgg cctggacaat ggagctctat cctcgcttca gggagcggcc
+     1321 ggggccacct cacccttccc attccatctc tcccagcaca tgctggcgtc tcaggggatc
+     1381 ccaatgccca ccttcggtgg cctgtttcca tatccctaca cctatatggc tgcagcagcc
+     1441 gcagcagcgt cagcagccat gccagccacc agcgtggcca gctccctgtc caggaacccc
+     1501 ttcttgacca ctactcggcc tcgactccgc ttcagcccgt accagatacc cgtctccatc
+     1561 ccaccaagca ccaacctctt gaccacaggc gttcccgcca gcctcaaccc aggatccgag
+     1621 agctccaagc ccggcagcag cagagaatcc agccctctcc cggaaccccc aaccctcaag
+     1681 agcagccacc agagatctgc ctccagctct ctgtccccca aaacctccat caaatattcc
+     1741 atcaacgaac tgcagaacat ccagcggctg gtcagcgggc tcgagagcca aagagaagtg
+     1801 tctcctggca gagagacacc caagtgactg gacccacctg ccaagcaccc agccatcaag
+     1861 ggctgacaag cactgggaaa ttgtacagca cagagtaaat atttatttaa aaggggcagc
+     1921 gatcaaaggc gggaactgaa caatgattct tgcagcaaca acccacccct gatcatcacc
+     1981 aatggaatgt ctaccaaaat gacacattcc ttcgaacaga atgccacaga agaagaaaaa
+     2041 tacagatcaa attaagactt tgaaggaata ccatccttag acatctactg tgggttgatc
+     2101 ccatttcggg ggtattgggt gtcccggcgt aagaatgtac attagctgta atggcaagtg
+     2161 ttctgaagat gagcgaaagg ggagtattgc tccccaacta tgaagaagtc ctgtctttga
+     2221 aagactggac agaccttgca aaaaacccat atgcctatcc tgattgcaaa gaaaaaaata
+     2281 ctgaaagctg taaaaaagag cggctcgagc ccagagctct cgtaggcaag gaagccatga
+     2341 aaatggacgc tttgtgcact gtcagatatt gacatgggtg cttctgtcca acctgtgtac
+     2401 cagacatatt tataaaataa atagaaattt gtgtaaataa gctataagga tcccagaata
+     2461 tgcaaattgg tattaattta ttcagagttg tacatggtgt gtacataata tgtagagttt
+     2521 aactcgattg catttaattt tttttcactt tacctgatac ctatatattg taaatgggga
+     2581 aacatattta gctctgttgt gattgaagga agtatgggtt ctttaactgt gttttgttgg
+     2641 gtattgtttg tctccgcctg ttcctaggac aatcacgtgc catcagtata cacccagggt
+     2701 aatgcgctcg atgggctggc taccaacccg aaatgttcca tcatgttatt tagcatcttt
+     2761 acagagcggg gaagaaaaag gcaggaataa acctcaggtt tttattttca ctccagtaca
+     2821 caaagaatca gtcaacgatc acgccacgtg ctatacaaac tacatgattt gatatgtgct
+     2881 ggtcattggg gtatctcatc tgttcatttt tttgatgaat cctctcacat ctttcaataa
+     2941 aaaataatga actac
+//
+

@@ -1,0 +1,46 @@
+LOCUS       HM367111                 168 bp    mRNA    linear   VRT 05-APR-2011
+DEFINITION  Notophthalmus viridescens GATA binding protein 5 (GATA5) mRNA,
+            partial cds.
+ACCESSION   HM367111
+VERSION     HM367111.1  GI:308097153
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 168)
+  AUTHORS   Witman,N., Murtuza,B., Davis,B., Arner,A. and Morrison,J.I.
+  TITLE     Recapitulation of developmental cardiogenesis governs the
+            morphological and functional regeneration of adult newt hearts
+            following injury
+  JOURNAL   Dev. Biol. (2011) In press
+   PUBMED   21457708
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 168)
+  AUTHORS   Morrison,J.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2010) Molecular Biology and Functional Genomics,
+            Stockholm Universtitet, Svante Arrheniusvag 20C, Stockholm 10691,
+            Sweden
+FEATURES             Location/Qualifiers
+     source          1..168
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     gene            <1..>168
+                     /gene="GATA5"
+     CDS             <1..>168
+                     /gene="GATA5"
+                     /codon_start=1
+                     /product="GATA binding protein 5"
+                     /protein_id="ADO14131.1"
+                     /db_xref="GI:308097154"
+                     /translation="HKMNGINRPLIKPQKRLSSSRRAGLCCTNCHTTTTTLWRRNTEG
+                     EPVCNACGLYMK"
+ORIGIN      
+        1 cataagatga acggcatcaa ccggcccctc atcaagcccc agaagagact gtcctcctct
+       61 cggcgcgctg gtctttgttg caccaattgc cacacgacca ccaccactct gtggagacgc
+      121 aacacggaag gggagccggt gtgcaacgct tgcggcttgt acatgaag
+//
+

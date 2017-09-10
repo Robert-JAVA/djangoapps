@@ -1,0 +1,70 @@
+LOCUS       GQ303671                1147 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Paramesotriton ermizhaoi voucher CIB 88140 cytochrome b (cytb)
+            gene, complete cds; mitochondrial.
+ACCESSION   GQ303671
+VERSION     GQ303671.1  GI:281494709
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton ermizhaoi (Ermi Zhao warty newt)
+  ORGANISM  Paramesotriton ermizhaoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1147)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Homoplastic evolution of external coloration in Asian stout newts
+            (Pachytriton) inferred from molecular phylogeny
+  JOURNAL   Zool. Scr. 39 (1), 9-22 (2010)
+REFERENCE   2  (bases 1 to 1147)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K., Chen,X. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2009) Museum of Comparative Zoology, Harvard
+            University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1147
+                     /organism="Paramesotriton ermizhaoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 88140"
+                     /db_xref="taxon:663921"
+     gene            7..1147
+                     /gene="cytb"
+     CDS             7..1147
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:1147,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADA72114.1"
+                     /db_xref="GI:281494710"
+                     /translation="MAPIARKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QIITGLFLAMHYTADTQLAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVMLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAVPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGMSIIHLLFLHETGSNNPTGIPSNQDK
+                     ISFHPYFSYKDLLGFFLALLTLVLIALITPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMLIPMLHTSKQRSLMFRSMSQTLFWLLVANTL
+                     ILTWIGGMPVEPPFTEIGQVASIFYFLLFILMIPLIGLWENKLMKW"
+ORIGIN      
+        1 aaaacaatgg cccctattgc acgaaaaact caccctctgt taaaaattat taataactca
+       61 tttatcgact taccaactcc ctccaacatc tcatattgat gaaacttcgg ctctcttcta
+      121 ggaatttgcc taattacaca aatcatcaca ggcctattct tagcaataca ctatacagca
+      181 gacacacaat tagccttttc atctgtggcc cacatctgcc gagacgttaa ccacggatga
+      241 ctaatacgaa acattcacgc taatggagcc tcatttttct ttatctgtat ctacctacat
+      301 attggacgcg gcctatacta cggatcatat atgtttaaag agacatgaaa cattggcgta
+      361 atgctactgc tactagtcat ggccaccgcc tttgttggtt atgttctccc atggggacaa
+      421 atgtcgtttt gaggggcctc ggttattaca aacctcctct cagccgtccc gtatgttggg
+      481 ggttccctag tagagtgagt ctgggggggg ttctcggtgg acaaggccac cttgacgcga
+      541 ttctttgcat ttcacttcct attgcccttc ctaattgcag ggataagcat tattcacctg
+      601 ttatttttac acgaaactgg gtccaataac ccaacaggaa ttccctctaa ccaagacaaa
+      661 atctcttttc acccatactt ttcctataaa gacttactag gcttttttct agcactactc
+      721 accttagtac taattgccct cattacacca aatctgctag tagacccaga aaactttatc
+      781 ccggcaaacc cactaatagc ccccccccac atcaagccag agtgatactt cctatttgcc
+      841 tatgctatct tacgatcaat tccaaataaa cttggggggg tcatcgcact tctaatatct
+      901 attttaatcc ttatacttat cccaatatta catacatcaa aacaacgaag tcttatgttc
+      961 cgctctatgt cccaaactct attttgactt ctagtagcaa acaccttaat tttaacttga
+     1021 attgggggaa taccagtcga acccccattt actgagatcg ggcaggtcgc ctcgatcttt
+     1081 tattttctac tttttatcct cataatccca ttaattgggt tatgagaaaa caaacttata
+     1141 aaatgat
+//
+

@@ -1,0 +1,66 @@
+LOCUS       JX987526                1008 bp    mRNA    linear   VRT 16-JUN-2014
+DEFINITION  Pleurodeles waltl anti-Mullerian hormone (AMH) mRNA, partial cds.
+ACCESSION   JX987526
+VERSION     JX987526.1  GI:442572379
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   Al-Asaad,I., Chardard,D., di Clemente,N., Picard,J.Y., Dumond,H.,
+            Chesnel,A. and Flament,S.
+  TITLE     Mullerian inhibiting substance in the caudate amphibian Pleurodeles
+            waltl
+  JOURNAL   Endocrinology 154 (10), 3931-3936 (2013)
+   PUBMED   24025226
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   Al-Asaad,I., Chardard,D., Dumond,H., Chesnel,A. and Flament,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-OCT-2012) EA4421 SIGRETO, Universite de Lorraine,
+            Boulevard des Aiguillettes, Vandoeuvre les Nancy, Lorraine 54506,
+            France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     gene            <1..>1008
+                     /gene="AMH"
+     CDS             <1..>1008
+                     /gene="AMH"
+                     /codon_start=1
+                     /product="anti-Mullerian hormone"
+                     /protein_id="AGC60000.1"
+                     /db_xref="GI:442572380"
+                     /translation="ALFLLVKKKSAQKENRPSISLPQNDGEDHDVVSDPELRQNPEFK
+                     KEVTETPNQGEYPPLEHTDVFLEILAKFVGKVLSSFKEQTETLVLPIESDNQTLETFA
+                     SNPLNVSEKAVIEWLVESEEPLVFLFPKRSQTLLERHFVQGKLEGKLLEKLMEKLHTV
+                     LEELLKLPVIRDNAGLLKHILDHCYGSFDLGSLPGPRATMHKESSHGHKKLHSLVMLK
+                     AMQTVRAYWQKRTTLSRQNRSTGSKTYCRLQELTMKLRFEHENSNIVLPTKYVAYNCE
+                     GPCVLPQHTLSETNNHVILLIKMRDSGATLGRGPCCVPEKYGKLNVGTLTEDGLLFRP
+                     YP"
+ORIGIN      
+        1 gctttgtttc tattggtcaa gaagaaatca gcgcagaagg agaacagacc atcaatttct
+       61 ttgcctcaga atgatggaga ggaccatgat gttgtgtctg atcctgaact caggcagaat
+      121 cctgaattca aaaaagaagt tacagaaact ccgaatcaag gcgagtaccc tcctttggaa
+      181 cacactgatg tcttcttgga gattcttgca aagtttgttg gaaaggtgct aagcagtttc
+      241 aaagagcaga ccgagacatt ggtgcttcct atagagtccg acaaccagac tttggagacc
+      301 ttcgcttcca atccactcaa tgtctcggaa aaggcggtca ttgagtggct ggtggaatcg
+      361 gaggagcccc tggtgtttct gttcccgaaa agaagccaga ccttgctaga gcgccacttt
+      421 gtacagggaa agctggaggg gaaacttctg gagaagttga tggagaagct ccacactgtg
+      481 ttagaagagt tgttgaaact cccagtaatc agggacaatg ccggacttct caaacacatc
+      541 ctggaccact gctatggctc cttcgattta ggtagcttac caggaccacg agccacgatg
+      601 cacaaagaga gcagccacgg ccataagaag ctgcactcgc tggtgatgct gaaggccatg
+      661 cagaccgtga gagcgtactg gcagaagagg accacgctgt cgcgacagaa ccggagcact
+      721 ggcagcaaga cctactgccg gctccaggag ctcaccatga aactgcgatt cgagcacgag
+      781 aacagcaaca ttgtcctccc taccaagtat gtcgcctaca actgcgaggg accgtgcgtg
+      841 ctgccacagc acacgctgag cgagaccaac aaccacgtca tcttgctcat caagatgagg
+      901 gacagtggtg caacactggg gcgcggccca tgctgcgtgc cagagaagta cggcaagctg
+      961 aatgttggga cgctgactga ggacggcctg ctcttcaggc catacccc
+//
+

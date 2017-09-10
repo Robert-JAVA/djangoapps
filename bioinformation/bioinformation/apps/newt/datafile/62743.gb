@@ -1,0 +1,65 @@
+LOCUS       X60245                  1868 bp    DNA     linear   VRT 03-MAR-1992
+DEFINITION  C.pyrrhogaster Pol III/TAN (1.9 kbp).
+ACCESSION   X60245 X60243
+VERSION     X60245.1  GI:62743
+KEYWORDS    Pol III; polymerase III.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 1868)
+  AUTHORS   Nagahashi,S., Endoh,H., Suzuki,Y. and Okada,N.
+  TITLE     Characterization of a tandemly repeated DNA sequence family
+            originally derived by retroposition of tRNA(Glu) in the newt
+  JOURNAL   J. Mol. Biol. 222 (2), 391-404 (1991)
+   PUBMED   1660072
+REFERENCE   2  (bases 1 to 1868)
+  AUTHORS   Okada,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-1991) N. Okada, Inst of Biological Sciences, Univ
+            of Tsukuba, Ten-nodai 1-1, Tsukuba, Ibaraki 305, JAPAN
+COMMENT     See also X60244-47 & X63997.
+FEATURES             Location/Qualifiers
+     source          1..1868
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="whole body"
+     misc_feature    1..1868
+                     /note="Pol III/TAN"
+ORIGIN      
+        1 cataaaagga tagggcaact ggggggaggg gggctaagga gaaaacagct ttgcgacagt
+       61 ttctattgcc aaccacaagg gggcatcata caaccttctg tgtttatgtt attgaaaggt
+      121 acaacaagga gcatgtgggg gtatttttgc ctgcagggct ccccaagatt ttacttccac
+      181 ccctcccctc cgtgcggcat ggtataggga tgcttgggaa atttctattg aaaacagaca
+      241 gtatagggat tcccgctatg aaatctgaaa gcactaacat ttgctaaata aagtgttaca
+      301 gtggagcaga ccgaataagg cagggaaagg gtacctgtgg caattgtttg gaagggtcaa
+      361 agagaagaat catggcatgt aaataggcag cagtgcatgt attggcagtg tctgtagaga
+      421 gtttggtgtg ctcttcaatt tatttgtcct ccttgcgttg ggtatgatgc acagtgggaa
+      481 agccaggcct tccttttagg cagaacatgt attcatgatt taaagaagtg tagtctgggt
+      541 gtgctgagag gggctgtaca gagcggtaag tgtctgtata cccgagaaat gtgcatccaa
+      601 ccggccactt gagactgaac agtgacagaa gcagctgggt tactgacaaa atataaatgg
+      661 agagcactta ggaagggtgt ttgtcttcac tcaaaggatt gaaacgtggt tgttgcacta
+      721 gcaaagctgg ggtaccagga aaaaacattt gagggttaat gagatggtgg tatccagtgg
+      781 tcaaaaaagg tgtcagaggt acagaggtat gaggatgctg gtcctatagt gaggggtggt
+      841 caaaagtccc tgctaacgat ttctgtccaa ccgtgaccaa atgttgtgca gcctggctcc
+      901 ctctgtaact tttccccagt atctctctat cctgcagatg aatgacgcaa gattcccaac
+      961 gtttttcttg gcctaaggat actcccaaag ggtgcgctac tgacattctc tgaaaaacct
+     1021 cactaaccat gcatatttat gcagcaaacg tggcaaatcc ctacacctgc aacgcatcat
+     1081 atcgcacttg tcagctttta ggtggtgtaa gtgtttttat ttgagggaaa tattcatctg
+     1141 tgctccctct ctcatctgag gactatgaag ctactgttcc tctcccacac gtcccttcaa
+     1201 agagacaatg acacactcac tcaatcaccc agcaaacatg tatgctctgg cactttcatc
+     1261 ttgctgttta ccttataaca ttcccccttc tccacaaata caggccagcc attgctcatt
+     1321 actcattcac tcgatcatct cagtcctcct ctccatatgc cctgcaatac caacatgaac
+     1381 aagaggaatg tcttcaagca gaagaaaagc ctcggtgtgc tcttatgttc atactgctgc
+     1441 cctccagtaa cactacacag caattgcagc ataataattg gactgagaag agggctgtcc
+     1501 tatgcaaata atgtcctccc atgcttactt tcttctgaga tgttgacggc atgcgctgtg
+     1561 atacattctc aaacatttgc tcttcagcta aattcaaaag cagcctatct taggctaagg
+     1621 attttgccac tcgaaggttg cacatgggga catcaccctc atttagcagg gtcccaaatt
+     1681 gcctgcagtc atcctttata cagaacatgg gcgttggaag tgttcgaggg tgtacttcaa
+     1741 aggaaggaag ggggtcttta aagcctcagc ccagccccat gctgcactgt gatgctccat
+     1801 cccttcacct gctgcagcag aaacggttca gacctgctga agcaaaggcc tgactctgct
+     1861 cttttctg
+//
+

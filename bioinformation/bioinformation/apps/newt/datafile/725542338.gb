@@ -1,0 +1,37 @@
+LOCUS       KM434965                 199 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Notophthalmus perstriatus 16S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM434965
+VERSION     KM434965.1  GI:725542338
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus perstriatus (striped newt)
+  ORGANISM  Notophthalmus perstriatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 199)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 199)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1..199
+                     /organism="Notophthalmus perstriatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:168684"
+     rRNA            <1..>199
+                     /product="16S ribosomal RNA"
+                     /note="L2513/H2714 fragment"
+ORIGIN      
+        1 ctcttgcaat ataaagtata agaggtcccg cctgcccagt gacaatttca acggccgcgg
+       61 tatcatgacc gtgcaaaggt agcgtaatca cttgtctttt aaataaagac ctgtatgaaa
+      121 ggcaaaacga aagttcaact gtctctttaa tccaatcaat gaaatttatc tttccgtgca
+      181 gaagcggaaa taaagatat
+//
+

@@ -1,0 +1,60 @@
+LOCUS       AB001938                 866 bp    mRNA    linear   VRT 17-DEC-1997
+DEFINITION  Cynops pyrrhogaster goosecoid mRNA, complete cds.
+ACCESSION   AB001938
+VERSION     AB001938.1  GI:2696704
+KEYWORDS    DNA-binding protein.
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Sone,K., Takeshima,K., Takahashi,T. and Takabatake,T.
+  TITLE     Temporal alteration of dose-dependent response to activin in newt
+            animal-cap explants
+  JOURNAL   Dev. Genes Evol. 207, 147-155 (1997)
+REFERENCE   2  (bases 1 to 866)
+  AUTHORS   Sone,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-1997) Kiyoaki Sone, Nagoya University, Graduate
+            School of Human Informatics; Furo-cho, Chikusa, Nagoya, Aichi
+            464-01, Japan (E-mail:sone@info.human.nagoya-u.ac.jp,
+            Tel:052-789-2570, Fax:052-789-2567)
+FEATURES             Location/Qualifiers
+     source          1..866
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="embryo"
+     gene            1..866
+                     /gene="goosecoid"
+     CDS             120..866
+                     /gene="goosecoid"
+                     /note="the nucleotide sequence of goosecoid gene has higly
+                     homologous (77% identical) to that of Xgsc"
+                     /codon_start=1
+                     /protein_id="BAA24005.1"
+                     /db_xref="GI:2696705"
+                     /translation="MPSGMFSIDSILAARPRGKDSVLLQQGGPLLYPGLGEPLYAAPT
+                     AADYGGFYPRALGPTAGLPTLAGSKVGYNGGYYYGQLHLQPPGAPGCCGAMQPLGAQQ
+                     CSCVPAPSSGYDGSSSVLMSPMPHQMMPYMNVGTLSRSELQLLNQLHCRRKRRHRTIF
+                     TDEQLEALEHLFQETKYPDVGTREQLARRVHLREEKVEVWFKNRRAKWRRQKRSSSEE
+                     SENTQKWNKTSKTSPEKRQEDVKSDLDSDR"
+ORIGIN      
+        1 tgggagttca gtccacggga gaggagtttg ggaggagacg tgaccggggc tgtccatccg
+       61 tcagagctcg tgtgcgcttg tgccagggca gcctcctctg ctcagccccc gggtgggtga
+      121 tgccttctgg catgttcagc attgacagta ttctggccgc cagaccccgt ggcaaggact
+      181 cggtgctgct gcagcagggc ggcccgctgc tctacccggg cttgggggag cctctgtacg
+      241 ctgcgcccac cgcggcggac tacggcggct tctacccaag ggccctgggc cccacggccg
+      301 gcctcccgac gctggccggc tccaaggtgg gctacaacgg cggctactac tacggacagc
+      361 tgcacttgca gcctccgggg gctcccgggt gctgcggggc catgcagccc ctcggggccc
+      421 agcagtgctc ctgcgttccg gctccgagct caggttacga cggctccagc tcggtcctga
+      481 tgtcccctat gcctcaccag atgatgccct acatgaacgt gggcaccctg tcccgctcag
+      541 agctgcagct actcaaccag ctgcactgcc gccggaagag gcgtcaccgg accatcttca
+      601 ccgacgagca gctcgaggcc ttggagcacc tcttccagga gaccaagtac ccggatgtgg
+      661 gcacccgcga gcagctggcg aggagggtcc acctgcgaga ggagaaggtg gaggtctggt
+      721 tcaagaaccg cagagccaag tggaggcgac agaagcggtc ctcgtcggag gagtccgaaa
+      781 acacgcagaa atggaacaaa acgtccaaaa cctccccgga aaagcgacaa gaggacgtca
+      841 agagcgacct ggactcggat cgctga
+//
+

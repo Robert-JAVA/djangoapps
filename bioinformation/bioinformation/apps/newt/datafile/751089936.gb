@@ -1,0 +1,56 @@
+LOCUS       KJ402334                 702 bp    mRNA    linear   VRT 31-JAN-2015
+DEFINITION  Lissotriton helveticus sodefrin precursor-like factor 9 mRNA,
+            complete cds.
+ACCESSION   KJ402334
+VERSION     KJ402334.1  GI:751089936
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   Van Bocxlaer,I., Treer,D., Maex,M., Vandebergh,W.,
+            Janssenswillen,S., Stegen,G., Kok,P., Willaert,B., Matthijs,S.,
+            Martens,E., Mortier,A., de Greve,H., Proost,P. and Bossuyt,F.
+  TITLE     Ancient pheromone blend as an alternative for copulation in
+            internally fertilizing salamanders
+  JOURNAL   PeerJ (2014) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Van Bocxlaer,I., Treer,D., Maex,M., Vandebergh,W.,
+            Janssenswillen,S., Stegen,G., Kok,P., Willaert,B., Matthijs,S.,
+            Martens,E., Mortier,A., de Greve,H., Proost,P. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Biology - Amphibian Evolution Lab, Vrije
+            Universiteit Brussel (VUB), Pleinlaan 2, Brussel 1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Lissotriton helveticus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:256425"
+                     /tissue_type="abdominal gland"
+     CDS             60..668
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor 9"
+                     /protein_id="AJF36140.1"
+                     /db_xref="GI:751089937"
+                     /translation="MRAILAAVVMFQVLITGDCLFCEQCFALHTSSCSGIMTQCPPDV
+                     THCVAGLENDTMGGGDLILTVFKDCLDPSQKATCGREFSIKTSMSSYWGSRTCCDSDF
+                     CNAGDVQVPPSDNTPNGYICEGCTGDQSAEPCTAPGLAQCTGKQNTCGAFSGTISFPG
+                     EAVRSYRAKGCVTQDFCKLGIFNLAASQPYDFVLKCAPALKA"
+ORIGIN      
+        1 cactggaagg tgctcaggtg cagaaactcc atcaccctac tccttactct cctaccacca
+       61 tgagggccat ccttgcagct gtcgtcatgt tccaggtact gataactgga gattgcctat
+      121 tttgtgagca gtgtttcgct ctccacacca gcagctgctc gggtatcatg acacagtgcc
+      181 ctcctgacgt cactcactgc gtcgcaggcc tagagaacga cacaatggga gggggtgatc
+      241 ttattctaac ggtgttcaag gactgtctgg atccttctca aaaagcaacc tgtggcagag
+      301 agttctccat caaaacctca atgtcgtctt actggggcag tagaacatgc tgcgactccg
+      361 acttctgcaa cgcaggggat gtgcaggtgc ctccttcaga caacacaccc aacggataca
+      421 tatgtgaagg ttgtaccggt gaccagtccg cggagccctg cacagcacct ggattagctc
+      481 agtgtaccgg aaagcagaac acctgtggag ccttctctgg aactatctcc tttccaggtg
+      541 aagctgtgag atcatatagg gcgaaaggat gtgttacgca agatttctgc aaacttggaa
+      601 tttttaacct ggcagcatcg caaccctacg attttgtttt aaagtgtgcc cctgccctga
+      661 aagcttgaaa cctttgttca tgtcccatag gcagtcctac tc
+//
+

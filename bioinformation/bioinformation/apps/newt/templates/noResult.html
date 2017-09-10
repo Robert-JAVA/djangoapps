@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+	<meta name="viewport" content="width=device-width" />
+	<title>资源下载</title>
+	<meta name="keywords" content="botany, services, responsive, bootstrap, free template, templatemo" />
+	<meta name="description" content="Botany Template, Services, free template, responsive bootstrap" />
+	<link href="../static/css/font-awesome.min.css" rel="stylesheet">
+	<link href="../static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="../static/css/templatemo_style.css" rel="stylesheet" type="text/css">
+	<script src="../static/js/jquery-1.7.2.js" type="text/javascript" charset="gbk"></script>
+	<script src="../static/js/login.js" type="text/javascript" charset="gbk"></script>
+	<script src="../static/js/jquery-1.7.2.js" type="text/javascript" charset="gbk"></script>
+  	<script src="../static/js/exit.js" type="text/javascript" charset="gbk"></script>
+  	<script src="../static/js/browser.js" type="text/javascript" charset="gbk"></script>
+  	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../static/js/html5shiv.min.js"></script>
+      <script src="../static/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="templatemo_flower_1">
+	<div id="main_container">
+		<div class="container" id="services">
+			<div class="row col-wrap">
+				<div id="left_container" class="col col-md-3 col-sm-12">
+					<div class="templatemo_logo">
+						<a rel="nofollow" href="http://www.templatemo.com/preview/templatemo_391_botany"><img src="../static/images/log.png" alt="Botany Theme"></a>
+					</div>
+					<nav id="main_nav">
+						<ul class="nav">
+							<li><a href="/top/">网站首页</a></li>
+							<li><a href="/upload_view/">上传资源</a></li>
+							<li  class="active"><a href="/download_view/">下载资源</a></li>
+							<li><a href="/about_view/">关于蝾螈</a></li>
+						</ul>
+					</nav>
+					 <div style="width:263px; height:41px;background-color: #43454C;text-align: center;">
+							<p style="padding-top: 10px;">相关数据库</p>
+					</div>
+					<nav id="main_nav">
+						<ul class="nav" style="margin-top:-20px;">
+												<li ><a href="http://www.ncbi.nlm.nih.gov" target="_blank">NCBI</a></li>
+												<li><a href="http://www.ncbi.nlm.nih.gov/genbank" target="_blank">GENBANK</a></li>
+												<li ><a href="http://www.ebi.ac.uk/embl/" target="_blank">EMBL</a></li>
+												<li><a href="http://www.rcsb.org/pdb/home/home.do" target="_blank">PDB</a></li>
+												<li><a href="http://www.ddbj.nig.ac.jp/" target="_blank">DDBJ</a></li>
+												<li><a href="http://www.gdb.org"target="_blank" > GDB</a></li>
+												<li><a href="http://pir.georgetown.edu/" target="_blank">PIR</a></li>
+						</ul>
+					</nav>
+					<div>
+						<a rel="nofollow" href="#"><img src="../static/images/facebook.png" alt="Like us on Facebook"></a>
+						<a href="#"><img src="../static/images/twitter.png" alt="Follow us on Twitter"></a>
+						<a href="#"><img src="../static/images/rss.png" alt="RSS feeds"></a>
+					</div>
+					<nav id="main_nav">
+						<p>您的IP地址为：{{addr}}</p><br>
+						<p>当前网站访问量：{{ipcount}}</p>
+					</nav>
+				</div>
+				<div id="right_container" class="col col-md-9 col-sm-12">
+				        <div class="row" style="float:right;">
+                    		<div class="col col-md-12" style="word-break:break-all;">
+                    			<span><div style="float:left;">{% if username %}<p>{{username}} 已登陆!&nbsp;&nbsp;&nbsp;&nbsp;</p> {% endif %}</div><div style="float:right;"><a href="/register_view/">用户注册</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/login_view/">用户登录</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="exit"  href="/exit/">用户注销</a></div></span>
+                    		</div>
+                	    </div>
+	                	<div class="row">
+						<form  action="/search/" method="post" class="navbar-form" role="search">
+									<div class="form-group">
+										<select name="database"  class="form-control">
+											{% if all %}
+												<option value="all"  selected="selected">All Databases</option>
+												<option value="gene">Nucleotide</option>
+												<option value="protein">Protein</option>
+											{% endif %}
+											{% if  gene %}
+												 <option value="all">All Databases</option>
+												<option value="gene" selected="selected">Nucleotide</option>
+												<option value="protein">Protein</option>
+											{% endif %}
+											{% if protein %}
+												<option value="all">All Databases</option>
+												<option value="gene" >Nucleotide</option>
+												<option value="protein" selected="selected">Protein</option>
+											{% endif %}
+										</select>
+									</div>
+									<div class="form-group">
+										<input type="text"  name="value" value="{{keywords}}" class="form-control" placeholder="在这里搜索" id="keyword"  style="width:600px;" name="keyword">
+									</div>
+									<button type="submit" class="btn btn-primary" name="Search">检索</button>
+						</form>
+					</div>
+					<article class="row">
+						<div class="col col-md-12" align="center">
+							<div style="word-break:break-all;"align="left">
+										<h3>I'm so sorry for that there is no results!</h3>
+							</div>
+						</div>
+					</article>
+				</div>
+			</div>
+
+			<footer class="row credit">
+				<div class="col col-md-12">
+					<div id="templatemo_footer">
+					<font color="#F55B1F">建议使用Internet Explorer 10+、Firefox 18+、Chrome 22+等浏览器</font>&nbsp;&nbsp;版权 © 2015 开发者为 | <a href="http://202.196.64.199/" target="_blank">郑州大学2011级计算机科学与技术(生物信息处理)</a>   资料来自于<a rel="nofollow" href="http://www.http://baike.baidu.com/link?url=krz-t8OWO3nmxW2A4JHvWKtR6UQg6K6HZgSo0dJtuQ2yeuXum_zwXVBMIptJtGnXEwfxBbmlrHSiDo7wdn2R0sg68bwDiMAcE6_Qa-Uu9Jy" target="_blank">百度百科</a>  和<a href="http://www.ncbi.nlm.nih.gov/" target="_blank">NCBI</a>合作平台&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/admin/" target="_blank">后台管理</a>
+					</div>
+				</div>
+			</footer>
+
+		</div>
+	</div>
+</body>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js'></script>
+<script type='text/javascript' src='../static/js/logging.js'></script>
+</html>

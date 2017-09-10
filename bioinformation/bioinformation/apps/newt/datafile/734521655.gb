@@ -1,0 +1,81 @@
+LOCUS       KM516718                1402 bp    DNA     linear   VRL 10-MAR-2015
+DEFINITION  Portuguese newt and toad ranavirus major capsid protein (MCP) gene,
+            partial cds.
+ACCESSION   KM516718
+VERSION     KM516718.1  GI:734521655
+KEYWORDS    .
+SOURCE      Portuguese newt and toad ranavirus
+  ORGANISM  Portuguese newt and toad ranavirus
+            Viruses; dsDNA viruses, no RNA stage; Iridoviridae; Ranavirus.
+REFERENCE   1  (bases 1 to 1402)
+  AUTHORS   Stohr,A.C., Lopez-Bueno,A., Blahak,S., Caeiro,M.F., Rosa,G.M.,
+            Alves de Matos,A.P., Martel,A., Alejo,A. and Marschang,R.E.
+  TITLE     Phylogeny and differentiation of reptilian and amphibian
+            ranaviruses detected in Europe
+  JOURNAL   PLoS ONE 10 (2), E0118633 (2015)
+   PUBMED   25706285
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1402)
+  AUTHORS   Stoehr,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Fachgebiet fuer Umwelt und Tierhygiene,
+            Universitaet Hohenheim, Garbenstr. 30, Stuttgart,
+            Baden-Wuerttemberg 70599, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Staden (Gap) v. v4.11.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1402
+                     /organism="Portuguese newt and toad ranavirus"
+                     /mol_type="genomic DNA"
+                     /isolation_source="skin"
+                     /host="Alytes obstetricans (Common midwife toad)"
+                     /db_xref="taxon:1585659"
+                     /country="Portugal: Serra de Estrela"
+                     /collection_date="2013"
+                     /note="identical sequence found in host Lissotriton boscai
+                     (Boscas newt)"
+     gene            <1..1402
+                     /gene="MCP"
+     CDS             <1..1332
+                     /gene="MCP"
+                     /codon_start=1
+                     /product="major capsid protein"
+                     /protein_id="AJA06035.1"
+                     /db_xref="GI:734521656"
+                     /translation="NLERAMYGGSDATTYFVKEHYPVGWFTKLPSLATKMSGNPAFGQ
+                     QFSVGVPRSGDYILNAWLVLKTPEVKLLAANQLGDNGTIRWTKNPMHNIVENVNLSFN
+                     DISAQSFNTAYLDAWSEYTVPEAKRIGYYNMIGNTSDLINPAPATGQNGARVLPAKNL
+                     VLPLPFFFSRDSGLALPVVSLPYNEIRITVKLRAIQDLLILQHNTTGAISPIVAADLE
+                     GGLPDTVEANVYMTVALITGDERQAMSSTVRDMVVEQVQAAPVHMVNPRNAATFHTDM
+                     RFSHAVKALMFMVQNVTHPSVGSNYTCVTPVVGVGNTVLEPALAVDPVKSASLVYENT
+                     TRLPDMGVEYYSLVEPWYYATSIPVSTGHHLYSYALSLQDPHPSGSTNYGRLTNASLN
+                     VTLSAEATTAAAGGGGDNSGYTTAQKYALIVLAINHNIIRIMNGSMGFPIL"
+ORIGIN      
+        1 aatcttgaga gagcaatgta cgggggttcg gacgccacca cgtactttgt caaggagcac
+       61 taccccgtgg ggtggttcac caagctgccg tctctggcta ccaagatgtc gggtaacccg
+      121 gctttcgggc agcagttttc ggtcggcgtt cccaggtcgg gggattacat cctcaacgcc
+      181 tggttggtgc tcaagacccc cgaggtcaag ctcctggccg caaaccagct gggagacaac
+      241 ggcaccatca ggtggacaaa gaaccccatg cacaacattg tggagaacgt caacctctca
+      301 ttcaacgaca tcagcgccca gtcctttaac acggcatacc tggacgcctg gagcgagtac
+      361 actgtgccag aggccaagcg cataggctac tataacatga taggcaacac cagcgatctc
+      421 atcaaccccg ccccggccac aggccagaac ggagccaggg tcctcccggc caagaacctg
+      481 gttcttcccc tcccattctt cttctccaga gacagcggcc tggccctgcc agtcgtctcc
+      541 ctcccctaca acgagatcag gataacagtc aagctgaggg ccatccagga cctcctgatc
+      601 ctccagcaca acaccacagg ggcaatcagc cccatcgtgg ccgccgacct cgagggaggt
+      661 ctccccgaca ccgtagaggc caacgtctac atgaccgtcg ccctcatcac cggggacgag
+      721 aggcaggcca tgagcagcac agtcagggac atggtcgtgg agcaggtgca ggccgcccca
+      781 gtccacatgg tcaaccccag gaacgcggcc accttccaca ccgacatgcg gttctcacac
+      841 gcagtcaagg ccctgatgtt tatggtgcag aacgtcacac acccttccgt cggctccaat
+      901 tacacctgcg tcactcccgt cgtgggagtc ggcaacacgg tcctggagcc agccctggcg
+      961 gtggatcccg tcaagagtgc cagcctggtg tacgaaaaca ccacaaggct ccccgacatg
+     1021 ggagtcgagt actactcgct ggtggagccc tggtactatg ccacctccat cccagtcagc
+     1081 accgggcacc acctctactc ctatgccctc agcctgcagg acccccaccc atccggatcc
+     1141 accaattacg gcagactgac caacgccagc cttaacgtca ccctgtccgc tgaggccacc
+     1201 acggccgccg caggaggcgg aggtgacaac tctgggtaca ccaccgccca aaagtacgcc
+     1261 ctcatcgttc tggccatcaa ccacaacatt atccgcatca tgaacggctc gatgggattc
+     1321 ccaatcttgt aaagagtatt tttcagcgca aagtcttttc cgtcgtgggt catccatgat
+     1381 ggaaataaaa catgaagtgt cc
+//
+

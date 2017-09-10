@@ -1,0 +1,51 @@
+LOCUS       FJ403326                 385 bp    DNA     linear   VRT 13-MAY-2009
+DEFINITION  Calotriton asper isolate CAZU2 cytochrome b gene, partial cds;
+            mitochondrial.
+ACCESSION   FJ403326
+VERSION     FJ403326.1  GI:237510713
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 385)
+  AUTHORS   Montori,A., Llorente,G.A. and Garcia-Paris,M.
+  TITLE     Allozyme differentiation among populations of the Pyrenean newt
+            Calotriton asper (Amphibia: Caudata) does not mirror their
+            morphological diversification
+  JOURNAL   Zootaxa 1945, 39-50 (2008)
+REFERENCE   2  (bases 1 to 385)
+  AUTHORS   Garcia-Paris,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2008) Biodiversity and Evoltionary Biology:
+            Biodiversity Screening Lab., Museo Nacional de Ciencias Naturales,
+            CSIC, Jose Gutierrez Abascal, 2, Madrid 28050, Spain
+FEATURES             Location/Qualifiers
+     source          1..385
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CAZU2"
+                     /specimen_voucher="MNCN:uncataloged"
+                     /db_xref="taxon:30374"
+                     /country="Spain: Zuriza"
+     CDS             <1..>385
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ACQ99344.1"
+                     /db_xref="GI:237510714"
+                     /translation="THPLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLITQILTGLF
+                     LAMHYTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRGLYYGSYL
+                     FKETWNIGVILLFLVMATAFVGYVLP"
+ORIGIN      
+        1 aactcaccca ctactaaaaa tcattaacaa ctcatttatt gacctcccaa caccgtcaaa
+       61 catctcatac tgatggaact tcggctctct tcttggagtt tgtctaatta cacaaatcct
+      121 cacaggtctt ttcttggcaa tacactacac agcagacaca caatcagcat tctcatctgt
+      181 tgcccatatt tgccgagatg ttaactacgg ctgactagta cgaagcaccc acgccaacgg
+      241 agcctcatta ttcttcattt gtatttacct acatattgga cgcggcctat attacggatc
+      301 atacctgttt aaagagacct gaaacatcgg tgtaatcttg ctattcttag tcatggcaac
+      361 tgcctttgtc ggatatgtcc tgccc
+//
+

@@ -1,0 +1,42 @@
+LOCUS       AJ609566                 317 bp    DNA     linear   VRT 07-JAN-2005
+DEFINITION  Triturus helveticus mitochondrial DNA, partial D-loop, strain 2a.
+ACCESSION   AJ609566
+VERSION     AJ609566.1  GI:57282672
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1
+  AUTHORS   Poschadel,J.R., Plath,M. and Guillaume,O.
+  TITLE     Caught in caves? Relationships between cave dwelling and surface
+            populations of the Pyrenean mountain newt Euproctus asper
+            (Salamandridae, Urodela) inferred from d-loop sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 317)
+  AUTHORS   Poschadel,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2003) Poschadel J.R., Zoological Institute,
+            University of Hamburg, Martin-Luther-King-Platz 3, Hamburg 20146,
+            GERMANY
+FEATURES             Location/Qualifiers
+     source          1..317
+                     /organism="Lissotriton helveticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="2a"
+                     /isolation_source="buccal swab"
+                     /db_xref="taxon:256425"
+                     /tissue_type="mucus membrane"
+                     /country="France:Central pyrenees"
+     D-loop          <1..>317
+ORIGIN      
+        1 tctgtgatat caattcccca taaagtcttg agccgggatt aacggcctaa atctgaacat
+       61 gctctgcaaa tgtatcgtga caaatacata atgcgcggat taaatattca tgttataaag
+      121 acataacatt tttttccctc ttgagtaaag gatatattct atttcctgtt tccccccgga
+      181 gctagttttt cgaagaatat atattttgaa tattaacttt tttttttgga taaccccccc
+      241 acccccaaat taaccgtctt atcagtataa gaaaactttt tagccaaccc caagactata
+      301 aagacctata tacttac
+//
+

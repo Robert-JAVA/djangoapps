@@ -1,0 +1,45 @@
+LOCUS       NVU14760                 102 bp    mRNA    linear   VRT 03-FEB-1996
+DEFINITION  Notophthalmus viridescens homeoprotein (NvHoxB1) mRNA, partial cds.
+ACCESSION   U14760
+VERSION     U14760.1  GI:704355
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 102)
+  AUTHORS   Washabaugh,C.H., Wallace,J.L., Del Rio-Tsonis,K. and Tsonis,P.A.
+  TITLE     Cloning of homoeobox sequences expressed in the intact and the
+            regenerating newt eye
+  JOURNAL   Gene 158 (2), 301-302 (1995)
+   PUBMED   7607558
+REFERENCE   2  (bases 1 to 102)
+  AUTHORS   Washabaugh,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-1994) Charles H. Washabaugh, Dept. Cell Biology
+            and Physiology, University of Pittsburgh, 3550 Terrace Street,
+            Pittsburgh, PA 15261, USA
+FEATURES             Location/Qualifiers
+     source          1..102
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="NvHoxB1 (NvHox2.9)"
+                     /tissue_type="eye"
+                     /dev_stage="adult"
+     gene            1..102
+                     /gene="NvHoxB1"
+     CDS             <1..>102
+                     /gene="NvHoxB1"
+                     /function="DNA binding, transcriptional regulation"
+                     /codon_start=1
+                     /product="homeoprotein"
+                     /protein_id="AAA86684.1"
+                     /db_xref="GI:704356"
+                     /translation="KEFHFNKYLTRARRCEIAATLELNETQVKIWFQN"
+ORIGIN      
+        1 aaggagttcc acttcaacaa gtacctgacc cgggcccgca ggtgcgagat cgccgccacc
+       61 ctggagctca acgagaccca ggtcaagatc tggtttcaga ac
+//
+

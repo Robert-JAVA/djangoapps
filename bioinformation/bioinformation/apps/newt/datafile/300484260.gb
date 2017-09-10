@@ -1,0 +1,58 @@
+LOCUS       GQ380403                 671 bp    DNA     linear   VRT 19-JUL-2011
+DEFINITION  Mesotriton alpestris cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   GQ380403
+VERSION     GQ380403.1  GI:300484260
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 671)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     The value of traditional troughs as freshwater shelters for
+            amphibian diversity
+  JOURNAL   Aquat Conserv 21 (1), 74-81 (2011)
+REFERENCE   2  (bases 1 to 671)
+  AUTHORS   Garcia-Gonzalez,C. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2009) Biologia Funcional, Universidad de Oviedo,
+            C/Julian Claveria s/n, Oviedo, Asturias 33006, Spain
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="54-P08"
+                     /db_xref="taxon:54263"
+                     /country="Spain: Asturias"
+     gene            <1..>671
+                     /gene="COI"
+     CDS             <1..>671
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ADK20393.1"
+                     /db_xref="GI:300484261"
+                     /translation="LYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPVMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMT
+                     QYQTPLFVWSVLITALLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF
+                     WFFGHP"
+ORIGIN      
+        1 ctgtatttaa tctttggtgc ttgagccgga atagtcggca cagcccttag cttactaatc
+       61 cgagctgaac ttagccaacc tggagcactc ctcggagacg accaaattta taacgtcatt
+      121 gtcactgctc acgcttttgt aataatcttc tttatggtaa tgccagtgat gatcggagga
+      181 tttggaaact gactggtccc cctcatgatc ggggccccgg acatggcctt tcctcgaata
+      241 aacaatataa gtttctgact ccttccccct tcatttctac tcttactagc atcctccggg
+      301 gtggaagccg gagcgggcac tggatgaaca gtatacccgc cactagctgg taatttagcc
+      361 cacgctggcg cctccgttga cttaacaatc ttttcactcc acttagcagg ggtctcctca
+      421 attctaggag caattaactt tattacaaca tcaattaata taaaaccccc atcaataaca
+      481 caataccaga cacccctatt tgtgtggtct gtactaatta cagccctact ccttctcctt
+      541 tcactaccag tactagcagc aggtattacc atacttttaa ctgatcgaaa cctaaatact
+      601 acattttttg accccgcagg agggggggac cccgtgcttt atcaacacct cttctgattc
+      661 tttggccacc c
+//
+

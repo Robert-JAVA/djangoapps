@@ -1,0 +1,92 @@
+LOCUS       AY523759                1937 bp    DNA     linear   VRT 23-APR-2005
+DEFINITION  Pleurodeles waltl 16S ribosomal RNA gene, partial sequence;
+            tRNA-Leu gene, complete sequence; NADH dehydrogenase 1 (ND1) gene,
+            complete cds; tRNA-Ile and tRNA-Gln genes, complete sequence; and
+            tRNA-Met gene, partial sequence; mitochondrial.
+ACCESSION   AY523759
+VERSION     AY523759.1  GI:62722764
+KEYWORDS    .
+SOURCE      mitochondrion Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1937)
+  AUTHORS   Roelants,K. and Bossuyt,F.
+  TITLE     Archaeobatrachian paraphyly and pangaean diversification of
+            crown-group frogs
+  JOURNAL   Syst. Biol. 54 (1), 111-126 (2005)
+   PUBMED   15805014
+REFERENCE   2  (bases 1 to 1937)
+  AUTHORS   Roelants,K. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2004) Biology, Vrije Universiteit Brussel,
+            Pleinlaan 2, Brussels B-1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..1937
+                     /organism="Pleurodeles waltl"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VUB 0508"
+                     /db_xref="taxon:8319"
+     rRNA            <1..727
+                     /product="16S ribosomal RNA"
+     tRNA            728..802
+                     /product="tRNA-Leu"
+     gene            803..1771
+                     /gene="ND1"
+     CDS             803..1771
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase 1"
+                     /protein_id="AAX94683.1"
+                     /db_xref="GI:62722765"
+                     /translation="MHIIQMFSNALLYIIPVLLAVAFLTLVERKVLGYMQLRKGPNIV
+                     GPMGLLQPIADGVKLFIKEPVRPSTSSQTLFTLMPVMALTLALMIWIPLPMPFMLSNL
+                     NLGVLFMLAISSLAVYSILGSGWSSNSKYALIGALRAVAQTISYEVTLGLILLCLILM
+                     TGSFTLMNFTTSQEQIWFILPAWPMAAMWFISTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSTILFLGTTLNHLHPELLTINLMIKASALSIIFLW
+                     VRASYPRFRYDQLMHLIWKNFLPLTIALTLMHISMPIMLSGIPPTL"
+     tRNA            1771..1841
+                     /product="tRNA-Ile"
+     tRNA            complement(1841..1919)
+                     /product="tRNA-Gln"
+     tRNA            1919..>1937
+                     /product="tRNA-Met"
+ORIGIN      
+        1 cgcctcttgc taataagtaa gtataagagg tcccgcctgc ccagtgagca atttcaacgg
+       61 ccgcggtatc atgaccgtgc aaaggtagcg taatcacttg tcttttaaat aaagacctgt
+      121 atgaatggca aaacgaaagt tcaactgtct ctttagtcca atcaattaaa tttatctctc
+      181 cgtgcagaag cggagataaa catataagac gagaagaccc tatggagctt taaacacact
+      241 attaactatg cccccctaca acaacccgac aggcaaaaat tatagaccgc atagatgtaa
+      301 tacaagtttt gggttggggc gaccacggaa gaaaaatcat cctccgagat aaacagttta
+      361 gaacaacatt tcaaaaatta aaacatttat taaaaatgat ccactaagtg atcaacgaac
+      421 caagttaccc tagggataac agcgcaatcc tttctaagag ttcatatcga cgaacgggtt
+      481 tacgacctcg atgttggatc aggacaccca aacggtgcag ccgctgttaa tggttcgttt
+      541 gttcaacgat taaagtccta cgtgatctga gttcagaccg gagtaatcca ggtcagtttc
+      601 tatctataaa aaattttttc tagtacgaaa ggaccgaaaa aatagagcca cttataataa
+      661 aaaagctctt aagcagttga aaacaaataa aacacataat aaaagacacc cttagagcaa
+      721 ggacagagtt aagatggcag agcacggtaa ttgcaaaaga tctaagccct ttcacccaga
+      781 ggttcaactc ctcttcttaa ctatgcacat tatccaaata ttttctaacg cattacttta
+      841 catcatccct gttctcctgg ccgtagcatt tttaacgctg gttgaacgaa aagtattagg
+      901 atatatacaa ctccgcaaag gtccaaacat tgtcggacca atgggactct tacaaccaat
+      961 tgccgacggg gttaaacttt ttattaaaga accagttcgg ccctcaacat catcccaaac
+     1021 actatttacc ctaatgcccg tcatggccct tacactagcc ctaataattt gaatccctct
+     1081 tccaataccg ttcatattat caaaccttaa tctaggcgtg ctcttcatac tagccatctc
+     1141 cagcctcgca gtttactcaa tcttaggctc tggctggtct tcaaactcaa aatatgcact
+     1201 aattggggca ctacgagcag tagcacaaac tatttcttat gaagttacac taggacttat
+     1261 tcttttatgc ctaatcctaa taacaggaag cttcacccta ataaatttta ctacctcaca
+     1321 agaacaaatc tgatttattt taccagcatg accaatggca gcaatatgat ttatctctac
+     1381 cctagcagag acaaatcgag ccccatttga cctgacagag ggagagtcag agttagtgtc
+     1441 tggattcaat gtagaatacg caggaggacc gttcgcacta ttttttctag cagaatattc
+     1501 taatattcta ctaataaata ccctatcaac cattttattc ctaggcacca cattaaacca
+     1561 cctacaccca gaattattga caattaacct aataattaaa gcatcagcct tgtcaattat
+     1621 ttttttatga gtacgagcat catacccccg atttcgctat gatcaactaa tacacttaat
+     1681 ttgaaaaaat ttcttaccac tcacaatcgc gcttacacta atacatatct caataccaat
+     1741 tatattatca ggaattcccc caacattgta ggacatgtgc ccgaaagata gggctcactt
+     1801 tgatagagtg aattatagag gctcaaaccc tctcatttcc tgtatgttaa aaaaatagga
+     1861 ctcgaaccta cccttaggag atcaaaaccc ctcgtgctcc cactacacca tcttttacca
+     1921 gtaagataag ctaaatt
+//
+

@@ -1,0 +1,69 @@
+LOCUS       KC165144                 918 bp    DNA     linear   VRT 26-SEP-2013
+DEFINITION  Cynops orientalis dynein axonemal heavy chain 3 (DNAH-3) gene,
+            partial cds.
+ACCESSION   KC165144
+VERSION     KC165144.1  GI:523708361
+KEYWORDS    .
+SOURCE      Cynops orientalis (oriental fire-bellied newt)
+  ORGANISM  Cynops orientalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1  (bases 1 to 918)
+  AUTHORS   Shen,X.X., Liang,D., Feng,Y.J., Chen,M.Y. and Zhang,P.
+  TITLE     A versatile and highly efficient toolkit including 102 nuclear
+            markers for vertebrate phylogenomics, tested by resolving the
+            higher level relationships of the caudata
+  JOURNAL   Mol. Biol. Evol. 30 (10), 2235-2248 (2013)
+   PUBMED   23827877
+REFERENCE   2  (bases 1 to 918)
+  AUTHORS   Shen,X.X., Liang,D. and Zhang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2012) Key Laboratory of Gene Engineering of the
+            Ministry of Education, State Key Laboratory of Biocontrol, School
+            of Life Sciences, Sun Yat-Sen University, Guangzhou 510275, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAstar Lasergene SeqMan Pro v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..918
+                     /organism="Cynops orientalis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:137245"
+     gene            <1..>918
+                     /gene="DNAH-3"
+     mRNA            <1..>918
+                     /gene="DNAH-3"
+                     /product="dynein axonemal heavy chain 3"
+     CDS             <1..>918
+                     /gene="DNAH-3"
+                     /codon_start=1
+                     /product="dynein axonemal heavy chain 3"
+                     /protein_id="AGQ56575.1"
+                     /db_xref="GI:523708362"
+                     /translation="VAPKKERLKEAEDALAIQMENLNAKRAELKEVEDRLQALNDEFD
+                     AMNARKSELESNIELCSQKLVRAEKLISGLGGEKDRWTEAAHLLGTKYTNLTGDVLLA
+                     SGTVAYLGGFTVDFRVECQTQWLTVCKEKQIPCSADFNLSVTLGDPVKIRAWQIAGLP
+                     VDSFSIDNGVIVSNSRRWPLMIDPQGQANKWIKNMEKHNKLSVMKLSDANYLRGLENA
+                     LQFGTPVLIENVGEELDAILEPILLKQTFKQQGVEYIRLGENIIEYSHEFKLYMTTRL
+                     RNPHYLPEVAVKVCLLNFMITPLGLQDQLL"
+ORIGIN      
+        1 gtagccccaa agaaggaacg tcttaaagaa gctgaagatg cccttgccat tcagatggag
+       61 aaccttaatg ccaagagggc tgaactcaaa gaagtagagg accgcctaca agccttgaac
+      121 gatgaatttg atgcaatgaa cgcaagaaaa tctgaactag aaagcaatat agaattgtgt
+      181 tcacaaaaat tggtacgtgc tgaaaagttg ataagtggtc ttggtggtga aaaagacagg
+      241 tggacagaag ctgcgcatct cttggggacg aagtacacta atcttacagg ggatgtcctg
+      301 ctagcatcag gaactgttgc atacttagga ggctttacag tggactttcg tgtagaatgt
+      361 caaacacaat ggctaacagt ttgcaaagag aaacaaatac cttgttctgc agactttaac
+      421 ctgagcgtta ctttaggaga cccagtgaaa atccgtgctt ggcaaattgc tggtctgcct
+      481 gttgactcat tttcaattga caatggtgtt attgtctcaa attcaagaag gtggccgtta
+      541 atgatagatc cacaaggtca agccaacaaa tggataaaaa atatggagaa gcacaacaag
+      601 ttatcagtca tgaaactttc agatgcaaac tatcttagag gtctggaaaa cgctctccag
+      661 tttggaaccc ctgtcttgat tgaaaatgtt ggtgaggagt tagatgccat tttggagccg
+      721 atcttgttga aacaaacctt caagcagcag ggtgtagaat atataagact tggggagaac
+      781 attattgagt actcacatga attcaagctg tatatgacta ctcgtttaag aaatccacat
+      841 tatctcccgg aggtagctgt gaaggtctgc cttttaaact tcatgattac tccacttggg
+      901 ctgcaggatc aactcctg
+//
+

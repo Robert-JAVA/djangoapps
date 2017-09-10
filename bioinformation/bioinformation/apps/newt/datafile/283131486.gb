@@ -1,0 +1,75 @@
+LOCUS       AB530703                1141 bp    DNA     linear   VRT 06-MAR-2010
+DEFINITION  Cynops pyrrhogaster mitochondrial cytb gene for cytochrome b,
+            complete cds, specimen_voucher: KUHE36324.
+ACCESSION   AB530703
+VERSION     AB530703.1  GI:283131486
+KEYWORDS    .
+SOURCE      mitochondrion Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Tominaga,A., Ota,H. and Matsui,M.
+  TITLE     Phylogeny and phylogeography of the sword-tailed newt, Cynops
+            ensicauda (Amphibia: Caudata), as revealed by nucleotide sequences
+            of mitochondrial DNA
+  JOURNAL   Mol. Phylogenet. Evol. 54 (3), 910-921 (2010)
+   PUBMED   19900570
+REFERENCE   2  (bases 1 to 1141)
+  AUTHORS   Tominaga,A., Ota,H. and Matsui,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-NOV-2009) Contact:Atsushi Tominaga National Institute
+            for Environmental Studies, Research Center for Environmantal Risk;
+            Onogawa 16-2, Tsukuba, Ibaraki 305-8506, Japan
+FEATURES             Location/Qualifiers
+     source          1..1141
+                     /organism="Cynops pyrrhogaster"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KUHE36324"
+                     /db_xref="taxon:8330"
+                     /tissue_type="liver"
+                     /country="Japan:Tochigi, Utsunomiya-shi"
+     gene            1..1141
+                     /gene="cytb"
+     CDS             1..1141
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA."
+                     /codon_start=1
+                     /transl_except=(pos:1141,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAI63470.1"
+                     /db_xref="GI:283131487"
+                     /translation="MAPITRKTHPLLKIINNSFVDLPTPSNISYWWNFGSLLGICLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGTSMMHLLFLHETGSNNPTGIPSNQDK
+                     ISFHPYFSYKDLLGFLLALLILVLISLIVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMFVPVLHTSKQRSLMFRSTSQTLFWLLVANTL
+                     ILTWIGGMPVESPFTEIGQIASILYFLLFIIMIPLVGLWENKLMKW"
+ORIGIN      
+        1 atggccccca ttacacgaaa aactcacccc ctattgaaaa ttattaacaa ctcatttgtt
+       61 gacctgccaa caccatcaaa catctcatat tgatgaaact ttggctccct tctaggaatt
+      121 tgtctgatta cacaaatcat tacaggccta tttttagcta tacactacac agcagataca
+      181 caatcagcct tctcatctgt agcccacatt tgccgagacg tcaatcacgg gtgactaata
+      241 cggaacattc atgctaacgg ggcctcattc ttctttattt gcatttattt acatattggg
+      301 cgagggctat actatgggtc atatatattt aaagaaacat gaaatattgg agtagtccta
+      361 ttattattag ttatagccac tgcctttgta ggatatgtcc ttccatgggg acaaatatca
+      421 ttctgagggg cttcagttat tacaaacctc ctctcagcca ttccatatgt ggggggttcc
+      481 ctagtagagt gagtctgggg ggggttttcc gtagacaaag ccactctaac acggttcttc
+      541 gcattccact tcctactacc ttttctaatt gcaggaacaa gcataataca cctgttgttt
+      601 ttacatgaga ccggatcaaa caatccaaca ggaatcccct ccaaccaaga taaaatctct
+      661 ttccacccgt atttttctta taaagacctg ctaggctttt tactggcact actcatcttg
+      721 gtactaattt ccctaattgt accaaaccta ctcgtagacc cggaaaactt cattcctgca
+      781 aacccgctaa tagcaccccc acacattaaa ccagagtgat atttcttatt cgcctacgct
+      841 atcttacggt ctattcccaa caaacttgga ggggttattg cacttctaat gtctattttg
+      901 atccttatat ttgtcccagt actgcataca tcaaaacaac gaagtttaat attccgctct
+      961 acatcccaaa ctttattttg acttctagtg gcaaataccc ttattttaac ttgaattgga
+     1021 ggaataccgg ttgaatcccc gtttactgaa attggacaaa ttgcctcaat cctttacttc
+     1081 ctacttttca ttattataat cccattagtt gggctatgag aaaacaagct tataaaatga
+     1141 t
+//
+

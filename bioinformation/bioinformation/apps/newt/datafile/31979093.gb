@@ -1,0 +1,40 @@
+LOCUS       AY291459                 284 bp    DNA     linear   VRT 17-NOV-2003
+DEFINITION  Notophthalmus viridescens microsatellite Nvi19 sequence.
+ACCESSION   AY291459
+VERSION     AY291459.1  GI:31979093
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 284)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Seven polymorphic microsatellite DNA loci from the red-spotted newt
+            (Notophthalmus viridescens)
+  JOURNAL   Mol. Ecol. Notes 3 (4), 514-516 (2003)
+REFERENCE   2  (bases 1 to 284)
+  AUTHORS   Croshaw,D.A. and Glenn,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2003) Savannah River Ecology Laboratory, Drawer
+            E, Aiken, SC 29802, USA
+FEATURES             Location/Qualifiers
+     source          1..284
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8316"
+                     /clone="3-8B"
+     primer_bind     47..63
+     repeat_region   165..200
+                     /note="microsatellite Nvi19"
+                     /rpt_type=tandem
+                     /rpt_unit_seq="acat"
+     primer_bind     complement(209..224)
+ORIGIN      
+        1 acccacagca aattatattt tgntagtggg cttacagcac tgcttatgtc acccacttca
+       61 gtagcctttt aaacatgtct caggtctgcc attgcagcct gtgtgtgcag tttaaactgc
+      121 catttcaatc tgaccagata agcctcttgc ctggcctaaa ccttacatac atacatacat
+      181 acatacatac atacatacat acctacatac atacaagtcg ccactgggta ggcagtaaat
+      241 agcccatagg gcagggtcca atgtatttaa aatggtggac atgt
+//
+

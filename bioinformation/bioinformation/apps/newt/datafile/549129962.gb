@@ -1,0 +1,65 @@
+LOCUS       AB775818                 852 bp    mRNA    linear   VRT 31-OCT-2014
+DEFINITION  Cynops pyrrhogaster PSMB8 mRNA for proteasome subunit beta type
+            8,A-type, partial cds.
+ACCESSION   AB775818
+VERSION     AB775818.1  GI:549129962
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Huang,C.H., Tanaka,Y., Fujito,N.T. and Nonaka,M.
+  TITLE     Dimorphisms of the proteasome subunit beta type 8 gene (PSMB8) of
+            ectothermic tetrapods originated in multiple independent
+            evolutionary events
+  JOURNAL   Immunogenetics 65 (11), 811-821 (2013)
+   PUBMED   23982299
+  REMARK    DOI:10.1007/s00251-013-0729-2
+REFERENCE   2  (bases 1 to 852)
+  AUTHORS   Nonaka,M. and Huang,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2013) Contact:Masaru Nonaka The University of
+            Tokyo, Graduate School of Science; Hongo 7-3-1, Bunkyo-ku, Tokyo
+            113-0033, Japan URL
+            :http://www.biol.s.u-tokyo.ac.jp/users/meneki/nonakaken/
+            index-j.html
+FEATURES             Location/Qualifiers
+     source          1..852
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="tail"
+     gene            <1..852
+                     /gene="PSMB8"
+     CDS             <1..838
+                     /gene="PSMB8"
+                     /codon_start=2
+                     /product="proteasome subunit beta type 8,A-type"
+                     /protein_id="BAO00930.1"
+                     /db_xref="GI:549129963"
+                     /translation="HSRLHALFMALLDLFRGPRDWTLPLDSNEGDRSQGPCRELLGGH
+                     MVLPRGLEPAQFLRSCTEGHNGAKIELWHGTTTLAFKFQHGVVVAVDSRASAGSYIAT
+                     IHANKVIEINPYLLGTMSGSAADCQFWERSLAKECRLYQLRNRERISVSAASKLLSNM
+                     MCEYRGMGLSMGSMICGWDKKGPGLYYVDDNGTRLAGPLFSTGCGNSYAYGVVDSGYR
+                     YDLTVEEAYDLAQRAICHATHRDAYSGGYVNMYHMKEDGWIKVCSKDVSELLYQYQAG
+                     KL"
+ORIGIN      
+        1 acacagccgg ctgcacgcac tcttcatggc gctgctagat ctcttccggg ggccccggga
+       61 ctggaccctg cccctggaca gcaatgaggg cgacaggagc caggggccct gcagggagct
+      121 gctcgggggc cacatggtcc tgcctagggg gctggagcct gctcagttcc tgcggtcgtg
+      181 caccgagggc cacaacggtg ccaagatcga gctctggcat gggacgacga ccctggcctt
+      241 caagttccag cacggagtgg tggtagctgt ggactctcgc gcctccgctg gaagttacat
+      301 agccaccata catgctaaca aggtgattga gattaacccc tacctgctgg gcaccatgtc
+      361 tgggagcgcc gccgactgcc agttctggga gcgttcgctg gccaaagaat gcaggctgta
+      421 ccaactgcgc aacagggaga ggatctcagt gtccgccgcc tccaagctgc tgtccaacat
+      481 gatgtgtgaa taccgtggca tggggctgtc catgggcagc atgatctgcg gctgggacaa
+      541 aaagggcccc gggctgtact atgtggatga caatgggacg cgtctggctg gacctctgtt
+      601 ctccactggc tgtgggaata gctacgccta cggtgttgtg gacagtggct accgatatga
+      661 ccttacagtg gaggaggcct acgacctggc ccagcgagcc atctgtcatg ccacgcatcg
+      721 tgacgcctac tctggcggct acgttaatat gtaccacatg aaggaagatg gatggattaa
+      781 agtctgcagc aaagacgtca gtgaacttct gtaccagtac caagctggga aactctagat
+      841 tagaagaatg tg
+//
+

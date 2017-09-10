@@ -1,0 +1,75 @@
+LOCUS       X69945                   251 bp    mRNA    linear   VRT 14-NOV-2006
+DEFINITION  N.viridescens retinoic acid receptor delta 2 cDNA.
+ACCESSION   X69945 S56888
+VERSION     X69945.1  GI:64132
+KEYWORDS    retinoic acid receptor delta 2.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Ragsdale,C.W. Jr., Petkovich,M., Gates,P.B., Chambon,P. and
+            Brockes,J.P.
+  TITLE     Identification of a novel retinoic acid receptor in regenerative
+            tissues of the newt
+  JOURNAL   Nature 341 (6243), 654-657 (1989)
+   PUBMED   2552324
+  REMARK    (sites)
+REFERENCE   2
+  AUTHORS   Ragsdale,C.W. Jr., Gates,P.B., Hill,D.S. and Brockes,J.P.
+  TITLE     Delta retinoic acid receptor isoform delta 1 is distinguished by
+            its exceptional N-terminal sequence and abundance in the limb
+            regeneration blastema
+  JOURNAL   Mech. Dev. 40 (1-2), 99-112 (1993)
+   PUBMED   8382939
+  REMARK    Erratum:[Mech Dev 1993 Jul;42(1-2):113]
+REFERENCE   3  (bases 1 to 251)
+  AUTHORS   Ragsdale,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-DEC-1992) C. Ragsdale, Ludwig Ist. for Cancer
+            Research, Courtauld Bilding 91 Riding House street, London W1P 8BT,
+            UK
+COMMENT     On Sep 21, 2004 this sequence version replaced gi:385357.
+FEATURES             Location/Qualifiers
+     source          1..251
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /clone="D100,PG270,DZ20"
+                     /cell_type="hindlimb explant cells TH4B"
+                     /clone_lib="tail Lambda Zap"
+                     /dev_stage="adult regeneration"
+     variation       46
+                     /replace="g"
+     CDS             54..>251
+                     /note="complete nucleotide and protein sequence provided
+                     by overlapping RAR delta 1 cDNAs"
+                     /codon_start=1
+                     /product="retinoic acid receptor delta 2"
+                     /protein_id="CAA49566.1"
+                     /db_xref="GI:64133"
+                     /db_xref="GOA:P18516"
+                     /db_xref="InterPro:IPR000536"
+                     /db_xref="InterPro:IPR001628"
+                     /db_xref="InterPro:IPR001723"
+                     /db_xref="InterPro:IPR003078"
+                     /db_xref="InterPro:IPR008946"
+                     /db_xref="InterPro:IPR013088"
+                     /db_xref="UniProtKB/Swiss-Prot:P18516"
+                     /translation="MYDCMEAFMLAPHPLYDVTNPGACMLRKARLSPCFGGLDPFGWP
+                     QPASLQSVETQSTSSEEMVPSS"
+     exon            <54..204
+     exon            205..>251
+                     /number=2
+     misc_feature    205
+                     /note="RAR delta 2 sequence here follows that of RAR delta
+                     1 (from position 1034)"
+ORIGIN      
+        1 ggctaaccga cgaccccagg agtcagagag cccatccaca ccacagcccc accatgtacg
+       61 actgcatgga agccttcatg ctggcgccgc acccgctcta cgatgtcacc aacccgggcg
+      121 cctgcatgct gcgcaaggcc cggctcagcc cctgctttgg cggcctcgac cccttcggat
+      181 ggccgcagcc cgcgagcctg caatctgtgg aaacccagag cacgagttca gaggagatgg
+      241 tcccaagttc a
+//
+

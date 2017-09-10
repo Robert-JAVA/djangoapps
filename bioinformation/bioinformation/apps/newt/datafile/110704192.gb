@@ -1,0 +1,66 @@
+LOCUS       DQ821268                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Lissotriton vulgaris graecus isolate 20B cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   DQ821268
+VERSION     DQ821268.1  GI:110704192
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris graecus (Greek newt)
+  ORGANISM  Lissotriton vulgaris graecus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Lissotriton vulgaris graecus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20B"
+                     /sub_species="graecus"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:395391"
+                     /country="Greece"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG88016.1"
+                     /db_xref="GI:110704193"
+                     /translation="MAHTMRKTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPTGIASNQDK
+                     ISFHPYFSYKDMLGFLLMLLILVLISLLTPNLLGDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aacccatcca cttttaaaaa tcattaacgg ctcattcatt
+       61 gacctcccaa caccatcaaa catctcttac tggtggaact ttggctccct tcttggggtc
+      121 tgcctaatta cacaaatcct cacaggcctt ttcctagcta tacactacac agctgacaca
+      181 caatcagcat tctcatcagt agcccacatc tgtcgagacg tcaactatgg gtgacttgta
+      241 cgaaatatcc acgccaacgg cgcctccttc ttttttatct gcatttacat acacattgga
+      301 cgaggccttt attacgggtc ctatatattt aaagagacgt gaaacattgg tgtagttcta
+      361 ctactgctag ttatagcaac tgctttcgta ggatatgtcc ttccatgagg acaaatatca
+      421 ttttgagggg ccacagtaat taccaacctt ctatccgcta ttccgtatat aggcgactcc
+      481 ttagttcaat gaatctgagg tggattttca gtagacaaag caactcttac ccgattcttc
+      541 gcattccact tcttattccc ctttcttatc gccggggcaa gcattgttca cttactattc
+      601 ctccaccaaa ccggatcaaa caacccaaca ggaatcgcat ccaaccaaga caagatttcc
+      661 ttccaccctt acttctccta caaagacata ctgggtttct tacttatgct ccttatccta
+      721 gtactaattt cccttttaac cccaaacctt ttaggagacc cagaaaactt tacccctgcc
+      781 aactccctag tgactccacc acatatccag ccagaatga
+//
+

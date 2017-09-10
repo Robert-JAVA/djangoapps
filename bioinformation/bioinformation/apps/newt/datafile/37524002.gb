@@ -1,0 +1,55 @@
+LOCUS       AY327524                 392 bp    DNA     linear   VRT 19-MAY-2004
+DEFINITION  Paramesotriton hongkongensis isolate 20020481 NADH dehydrogenase
+            subunit 4 (ND4) gene, partial cds; mitochondrial gene for
+            mitochondrial product.
+ACCESSION   AY327524
+VERSION     AY327524.1  GI:37524002
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+  ORGANISM  Paramesotriton hongkongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 392)
+  AUTHORS   Lu,S., Yuan,Z.G., Pang,J., Yang,D., Yu,F., McGuire,P., Xie,F. and
+            Zhang,Y.P.
+  TITLE     Molecular phylogeny of the genus Paramesotriton (Caudata:
+            Salamandridae)
+  JOURNAL   Biochem. Genet. 42 (5-6), 139-148 (2004)
+   PUBMED   15260140
+REFERENCE   2  (bases 1 to 392)
+  AUTHORS   Lv,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2003) The Department of Herpetology, Chengdu
+            Institute of Biology, Chinese Academy of Sciences, No. 9, Block 4
+            of Renming South Road, Chengdu, Sichuan 610041, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..392
+                     /organism="Paramesotriton hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20020481"
+                     /db_xref="taxon:164972"
+                     /country="China: Hong Kong"
+     gene            <1..>392
+                     /gene="ND4"
+     CDS             <1..>392
+                     /gene="ND4"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAQ92303.1"
+                     /db_xref="GI:37524003"
+                     /translation="MLLPLTWLTNPKWLWTHFVVNSSIIAVTSLMWLNIPFEFSNFTN
+                     MLMSVDPTSSPLLVLTCWLLPLMTLASQQHLKMNPLPRQRTYLVMFTLLQASLIIAFS
+                     STELIMFYIAFETTLIPTLVIITRWGNQ"
+ORIGIN      
+        1 aatattacta cccctgacat gactaacaaa ccccaaatga ctatgaaccc actttgtagt
+       61 aaatagctcc attattgcag taacaagcct aatgtggcta aatattccat ttgaattttc
+      121 aaactttaca aacatactaa tgtccgtaga cccaacttca tcccccctac tagtacttac
+      181 gtgctgactt ctccccctaa taaccctggc cagccagcaa cacctaaaaa taaacccgct
+      241 ccctcgacaa cggacttacc tagttatatt tacacttcta caagcatcct taattattgc
+      301 tttttcttca acggaattaa ttatatttta tattgccttt gaaactaccc ttattccaac
+      361 ccttgttatt attacccgct gaggaaatca ag
+//
+

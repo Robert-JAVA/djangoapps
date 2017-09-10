@@ -1,0 +1,73 @@
+LOCUS       AM410552                1172 bp    mRNA    linear   VRT 09-MAR-2008
+DEFINITION  Pleurodeles waltl partial mRNA for immunoglobulin heavy chain
+            constant region (ighcp gene).
+ACCESSION   AM410552
+VERSION     AM410552.1  GI:152002670
+KEYWORDS    constant region; ighcp gene; immunoglobulin heavy chain.
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1
+  AUTHORS   Schaerlinger,B., Bascove,M. and Frippiat,J.P.
+  TITLE     A new isotype of immunoglobulin heavy chain in the urodele
+            amphibian Pleurodeles waltl predominantly expressed in larvae
+  JOURNAL   Mol. Immunol. 45 (3), 776-786 (2008)
+   PUBMED   17681605
+REFERENCE   2  (bases 1 to 1172)
+  AUTHORS   Frippiat,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-2006) Frippiat J.P., Lab. of Experimental Biology
+            and Immunology, University Nancy 1, Bvd des Aiguillettes BP239,
+            Vandoeuvre-les-Nancy, 54506, FRANCE
+COMMENT     Related entry: AM295004.
+FEATURES             Location/Qualifiers
+     source          1..1172
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+                     /tissue_type="spleen"
+                     /dev_stage="adult"
+                     /rearranged
+     gene            <1..1172
+                     /gene="ighcp"
+     CDS             <1..504
+                     /gene="ighcp"
+                     /note="membrane bound variant"
+                     /codon_start=1
+                     /product="immunoglobulin heavy chain constant region"
+                     /protein_id="CAL68662.1"
+                     /db_xref="GI:152002671"
+                     /translation="TTRDSKLQLKNPTVTILNPNVEDPSEAESLTLFCDVTNFYPEDI
+                     SIEWKNNKMLVEKAHYTNGPVSCSGPTCSTYSILRVGKDEGGGDYTCEVRHVTLKTSP
+                     ETATIYDVFGKPVIADIPRDFHDQGGYDLSELDEAGSVWTTASTFIALFLLTLLYSSF
+                     VTFVKVK"
+     C_region        <1..501
+                     /gene="ighcp"
+                     /product="immunoglobulin heavy chain constant region"
+     3'UTR           505..1172
+                     /gene="ighcp"
+ORIGIN      
+        1 accacaaggg actcaaaact ccagctgaaa aaccctactg tgactatcct gaaccccaac
+       61 gtagaagacc cctctgaggc agaatcactt acactcttct gtgatgtcac caacttctac
+      121 ccagaagata tcagcattga gtggaagaac aataagatgc tggtggaaaa ggctcactac
+      181 accaatgggc cagtctcttg ctctggacca acatgttcca cctacagtat attaagggta
+      241 gggaaggatg aaggaggtgg agactatacc tgcgaggtgc gccatgtgac cctaaaaaca
+      301 agcccggaaa ctgcaaccat atacgatgtc tttgggaagc cagtcattgc ggacatcccc
+      361 agggactttc atgaccaggg gggctatgac ttgagtgagc tggatgaggc aggaagtgtg
+      421 tggaccactg cctccacctt catcgcgctc ttcctcctga cactcttgta cagcagcttt
+      481 gtcacctttg tcaaggttaa ataagctcat tgcgcaagac ggagcgtgaa agaaagaatc
+      541 gtattttggc cacatggatc ccaagatgtt cctcctcacc aacaaagcat gtgttcattc
+      601 atcaagtact gtacttgact tcagtcagtt tttatcatcg gggaggtctt cacattttcc
+      661 agccaccact gtggatcctt tagaaaagct ccaagtatgt ctcagtagtg gaataatctg
+      721 tggaggactc ttaccttttc agtgctggct gttagatcgg ttatttacct agaggtcaag
+      781 tgctcgtgtt gtctatgaac cctgaaatac taattgtggc ttttaagctg gatgaaaatg
+      841 tcatgccttt cagaaaatta atgtttcttc ctgtgcatta tttccatggt ctgtaaaaat
+      901 ggtagacatg gtcaagcacc tcaactgcta gcattaagta gtatatagaa acaacatata
+      961 catttttctg ggtgttaatt gtgaaaatta attgacagta caaaagctca aaatattcat
+     1021 tttctaaata ttctttttgt ggtagcaata ccttctaaat gtagatatcg ggtgtgatta
+     1081 tatttagcct attgcgttgt catgaagttg agaaggactc cgtccttctt tgtgtttttt
+     1141 aaaccaaaaa aaaaaaaaaa aaaaaaaaaa aa
+//
+

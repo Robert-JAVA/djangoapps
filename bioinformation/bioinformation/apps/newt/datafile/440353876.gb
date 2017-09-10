@@ -1,0 +1,47 @@
+LOCUS       JQ824179                 556 bp    DNA     linear   VRT 31-MAR-2014
+DEFINITION  Tylototriton wenxianensis isolate HSU090060 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   JQ824179
+VERSION     JQ824179.1  GI:440353876
+KEYWORDS    .
+SOURCE      mitochondrion Tylototriton wenxianensis (Wenxian knobby newt)
+  ORGANISM  Tylototriton wenxianensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Yaotriton.
+REFERENCE   1  (bases 1 to 556)
+  AUTHORS   Zhang,M. and Hou,M.
+  TITLE     A new species of Tylototriton (Amphibia; Caudata; Salamandridae)
+            from Southwest China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 556)
+  AUTHORS   Zhang,M. and Hou,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAR-2012) Sichuan Agricultural University, Yaan,
+            Sichuan 625014, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..556
+                     /organism="Tylototriton wenxianensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HSU090060"
+                     /db_xref="taxon:385678"
+     rRNA            <1..>556
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tcgcctcttg caacaattaa gtatagaggt ccgcctgccc agtgactagt tcaacggccg
+       61 cggtatcatg accgtgcaaa ggtagcgtaa tcacttgtct tttaaataaa gacccgtatg
+      121 aaaggcaaaa cgaaagttca actgtctctt taatccaatc aatgaaattt atcttttcgt
+      181 gcagaggcgg agataaatat ataagacgag aagaccctat ggagctttaa acacactatt
+      241 aactactaca gtaatttcaa ccaacaggca aaaaatcata aaccacatag ccataatata
+      301 agttttgggt tggggcgacc acggagcaaa aaaaatcctc cgagataaac aatttagaat
+      361 aacacttcga aaattaaaac atttattata aatgatccac taagtgacca acgaaccaag
+      421 ttaccctagg gataacagcg caatcctttc taagagtcca tatcgacgaa tgggtttacg
+      481 acctcgatgt tggatcagga cacccaaatg gtgcagccgc tgtaaaggtt cgtttgttca
+      541 acgattaaag tcctac
+//
+

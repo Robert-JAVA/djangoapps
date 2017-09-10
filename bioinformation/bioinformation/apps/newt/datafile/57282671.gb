@@ -1,0 +1,42 @@
+LOCUS       AJ609565                 315 bp    DNA     linear   VRT 07-JAN-2005
+DEFINITION  Euproctus asper mitochondrial DNA, partial D-loop, strain 1b.
+ACCESSION   AJ609565
+VERSION     AJ609565.1  GI:57282671
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1
+  AUTHORS   Poschadel,J.R., Plath,M. and Guillaume,O.
+  TITLE     Caught in caves? Relationships between cave dwelling and surface
+            populations of the Pyrenean mountain newt Euproctus asper
+            (Salamandridae, Urodela) inferred from d-loop sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 315)
+  AUTHORS   Poschadel,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2003) Poschadel J.R., Zoological Institute,
+            University of Hamburg, Martin-Luther-King-Platz 3, Hamburg 20146,
+            GERMANY
+FEATURES             Location/Qualifiers
+     source          1..315
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="1b"
+                     /isolation_source="buccal swab"
+                     /db_xref="taxon:30374"
+                     /tissue_type="mucus membrane"
+                     /country="France:Central pyrenees"
+     D-loop          <1..>315
+ORIGIN      
+        1 tctgtgaagt caattcccca taaagtcttg agtcggcacc aacggcctaa atctgaacat
+       61 gcactgcaat tgtaaagtga caaatacaga accgcggata atatgtttat gttataagga
+      121 cataacatat ttttccctct aaagcaaggg atatattctt tttcctgttt ccccccggag
+      181 ctagtttttc gaagaatata aaatttgaat attatctcat ttttttttgg ataacccccc
+      241 caccccccaa taaccgtctt atcagtatgc gaaacttttt agccaacccc aaagctaaaa
+      301 ggacctacta cttac
+//
+

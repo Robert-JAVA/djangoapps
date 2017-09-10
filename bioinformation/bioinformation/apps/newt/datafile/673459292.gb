@@ -1,0 +1,58 @@
+LOCUS       KF564104                 710 bp    DNA     linear   VRT 24-AUG-2014
+DEFINITION  Neurergus derjugini isolate Nd_8_Pe D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KF564104
+VERSION     KF564104.1  GI:673459292
+KEYWORDS    .
+SOURCE      mitochondrion Neurergus derjugini (Kurdistan newt)
+  ORGANISM  Neurergus derjugini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Neurergus.
+REFERENCE   1  (bases 1 to 710)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     First comprehensive insights into nuclear and mitochondrial DNA
+            based population structure of Near East mountain brook newts
+            (Salamandridae: genus Neurergus) suggest the resurrection of
+            Neurergus derjugini
+  JOURNAL   Amphib-reptil. 35 (2), 173-187 (2014)
+REFERENCE   2  (bases 1 to 710)
+  AUTHORS   Hendrix,R., Fleck,J., Schneider,W., Schneider,C., Geller,D.,
+            Avci,A., Olgun,K. and Steinfartz,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2013) Animal Behaviour, University of Bielefeld,
+            Morgenbreede 45, Bielefeld, NRW 33619, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..710
+                     /organism="Neurergus derjugini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Nd_8_Pe"
+                     /db_xref="taxon:1536848"
+                     /haplotype="IX"
+                     /country="Iraq: Penjwin"
+     D-loop          <1..145
+     tRNA            146..213
+                     /product="tRNA-Phe"
+     rRNA            214..>710
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ccccaaatat ccgtcttatc agtacgcgaa actttttaac caaccccaaa gctaaaaaga
+       61 cctacatact tacgacattc gatttatact agaaaaatgt gattttacgt gaattgaaac
+      121 ttctatatac agtgttacac tgtaagttaa tgtagcttac ataaagtgtg gcactgaaaa
+      181 tgctaagaca gattttaaaa catctcatga acacaaaggt ttggtcctag ccttcctatt
+      241 aatttttact acgcttacac atgcaagtat ctgcactccc gtgaaaatgc cctttgctgc
+      301 caaaaagtag aaacggggcg gatatcaggc actcatatcg ccaaagacat cttgttcaac
+      361 cacaccctca agggaactca gcagtgataa acattgaata ataagcgaca caagcttgaa
+      421 tcagcgatag ttcacagagt cggtaaatct cgtgccagcc accgcggtta tacgagagac
+      481 tcaaattaat ttaatcggcc caaagagtgg ttagacgtgt aaataaaata tgactaaaaa
+      541 cggactctgc tgtcgcacgc aaaagtctta aaaaacacaa catcgaaagt agccctataa
+      601 aagcaatctt gaacccacga cagctaggac acaaactggg attagatacc ccactatgcc
+      661 tagccataaa ctttgattaa tccgcccgag tactacgagc aacagctaaa
+//
+

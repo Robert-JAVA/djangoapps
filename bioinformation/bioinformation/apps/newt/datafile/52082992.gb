@@ -1,0 +1,64 @@
+LOCUS       AY728087                1120 bp    mRNA    linear   VRT 16-JUN-2005
+DEFINITION  Taricha granulosa ORL1-like opioid receptor mRNA, complete cds.
+ACCESSION   AY728087
+VERSION     AY728087.1  GI:52082992
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 1120)
+  AUTHORS   Walthers,E.A., Bradford,C.S. and Moore,F.L.
+  TITLE     Cloning, pharmacological characterization and tissue distribution
+            of an ORL1 opioid receptor from an amphibian, the rough-skinned
+            newt Taricha granulosa
+  JOURNAL   J. Mol. Endocrinol. 34 (1), 247-256 (2005)
+   PUBMED   15691892
+REFERENCE   2  (bases 1 to 1120)
+  AUTHORS   Walthers,E.A., Bradford,C.S. and Moore,F.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2004) Zoology, Oregon State University, 3029
+            Cordley Hall, Corvallis, OR 97331, USA
+FEATURES             Location/Qualifiers
+     source          1..1120
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+                     /sex="male"
+                     /tissue_type="brain"
+     CDS             7..1113
+                     /note="GPCR; nociceptin receptor; OP4 receptor"
+                     /codon_start=1
+                     /product="ORL1-like opioid receptor"
+                     /protein_id="AAU26067.1"
+                     /db_xref="GI:52082993"
+                     /translation="MDPHFSIPSFEASYLSKLLNDSSVMNLSTLPSGWYFNSTSDTFL
+                     PLGIKLTIVIVYLIVCVLGLVGNCAVMFVIVRYTKMKTATNIYIFNLALADALVLVTL
+                     PFQGTDTFLGFWPFGNVLCKIAIAIDYYNMFTSTFTLTMMSVDRYIAICHPVKALDIR
+                     TPHKAKIINVCIWALASVIGVPVMVMGSAEMENNEVECLVQIPVPEDYWDPVFGICVF
+                     VFSFVIPVFIITICYSLMIRRLKNVRVLSGSKEKDRNLRRITRLVLVVVAVFVICWTP
+                     IQIFVLVQCLGAKPDSEAKVVILHFCIALGYVNSSLNPILYAFLDENFKACFRKFCFP
+                     AAFRSELQMSNRMCSIAKDVAYACKNSDGTNNPA"
+ORIGIN      
+        1 cccacaatgg acccacattt ctctattccg tcttttgagg catcctactt gagcaagctt
+       61 ctgaacgact cttcagttat gaacctgagc accctgccga gcggctggta cttcaactct
+      121 acctccgaca ccttcctgcc ccttggcatc aagctcacca ttgtgattgt ctacctcatt
+      181 gtgtgtgtgc tgggactggt gggaaactgc gctgtcatgt ttgtcattgt cagatatacc
+      241 aagatgaaaa cagccaccaa catttacatc tttaacctgg ccctggctga tgccctggtg
+      301 ctcgtcacgc tgcccttcca gggaacagat accttcttgg gcttttggcc cttcgggaat
+      361 gtcctgtgca aaatcgcaat cgccatcgac tactacaaca tgttcaccag taccttcact
+      421 ctgaccatga tgagcgtgga tcgctacatc gccatctgcc accctgtcaa ggcgctggac
+      481 atccgtacac cacacaaagc caagatcatc aacgtctgca tctgggcgct ggcgtccgtc
+      541 atcggcgtgc ccgtcatggt gatggggtct gctgaaatgg aaaacaatga ggtggagtgc
+      601 ctagtgcaga tcccagtacc tgaagattac tgggacccag tctttggaat ctgcgtcttt
+      661 gtcttctcct tcgtcatccc cgtcttcatc atcaccatct gctacagcct gatgatccgg
+      721 cgactaaaga acgtgcgcgt cctctcaggc tccaaggaga aggaccgtaa cttgcggcgc
+      781 atcactcgcc tggtcctggt ggtggtggcg gtctttgtca tctgctggac ccctatccag
+      841 atctttgtgc tggtgcagtg cctgggcgcc aagcccgaca gcgaggccaa ggtggtgatc
+      901 ctgcacttct gcattgccct agggtatgtc aacagcagcc tcaaccctat tctctacgcc
+      961 tttctggacg agaacttcaa ggcttgcttc cgcaagttct gcttccccgc tgccttcagg
+     1021 tctgagctac agatgtccaa ccgcatgtgc agcatagcca aggatgtggc ctatgcatgc
+     1081 aagaactccg atgggactaa caaccccgca tgactaggcc
+//
+

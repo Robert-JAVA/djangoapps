@@ -1,0 +1,48 @@
+LOCUS       GQ844314                 330 bp    mRNA    linear   VRT 01-SEP-2010
+DEFINITION  Notophthalmus viridescens gamma crystallin mRNA, partial cds.
+ACCESSION   GQ844314
+VERSION     GQ844314.1  GI:259024948
+KEYWORDS    .
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 330)
+  AUTHORS   Maki,N., Suetsugu-Maki,R., Sano,S., Nakamura,K., Nishimura,O.,
+            Tarui,H., Del Rio-Tsonis,K., Ohsumi,K., Agata,K. and Tsonis,P.A.
+  TITLE     Oocyte-type linker histone B4 is required for transdifferentiation
+            of somatic cells in vivo
+  JOURNAL   FASEB J. 24 (9), 3462-3467 (2010)
+   PUBMED   20460584
+REFERENCE   2  (bases 1 to 330)
+  AUTHORS   Maki,N., Maki,R. and Tsonis,P.A.
+  TITLE     Cloning of newt gamma crystallin
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 330)
+  AUTHORS   Maki,N., Maki,R. and Tsonis,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2009) Department of Biology, University of
+            Dayton, 300 College Park, SC46, Dayton, OH 45469-2320, USA
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+     CDS             <1..>330
+                     /codon_start=1
+                     /product="gamma crystallin"
+                     /protein_id="ACV91078.1"
+                     /db_xref="GI:259024949"
+                     /translation="RCNSIRVESGNWILYEHPNFRGHQYYLRRGEYPDFQHWMGYNDS
+                     IRSCRLTPQHLGSYRIRVYERENFGGQMMEFSEDCPHVYEQFRYNDIHSCNVQDGHWV
+                     FYEEPNYR"
+ORIGIN      
+        1 cgctgcaact ccatccgggt ggaaagtggc aactggatac tctatgagca ccccaacttc
+       61 agggggcacc agtactatct gaggagaggc gagtacccgg acttccagca ctggatgggc
+      121 tacaatgatt ccatcaggtc atgccgcttg accccacaac accttggatc ctacagaata
+      181 agagtttatg aaagagaaaa ctttggaggt cagatgatgg agttctctga agactgtcca
+      241 catgtttatg agcaattccg ctacaatgac atccactcct gtaatgtaca ggatgggcac
+      301 tgggtcttct atgaagagcc caactacaga
+//
+

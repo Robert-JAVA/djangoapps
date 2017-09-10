@@ -1,0 +1,58 @@
+LOCUS       GU982378                 658 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Calotriton asper haplotype Casp01 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   GU982378
+VERSION     GU982378.1  GI:299773795
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30374"
+                     /haplotype="Casp01"
+     CDS             <1..>658
+                     /note="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADJ38968.1"
+                     /db_xref="GI:299773796"
+                     /translation="ILAAVLLKLGGYGMIRITIILTPLTKEMSYPFMTLALWGMVMTS
+                     LICMRQTDLKSLIAYSSVSHMSLVIAAIMIQTPWSLTGAIILMISHGLISSTLFCLAN
+                     LNYERTHSRTLLLMRGAQAILPLMTTWWLLANLSNMALPPTMNLWGELTIMVSLFNWS
+                     PLTILITGTGTLITASYTLYMFLMTQRGPTPPHISPINPSYTREHFLIVMHLMPMLLL
+                     I"
+ORIGIN      
+        1 atcttagcag cagttttact taaactagga ggatatggta tgattcgaat taccattatt
+       61 ttaaccccac taacaaaaga aatatcatac ccatttataa ccttggcctt gtgggggatg
+      121 gtaataacta gcttaatctg catacgacaa acagacctaa agtcactaat cgcatactca
+      181 tctgtaagcc acatgagcct ggttattgct gccattataa tccaaactcc atgaagcctc
+      241 acaggggcaa ttatcttaat aatttcacac ggacttatct catccaccct cttctgctta
+      301 gcaaacttaa actacgaacg aacacacagt cgaaccctac tattaatacg cggggctcaa
+      361 gcaatccttc cactaatgac cacctgatga cttcttgcga acctatcaaa tatggccctc
+      421 ccccccacaa taaacctgtg gggagagctt acaatcatag tctcattatt caactgatct
+      481 cctctaacaa ttctaattac aggaacgggg accctaatta cagcttccta cacgctttac
+      541 atatttctaa taacacaacg aggcccaacc cccccacata tcagcccaat caacccctct
+      601 tacacccgag aacactttct aatcgtaatg cacctaatac caatactact actaattt
+//
+

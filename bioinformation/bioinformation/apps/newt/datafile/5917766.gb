@@ -1,0 +1,84 @@
+LOCUS       AF181894                2300 bp    mRNA    linear   VRT 20-JUN-2000
+DEFINITION  Taricha granulosa CB1 cannabinoid receptor mRNA, complete cds.
+ACCESSION   AF181894
+VERSION     AF181894.1  GI:5917766
+KEYWORDS    .
+SOURCE      Taricha granulosa (rough-skinned newt)
+  ORGANISM  Taricha granulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Taricha.
+REFERENCE   1  (bases 1 to 2300)
+  AUTHORS   Soderstrom,K., Leid,M., Moore,F.L. and Murray,T.F.
+  TITLE     Behaviroal, pharmacological, and molecular characterization of an
+            amphibian cannabinoid receptor
+  JOURNAL   J. Neurochem. 75 (1), 413-423 (2000)
+   PUBMED   10854287
+REFERENCE   2  (bases 1 to 2300)
+  AUTHORS   Soderstrom,K., Moore,F.L., Leid,M. and Murray,T.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-1999) Psychology, Florida State University,
+            KRB329, Tallahassee, FL 32306-1270, USA
+FEATURES             Location/Qualifiers
+     source          1..2300
+                     /organism="Taricha granulosa"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8321"
+     CDS             645..2066
+                     /note="G-protein-coupled cannabinoid receptor;
+                     CNS-associated"
+                     /codon_start=1
+                     /product="CB1 cannabinoid receptor"
+                     /protein_id="AAD56029.1"
+                     /db_xref="GI:5917767"
+                     /translation="MKSILDGLADTTFRTITTDLLYMGSNDVQYEDTKGEMASKLGYF
+                     PQKLPLSSFRRDHSPDKMTIGDDNLLSFYPLDQFNVTEFFNRSVSTFKENDDNLKCGE
+                     NFMDMECFMILTASQQLIIAVLSLTLGTFTVLENFLVLCVILQSRTLRCRPSYHFIGS
+                     LAVADLLGSVIFVYSFLDFHVFHRKDSSNVFLFKLGGVTASFTASVGSLFLTAIDRYI
+                     SIHRPLAYKRIVTRTKAVIAFCVMWTIAIIIAVLPLLGWNCKKLKSVCSDIFPLIDEN
+                     YLMFWIGVTSILLLFIVYAYVYILWKAHSHAVRMLQRGTQKSIIIHTSEDGKVQITRP
+                     EQTRMDIRLAKTLVLILVVLIICWGPLLAIMVYDVFGKMNNPIKTVFAFCSMLCLMDS
+                     TVNPIIYALRSQDLRHAFLEQCPPCEGTSQPLDNSMESDCQHRHGNNAGNVHRAAENC
+                     IKSTVKIAKVTMSVSTETSGEAV"
+ORIGIN      
+        1 gagaggcgct gggagagaca ctgagcaaag gaacacccag gggagcagga agcacacagt
+       61 aggcgcaggg gaggatgagg ggaagctttg tggtgcaaca tccccaagac gctgcgcaca
+      121 gagaaagccg ttgaagagga cgacaggcaa aagagaaatc tactccaccc ctgcaccccc
+      181 caggcttctg ctacgagagt gacacctcgt gaaagaagag gttccagcac ccctttcact
+      241 gcccccaggc tgcccgcggc agagtctttc ctgcctctcg cgctctgccg ctgggctgcc
+      301 aggtcttgca ctgtcaggga agccggctta accaagctcc cccctctgcc ggcgaagcca
+      361 agtactgcag ccaagtagtt ctccgcagca cgggaggacc agctcatgta tatagctcca
+      421 caaagacaca gtgcggagca tctccagtcc aggaggacca cccctgcctg agctccagag
+      481 agtaacagtg cgacagcatc tccagcccag gacgaccacc cctgcctgaa ctcagagtgt
+      541 aacagtgcgg gagcgatgca gccggagcgg ggcgagcgat gtgactggca tacttctaca
+      601 ttctttcatt ttcgaagatg ctcatgtgat caaaaacaaa ggttatgaag tcgatcttgg
+      661 atggccttgc agacacaact tttcgaacca ttacaactga ccttctctac atgggttcca
+      721 acgacgttca gtacgaagac actaagggcg aaatggcctc caaacttggg tattttccac
+      781 aaaagttacc tttgtcctcc ttcaggaggg atcactctcc agacaaaatg actataggag
+      841 atgataatct gctcagtttc tatcctctag atcagtttaa tgtcactgag ttttttaatc
+      901 ggtctgtatc gacattcaag gaaaatgacg ataacttaaa atgtggggaa aatttcatgg
+      961 acatggagtg cttcatgatt ctaactgcaa gccaacagct gatcattgca gtcctttccc
+     1021 ttaccctagg caccttcaca gtcctggaga actttttagt actgtgtgtc attctacaat
+     1081 ctaggaccct ccgatgcaga ccctcctacc acttcattgg cagcttagct gtggctgatc
+     1141 tccttggaag tgtcattttt gtctacagtt ttcttgactt tcatgtgttc catcgaaaag
+     1201 atagttccaa tgtctttttg ttcaaattgg gaggagttac agcctcattc acagcttcag
+     1261 taggtagcct ttttctcact gccatagacc ggtatatttc tatacatagg ccacttgctt
+     1321 ataaacggat agtgacaagg acaaaagcgg tcatcgcatt ctgcgtgatg tggaccattg
+     1381 ctattattat tgctgtactt cctttacttg gctggaactg caaaaaactc aaatcggtct
+     1441 gctccgacat attcccactt attgatgaga actatttgat gttctggatt ggggtcacaa
+     1501 gtatactcct gctgttcatt gtgtatgctt atgtttacat actctggaag gcccacagtc
+     1561 atgctgttcg aatgttgcaa cggggcactc aaaagagtat aattattcac acttcagaag
+     1621 atggcaaagt acagatcact agaccggaac agacgcgcat ggacatccgg ttagccaaaa
+     1681 ccctggtcct tattctggtg gtcctcatta tctgctgggg cccgctcctt gccattatgg
+     1741 tctacgatgt ctttggaaag atgaacaacc ccatcaagac tgtttttgcc ttttgcagca
+     1801 tgctctgcct aatggattct acagtgaatc ccatcatcta tgctctgcgg agccaagact
+     1861 tgaggcatgc tttcttggag cagtgccccc cttgcgaagg gacctcgcaa cctcttgata
+     1921 acagtatgga atcagactgt cagcacaggc atgggaataa tgcaggaaat gttcacaggg
+     1981 ctgctgaaaa ctgcattaag agcacggtta aaatcgccaa agtgaccatg tctgtctcca
+     2041 cagaaacatc tggcgaagca gtataggttg tagaataata ttcggtctac acatctataa
+     2101 atctttgaaa aaaagtaaac aggatgtgtt caagttcgac ccttctggat tatataatta
+     2161 acaatcacat tgcctaccct cttcaatatc tcaaaagact acaactgtga tggatgcaca
+     2221 tttaaaaaaa tcaaatcaag attagaggtt ggattgatca gtgatcagag aaacccctaa
+     2281 caagtaaaaa aaaaaaaaaa
+//
+

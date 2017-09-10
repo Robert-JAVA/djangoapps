@@ -1,0 +1,146 @@
+LOCUS       DQ517831                2691 bp    DNA     linear   VRT 17-OCT-2013
+DEFINITION  Lissotriton boscai voucher DWW336 tRNA-Leu gene, complete sequence;
+            NADH dehydrogenase subunit 1 (ND1) gene, complete cds; tRNA-Ile,
+            tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase
+            subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn,
+            tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   DQ517831
+VERSION     DQ517831.1  GI:114150523
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton boscai (Bosca's newt)
+  ORGANISM  Lissotriton boscai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 2691)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E., Jowkar,H. and Larson,A.
+  TITLE     A molecular assessment of phylogenetic relationships and lineage
+            accumulation rates within the family Salamandridae (Amphibia,
+            Caudata)
+  JOURNAL   Mol. Phylogenet. Evol. 41 (2), 368-383 (2006)
+   PUBMED   16815049
+REFERENCE   2  (bases 1 to 2691)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E. and Larson,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2006) Department of Biology, Washington
+            University, Campus Box 1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2691
+                     /organism="Lissotriton boscai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="DWW336"
+                     /db_xref="taxon:323757"
+                     /country="Spain"
+     tRNA            1..74
+                     /product="tRNA-Leu"
+     gene            76..1044
+                     /gene="ND1"
+     CDS             76..1044
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="ACO05657.1"
+                     /db_xref="GI:225676376"
+                     /translation="MHPASTLLNPLLYIIPVLLAVAFLTLVERKVLGYMQLRKGPNIV
+                     GPMGLLQPIADGLKLFIKEPVRPSTASQTLFLTMPMMALTLALMIWIPLPMPFMLSNL
+                     NLGVLFMLALSSLAVYSILGSGWSSNSKYALVGALRAVAQTISYEVTLGLILLCLILM
+                     TGSFMLMNFNTSQESVWFIIPAWPMAMMWFISTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSAILCLGPTMNHLQPETLTINLIIKASALTLLFLW
+                     VRASYPRFRYDQLMHLIWKNFLPLTIAMTMIHISLPITMSGVPPFF"
+     tRNA            1044..1113
+                     /product="tRNA-Ile"
+     tRNA            complement(1117..1186)
+                     /product="tRNA-Gln"
+     tRNA            1189..1257
+                     /product="tRNA-Met"
+     gene            1258..2292
+                     /gene="ND2"
+     CDS             1258..2292
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ACO05656.1"
+                     /db_xref="GI:225676375"
+                     /translation="MSPYALSMLTSSLAVGTITTHSSYHWFLAWIGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALVLFATAMNAWMTGEWTITGMTSYMPTTILTIAL
+                     AIKLGVAPFHMWLPDVLQGLNMLTCLILSTWQKLAPIALLILTSHQLNTNLLIIMAFM
+                     STIVGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSFAPKLTLLNLAIYLVLTSSMFMM
+                     LMTFNSTSLNKLSTSWLKAPTMAASMMITLMALGGLPPTSGFLPKWMILQEMTSHHLG
+                     TLSAMMAMSALLSLFFYLRLSYVISMTSPPNISNSNLTWRKKKSLTYIIPTLTTLSTM
+                     MMPITPTLLN"
+     tRNA            2291..2359
+                     /product="tRNA-Trp"
+     tRNA            complement(2362..2430)
+                     /product="tRNA-Ala"
+     tRNA            complement(2431..2502)
+                     /product="tRNA-Asn"
+     rep_origin      2503..2536
+                     /note="origin for light strand replication"
+     tRNA            complement(2534..2599)
+                     /product="tRNA-Cys"
+     tRNA            complement(2600..2667)
+                     /product="tRNA-Tyr"
+     gene            2669..>2691
+                     /gene="COI"
+     CDS             2669..>2691
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACO05658.1"
+                     /db_xref="GI:225676377"
+                     /translation="MMITRWL"
+ORIGIN      
+        1 gttaagatgg cagagctcgg taattgcaaa agacctaagc cctttctacc agaggttcaa
+       61 ctcctcttct taactatgca tcctgcttca acactcttaa atcccctact ttacatcatc
+      121 cctgttctcc tggccgtagc atttttaacc ctagtagaac gaaaagttct agggtatata
+      181 caactacgaa aaggccctaa tattgttggc cccatagggc tccttcaacc aattgcagat
+      241 gggctaaaac tctttattaa agaaccagtg cgaccctcta cagcatcaca aactcttttc
+      301 cttaccatac caataatagc tttgacttta gcactaataa tctgaatccc cttacctatg
+      361 ccgtttatac tatctaacct aaatcttgga gttctcttca tactagccct atcaagccta
+      421 gctgtttact caatcctggg ctcaggctga tcttcaaact caaagtatgc attagttggg
+      481 gcacttcggg cggtagcaca aaccatctca tacgaagtta cactaggcct aattctcctt
+      541 tgccttattt taatgacagg aagctttatg cttataaact tcaacacttc acaagagtcg
+      601 gtatgattta ttattccggc atgaccgata gcaatgatgt ggtttatctc aaccttagca
+      661 gaaacaaacc gagccccatt tgatcttaca gaaggggagt ccgagcttgt ctccggattt
+      721 aacgtagagt atgcaggagg cccattcgca ctattttttc tggccgaata ctcgaacatt
+      781 ttactaataa acactctatc agctatttta tgtcttggcc caacaataaa tcacctacaa
+      841 ccagaaacct taaccatcaa cctaattatt aaagcatccg ccctcaccct ccttttctta
+      901 tgagtccgcg catcctaccc tcgatttcga tatgaccagc tcatacacct aatctgaaaa
+      961 aacttccttc cgctcacaat cgcaataacc ataattcaca tctccctccc aattactatg
+     1021 tcaggagtac ctccattttt ttaggatatg tgcccgaaag ataaggacca ctttgataga
+     1081 gtgaccaata gaggttcaaa ccctctcatc tcctgttaaa aaaataggac ttgaacctac
+     1141 cctaaggaga tcaaaacccc tcgtgcttcc tctacaccac tttttaaagc aagataagct
+     1201 aattcaagct tttgggccca taccccaaat atgttggcga aaatccttct cttgctaatg
+     1261 agcccctatg cattatctat attaacatca agtttagcag tagggacaat taccacccat
+     1321 tctagttatc attgatttct agcatgaatc ggattagaaa ttaatacact agccattatc
+     1381 ccgctaataa ccaaaataca ccacccccga gccacagagt cagcaacaaa atacttccta
+     1441 acacaggcca ccgcctccgc tttagttcta ttcgccacag ccataaacgc atgaataaca
+     1501 ggagagtgaa ccattactgg tataactagt tatataccaa caacaatctt gaccatcgcc
+     1561 ctagcaatta aactaggagt ggcccccttt cacatatggc tgccagatgt cctacagggg
+     1621 cttaacatgc tcacatgcct aattctttct acatgacaaa aattagctcc aattgcacta
+     1681 cttatcttaa ccagccatca gctgaacaca aatttattaa ttattatggc attcatgtct
+     1741 acaattgtag gaggatgagg gggactgaat caaacacaaa tacgaaagat tatagcatac
+     1801 tcctccattg cacacttagg ttgaataatc ttagttttat cctttgcccc aaaattaaca
+     1861 ctattaaacc tggccatcta ccttgtacta acctcttcta tatttataat actgatgacc
+     1921 tttaactcca caagcctaaa taaattatca acttcatgac tgaaagcgcc aacaatggca
+     1981 gcatcaataa taattaccct tatagcccta ggagggcttc ccccaacatc aggattccta
+     2041 ccaaagtgaa taatccttca ggaaataaca agccaccacc ttgggacact atctgccata
+     2101 atagctatgt ctgccctatt aagtttattt ttttaccttc gactatcgta cgtaatctca
+     2161 ataacctccc ctcccaatat ctcaaactct aacctcacct gacgaaagaa gaaaagtcta
+     2221 acctacatta tcccaactct taccacacta tccacaataa taatgccaat cacaccaaca
+     2281 ttattaaact aaagacttag gataacaaga ccaaaggcct tcaaagcctt aagcagaagt
+     2341 taaaaccttc tagtctttga ttaagatctg caggactcta ccccacattt tctgaatgca
+     2401 acccagacac tttaattaag ctaaaacctt ctagactagc aggcttttac cctgcgacct
+     2461 tttagttaac agctaaacac tcaatcatcg agctttagtc tacttctccc gcttgggggg
+     2521 gggaaagcgg gagaagcccc ggcagaagct attctgctct ttaaaatttg caattttata
+     2581 tgccggacat cccagggctt ggtaaaaaaa ggactctaac ctttatgaca ggggctacaa
+     2641 tcttgcacct acttcggcca ttttaccagt gataatcacc cgatgactat t
+//
+

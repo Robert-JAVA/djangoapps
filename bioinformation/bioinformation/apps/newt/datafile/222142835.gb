@@ -1,0 +1,47 @@
+LOCUS       FJ588064                 547 bp    DNA     linear   VRT 13-MAR-2009
+DEFINITION  Lissotriton vulgaris kosswigi haplotype 13 calreticulin gene,
+            intron 4.
+ACCESSION   FJ588064
+VERSION     FJ588064.1  GI:222142835
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris kosswigi (Turkish smooth newt)
+  ORGANISM  Lissotriton vulgaris kosswigi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 547)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Divergence in the face of gene flow: the case of two newts
+            (amphibia: salamandridae)
+  JOURNAL   Mol. Biol. Evol. 26 (4), 829-841 (2009)
+   PUBMED   19136451
+REFERENCE   2  (bases 1 to 547)
+  AUTHORS   Nadachowska,K. and Babik,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-DEC-2008) Institute of Environmental Sciences,
+            Jagiellonian University, Gronostajowa 7, Krakow 30-387, Poland
+FEATURES             Location/Qualifiers
+     source          1..547
+                     /organism="Lissotriton vulgaris kosswigi"
+                     /mol_type="genomic DNA"
+                     /sub_species="kosswigi"
+                     /db_xref="taxon:591943"
+                     /haplotype="13"
+     gene            <1..>547
+                     /gene="calreticulin"
+     intron          <1..>547
+                     /gene="calreticulin"
+                     /number=4
+ORIGIN      
+        1 gacatcttac agagatttgc atgcttttga aagatttcta aacgtgtggc actttgaagt
+       61 ttggaggtag tttaaaactg tgcacatcta tgaaagttgt caacagaggg taggtaacgt
+      121 tttgttacac atttttgcaa cacatttaca ttttttttta ttttaaactg tgctgccttg
+      181 atagctgtca cattgtcaaa ctggattcag agctgggtcc tcaaccgtag acaacatcac
+      241 tgccctttct tatctggccc accaagctcg gttccgaaag agtctccctt tattcgcctg
+      301 ttttatcgac tactctgcag cgtttgatgg ggtagaccgt gctatcctat ggagaaagct
+      361 ggcccaatgg aacatcaatc cgaccctatt aagagcaatc caatcgtatc aaaaaacgtg
+      421 ggtccgaatg aaactctcaa gcgatttcgc atctgagaag attgacacgg atcgagggtt
+      481 aaaacggggg tgcgttctag cacctctgtt caatatatat acagcagaca tggagatagc
+      541 cttgtcc
+//
+

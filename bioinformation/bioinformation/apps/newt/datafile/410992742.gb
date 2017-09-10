@@ -1,0 +1,72 @@
+LOCUS       JX907954                1170 bp    DNA     linear   VRT 30-NOV-2012
+DEFINITION  Pachytriton brevipes voucher CIB 97939 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   JX907954
+VERSION     JX907954.1  GI:410992742
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton brevipes (black-spotted stout newt)
+  ORGANISM  Pachytriton brevipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 1170)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     Significance of pre-Quaternary climate change for montane species
+            diversity: Insights from Asian salamanders (Salamandridae:
+            Pachytriton)
+  JOURNAL   Mol. Phylogenet. Evol. 66 (1), 380-390 (2013)
+   PUBMED   23110935
+REFERENCE   2  (bases 1 to 1170)
+  AUTHORS   Wu,Y., Wang,Y., Jiang,K. and Hanken,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2012) Organismic and Evolutionary Biology,
+            Harvard University, 26 Oxford St., Cambridge, MA 02138, USA
+FEATURES             Location/Qualifiers
+     source          1..1170
+                     /organism="Pachytriton brevipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CIB 97939"
+                     /db_xref="taxon:377299"
+     gene            9..1149
+                     /gene="cytb"
+     CDS             9..1149
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:1149,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFV95473.1"
+                     /db_xref="GI:410992743"
+                     /translation="MAPITRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QIITGLFLAMHYTADTQSAFSSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRG
+                     LYYGSYMFKETWNIGVILLLLVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGS
+                     LVEWVWGGFSVDKATLTRFFAFHFLLPFLIAGTSIIHLLFLHETGSNNPTGIPSNQDK
+                     ISFHPYFSYKDLLGFLLALLTLVLIALVVPNLLVDPENFIPANPLMAPPHIKPEWYFL
+                     FAYAILRSIPNKLGGVIALLMSILILMFIPMLHTSKQRSLVFRSTSQILFWLLVANTL
+                     ILTWIGGMPVEPPFTEIGQVASILYFLLFIIMIPLIGLWENKLMKW"
+ORIGIN      
+        1 caaaaacaat ggcccccatc acacgaaaaa cccatccctt attaaaaatt attaacaact
+       61 cattcattga cctgccaacg ccatcaaaca tctcttattg atgaaacttc ggctcccttc
+      121 taggagtttg tctgattaca caaattatta caggcctatt cctagcaata cattatacag
+      181 cagacacaca atcagccttc tcatccgtgg cccacatctg tcgagacgtt aaccacggat
+      241 gactaatacg aaatattcat gccaatgggg catcattctt ctttatctgc atctacctgc
+      301 acattggacg aggactatac tacggatctt atatatttaa agaaacatga aatatcggcg
+      361 taatcctact gctactagtt atagccaccg cctttgttgg atacgtcctt ccatgaggac
+      421 aaatgtcatt ttgaggggct tcagttatca ctaacctcct ctcagccatc ccatatgtag
+      481 ggggttccct agtagagtga gtctgggggg ggttttctgt agacaaagct accctgacac
+      541 ggttttttgc atttcacttc ctgctaccat tcttaattgc aggaacaagt attattcacc
+      601 tattgttctt acacgaaacc ggatcaaaca acccaacagg aatcccctct aaccaagata
+      661 aaatctcctt tcacccatat ttttcttaca aagacctatt aggcttctta ctggcactcc
+      721 tcaccttggt attaattgcc ctcgttgtac caaacctact agtggaccca gaaaacttta
+      781 tccccgcaaa cccattaata gcaccccctc atatcaaacc ggagtggtac ttcttatttg
+      841 cttacgccat cttacggtca atcccaaata aactaggagg agtcattgcg ctcttaatat
+      901 cgatcttaat tctcatattt atcccaatat tacatacatc aaaacaacga agtctagtgt
+      961 tccgctctac gtcccaaatt ctattttgac ttctagtggc aaacaccctt attctaactt
+     1021 gaattggggg aataccagtt gaaccaccat ttactgaaat tggacaagtc gcctcaatcc
+     1081 tctatttttt actcttcatt atcataatcc cgctaattgg attatgagaa aacaagctta
+     1141 taaaatgata cccagatagt ttaaataaaa
+//
+

@@ -1,0 +1,53 @@
+LOCUS       AY528496                 668 bp    DNA     linear   VRT 10-JAN-2007
+DEFINITION  Triturus cristatus clone TC5 LINE-1 reverse transcriptase, partial
+            sequence.
+ACCESSION   AY528496
+VERSION     AY528496.1  GI:46487530
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 668)
+  AUTHORS   Kordis,D., Lovsin,N. and Gubensek,F.
+  TITLE     Phylogenomic analysis of the L1 retrotransposons in Deuterostomia
+  JOURNAL   Syst. Biol. 55 (6), 886-901 (2006)
+   PUBMED   17345671
+REFERENCE   2  (bases 1 to 668)
+  AUTHORS   Lovsin,N., Gubensek,F. and Kordis,D.
+  TITLE     Evolutionary genomics of LINE-1 retrotransposons in vertebrates
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 668)
+  AUTHORS   Lovsin,N., Gubensek,F. and Kordis,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JAN-2004) Department of Biochemistry and Molecular
+            Biology, Jozef Stefan Institute, Jamova 39, Ljubljana 1000,
+            Slovenia
+FEATURES             Location/Qualifiers
+     source          1..668
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8323"
+                     /clone="TC5"
+     misc_feature    <1..>668
+                     /note="similar to reverse transcriptase"
+     repeat_region   <1..>668
+                     /note="non-LTR retrotransposon"
+                     /rpt_family="LINE-1"
+                     /rpt_type=dispersed
+ORIGIN      
+        1 gatgcagaga aggcatttga ccgcctggaa tggcctttct tcaagtcagt attacaggct
+       61 atgggaatgg gagatggctt tctaagctgg gttgaagcat tgtatggaac ccccacggca
+      121 tctataggtg ttaatggggt ccgcgctccc aaacattccc ccttacgcga ggcacaaaac
+      181 aagggtgtcg ctgtcaccac tgatctttgc tctcgccatg gaacccctgg cagcccatat
+      241 aaagcaagac gaggttatta gaggcattac gggtggcgac acccagcata aaattgcact
+      301 atacgcagat gatttcctgt tctatctcac ggacctggcc aactcctccc ctcctcgggt
+      361 actaacacat ctagacgctt ttggtaaatt ttctggtttt aaaataaacg tagcaaaatc
+      421 aagtgatgat gaaactggct aacagataat gaagccctgg aacgccttat gaactaaggt
+      481 tttcaagttg ccacaagttc tttcaaatac ctaggcatag ttattcccaa agatttgtcc
+      541 caattaaaca aactgaatta tgacccacta ttgttgaccc tccactgtga tttggagcgc
+      601 tggggtagcc tcacgacgac atggttgggg aggacggcgg cagtgaaaat gaatatctta
+      661 cccaaaat
+//
+

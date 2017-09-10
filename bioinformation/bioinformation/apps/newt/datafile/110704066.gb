@@ -1,0 +1,62 @@
+LOCUS       DQ821205                 691 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Pachytriton labiatus isolate Pl3 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821205
+VERSION     DQ821205.1  GI:110704066
+KEYWORDS    .
+SOURCE      mitochondrion Pachytriton labiatus (spotless stout newt)
+  ORGANISM  Pachytriton labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pachytriton.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /organism="Pachytriton labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pl3"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:156859"
+     gene            <1..>691
+                     /gene="cytb"
+     CDS             <1..>691
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87953.1"
+                     /db_xref="GI:110704067"
+                     /translation="DLPTPXNISYWXNFGSLLGVCLITQIITGLFLAMHYTADTQSAF
+                     SSVAHICRDVNHGWLMRNIHANGASFFFICIYLHIGRGLYYGSYMFKETWNIGVILLL
+                     LVMATAFVGYVLPWGQMSFWGASVITNLLSAIPYVGGSLVEWVWGGFSVDKATLTRFF
+                     AFHFLLPFLIAGVSIIHLLFLHETGSNNPTGVPSDQDKVSFHPYFSYKDLXGFLLALL
+                     TFVLIAXIMPNL"
+ORIGIN      
+        1 gacctaccaa ctccancaaa catctcatat tgatnaaact tcggntccct cctaggagtt
+       61 tgtcttatta cacaaatcat cacaggccta ttcctagcaa tacactatac agcagataca
+      121 caatcagcat tctcatccgt agcccacatc tgtcgagacg tcaaccacgg gtgactgata
+      181 cgaaatattc atgctaatgg ggcctcattt ttctttatct gcatctacct gcatattgga
+      241 cgaggattat actacggatc atatatattt aaagaaacat gaaatattgg tgtaatccta
+      301 ctactactag ttatagccac agcctttgtt ggatatgtcc ttccgtgagg acaaatgtcc
+      361 ttttgagggg cttcagttat cacaaacctc ctctcagcca tcccatatgt agggggttcc
+      421 ctagtagagt gagtctgggg ggggttttct gtagacaagg ctaccctgac acggtttttt
+      481 gcatttcact tcctgctacc attcttaatt gctggagtaa gtattattca cctattgttc
+      541 ttacacgaaa ccggatcaaa caacccaaca ggagtcccct ccgaccaaga taaagtttcc
+      601 tttcacccat atttttctta taaagaccta ntaggcttct tactggcgct cctcaccttt
+      661 gtactaattg cccntattat accaaaccta t
+//
+

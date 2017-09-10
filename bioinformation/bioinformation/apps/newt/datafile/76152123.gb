@@ -1,0 +1,45 @@
+LOCUS       DQ158027                 118 bp    DNA     linear   VRT 18-JAN-2006
+DEFINITION  Triturus helveticus clone Thel.a10 HOXA10 (Hoxa10) gene, partial
+            cds.
+ACCESSION   DQ158027
+VERSION     DQ158027.1  GI:76152123
+KEYWORDS    .
+SOURCE      Lissotriton helveticus (palmate newt)
+  ORGANISM  Lissotriton helveticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 118)
+  AUTHORS   Mannaert,A., Roelants,K., Bossuyt,F. and Leyns,L.
+  TITLE     A PCR survey for posterior Hox genes in amphibians
+  JOURNAL   Mol. Phylogenet. Evol. 38 (2), 449-458 (2006)
+   PUBMED   16198128
+REFERENCE   2  (bases 1 to 118)
+  AUTHORS   Mannaert,A., Roelants,K., Bossuyt,F. and Leyns,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2005) Biology Department, Vrije Universiteit
+            Brussel, Pleinlaan 2, Brussels 1050, Belgium
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Lissotriton helveticus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:256425"
+                     /clone="Thel.a10"
+     gene            <1..>118
+                     /gene="Hoxa10"
+                     /note="Hoxa-10"
+     mRNA            <1..>118
+                     /gene="Hoxa10"
+                     /product="HOXA10"
+     CDS             <1..>118
+                     /gene="Hoxa10"
+                     /codon_start=2
+                     /product="HOXA10"
+                     /protein_id="ABA39750.1"
+                     /db_xref="GI:76152124"
+                     /translation="KHQTLELEKEFLFNMYLTRERRLEISRSVHLSDRQVKIW"
+ORIGIN      
+        1 caagcaccag acgctggagc tggagaaaga gttcctcttc aacatgtacc tgacgcggga
+       61 gcggcgcctg gagatcagcc gcagcgtcca cctctcggac aggcaggtca agatctgg
+//
+

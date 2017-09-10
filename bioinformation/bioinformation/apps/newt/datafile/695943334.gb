@@ -1,0 +1,55 @@
+LOCUS       KM463818                 345 bp    mRNA    linear   VRT 30-NOV-2014
+DEFINITION  Ichthyosaura alpestris sodefrin precursor-like factor beta isoform
+            07 (Cloa_07) mRNA, partial cds.
+ACCESSION   KM463818
+VERSION     KM463818.1  GI:695943334
+KEYWORDS    .
+SOURCE      Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 345)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Origin and Diversification of a Salamander Sex Pheromone System
+  JOURNAL   Mol. Biol. Evol. (2014) In press
+   PUBMED   25415963
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 345)
+  AUTHORS   Janssenswillen,S., Vandebergh,W., Treer,D., Willaert,B., Maex,M.,
+            Van Bocxlaer,I. and Bossuyt,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2014) Biology, VUB (Vrije Universiteit Brussel),
+            Pleinlaan 2, Brussels 1050, Belgium
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..345
+                     /organism="Ichthyosaura alpestris"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:54263"
+                     /sex="male"
+                     /tissue_type="cloaca"
+     gene            <1..345
+                     /gene="Cloa_07"
+                     /note="IcAl_Cloa_07"
+     CDS             <1..345
+                     /gene="Cloa_07"
+                     /codon_start=1
+                     /product="sodefrin precursor-like factor beta isoform 07"
+                     /protein_id="AIT39160.1"
+                     /db_xref="GI:695943335"
+                     /translation="SVFSFWISTTCCDSDFCNTGDVEVPAVDETPNAYKCDECYTDKS
+                     SDSCTPTGEVECTGKQNTCTSSSGKAGIPGDTLRPYSLKACVTQDYCELFHSAATQVH
+                     GNELLCGPAKKL"
+ORIGIN      
+        1 tctgtgttct ctttttggat cagtacaaca tgctgtgact ctgacttctg caacacaggg
+       61 gatgtggaag tgcctgctgt ggatgagacc cccaatgcct ataaatgtga cgagtgttac
+      121 actgacaagt cctcggactc ctgcacgccg actggagaag ttgagtgcac cgggaagcag
+      181 aacacttgca ccagctcctc aggaaaagca ggcatacctg gtgacacttt gagaccgtac
+      241 agcctgaaag catgtgtcac tcaagattac tgtgaattgt tccactcagc ggcgacccaa
+      301 gtccatggta atgaattact gtgcggacct gccaagaagc tgtga
+//
+

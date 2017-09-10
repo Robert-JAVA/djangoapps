@@ -1,0 +1,45 @@
+LOCUS       DQ823391                 575 bp    DNA     linear   VRT 21-SEP-2007
+DEFINITION  Triturus cristatus voucher uk2 beta-fibrinogen gene, intron 7.
+ACCESSION   DQ823391
+VERSION     DQ823391.1  GI:110084613
+KEYWORDS    .
+SOURCE      Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 575)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Assessing the phylogenetic signal of the nuclear beta-fibrinogen
+            intron 7 in salamandrids (Amphibia: Salamandridae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 575)
+  AUTHORS   Sequeira,F., Ferrand,N. and Harris,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) CIBIO/UP, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            Vairao, Vila do Conde 4485-661, Portugal
+FEATURES             Location/Qualifiers
+     source          1..575
+                     /organism="Triturus cristatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="uk2"
+                     /db_xref="taxon:8323"
+     gene            <1..>575
+                     /gene="beta-fibrinogen"
+     intron          1..575
+                     /gene="beta-fibrinogen"
+                     /number=7
+ORIGIN      
+        1 gtaagtagtg ctccaggctt catcagttaa ttggtttaat gcaaggagca gccaggacac
+       61 atcaaacacc taagaatgag agcattggca gcactgacat cccgcttcca ggtttgatca
+      121 gagatagatt ctcacttctc agcatttctt tcgagttgtg gcattctttt agactgatag
+      181 ccacttcaag acagacgcat cgttctagtg ttcctttccg cataattcca ctgctggtgt
+      241 tcgctttctg caaaggacta cagatacaga tgcattatat atatattttt aaaaacagtt
+      301 cttagacata aagaagacta ttagagaaaa ccgccacacg ttcccaactt atactttagt
+      361 atactgaagt aaattatttt attaattact acgttaaact gtactgtaca acaggaacca
+      421 gtattataag ttatgctatg ttatgctttg ctattttgtg catgaacaca catgcatgca
+      481 cacatgcata cacatgcttg cttcgagtct tggaaatgca ggggcaggag gattaacaca
+      541 gtgtgcttgc taaatttcaa tgtctttgtt tttag
+//
+

@@ -1,0 +1,48 @@
+LOCUS       AY383551                 606 bp    mRNA    linear   VRT 11-OCT-2003
+DEFINITION  Pleurodeles waltl transcription factor HoxA4 mRNA, partial cds.
+ACCESSION   AY383551
+VERSION     AY383551.1  GI:37528844
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Nicolas,S., Papillon,D., Perez,Y., Caubit,X. and Le Parco,Y.
+  TITLE     The spatial restrictions of 5'HoxC genes expression are maintained
+            in adult newt spinal cord
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Le Parco,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2003) Centre d'Oceanologie de Marseille, Rue de
+            la Batterie des Lions, Marseille 13007, France
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     CDS             <1..438
+                     /note="PwHoxA4"
+                     /codon_start=1
+                     /product="transcription factor HoxA4"
+                     /protein_id="AAQ92348.1"
+                     /db_xref="GI:37528845"
+                     /translation="CSLPRFLLLPGTERTGPFVSCAANETAVKCGKLLPASPKVNPNY
+                     TGGEPKRSRTAYTRQQVLELEKEFHFNRYLTRRRRIEIAHTLCLSERQVKIWFQNRRM
+                     KWKKDHKLPNTKMRSANPPSSGLHVKAHPQHLEGPPTPGSPAL"
+ORIGIN      
+        1 tgcagcctgc ctcgtttcct gctccttcct ggcaccgaaa gaacggggcc attcgtctcc
+       61 tgtgcagcca acgagacagc tgtcaagtgc ggcaagctcc tgccagccag tcccaaagtc
+      121 aaccccaatt acaccggagg agagcccaaa aggtcccgga ccgcctacac ccgccagcag
+      181 gtcctggagc tggagaagga gttccacttt aaccgctatc tgacccggcg ccggcgcatc
+      241 gagatagcgc acaccctctg cctgtccgag cgtcaggtca agatctggtt ccagaaccgg
+      301 cgcatgaaat ggaagaaaga ccacaaactg cccaacacca agatgcgctc cgccaaccca
+      361 ccctcgtccg gcctgcacgt caaagcacac ccccagcacc tcgagggccc tccgacgcca
+      421 ggctcccctg ccctctaacc acctccaccg gcaactgcct ccttgtgtta atatatggac
+      481 caaaatattg tgtacataca tagacacttg tttgcctagg gactttattt atcccaaaga
+      541 ggacatttgc agggttattt agatattgga ccatatgatt ttcattatgc agctgaccgt
+      601 gtgttt
+//
+

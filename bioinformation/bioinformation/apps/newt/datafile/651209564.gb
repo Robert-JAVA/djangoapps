@@ -1,0 +1,52 @@
+LOCUS       KJ128961                 538 bp    DNA     linear   VRT 16-JUN-2014
+DEFINITION  Lissotriton vulgaris voucher NRM:6191 16S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KJ128961
+VERSION     KJ128961.1  GI:651209564
+KEYWORDS    .
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Bergsten,J., Englund,M. and Ericsson,P.
+  TITLE     A DNA key to all Swedish vertebrates
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Zuccon,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2014) Dept. of Zoology, Swedish Museum of Natural
+            History, Frescativ. 40, Stockholm 18378, Sweden
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NRM:6191"
+                     /bio_material="NRM:20"
+                     /db_xref="taxon:8324"
+                     /country="Sweden: Huddinge, Lake Orlangen"
+                     /collection_date="04-Sep-2008"
+                     /collected_by="Bolander, S"
+                     /identified_by="Ahlander, E"
+                     /PCR_primers="fwd_name: 16sarl, fwd_seq:
+                     cgcctgtttatcaaaaacat, rev_name: 16sbrh, rev_seq:
+                     cgggtctgaactcagatcacgt"
+                     /note="tissue sample annotated in bio_material qualifier"
+     rRNA            <1..>538
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 atagtataag aggtcccgcc tgcccagtga tcaatttcaa cggccgcggt atcatgaccg
+       61 tgcaaaggta gcgtaatcac ttgtctttta aataaagacc cgtatgaaag gcaaaacgaa
+      121 agttcaactg tctctttaat ctagtcagtg aaattaattt ttccgtgcag aagcggaaat
+      181 aactctataa gacgagaaga ccctatggag ctttaaataa aaaattaacc atactttaac
+      241 tactggccca agggtaaaga ataaaaatgt atggccataa ttttagtttt cggttggggc
+      301 gaccacggaa gaaagctcat cctccgcgat agaaaatcta gaacaacagt tcaaaactta
+      361 aaacatttgt tataaatgac ccactaagtg atcaacgaac caagttaccc tagggataac
+      421 agcgcaatcc tttctaagag ttcatatcga cgaatgggtt tacgacctcg atgttggatc
+      481 aggacacccc aatggtgcag ccgctattaa aggttcgttt gttcaacgat taaagtcc
+//
+

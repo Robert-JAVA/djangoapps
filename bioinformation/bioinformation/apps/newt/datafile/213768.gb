@@ -1,0 +1,42 @@
+LOCUS       SMDRGNTSC                647 bp    DNA     linear   VRT 16-OCT-2008
+DEFINITION  Triturus vulgaris meridionalis extra-ribosomal spacer, clone
+            pTv600-1.
+ACCESSION   M59031 M36524 M36526
+VERSION     M59031.1  GI:213768
+KEYWORDS    nontranscribed spacer; ribosomal RNA.
+SOURCE      Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 647)
+  AUTHORS   De Lucchini,S., Andronico,F., Andreazzoli,M., Giuliani,M.,
+            Savino,R. and Nardi,I.
+  TITLE     Extra-ribosomal spacer sequences in Triturus
+  JOURNAL   J. Mol. Biol. 204 (4), 805-813 (1988)
+   PUBMED   3065517
+FEATURES             Location/Qualifiers
+     source          1..647
+                     /organism="Lissotriton vulgaris"
+                     /mol_type="genomic DNA"
+                     /sub_strain="meridionalis"
+                     /db_xref="taxon:8324"
+                     /clone="pTv600-1"
+     repeat_region   530..548
+                     /rpt_type=inverted
+     repeat_region   591..609
+                     /rpt_type=inverted
+ORIGIN      
+        1 gatcccagcc tgggctccag gaggtcggcc acttttgtgc tccctggggt ctgtcacctc
+       61 gacctgcacg gattacaaga aaggggggta attttcctcc ggattagtag gtgcaagggt
+      121 atgcccaaac acccttccag ggctggtggt tccctgctag ggaccagatg agcgatgccc
+      181 gggcaacact cccaggcatt cggggctccc tcctccgggc cgcagagtgg caaagtaccc
+      241 gggaggctcc atgggtcccg nagccctgna gccctgnagc cctgnagccc tgnagccctg
+      301 nagccctgna gccctgnagc cctgnagccc tgnagccctg nagccctgna gccctgnagc
+      361 cctgnagccc tgnagccctg nagccctgna gccctgnagc cctgnagccc tgnagccctg
+      421 nagccctgna gccctgnagc cctgnagccc tgnagccctg nagccctgna gccctgnagc
+      481 cctgnagccc tacaggcccc ggggcaggca gattggcgtc atttcggtcc cggccatctg
+      541 gtcgcccctc tcgcctctgg ccatctggtc gcacgccaat gctttcctat ggggcaacta
+      601 gatggccgga cttccctgga agtccctatg aggtgccatt cgcctcg
+//
+

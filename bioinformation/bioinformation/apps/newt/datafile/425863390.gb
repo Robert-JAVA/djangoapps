@@ -1,0 +1,57 @@
+LOCUS       JX626676                 643 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Euproctus montanus voucher ECAS7 cytochrome b (CYTB) gene, partial
+            cds; mitochondrial.
+ACCESSION   JX626676
+VERSION     JX626676.1  GI:425863390
+KEYWORDS    .
+SOURCE      mitochondrion Euproctus montanus
+  ORGANISM  Euproctus montanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Euproctus.
+REFERENCE   1  (bases 1 to 643)
+  AUTHORS   Bisconti,R., Canestrelli,D., Salvi,D. and Nascetti,G.
+  TITLE     A geographic mosaic of evolutionary lineages within the insular
+            endemic newt Euproctus montanus
+  JOURNAL   Mol. Ecol. 22 (1), 143-156 (2013)
+   PUBMED   23163335
+REFERENCE   2  (bases 1 to 643)
+  AUTHORS   Bisconti,R. and Canestrelli,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-SEP-2012) Ecological and Biological Sciences, Tuscia
+            University, Largo dell'Universita' s.n.c., Viterbo 01100, Italy
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /organism="Euproctus montanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ECAS7"
+                     /db_xref="taxon:30375"
+                     /country="France: Corsica Island"
+     gene            <1..>643
+                     /gene="CYTB"
+     CDS             <1..>643
+                     /gene="CYTB"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFY03908.1"
+                     /db_xref="GI:425863391"
+                     /translation="LTGLFLAMHYTADTQSAFSSVAHICRDVNQGWLVRNIHANGASF
+                     FFICIYLHIGRGLYYGSYLFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVIT
+                     NLLSAIPYMGDSLVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGISIIHLLFLHQTGS
+                     NNPTGISSNPDKIPFHPYFSYKDILGFLLLLLILVLISLITPNLLGDPENFTPA"
+ORIGIN      
+        1 ttcttacagg cctattccta gcaatacact atacagcaga tactcaatca gcattttctt
+       61 cagttgccca tatttgtcga gatgtaaacc aaggatgact agtacgaaat attcatgcca
+      121 acggagcttc atttttcttt atttgtattt atttacacat tgggcgtgga ttatattacg
+      181 gatcatattt atttaaggag acatgaaata ttggtgttat tttattattt ttagttatag
+      241 ctactgcttt tgtaggctat gtcctaccat gaggacaaat atctttttga ggggctaccg
+      301 ttattacaaa tttattatcc gccatcccat acataggaga ctctttagtg caatgaattt
+      361 gaggtggatt ctcggtagat aaagccactt taactcgatt ttttgcattt cattttctat
+      421 tccccttttt aattgcagga attagcatta ttcacctgct atttttacac caaacaggct
+      481 caaacaatcc aacgggaatc tcctctaacc ccgacaaaat cccttttcac ccatactttt
+      541 cctataaaga cattttaggg tttctacttt tactccttat cctggtacta atttccctta
+      601 ttacaccaaa cctccttggg gacccagaaa attttactcc tgc
+//
+

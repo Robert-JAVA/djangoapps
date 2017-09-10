@@ -1,0 +1,57 @@
+LOCUS       TVU55948                 666 bp    DNA     linear   VRT 06-JUN-2002
+DEFINITION  Triturus vulgaris cytochrome b (CYT-b) gene, mitochondrial gene
+            encoding mitochondrial protein, partial cds.
+ACCESSION   U55948
+VERSION     U55948.1  GI:1326202
+KEYWORDS    .
+SOURCE      mitochondrion Lissotriton vulgaris (common newt)
+  ORGANISM  Lissotriton vulgaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Lissotriton.
+REFERENCE   1  (bases 1 to 666)
+  AUTHORS   Caccone,A., Milinkovitch,M.C., Sbordoni,V. and Powell,J.R.
+  TITLE     Mitochondrial DNA rates and biogeography in European newts (genus
+            Euproctus)
+  JOURNAL   Syst. Biol. 46 (1), 126-144 (1997)
+   PUBMED   11975350
+REFERENCE   2  (bases 1 to 666)
+  AUTHORS   Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-1996) A. Caccone, Biology, Yale University, PO
+            Box 208104, New Haven, CT 06520-8104, USA
+FEATURES             Location/Qualifiers
+     source          1..666
+                     /organism="Lissotriton vulgaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8324"
+     gene            1..666
+                     /gene="CYT-b"
+     CDS             1..>666
+                     /gene="CYT-b"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAB00565.1"
+                     /db_xref="GI:1326203"
+                     /translation="MAHPMRKTHPLLKIINGSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASFFFICIYMHIGRG
+                     LYYGSYMFKETWNIGVVLLLLVMATAFVGYVLPWGQMSFWGATVITNLLSAIPYMGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGASIVHLLFLHQTGSNNPTGIASNQDK
+                     ISFH"
+ORIGIN      
+        1 atggcccacc ctatacgaaa aacccatccg cttctaaaaa tcattaacgg ctcattcatt
+       61 gacctcccaa caccgtcaaa catctcttac tggtggaact ttggctccct tcttggggtc
+      121 tgcctaatta cacaaatcct cacaggcctt ttcctagcca tgcactacac agcagacaca
+      181 caatcagcat tctcatcagt agcccacatc tgtcgagacg tcaactatgg atgactcgta
+      241 cgaaacatcc acgccaacgg cgcctccttc ttttttatct gcatttacat acacatcgga
+      301 cgaggccttt attacgggtc ctacatattt aaagagacat gaaacattgg tgtagtccta
+      361 ctgttgctag ttatagcaac tgctttcgta ggatatgtcc ttccatgagg acaaatatca
+      421 ttttgagggg ccacagtaat taccaacctt ctatccgcta ttccatatat aggcgactcc
+      481 ttagtacagt gaatttgagg cggattttca gtagacaaag caactcttac ccgattcttc
+      541 gcattccact tcttattccc ctttcttatt gccggggcaa gcattgttca cttactattc
+      601 cttcaccaaa ccgggtcaaa taacccaaca ggaatcgcat ccaaccaaga caagatttct
+      661 ttccac
+//
+

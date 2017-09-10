@@ -1,0 +1,81 @@
+LOCUS       AY593195                1812 bp    DNA     linear   VRT 30-APR-2005
+DEFINITION  Paramesotriton hongkongensis NADH dehydrogenase subunit 5 (ND5)
+            gene, complete cds; mitochondrial.
+ACCESSION   AY593195
+VERSION     AY593195.1  GI:51890977
+KEYWORDS    .
+SOURCE      mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+  ORGANISM  Paramesotriton hongkongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Paramesotriton.
+REFERENCE   1  (bases 1 to 1812)
+  AUTHORS   Zhang,P., Zhou,H., Liu,Y.-F., Chen,Y.-Q., Wang,X.-L. and Qu,L.-H.
+  TITLE     A Molecular phylogeny of hynoboid salamanders (Caudata: Amphibia)
+            inferred from mtDNA sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1812)
+  AUTHORS   Zhang,P., Zhou,H., Liu,Y.-F., Chen,Y.-Q., Wang,X.-L. and Qu,L.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-APR-2004) Biotechnology Research Center, Life Science
+            School, Zhongshan University, GuangZhou, GuangDong 510275, China
+FEATURES             Location/Qualifiers
+     source          1..1812
+                     /organism="Paramesotriton hongkongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:164972"
+     gene            1..1812
+                     /gene="ND5"
+     CDS             1..1812
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="AAU12887.1"
+                     /db_xref="GI:51890978"
+                     /translation="MNQMLLFNSSFLLSLILLIIPLTLSALMKTPKTWSMMVKTSVKH
+                     SFLFSLLPMLIFMNSGLESTMMSFSWMTIYNFNISSSIKIDQYSVLFTPIALFVTWSI
+                     LEFAIWYMHSDQEMNRFFKYLLTFLLAMMILTSANNMFQLFIGWEGVGIMSFLLIGWW
+                     HARADANTAAMQAVMYNRVGDIGLILSMAYFSMNVNSWELQQMFILFNKESILPLLGL
+                     ILAAMGKSAQFGLHPWLPAAMEGPTPVSALLHSSTMVVAGIFLLIRFQPMIEQNKAAL
+                     SICLCLGALTTVFTATCALTQNDIKKIVAFSTSSQLGLMMVTIGLNQPQLAFFHICTH
+                     AFFKAMLFLCSGSIIHSLSDEQDIRKMGGLQKMLPMTTTCLTIGSLALTGTPYLSGFF
+                     SKDAIIESMNTSSLNSCALVLTLVATSFTAVYSFRIIYFSSMKTPRSLPTMLINENNP
+                     LIINSITRLAWGSMIAGMLIIACTLPMKTQTLTMPMIMKLTALLISILGLIVAMDISN
+                     FSLKHKTTHTFSNMLAFFPMILHRFTPKMKLNFGQNISTHITDTLWYEKLGPKGTSDQ
+                     MLPPIKTTTNFQSGMIKMYMMLFLTNILLILALSYSP"
+ORIGIN      
+        1 atgaaccaaa tattactatt taactcatca tttttactct ccctaatttt attaattatt
+       61 ccactaacat tatcagccct aataaaaaca cccaaaacat ggtcaataat agtaaaaacc
+      121 tcagtaaaac actccttctt gttcagtctt ctgccaatat taatttttat aaactcagga
+      181 ctagagtcca caataataag cttttcgtga ataactattt acaactttaa tatttcatca
+      241 agcattaaaa ttgaccaata ctcagtttta tttacaccaa ttgctctatt tgttacatga
+      301 tcaatcttag agttcgcaat ctgatacata cactcagacc aagaaataaa ccgcttcttt
+      361 aaatacttgc taacattcct attagcaata atgatcttaa cttctgccaa caacatattc
+      421 caactattta ttggatgaga gggcgtagga attatatcct tcttattaat cggctgatga
+      481 catgcccgag cagacgccaa cactgctgct atacaggcag ttatatataa tcgcgttggg
+      541 gatattggcc taatcctgag catagcatac ttttctataa acgtaaactc ctgggagctc
+      601 caacaaatat ttattttatt caataaagaa tcaattctcc cacttctagg acttatcttg
+      661 gcggccatag ggaaatccgc tcaattcggg cttcacccct gactccccgc tgccatagaa
+      721 ggcccaacgc cagtttcagc cttacttcac tctagcacga tggtagtggc cggcattttt
+      781 ttactaatcc gattccagcc gataattgaa caaaacaaag ctgccctttc aatttgcctg
+      841 tgtctcgggg ccctaacaac tgtatttaca gccacttgcg ccctaacaca aaatgatatc
+      901 aaaaaaattg tagcattttc aacatcaagc caactagggt taataatagt aacaattggc
+      961 ctaaatcaac cacaattggc cttttttcac atttgcactc acgctttctt taaggcaata
+     1021 ctattcttat gctcaggttc aattattcac agcttaagtg atgaacaaga cattcgaaaa
+     1081 atgggaggct tacaaaaaat gctcccaata actacaacct gccttactat tggaagccta
+     1141 gcacttacag gaacaccata tctttcaggg ttcttttcca aagacgcaat tattgagtca
+     1201 ataaatactt ctagcctaaa ctcctgtgcc ctagttctta cccttgttgc aacctctttt
+     1261 acagcagtat acagcttccg aattatttat ttttcatcaa taaaaacccc gcgatctctc
+     1321 ccgactatac ttattaatga gaataaccct cttattatta actctattac acgcttggcc
+     1381 tgaggaagca tgattgcggg catgttaatt attgcctgca ctcttccaat aaaaacacaa
+     1441 acccttacta taccaatgat tataaaacta acagcccttt taatctcaat ccttgggctt
+     1501 atcgtagcaa tagacatctc aaacttctcg ctaaaacata aaaccactca caccttttca
+     1561 aatatgttag cctttttccc tataatttta caccgcttta cgccaaaaat aaaattaaac
+     1621 ttcggacaaa atatttcaac ccatattaca gacacattat gatacgaaaa attaggccca
+     1681 aaaggaacat cagaccaaat gctgccacct atcaaaacca caacaaactt ccaatcaggc
+     1741 ataatcaaaa tatatataat actcttttta actaatatcc tactaatctt agcactatct
+     1801 tacagcccgt aa
+//
+

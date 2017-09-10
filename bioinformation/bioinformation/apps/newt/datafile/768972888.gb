@@ -1,0 +1,123 @@
+LOCUS       LC002643                2328 bp    mRNA    linear   VRT 14-MAR-2015
+DEFINITION  Cynops pyrrhogaster Pax6 mRNA for Pax6 transcript variant 3 isoform
+            SL, complete cds.
+ACCESSION   LC002643
+VERSION     LC002643.1  GI:768972888
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Pax6 transcript variants in reprogramming retinal pigment
+            epithelium cells of adult newt
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2328)
+  AUTHORS   Inami,W. and Chiba,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2014) Contact:Wataru Inami University of Tsukuba,
+            Faculty of life and Environmental Sciences; Tennodai 1-1-1,
+            Tsukuba, Ibaraki 305-8572, Japan
+FEATURES             Location/Qualifiers
+     source          1..2328
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..2328
+                     /gene="Pax6"
+     misc_feature    join(874..1923,2075..2224)
+                     /gene="Pax6"
+                     /note="Pax6 transcript variant 3 isoform SS;
+                     alternative spicing Pax6 transcript variant 3 gene; lack
+                     regions equivalent to human exon-12"
+     CDS             874..2160
+                     /gene="Pax6"
+                     /note="Cynops pyrrhogaster Pax6 transcript variant 3 gene
+                     has 2 alternative spicing isoforms; contain regions
+                     equivalent to human exon-12"
+                     /codon_start=1
+                     /product="Pax6 transcript variant 3 isoform SL"
+                     /protein_id="BAQ59166.1"
+                     /db_xref="GI:768972889"
+                     /translation="MMRAAELQPDGHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGA
+                     RPCDISRILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECP
+                     SIFAWEIRDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQT
+                     GTWGTRPGWYPGTSVPGQPTPDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQ
+                     RNRTSFTQEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREE
+                     KLRNQRRQASNTPSHIPISSSFSTSVYQPIPQPTTPVSFTSGSMLGRTDTSLTNTYGG
+                     LPPMPSFTMGNNLPMQPPVPSQASSYSCMLPSSPSVNGRSYDTYTPPHMQAHMNSQSM
+                     GTAGATSTGLISPGVSVPVQVPGSEPDLSQYWPRLQ"
+     misc_feature    904..1287
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238076"
+                     /note="Paired Box domain; Region: PAX; cd00131"
+     misc_feature    order(919..924,937..939,943..951,955..957,970..972,
+                     1006..1008,1012..1014,1039..1041,1048..1050,1054..1059,
+                     1069..1071,1096..1116,1120..1131,1186..1194,1249..1251,
+                     1255..1260,1267..1269,1276..1278)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238076"
+                     /note="DNA binding site [nucleotide binding]"
+     misc_feature    1528..1701
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="Homeodomain; DNA binding domains involved in the
+                     transcriptional regulation of key eukaryotic developmental
+                     processes; may bind to DNA as monomers or as homo- and/or
+                     heterodimers, in a sequence-specific manner; Region:
+                     homeodomain; cd00086"
+     misc_feature    order(1528..1539,1543..1545,1594..1596,1612..1614,
+                     1651..1653,1657..1662,1669..1674,1678..1686,1690..1695)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="DNA binding site [nucleotide binding]"
+     misc_feature    order(1531..1533,1540..1542,1660..1662,1669..1674,
+                     1681..1683)
+                     /gene="Pax6"
+                     /inference="protein motif:CDD:238039"
+                     /note="specific DNA base contacts [nucleotide binding];
+                     other site"
+ORIGIN      
+        1 cgagttcatg gctcattagc agcacaaact tggagcgcgc tgccagggcg ctgcctgcac
+       61 ggaccaagcg cggcgcaagt cccaagcaga cattattatg cagccctccg cagcttgacg
+      121 ttaaattaga agaaaaaaaa ggcgctgtca cttcgcatcg cgtgcgccag cgctcagccc
+      181 tcggatgtgt ccgcgcagcg cccggggcta cccgaaaagc cgcccctcgg agggcagcgc
+      241 agggcccatc tcgcctgagt gataccccga tgcggacaga aaggctcgtt ccgagccggc
+      301 tcccatttgt cctgacgatg cgctttccga gcgcggagca gtgtcagaaa gtgacatgcc
+      361 tgccacaagt gctccgactg atcgcctcaa ttagcctccc atgcatgatc cggggcgact
+      421 tccgcccatt cccagaaatt agcctcaaag ttgacgtgca gcgagcttta ttttaaagac
+      481 aaatgtcagg caggctcatc atattttccc cctcttctat atttggcgct tatttattgc
+      541 aagagagccc gggctcccgg agtcaatttg tcagcgggct ccggcgagga ggcagcagag
+      601 ctcggcagcg gagcggcgcc aggcacaggt tgggggcggt ggctgcgacg agcgggggga
+      661 cgttactggg gagcagtggg gtgtccggga tcccccctcg gagggcgcgc ggggcacctg
+      721 cctcgcctcc cctttcatct ctggacttta tcgaccaggc agcgcttgct tcccctctcc
+      781 agcggcgacc ccacctctag cccagggagg aaatataccc aattcctgct ttctgtaatt
+      841 gtcttttggt aaaatactgc tggtgtttta tggatgatgc gcgcagcaga actgcagccg
+      901 gacggtcata gcggagtcaa ccagctcggg ggagtgtttg tgaacggcag acccctgccc
+      961 gactccaccc gccagaagat cgtggagctc gcccacagcg gagcccggcc ctgcgacatc
+     1021 tcccgcatcc tgcaggtgtc caatgggtgt gtgagtaaga ttctgggcag gtattacgag
+     1081 acgggctcca tccggccgcg cgccattgga ggcagcaagc ccagggtggc gacccccgag
+     1141 gtggtgagca agatcgcgca gtacaagcgc gagtgcccgt ccatcttcgc ctgggagatc
+     1201 cgcgaccggc tgctgtccga gggggtttgc accaacgaca acatccccag cgtgtcatcg
+     1261 ataaaccgag tgctccgcaa cctggctagc gaaaagcaac aaatgggcgc agacggaatg
+     1321 tacgacaagc tgcggatgct gaacggacag acgggcacct ggggcacccg gccgggctgg
+     1381 tacccgggga cctcggtgcc ggggcagccc acaccagatg gctgccagca gcaggaaggg
+     1441 ggaggcgaga acaccaactc catcagctcc aacggtgaag actcagacga ggcccagatg
+     1501 aggctgcagc tgaaacgtaa actgcaaagg aacaggacgt ctttcactca ggagcagatc
+     1561 gaggccctgg agaaagagtt tgaacgaaca cattaccctg acgtgtttgc aagagagaga
+     1621 ctagctgcca aaatagacct acctgaagca cgaatacagg tctggttctc aaacaggagg
+     1681 gcaaagtgga gaagggaaga gaaactgcgg aaccagagga ggcaagcaag caacactccc
+     1741 agccatatcc ccatcagcag cagcttcagc accagtgtgt accaacccat cccccagccc
+     1801 acaacacctg tttcatttac gtccgggtcc atgttgggca gaacagacac atccctgaca
+     1861 aacacatacg gcggcctacc acccatgccc agcttcacaa tgggcaacaa cctgcctatg
+     1921 caacccccag ttcccagcca ggcctcctcc tactcttgca tgctgccctc tagtccgtca
+     1981 gtgaatgggc ggagctatga tacatacaca cctcctcaca tgcaggcaca catgaacagc
+     2041 cagtccatgg gcacagctgg cgccacttcg acaggtctca tttcccctgg agtgtcagtc
+     2101 ccagtacaag ttcccggcag tgaacctgac ctgtctcaat actggccaag attacagtaa
+     2161 aaaccgggct aacatagcca atgactttgt ggagaacagt tggatgttca gcagtattct
+     2221 atagaggagg gacacggctg gcaaaaagta ctcctccact gcaactctgc cctgagttgg
+     2281 gaggcttcgg aaagactttt tcaagggacc tttgcacaat ttgaaggc
+//
+

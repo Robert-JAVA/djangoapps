@@ -1,0 +1,65 @@
+LOCUS       DQ821198                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Calotriton asper isolate Mou2 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821198
+VERSION     DQ821198.1  GI:110704052
+KEYWORDS    .
+SOURCE      mitochondrion Calotriton asper (Euproctus asper)
+  ORGANISM  Calotriton asper
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Calotriton.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Calotriton asper"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Mou2"
+                     /specimen_voucher="no voucher"
+                     /db_xref="taxon:30374"
+                     /country="France"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87946.1"
+                     /db_xref="GI:110704053"
+                     /translation="MAHTMRKTHPLLKIINNSFIDLPTPSNISYWWNFGSLLGICLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRSTHANGASLFFICIYLHIGRG
+                     LYYGSYLFKETWNIGVILLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGVSSNQDK
+                     ISFHPYFSYKDVLGFLLMLLILVLISLLTPNLLGDPENFTPANPLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca caatacgaaa aactcaccca ctactaaaaa tcattaacaa ctcatttatt
+       61 gacctcccaa caccgtcaaa catctcatac tgatggaact tcggctctct tcttggaatt
+      121 tgtctaatta cacaaatcct cacaggtctt ttcttggcaa tacactacac agcagacaca
+      181 caatcagcat tctcatctgt tgcccatatt tgccgagatg ttaactacgg ctgactagta
+      241 cgaagcaccc acgccaacgg agcctcatta ttcttcattt gtatttacct acatattgga
+      301 cgcggcctat attacggatc atacctgttt aaagagacct gaaacatcgg tgtaatcttg
+      361 ctattcttag tcatggcaac tgcctttgtc ggatatgtcc tgccctgagg gcagatatca
+      421 ttttgagggg ccacagtcat caccaacctt ctctctgctg tcccatattt aggagactct
+      481 ctagtacaat gaatctgagg cggattttca gtagacaaag caacacttac acgattcttc
+      541 gcatttcact ttttattccc gttcttgatt gcaggaacaa gcatcgttca cctattattt
+      601 ctacatcaaa caggatcaaa taacccaaca ggagtctctt ctaatcagga caaaatttct
+      661 tttcacccat acttctctta taaagatgtc ttaggattct tacttatatt gcttatttta
+      721 gtactaatct cccttctaac accaaaccta cttggagacc cagaaaactt caccccagct
+      781 aacccacttg tcaccccacc acatatccag ccagaatga
+//
+

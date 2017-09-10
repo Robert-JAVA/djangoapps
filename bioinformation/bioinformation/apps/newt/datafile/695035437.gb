@@ -1,0 +1,73 @@
+LOCUS       KM069436                1716 bp    mRNA    linear   VRT 12-OCT-2014
+DEFINITION  Pleurodeles waltl amelotin mRNA, complete cds.
+ACCESSION   KM069436
+VERSION     KM069436.1  GI:695035437
+KEYWORDS    .
+SOURCE      Pleurodeles waltl (Iberian ribbed newt)
+  ORGANISM  Pleurodeles waltl
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Pleurodeles.
+REFERENCE   1  (bases 1 to 1716)
+  AUTHORS   Gasse,B., Silvent,J., Chiari,Y., Davit-Beal,T. and Sire,J.-Y.
+  TITLE     Amelotin: an enamel matrix protein that experienced distinct
+            evolutionary pathways in amphibians, sauropsids and mammals
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1716)
+  AUTHORS   Gasse,B., Silvent,J., Chiari,Y., Davit-Beal,T. and Sire,J.-Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUN-2014) UMR7138 Evolution Paris-Seine, Universite
+            Pierre et Marie Curie, Institut de Biologie Paris-Seine, 7 quai
+            Saint-Bernard, Paris 75005, France
+FEATURES             Location/Qualifiers
+     source          1..1716
+                     /organism="Pleurodeles waltl"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8319"
+     5'UTR           1..103
+     CDS             104..1171
+                     /note="ameloblast-secreted protein; AMTN"
+                     /codon_start=1
+                     /product="amelotin"
+                     /protein_id="AIS76619.1"
+                     /db_xref="GI:695035438"
+                     /translation="MRTTILLLCLLGTSIAFPVREAERILSASNSGEMLQLMQLYNML
+                     GNTPEQTQQVHPGHGLPPAQLIPDMTAQQTQQQLSQFQPSENVFGNLPILPPLSMPPG
+                     FPQSPGNQPPGVMPYPQALPMNVGEMTVHHSMFPHPHHLFPLIITQMGQQGLLMSSEE
+                     MPFLPQVFAGVIMPPFGPILPALPVLPGVPAFAGLPGLPPLLQGAARPAAGAGISLDE
+                     QEAIPMGQAGLNPNKQRETASPAPGVTPAQDTGEVLAVTVPAGLRKGVTGTDSAGLLQ
+                     TFTPPAGLRQFPTESATEVMFVEPTGLVTETSPDGVDERLPHSYRPQNQRFNSVARGD
+                     QNLAMAVPDLKPLRKHKKRRA"
+     3'UTR           1172..1716
+ORIGIN      
+        1 caccgaggcc tccttgagag aaacattcgg gactggtggc acgcgcttat catttctatt
+       61 tatatcaccc cctgaaggta attatctggt tgcaatttca aacatgagga ccacaattct
+      121 gctcctttgt cttctgggca ctagtattgc ttttccagta agagaagcag aaagaattct
+      181 ttctgcaagc aacagtggcg agatgttgca actgatgcaa ttatataata tgctaggaaa
+      241 tactccagag caaacccagc aggtccaccc tggccatgga cttccaccag cacaactcat
+      301 accggatatg acagcacaac aaacacaaca gcagctcagc caatttcaac cttctgaaaa
+      361 tgtgtttgga aatctgccaa ttttaccacc gctttcaatg ccaccaggct ttccacagtc
+      421 accaggtaac caaccaccag gagtcatgcc atatccacaa gcccttccga tgaatgtggg
+      481 agaaatgaca gtccaccatt ccatgtttcc ccatcctcat catcttttcc cactaataat
+      541 aacacaaatg ggacaacagg gcctgctaat gagctcggag gaaatgccgt ttttgccaca
+      601 ggtgtttgct ggagtgatta tgccaccctt tgggcctatt ttaccagcat taccagtatt
+      661 accaggagtg ccggcttttg caggattacc aggattacca ccactgttgc aaggggcagc
+      721 gcgtcctgcg gctggtgctg gaatcagcct agatgaacaa gaagccattc caatgggcca
+      781 agcagggtta aaccccaaca aacagagaga aacggcaagc cccgcccctg gtgtcacacc
+      841 agcccaagac accggggaag ttcttgcagt cacagtacct gcaggactca ggaagggggt
+      901 gacaggaaca gacagtgcag gcctcctgca aacgttcaca ccaccagctg gcttgaggca
+      961 atttcctact gagagcgcaa ccgaggtcat gttcgtggaa cccactggtt tagtaaccga
+     1021 aacttcacca gatggagtag atgagagact tccacattca tacaggcccc agaaccaaag
+     1081 gttcaacagc gtagcgagag gtgatcaaaa cctggcaatg gccgtgcctg atctcaagcc
+     1141 tctgaggaag cacaagaaga ggcgggctta aaatacacct gtcacgacaa ggaggaagtt
+     1201 acgttgcgca gtggtacctt aatgttcatc aaaagtgacc caaattcgaa tgccacgatc
+     1261 acaatctggg caaaaatctc atttcaggca caaacataaa tttggccccc aaagaggaat
+     1321 acaactctgg tgcagtttct gaactccaga gattttccct gcacaatttt cgtcaggtac
+     1381 aatgtgacct aattatgggg acatacaagg caaaaagcta cacatgtgct caataagccc
+     1441 cattcagagg tctgaagctg gaatccggcc ttaataactt acccagcaaa taccaaatcc
+     1501 tcccccatta atatttgcca gttgcataat ttaaacccga catttgccca gatcatgatt
+     1561 agaccctcgc agtcttcaaa gcagtactac gcacgtggaa ggacaaaaga gaacatttgg
+     1621 aagataaaag acttgccttg cattctgcaa accaaaaact taagattgaa taccatttat
+     1681 ttgataagct gaaaattaaa tgcatcagtg gtgcaa
+//
+

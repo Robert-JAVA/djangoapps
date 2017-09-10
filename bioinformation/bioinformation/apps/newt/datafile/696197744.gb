@@ -1,0 +1,71 @@
+LOCUS       KM253596                 874 bp    DNA     linear   VRT 15-OCT-2014
+DEFINITION  Ichthyosaura alpestris isolate MAB409 NADH dehydrogenase subunit 4
+            (ND4) gene, partial cds; tRNA-His and tRNA-Ser genes, complete
+            sequence; and tRNA-Leu gene, partial sequence; mitochondrial.
+ACCESSION   KM253596
+VERSION     KM253596.1  GI:696197744
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyosaura alpestris (Alpine newt)
+  ORGANISM  Ichthyosaura alpestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Ichthyosaura.
+REFERENCE   1  (bases 1 to 874)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Evolutionary history of Ichthyosaura alpestris (Caudata,
+            Salamandridae) inferred from the combined analysis of nuclear and
+            mitochondrial markers
+  JOURNAL   Mol. Phylogenet. Evol. 81C, 207-220 (2014)
+   PUBMED   25263421
+REFERENCE   2  (bases 1 to 874)
+  AUTHORS   Recuero,E., Buckley,D., Garcia-Paris,M., Arntzen,J.W.,
+            Cogalniceanu,D. and Martinez-Solano,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2014) Ecologia de la Biodiversidad, Instituto de
+            Ecologia, UNAM, Mexico D. F., Distrito Federal 70-275, Mexico
+FEATURES             Location/Qualifiers
+     source          1..874
+                     /organism="Ichthyosaura alpestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MAB409"
+                     /db_xref="taxon:54263"
+     gene            <1..689
+                     /gene="ND4"
+     CDS             <1..689
+                     /gene="ND4"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AIT42378.1"
+                     /db_xref="GI:696197745"
+                     /translation="LAAVLLKLGGYGIIRISTILTPLTKEMSYPFVVLALWGVVMTSL
+                     ICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPLSLTGAIILMISHGLISSALFCLANF
+                     NYERTHSRTMLLARGVQAVLPLMSTWWLITGLSNMAIPPSMNLFGELTIMLSLFNWDP
+                     WTILITGAGTLITASYTLYMFLTSQRGPMPNHLHSMNPSHTREHLLMTMHLLPMLLLI
+                     LKPSLVSGIL"
+     tRNA            690..761
+                     /product="tRNA-His"
+     tRNA            762..829
+                     /product="tRNA-Ser"
+     tRNA            830..>874
+                     /product="tRNA-Leu"
+ORIGIN      
+        1 ttctagcagc agtattactt aaactagggg gatacggaat cattcgaatc tcaacaatcc
+       61 tcaccccact aacaaaagag atatcatacc cgtttgtagt cttggctttg tgaggcgtag
+      121 taataacaag ccttatttgc atacgacaaa cagacctaaa atccctaatc gcctactcat
+      181 ctgttagcca cataggccta gtaattgccg ctattataat tcaaacacca ttaagcctta
+      241 ccggagctat tattctaatg atctcacacg gactgatctc ctctgcccta ttttgcctag
+      301 caaactttaa ctatgaacga acacatagcc gaactatact tttagcccgc ggagtccaag
+      361 cagttttacc ccttatatcc acctgatgac taattacagg cttgtcgaac atagcaattc
+      421 ccccatccat aaatttattt ggagaattaa caatcatgct ctccttattt aactgggacc
+      481 cctgaacaat tttaatcact ggagccggaa ccctaattac agcctcctac actctctata
+      541 tatttttaac atcccagcgt ggcccgatac caaaccacct tcactcaata aacccctcac
+      601 acacccgaga gcacttactt atgacaatac acctgttgcc aatattgctg ctaattctaa
+      661 agccctccct tgtttcagga attctctaag acgtgcatat aattttaaaa aaatattaga
+      721 ttgtgattct aaaaatgaaa gttaaaccct ctctacgcac caagaagaat tatgaaatac
+      781 agaaactgct aattgtctga ctctagagtt aaagtctcta gtcttcttac ttttaaagga
+      841 taatagtaat ccattggttt aggagccaaa tact
+//
+

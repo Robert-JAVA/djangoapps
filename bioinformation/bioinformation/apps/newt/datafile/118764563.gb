@@ -1,0 +1,81 @@
+LOCUS       AB274038                2037 bp    mRNA    linear   VRT 02-MAR-2012
+DEFINITION  Cynops pyrrhogaster V2AVTR mRNA for V2-type arginine vasotocin
+            receptor, complete cds.
+ACCESSION   AB274038
+VERSION     AB274038.1  GI:118764563
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hasunuma,I., Sakai,T., Nakada,T., Toyoda,F., Namiki,H. and
+            Kikuyama,S.
+  TITLE     Molecular cloning of three types of arginine vasotocin receptor in
+            the newt, Cynops pyrrhogaster
+  JOURNAL   Gen. Comp. Endocrinol. 151 (3), 252-258 (2007)
+   PUBMED   17367790
+REFERENCE   2  (bases 1 to 2037)
+  AUTHORS   Hasunuma,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2006) Contact:Itaru Hasunuma Toho University,
+            Department of Biology, Faculty of Science; 2-2-1, Miyama,
+            Funabashi, Chiba 274-8510, Japan
+FEATURES             Location/Qualifiers
+     source          1..2037
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            1..2037
+                     /gene="V2AVTR"
+     CDS             292..1395
+                     /gene="V2AVTR"
+                     /codon_start=1
+                     /product="V2-type arginine vasotocin receptor"
+                     /protein_id="BAF38755.1"
+                     /db_xref="GI:118764564"
+                     /translation="MIMVNQSGTYTTFQAPTALQNASNTTIMSDDRDDNLAKVQIAIL
+                     AILFVCTTLSNVLILFVLLKRRKHNALMHTFMINLCIADLVVAFFQVLPQLVWVITDR
+                     FRGPDILCRLIRYLQVVGMFASSYMIVAMTFDRHQAICRPMMTYKKGVARWNVPVFVA
+                     WAASLVLSIPQIFIFSKTKLSTGTYDCYGAFIEPWGTKAYITWMTTAVFVLPTLVIAT
+                     CQVLIFKEIHDSIYLKSEKIVAMVKKKTQLVNGKDTQKSEVTTAMSKTIKMTMVIVLV
+                     YVVCWAPFFLIQMWSVWDPKAETERPVFVILMMLASLNSCTNPWIYTTFSSSVSNDLH
+                     QMFCCARRGLRKNSNPEDSCFTGTSTVPKDSLY"
+ORIGIN      
+        1 tatggctggt tcctcagtga tgactcagat gtttcttcaa tgtaatagtg ccaagttcag
+       61 gtcgccgcaa gatgttgtgg cttcctctct gataatgcag gattggttgg aagaacctgg
+      121 atttctggtg cccaatccaa agatgtagct accacgcttc ttctcattca attaatctgt
+      181 tatcttagat tcatgtttcc aaagatgtgt cctagtaggt ggcatggttg ggattagcaa
+      241 tgtccagatg ttttcacatt tgttgatcag cttcttcttc tatcatttca gatgatcatg
+      301 gtcaatcaat ctggaaccta taccaccttt caggccccca ccgccctcca gaatgcctcc
+      361 aatacaacca tcatgtcaga tgacagagat gacaatcttg ccaaggtaca gatcgccatc
+      421 ctggccatcc tcttcgtctg cacgaccctg agcaacgtcc tcattctctt cgttctgctg
+      481 aagcggcgga aacacaatgc cttgatgcac acattcatga tcaatctctg catcgccgac
+      541 ctggttgtcg ccttctttca ggtccttccg cagctggtct gggtcatcac cgataggttc
+      601 agggggccag atattctctg ccgcctcatt agatacttgc aagttgttgg gatgtttgcc
+      661 tcatcctata tgattgtggc tatgaccttc gacaggcacc aggccatttg tcgaccaatg
+      721 atgacctaca agaagggcgt ggcccggtgg aatgttccgg ttttcgtggc ttgggcagcc
+      781 tccctggtcc tcagcatccc tcagattttc atcttctcca agaccaaact ttccaccggg
+      841 acctatgact gctacggagc cttcatcgaa ccatggggca caaaggccta tattacgtgg
+      901 atgacaacgg cggtatttgt cctgcctacc ctagtgatcg ccacatgcca ggtgctcatt
+      961 ttcaaggaaa ttcatgacag catctacttg aaatcggaga agattgtggc gatggtgaag
+     1021 aagaagaccc agctggtgaa tgggaaggac acgcaaaagt cagaagtcac caccgccatg
+     1081 tcaaagacga tcaagatgac catggtcatc gtcttggtct acgttgtgtg ctgggcgcca
+     1141 tttttcctga tccagatgtg gtcagtctgg gaccccaagg cagaaacgga acgtccagtt
+     1201 tttgtcatct tgatgatgct cgccagtctc aacagttgca ccaacccttg gatctacacc
+     1261 accttcagca gcagcgtctc caacgacctc caccaaatgt tttgctgcgc tcgcaggggc
+     1321 ctcaggaaga actccaaccc tgaagactcc tgcttcaccg gcacttccac tgtgccgaag
+     1381 gactcgctgt actgaggaaa gacacagacg tgtggagagc gttggcatca aatgcaagtg
+     1441 agcttcctct ccggaggcac aggcgtaaaa actgtgcata aggctgatct caacagagaa
+     1501 catttgagag actgaggaga gagacctaaa gtgtccaaca attgaaataa cattggcact
+     1561 gggtgtgagc ctccactgag tgaggtctac tggcagaagg gcatggcctc agacatctct
+     1621 tcctgtgttg agggtgtgga tttctgggga ctaagacatg cacagacctc agaactgata
+     1681 ctgatacatc cacttgtgcc tgaagaacct gttagtcaga gagaaaccgc ggactctgac
+     1741 atgaatcatc acagaccgtt gtgacagtaa gatctctaag ctgcaatgtg aaatacctta
+     1801 tcaaacgcca ggccatgcac cttcatctct gctctctatt ggaggtattt cttcccaact
+     1861 gtgaatggaa gaccagtcac ccacaaggca gagtgcatct tctgtgcttt ggtttccttt
+     1921 gatctttaca ggagagtttg atgaacacca gggggcacat ttcccactct taaacattag
+     1981 ttactcctta agggattaaa ggacaactgc tgttctggaa aaaaaaaaaa aaaaaaa
+//
+

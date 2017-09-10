@@ -1,0 +1,87 @@
+LOCUS       AJ001296                1708 bp    mRNA    linear   VRT 15-APR-2005
+DEFINITION  Notophthalmus viridescens mRNA for cytokeratin 8.
+ACCESSION   AJ001296
+VERSION     AJ001296.1  GI:2370336
+KEYWORDS    cytokeratin 8; K8 gene; keratin type II.
+SOURCE      Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1
+  AUTHORS   Corcoran,J.P. and Ferretti,P.
+  TITLE     Keratin 8 and 18 expression in mesenchymal progenitor cells of
+            regenerating limbs is associated with cell proliferation and
+            differentiation
+  JOURNAL   Dev. Dyn. 210 (4), 355-370 (1997)
+   PUBMED   9415422
+REFERENCE   2  (bases 1 to 1708)
+  AUTHORS   Ferretti,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUL-1997) Ferretti P., Developmental Biology Unit,
+            Institute of Child Health (UCL), 30 Guilford Street, London, WC1N
+            1EH, UK
+FEATURES             Location/Qualifiers
+     source          1..1708
+                     /organism="Notophthalmus viridescens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8316"
+                     /tissue_type="limb blastema"
+                     /clone_lib="lambda Zap RII"
+                     /dev_stage="adult"
+     gene            <1..1708
+                     /gene="K8"
+     CDS             <1..1491
+                     /gene="K8"
+                     /codon_start=1
+                     /product="cytokeratin 8"
+                     /protein_id="CAA04656.1"
+                     /db_xref="GI:2370337"
+                     /db_xref="GOA:O42434"
+                     /db_xref="HSSP:1GK7"
+                     /db_xref="InterPro:IPR001664"
+                     /db_xref="InterPro:IPR003054"
+                     /db_xref="InterPro:IPR016044"
+                     /db_xref="InterPro:IPR018039"
+                     /db_xref="UniProtKB/TrEMBL:O42434"
+                     /translation="NSARGAPGQRNFSSFSYSSGGPAISRASTSAFTLGSGYGAESSA
+                     MATGLLQLGQHRGISTAVSVNQSLLAPLNLEIDPQIQQVRTEEKEQIKTLNNKFASFI
+                     DKVRFLEQQNKMLETKWNLLQNQKTTRSNMDSMFEAYINNLRRQLDNLGQEKHKLEAE
+                     LGNMQGMVEDFKNKYEDEINKRTEMENDFVLIKKDVDEAYMNKVQLESRLEGLTDEIN
+                     FLRQLYAEELNELQCQISDTSVVLSMDSNRKLDLDSIIADVKAQYEDIANKSRLEAEN
+                     MYQIKYQELQTSAGRYGDDLRNTKNEIAEMNRIINRLQSEIDALKNQRANLEAAIAEA
+                     EESVELAIKDARSKMAELEAALNKAKQDMARQLREYQELMNVKLALDIEIATYRKLLE
+                     GEENRLESGMQNMSIQTKTSGYSVSSGYGGSGYGGSGYGGSYSSGGYGGSGFGSGFGN
+                     TFSSGAYAVNAAPLESSRTKRTVLVKTVETKDGKVTSESSDFFTKP"
+ORIGIN      
+        1 aattcggcac gaggggctcc cggccagcgc aacttcagca gcttctcgta cagctccggg
+       61 gggccggcca tctcccgggc tagcacctct gccttcaccc tgggctccgg ctacggggcg
+      121 gaaagttcag ccatggctac cggactgcta cagctcgggc agcaccgggg gatcagcacg
+      181 gccgtcagcg tcaaccagag cctgctggcc cccttgaacc tcgagatcga cccccaaatc
+      241 cagcaggtgc gaaccgagga gaaggagcag atcaagaccc tcaacaacaa gttcgctagc
+      301 ttcatcgaca aggtgaggtt cttggaacag cagaacaaga tgctggagac taagtggaac
+      361 cttctccaga accaaaagac aacccgcagc aacatggaca gcatgtttga ggcctacatc
+      421 aacaacctgc ggcggcagct ggataacctg ggccaagaga agcacaaact ggaggcggag
+      481 ctggggaaca tgcagggcat ggtggaggac ttcaagaaca agtatgaaga tgaaattaac
+      541 aaacggacag agatggagaa tgactttgtt cttatcaaaa aagatgtgga tgaggcgtac
+      601 atgaacaagg tgcagctgga atcccgattg gaaggcctga ccgatgaaat caacttcttg
+      661 cgacagctct atgcggagga gctgaatgaa ctccagtgcc agatctcaga cacctccgtc
+      721 gtcctctcca tggacagcaa ccgcaaacta gacctggaca gcatcatcgc cgatgtcaag
+      781 gcgcagtatg aggacattgc caataagagc cggctggaag ctgagaacat gtaccaaatt
+      841 aagtatcagg agctgcagac ctccgctggc aggtatggag atgacctacg caacaccaag
+      901 aatgagattg cagagatgaa ccgcatcatc aaccggctgc agtctgaaat tgatgccctt
+      961 aaaaatcagc gtgccaacct tgaggcggcc atcgctgagg ctgaggaaag tgtagaactt
+     1021 gctatcaagg atgccaggtc taagatggcc gagctggagg cagcactgaa taaggccaag
+     1081 caagacatgg ctcgccagct gcgcgagtac caggagctga tgaacgtgaa gctcgccctg
+     1141 gacattgaga tcgccaccta caggaagctg ctggaaggag aggagaacag gttggaatcg
+     1201 ggtatgcaga acatgagcat tcagacgaag acttccggat attcagtgag cagcgggtat
+     1261 ggcggcagcg ggtatggcgg cagcgggtat gggggcagtt acagcagcgg tggatatggc
+     1321 ggcagcggct ttggatcagg attcggcaat acattctcga gtggagctta tgctgtgaat
+     1381 gctgccccgc tggagagctc caggacaaag cgcactgtcc tggtgaagac ggtggagacc
+     1441 aaagatggga aggtcacgtc cgagtcatcc gatttcttca ccaagccttg aataagccaa
+     1501 caaaacattt cactgattct aagtgccttc cgtcagctca gcctctcctg gcaagcaaag
+     1561 ccaattactc tgggacttag tttccgacag atattggcaa atgggagtac taaatccccc
+     1621 ttcataagga atgccccctc cagacacttg catccaatgt tgagtgttcc tcaatccgcc
+     1681 tgacgcaagg gcccactcgt cccgaatt
+//
+

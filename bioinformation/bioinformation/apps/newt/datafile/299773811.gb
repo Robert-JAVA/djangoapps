@@ -1,0 +1,58 @@
+LOCUS       GU982386                 658 bp    DNA     linear   VRT 14-JUL-2010
+DEFINITION  Triturus carnifex haplotype Tcar02 NADH dehydrogenase subunit 4
+            gene, partial cds; mitochondrial.
+ACCESSION   GU982386
+VERSION     GU982386.1  GI:299773811
+KEYWORDS    .
+SOURCE      mitochondrion Triturus carnifex (Italian crested newt)
+  ORGANISM  Triturus carnifex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N.A. and
+            Arntzen,J.W.
+  TITLE     Cryptic crested newt diversity at the Eurasian transition: the
+            mitochondrial DNA phylogeography of Near Eastern Triturus newts
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 888-896 (2010)
+   PUBMED   20435147
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wielstra,B., Themudo,G.E., Guclu,O., Olgun,K., Poyarkov,N. and
+            Arntzen,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) Terrestrial Zoology, Netherlands Centre for
+            Biodiversity - Naturalis, P. O. Box 9517, Leiden 2300 RA, The
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Triturus carnifex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8326"
+                     /haplotype="Tcar02"
+     CDS             <1..>658
+                     /note="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADJ38976.1"
+                     /db_xref="GI:299773812"
+                     /translation="ILAAVLLKLGGYGIIRITMILTPLTKEMAHPFMILALWGIVMTS
+                     LICMRQTDLKSLIAYSSVSHMGLVIAAIMIQTPWSLTGAIVLMISHGLISSALFCLAN
+                     LNYERTHSRTLLLVRGAQAVLPLTATWWLIANLSNMALPPTLNLWGELTIMVSLFNWS
+                     PWTILITGLGALITASYTLYMFLMTQRGPTPPHLGQISPSHTREHFLLVMHLAPMLLL
+                     I"
+ORIGIN      
+        1 atcctagcag cagtattact caagcttgga ggatatggca ttattcgaat tactataatt
+       61 cttaccccat taacaaaaga aatagcacac ccgtttataa ttctagcctt atgagggatc
+      121 gtgataacga gcctaatttg catacgacaa acagacctta aatcactaat tgcatactcg
+      181 tctgtaagcc acataggcct agtcatcgcc gctattataa tccaaacacc gtgaagccta
+      241 acaggggcta ttgtcctaat aatctcacac gggcttattt catcagccct attttgcctg
+      301 gcaaacctaa attatgaacg aacacacagt cgaactctat tattagttcg gggggcccag
+      361 gcagtcctac cactaacggc aacctggtga ctcattgcaa atttatcaaa catagcactt
+      421 cccccaacgc taaatctctg aggagagctg acaatcatgg tctcgctgtt taactggtca
+      481 ccctgaacaa tcttaatcac tggcttgggg gccttaatta ctgcctctta taccctatac
+      541 atattcttaa taacacaacg aggcccaacc cccccacatc ttggccaaat tagcccatct
+      601 cacactcgag aacacttctt acttgtaata cacctagccc ctatactcct actaattc
+//
+

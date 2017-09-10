@@ -1,0 +1,65 @@
+LOCUS       DQ821233                 819 bp    DNA     linear   VRT 21-NOV-2007
+DEFINITION  Triturus cristatus isolate 972 cytochrome b (cytb) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ821233
+VERSION     DQ821233.1  GI:110704122
+KEYWORDS    .
+SOURCE      mitochondrion Triturus cristatus (warty newt)
+  ORGANISM  Triturus cristatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Triturus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     A Bayesian approach on molecules and behavior: reconsidering
+            phylogenetic and evolutionary patterns of the Salamandridae with
+            emphasis on Triturus newts
+  JOURNAL   J. Exp. Zool. B Mol. Dev. Evol. 308 (2), 139-162 (2007)
+   PUBMED   16969762
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Steinfartz,S., Vicario,S., Arntzen,J.W. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUN-2006) Department of Ecology and Evolutionary
+            Biology and Yale Institute for Biospheric Studies, Yale University,
+            Molecular Systematics and Conservation Genetics Laboratory, 21
+            Sachem Street, New Haven, CT 06511, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Triturus cristatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="972"
+                     /specimen_voucher="ZMA9199"
+                     /db_xref="taxon:8323"
+                     /country="United Kingdom"
+     gene            1..>819
+                     /gene="cytb"
+     CDS             1..>819
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ABG87981.1"
+                     /db_xref="GI:110704123"
+                     /translation="MAHTMRKTHPMLKIINDSFIDLPTPSNISYWWNFGSLLGVCLIT
+                     QILTGLFLAMHYTADTQSAFSSVAHICRDVNYGWLVRNIHANGASLFFVCIYMHIGRG
+                     LYYGSYMFKETWNIGVVLLFLVMATAFVGYVLPWGQMSFWGATVITNLLSAVPYLGDS
+                     LVQWIWGGFSVDKATLTRFFAFHFLFPFLIAGTSIVHLLFLHQTGSNNPTGISSNQDK
+                     ITFHPYFSYKDALGFLLMLLALMLISLLTPNLLEDPENFTPANSLVTPPHIQPEW"
+ORIGIN      
+        1 atggcccaca ctatacgaaa aactcaccct atactaaaaa ttattaacga ctcatttatt
+       61 gaccttccaa cgccatctaa tatctcatac tgatggaact tcggctctct tctaggagtg
+      121 tgcctaatta cacaaatcct cacaggacta tttctagcga tacactatac agcagacaca
+      181 caatcggcat tttcatctgt tgcccacatt tgccgagacg taaactacgg ctgactagta
+      241 cgaaacatcc acgctaacgg agcctcgcta ttttttgttt gcatctacat acacatcgga
+      301 cgcggcctgt attacggctc atacatattt aaagagactt gaaacattgg cgtagtctta
+      361 ctatttctgg tcatagccac tgccttcgtt gggtatgtcc tgccatgagg acaaatatca
+      421 ttttggggcg ccacagttat tactaacctt ctttcagctg ttccatattt aggagattct
+      481 cttgtccagt gaatctgggg gggcttctca gtagataagg caacactcac ccgatttttt
+      541 gcattccact tcctgttccc attcttaatt gcagggacta gcattgttca cctactcttc
+      601 ttacaccaaa cggggtcaaa caatccaaca ggcatctcct ctaaccagga caagatcacc
+      661 tttcatccat acttttccta taaagacgca ttaggatttc tactcatgct acttgcctta
+      721 atattaatct ctctcctcac accaaacctc ctcgaagacc cagaaaactt caccccagca
+      781 aactccttag ttaccccgcc ccacatccaa ccagaatga
+//
+

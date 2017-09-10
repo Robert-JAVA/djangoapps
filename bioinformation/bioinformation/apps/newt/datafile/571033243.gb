@@ -1,0 +1,49 @@
+LOCUS       KF031133                 441 bp    mRNA    linear   VRT 11-JAN-2014
+DEFINITION  Tylototriton verrucosus cathelicidin precursor, mRNA, complete cds.
+ACCESSION   KF031133
+VERSION     KF031133.1  GI:571033243
+KEYWORDS    .
+SOURCE      Tylototriton verrucosus (crocodile newt)
+  ORGANISM  Tylototriton verrucosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Tylototriton; Tylototriton.
+REFERENCE   1  (bases 1 to 441)
+  AUTHORS   Lixian,M. and Lai,R.
+  TITLE     A novel cathelicidin-like peptide from Tylototriton verrucosus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 441)
+  AUTHORS   Lixian,M. and Lai,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2013) Kuming Institute of Zoology, Chinese
+            Academy of Science, No. 32, East Jiaochang Road, Kunming, Yunnan
+            650223, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNA star v. V7.1
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /organism="Tylototriton verrucosus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:164973"
+                     /tissue_type="skin"
+     CDS             1..441
+                     /codon_start=1
+                     /product="cathelicidin precursor"
+                     /protein_id="AHF22104.1"
+                     /db_xref="GI:571033244"
+                     /translation="MELCLILTLVLGGTSVATSASFQKTHASSRDALIIAKAIEIYNR
+                     EPDLIYFKLFESDGSLEMPSSPEQLRFTIKETVCVNQMDNQHVDKCDFKDSGRVKDCR
+                     ATVSSVLEDDVIMVICDPVTAKTPVRRPRQTRKCVRQNNKRVCK"
+ORIGIN      
+        1 atggagctat gcctcatact cacactggtc cttggtggga cttcggtagc cacctcggcg
+       61 tccttccaaa agacccatgc aagtagccga gatgccttga tcatagccaa ggctatcgaa
+      121 atctacaacc gagagccgga tctaatttat ttcaaactct tcgagtctga cggcagtctg
+      181 gaaatgcctt ctagtcctga gcagctgcgg tttaccatta aggagacagt gtgtgttaat
+      241 cagatggaca accaacatgt agacaaatgt gacttcaagg actcaggaag agtgaaagac
+      301 tgcagagcaa ctgtctcctc tgtgcttgag gatgacgtaa tcatggtgat ttgtgatcca
+      361 gttacagcaa agactccagt aagaagacca aggcaaacaa gaaaatgtgt ccggcagaat
+      421 aacaaacgcg tgtgcaaata a
+//
+

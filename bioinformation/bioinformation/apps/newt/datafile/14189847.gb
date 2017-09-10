@@ -1,0 +1,89 @@
+LOCUS       AB051577                2251 bp    mRNA    linear   VRT 29-JUN-2001
+DEFINITION  Cynops pyrrhogaster mRNA for dynein intermediate chain, complete
+            cds.
+ACCESSION   AB051577
+VERSION     AB051577.1  GI:14189847
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Yamamoto,T., Matsuda,Y., Hikino,T., Nakayama,Y. and Abe,S.
+  TITLE     Cloning of dynein intermediate chain cDNA of the newt Cynops
+            pyrrhogaster
+  JOURNAL   DNA Res. 8 (2), 81-84 (2001)
+   PUBMED   11347905
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Yamamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2000) Takashi Yamamoto, Kumamoto University,
+            Faculty of Science; Kurokami 2 chome 39-1, Kumamoto, Kumamoto
+            860-8555, Japan (E-mail:tybig@gpo.kumamoto-u.ac.jp,
+            Tel:81-96-342-3430, Fax:81-96-342-3431)
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+                     /tissue_type="testis"
+     CDS             30..2114
+                     /codon_start=1
+                     /product="dynein intermediate chain"
+                     /protein_id="BAB55851.1"
+                     /db_xref="GI:14189848"
+                     /translation="MEIVYVYTRKRSEFGRQCNFSERPAELHVDILPDPGQAANYIDR
+                     NPCDMAIQCAYDMSEHEVNTERFEMVSRGINHVEGGWPKDVNPQEVEQTIRFRKKVEK
+                     DENYLNTMLQLGSVMEHCIKQNNAIDIYEEYFEEETTVEATDEAPSAKTVNVFRDPSE
+                     IKRTATHLSWHPDGGRKLAVAYSSIEFQRASKDMSYDSYIWDIENPTKPDLTLKPVSP
+                     LVCLEYNPKDSHILVGGCYNGQLTYWDTRKGGQPVELSIIEHSHRDPVYKVLWLQSKT
+                     GTECFSASTDGQVLWWDIRKMSEPTERLVLDITKKGNIDNALGAISLEFEPTMPTKFM
+                     VGTEQGMVISCNRKAKTPAEKIVNTYSGHHGPIYALQRNAFFPKNFMTLGDWTARIWS
+                     EDSRESSIMWTKYHMAYVSDGCWSPARPTVFFTTKLDGTLDVWDFLFKQNDPSLSLKV
+                     CDEPLYSCAFRRMDALLCGSKLGTTTLLEFSSGLWTLQRNEKNLATTMFERETKREKI
+                     LEARHREMRLKERSKSEQGKDDEKPEEKVEDNSDELVAEAEKEFFELLNAEMKKTEEE
+                     EAKKKADAAEKAIMEQKLSEEIKEESLEQKPEEPVKKEDLEQKPEEPVKKESLEQKPE
+                     EPAKKESLEQKPEEPAKKEDLEQKPEEPVKKEDLEQKPEEPVKKESLEQKPEEPAKKE
+                     SLEQKPEEPVKT"
+ORIGIN      
+        1 gcgtagaggg gctttgggag gcaggcacca tggagatagt ctacgtttac acgagaaaaa
+       61 ggagcgaatt tggccggcag tgcaacttct ccgagcggcc agccgagctc catgttgaca
+      121 tacttccaga tccaggccag gctgccaact atattgacag aaatccatgc gacatggcaa
+      181 tccagtgtgc atatgatatg tctgaacatg aggtcaacac cgaaaggttt gagatggttt
+      241 cgcgaggcat taatcacgta gaaggtggat ggcctaaaga cgtcaaccca caagaagtgg
+      301 agcaaaccat ccgtttccgg aaaaaagtgg agaaagatga gaattacctt aacaccatgc
+      361 tacaactggg cagtgtaatg gagcactgca tcaagcagaa caatgccatt gatatctatg
+      421 aggagtactt cgaggaggag acaactgtag aggcaacaga cgaagccccc tctgcaaaaa
+      481 ctgtcaatgt gttcagggat cccagtgaga tcaagagaac agccactcat ctttcctggc
+      541 atccagatgg gggccggaaa ttggctgtgg catattcttc aatcgagttc cagcgggcat
+      601 ccaaagatat gagctacgac tcctacatct gggacatcga gaaccccacc aagccggacc
+      661 taacactgaa gccagtctca cccctggtgt gcctcgagta caaccccaag gactctcata
+      721 ttctggtcgg cggctgctac aatggacagc taacctactg ggacacccgc aaaggaggac
+      781 agccagtcga actctccatc atagagcaca gtcatagaga ccctgtctac aaagtccttt
+      841 ggctgcagtc caaaactggg acagagtgtt tttcagcatc tactgatgga caggtcttgt
+      901 ggtgggatat ccggaagatg agtgagccaa cagaaagact ggtccttgac atcaccaaga
+      961 agggtaatat agacaatgcc ctaggagcaa tctcactgga gtttgaaccc accatgccaa
+     1021 ccaagttcat ggtagggact gagcagggaa tggtgatatc ctgtaaccgc aaagcgaaga
+     1081 cgcctgctga gaaaattgtg aacacctaca gtggtcacca tggcccgatt tatgcattgc
+     1141 agaggaacgc cttcttccct aagaacttca tgacgttagg agactggaca gcacggatat
+     1201 ggtcagaaga cagtcgagag tcttccatca tgtggaccaa gtaccacatg gcatatgtca
+     1261 gcgatggctg ttggagccct gcaagaccca cagtcttctt caccaccaag ctggatggaa
+     1321 ccctcgatgt ctgggacttc ctcttcaaac agaacgaccc ctcgctgagt ctgaaggtgt
+     1381 gtgatgaacc tctctacagc tgcgcattca ggagaatgga cgcattactc tgcggctcca
+     1441 agctagggac cacaacactg ctagaattct cctctggact ctggacccta cagaggaacg
+     1501 agaagaacct cgccacaaca atgtttgagc gggagaccaa gcgggagaag atcctggaag
+     1561 cccggcacag ggagatgaga ctgaaggagc gcagtaaatc tgagcagggc aaggacgatg
+     1621 agaagcctga agagaaggtg gaagataaca gtgatgaact tgtagccgag gccgaaaagg
+     1681 agttctttga attactaaac gctgagatga agaagacgga ggaagaggag gccaagaaga
+     1741 aggcagatgc ggcagagaag gcgattatgg aacagaagtt gtctgaagaa ataaaggagg
+     1801 aaagcttaga acagaagcca gaggagccag taaagaagga agacttagaa cagaagccag
+     1861 aggagccagt gaagaaggaa agcttagaac agaagccaga ggagccagcg aagaaggaaa
+     1921 gcttagaaca gaagccagag gagccagcga agaaggaaga cttagaacag aagccagagg
+     1981 agccagtgaa gaaggaagac ttagaacaga agccagagga gccagttaag aaggaaagct
+     2041 tagaacagaa gccagaggag ccagcgaaga aggaaagctt agaacagaag ccagaggagc
+     2101 cagtgaagac ataacatcga ggagcagacg gagctagccc gcagtacaca cggagcagca
+     2161 ctaatttatt ttcttacaat gtattttatt cacgcttagc tttttatagt aattgacaca
+     2221 acaaataaaa tgtgtttctg cttcaaaaaa a
+//
+

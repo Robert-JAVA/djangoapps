@@ -1,0 +1,54 @@
+LOCUS       AB201823                 578 bp    mRNA    linear   VRT 25-JUN-2009
+DEFINITION  Cynops pyrrhogaster Wnt3 mRNA for Newt wingless-type MMTV
+            integration site family, member 3, partial cds.
+ACCESSION   AB201823
+VERSION     AB201823.1  GI:118197081
+KEYWORDS    .
+SOURCE      Cynops pyrrhogaster (Japanese firebelly newt)
+  ORGANISM  Cynops pyrrhogaster
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Cynops.
+REFERENCE   1
+  AUTHORS   Hayashi,T., Mizuno,N., Takada,R., Takada,S. and Kondoh,H.
+  TITLE     Determinative role of Wnt signals in dorsal iris-derived lens
+            regeneration in newt eye
+  JOURNAL   Mech. Dev. 123 (11), 793-800 (2006)
+   PUBMED   17030116
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Hayashi,T., Mizuno,N. and Kondoh,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2005) Contact:Toshinori Hayashi University of
+            Washington, Medicine at South Lake Union; 815 Mercer Street, Room
+            S541, Seattle, WA 98109, USA
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /organism="Cynops pyrrhogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8330"
+     gene            <1..>578
+                     /gene="Wnt3"
+     CDS             <1..>578
+                     /gene="Wnt3"
+                     /codon_start=3
+                     /product="Newt wingless-type MMTV integration site family,
+                     member 3"
+                     /protein_id="BAF37015.1"
+                     /db_xref="GI:118197082"
+                     /translation="EGWKWGGCSEDAEFGVLVSREFADARENRPDARSAMNRHNNEAG
+                     RTTILDHLHLKSKCHGLSGSCEVKTCWWAQPDFRTIGDYLKDKYDSASEMAVEKHRES
+                     RGWVETLRARYALYKPPTERDLVYYEVSPNFCEPNPETGVLRDEGQDMQCNLPWNRWL
+                     RPALLRSGTQHENREAQREVPLHLPLVLLRQQ"
+ORIGIN      
+        1 ccgagggttg gaagtggggc ggctgcagtg aagatgctga gtttggtgtg ctcgtgtcca
+       61 gagagttcgc tgatgcccgg gagaaccgcc cagatgcccg ctccgccatg aaccggcaca
+      121 acaatgaggc aggcagaacg acaatcttag atcacctgca tttaaagagc aaatgtcacg
+      181 gcctctccgg gagctgtgag gtgaaaacct gctggtgggc tcaacccgac ttccggacga
+      241 ttggcgacta tctcaaggac aagtacgaca gcgcttcaga gatggcagtg gaaaagcaca
+      301 gagagtctcg cggatgggtg gagactctcc gggcaaggta tgccctctac aagcctccaa
+      361 ctgagcgaga cttggtctac tacgaagttt ctcccaactt ctgtgagccc aacccagaaa
+      421 caggggtcct tcgggacgaa ggacaggaca tgcaatgtaa cctcccatgg aatcgatggc
+      481 tgcgacctgc tctgctgcgg tcggggacac aacacgagaa cagagaagcg caaagagaag
+      541 tgccactgca tctcccactg gtgctgctac gtcagcaa
+//
+
