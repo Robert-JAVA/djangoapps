@@ -13,11 +13,12 @@ from bioinformation.apps.newt.models import tb_Protein, tb_GeneSq, tb_user, tb_G
     tb_region, tb_cds, tb_count
 from django.http import HttpResponse
 from bioinformation.util import DateUtils
+from bioinformation import settings
 # from test.test_multiprocessing import _file_like
 # from test.test_codecs import RecodingTest
 # Create your views here.
 def index(req):
-    return render_to_response("main.html", {});
+    return render_to_response("newt/main.html", {});
 def top(req):
     addr = req.META['REMOTE_ADDR'];
     req.session["IP"] = addr;
@@ -32,27 +33,27 @@ def top(req):
         ipcount.save();
     cp = list(tb_count.objects.all());
     req.session["count"] = len(cp);
-    return render_to_response("index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+    return render_to_response("newt/index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def bottom(req):
     hour = time.localtime().tm_hour
     if hour % 2 == 0:
         music = "I Am You.mp3"
     if hour % 2 != 0 :
         music = "Stan.mp3"
-    return render_to_response("music.html", {"music":music});
+    return render_to_response("newt/music.html", {"music":music});
 def login_view(req):
-    return render_to_response("services.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+    return render_to_response("newt/services.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def register_view(req):
-     return render_to_response("contact.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+     return render_to_response("newt/contact.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def about(req):
-     return render_to_response("about.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+     return render_to_response("newt/about.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def download_view(req):
     m = list(tb_Protein.objects.all());
     k = list(tb_GeneSq.objects.all());
     num = 1;
     k.extend(m);
     if len(k) == 0:
-        return render_to_response("noResult.html", {"all":"all", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+        return render_to_response("newt/noResult.html", {"all":"all", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
     if req.REQUEST.get("page") is  not  None:
         num = req.REQUEST.get("page");
     database = req.REQUEST.get("database");
@@ -67,7 +68,7 @@ def download_view(req):
         k = list(tb_GeneSq.objects.filter(Q(description__icontains=keywords)));
         k.extend(m);
         if len(k) == 0:
-             return render_to_response("noResult.html", {"all":"all", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+             return render_to_response("newt/noResult.html", {"all":"all", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         for k1 in k:
             k1.user_id = len(k1.origin);
         p = Paginator(k, 10);
@@ -83,11 +84,11 @@ def download_view(req):
             else:
                 num = p.num_pages;
         pg = p.page(num);
-        return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "all":"all", "database":"all", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+        return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "all":"all", "database":"all", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
     if database == "gene":
         k = list(tb_GeneSq.objects.filter(Q(description__icontains=keywords)));
         if len(k) == 0:
-             return render_to_response("noResult.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+             return render_to_response("newt/noResult.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         for k1 in k:
             k1.user_id = len(k1.origin);
         p = Paginator(k, 10);
@@ -104,11 +105,11 @@ def download_view(req):
                 num = p.num_pages;
         pg = p.page(num);
         m = pg.object_list;
-        return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "gene":"gene", "database":"gene", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+        return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "gene":"gene", "database":"gene", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
     if database == "protein":
         k = list(tb_Protein.objects.filter(Q(description__icontains=keywords)));
         if len(k) == 0:
-             return render_to_response("noResult.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+             return render_to_response("newt/noResult.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         for k1 in k:
             k1.user_id = len(k1.origin);
         p = Paginator(k, 10);
@@ -124,13 +125,13 @@ def download_view(req):
             else:
                 num = p.num_pages;
         pg = p.page(num);
-        return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "protein":"protein", "database":"protein", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+        return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":num, "protein":"protein", "database":"protein", "ind":pg.start_index(), "keywords":keywords, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def upload_view(req):
     m = req.session.get("username");
     if m == None:
-        return render_to_response("index.html", {"ERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+        return render_to_response("newt/index.html", {"ERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
     else:
-            return render_to_response("uploadview.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/uploadview.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def register(req):
     reload(sys)
     sys.defaultencoding = 'utf-8'
@@ -142,7 +143,7 @@ def register(req):
         if user.name == "" or user.email == "" or req.REQUEST['password'] == "" or req.REQUEST['password1'] == "":
             return render_to_response("contact.html", {"REGISTERERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         user.save();
-    return render_to_response("index.html", {"REGISTERSUCCESS":"YES", "ContextPath":(req.META['HTTP_HOST'] + "/newt/"), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+    return render_to_response("newt/index.html", {"REGISTERSUCCESS":"YES", "ContextPath":(req.META['HTTP_HOST'] + "/newt/"), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def login(req):
     reload(sys)
     sys.defaultencoding = 'utf-8'
@@ -152,41 +153,41 @@ def login(req):
         try:
             usr = tb_user.objects.get(name=username, password=passwd);
         except:
-            return render_to_response("services.html", {"LOGINERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/services.html", {"LOGINERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         if usr.name != None:
             req.session['userid'] = usr.id;
             req.session['username'] = username;
-            return render_to_response("index.html", {"LOGINSUCCESS":"YES", "ContextPath":(req.META['HTTP_HOST'] + "/newt/"), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/index.html", {"LOGINSUCCESS":"YES", "ContextPath":(req.META['HTTP_HOST'] + "/newt/"), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         else:
-                return render_to_response("index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def exit(req):
     try:
         del req.session['username'];
         del req.session["userid"]
     except:
-            return render_to_response("index.html", {"EXIT":"NO", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
-    return render_to_response("index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/index.html", {"EXIT":"NO", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+    return render_to_response("newt/index.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def upload(req):
     if req.method == "POST":
         resourcetype = req.REQUEST['resourcetype'];
         filetype = req.REQUEST['filetype'];
         upload_file = req.FILES.get("filename");
         if resourcetype == "" or filetype == "" or upload_file is None:
-            return render_to_response("uploadview.html", {"UPLOADERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/uploadview.html", {"UPLOADERROR":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         elif resourcetype == "dna":
                 try:
                     record = SeqIO.read(upload_file, "genbank");
                 except:
-                    return render_to_response("uploadview.html", {'FORMATERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                    return render_to_response("newt/uploadview.html", {'FORMATERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
                 m = record.annotations.get('gi');
                 try:
                     result = tb_GeneSq.objects.get(gi=m);
                 except:
                     result = None;
                 if result is not None:
-                    return  render_to_response("uploadview.html", {'MESSAGEERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                    return  render_to_response("newt/uploadview.html", {'MESSAGEERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
                 path = os.path.dirname(__file__)
-                ms = file(path + "/datafile/" + record.annotations.get('gi') + ".gb", "wb");
+                ms = file(path + settings.MEDIA_ROOT + "datafile/" + record.annotations.get('gi') + ".gb", "wb");
                 for chunk in upload_file.chunks():
                     ms.write(chunk)
                 ms.close();
@@ -279,21 +280,21 @@ def upload(req):
                     regulutory.regulutory_class = record.features[6].qualifiers.get('regulatory_class')
                     regulutory.sequence_id = record.id;
                     regulutory.save();
-                return render_to_response("uploadview.html", {"UPLOADSUCCESS":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/uploadview.html", {"UPLOADSUCCESS":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         elif resourcetype == "protein":
                try:
                 record = SeqIO.read(upload_file, "genbank");
                except:
-                 return render_to_response("uploadview.html", {'FORMATERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                 return render_to_response("newt/uploadview.html", {'FORMATERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
                m = record.annotations.get('gi');
                try:
                     result = tb_Protein.objects.get(gi=m);
                except:
                     result = None;
                if result is not None:
-                 return render_to_response("uploadview.html", {'MESSAGEERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                 return render_to_response("newt/uploadview.html", {'MESSAGEERROR':'YES', "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
                path = os.path.dirname(__file__);
-               ms = file(path + "/datafile/" + record.annotations.get('gi') + ".gp", "wb");
+               ms = file(path + settings.MEDIA_ROOT + "datafile/" + record.annotations.get('gi') + ".gp", "wb");
                for chunk in upload_file.chunks():
                     ms.write(chunk)
                ms.close();
@@ -366,7 +367,7 @@ def upload(req):
                    cds.end = record.features[3].location.start.position
                    cds.sequence_id = record.id
                    cds.save();
-               return render_to_response("uploadview.html", {"UPLOADSUCCESS":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+               return render_to_response("newt/uploadview.html", {"UPLOADSUCCESS":"YES", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def search(req):
     if req.method == "POST":
         database = req.REQUEST['database'];
@@ -376,44 +377,44 @@ def search(req):
             protein = list(tb_Protein.objects.filter(Q(description__icontains=value)));
             gen.extend(protein);
             if len(gen) == 0:
-                return render_to_response("noResult.html", {"all":"all", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/noResult.html", {"all":"all", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
             for k1 in gen:
                 k1.user_id = len(k1.origin);
             p = Paginator(gen, 10);
             pg = p.page(1);
-            return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "all":"all", "database":"all", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "all":"all", "database":"all", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         elif database == "gene":
             gen = list(tb_GeneSq.objects.filter(Q(description__icontains=value)));
             if len(gen) == 0:
-                return render_to_response("noResult.html", {"gene":"gene", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/noResult.html", {"gene":"gene", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
             for k1 in gen:
                 k1.user_id = len(k1.origin);
             p = Paginator(gen, 10);
             pg = p.page(1);
-            return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "gene":"gene", "database":"gene", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "gene":"gene", "database":"gene", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         elif database == "protein":
              protein = list(tb_Protein.objects.filter(Q(description__icontains=value)));
              if len(protein) == 0:
-                 return render_to_response("noResult.html", {"protein":"protein", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                 return render_to_response("newt/noResult.html", {"protein":"protein", "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
              for k1 in protein:
                 k1.user_id = len(k1.origin);
              p = Paginator(protein, 10);
              pg = p.page(1);
-             return render_to_response("download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "protein":"protein", "database":"protein", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+             return render_to_response("newt/download.html", {"list_gene": pg.object_list, "currentPage":pg.number, "pageCount":p.num_pages, "count":p.count, "perPage":p.per_page, "list_num":p.page_range, "current_num":1, "protein":"protein", "database":"protein", "ind":pg.start_index(), "keywords":value, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def download_GenBank(req):
     if req.method == "GET":
         name = req.REQUEST['name'];
         format = req.REQUEST['format'];
         try:
             if format == "gene":
-                fl = open(os.path.dirname(__file__) + "/datafile/" + name + ".gb");
+                fl = open(settings.MEDIA_ROOT + "datafile/" + name + ".gb");
             if format == "protein":
-                fl = open(os.path.dirname(__file__) + "/datafile/" + name + ".gp");
+                fl = open(settings.MEDIA_ROOT + "datafile/" + name + ".gp");
         except:
             if format == "gene":
-                return render_to_response("error.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
+                return render_to_response("newt/error.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
             if format == "protein":
-                return render_to_response("error.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
+                return render_to_response("newt/error.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
         data = fl.read();
         if format == "gene":
             filename = "sequence.gb";
@@ -429,18 +430,18 @@ def download_FASTA(req):
         format = req.REQUEST['format'];
         if format == "gene":
             try:
-                SeqIO.convert(os.path.dirname(__file__) + "/datafile/" + name + ".gb", "genbank", os.path.dirname(__file__) + "/fasta/sequence.fna", "fasta")
+                SeqIO.convert(settings.MEDIA_ROOT + "datafile/" + name + ".gb", "genbank", settings.MEDIA_ROOT + "fasta/sequence.fna", "fasta")
             except:
-                return render_to_response("error.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/error.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         if format == "protein":
             try:
-                SeqIO.convert(os.path.dirname(__file__) + "/datafile/" + name + ".gp", "genbank", os.path.dirname(__file__) + "/fasta/sequence.fna", "fasta")
+                SeqIO.convert(settings.MEDIA_ROOT + "datafile/" + name + ".gp", "genbank", settings.MEDIA_ROOT + "fasta/sequence.fna", "fasta")
             except:
-                return render_to_response("error.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/error.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         try:
-            fl = open(os.path.dirname(__file__) + "/fasta/sequence.fna");
+            fl = open(settings.MEDIA_ROOT + "fasta/sequence.fna");
         except:
-            return render_to_response("error.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/error.html", {"username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         data = fl.read();
         filename = "sequence.fna";
         fl.close();
@@ -454,11 +455,11 @@ def fasta_view(req):
         if format == "gene":
             gene = tb_GeneSq.objects.get(gi=name);
             leg = len(gene.origin)
-            return render_to_response("fasta.html", {"sequence":gene, "gene":"gene", "length":leg, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/fasta.html", {"sequence":gene, "gene":"gene", "length":leg, "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         if format == "protein":
             protein = tb_Protein.objects.get(gi=name);
             leg = len(protein.origin)
-            return render_to_response("fasta.html", {"sequence":protein, "length":leg, "protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/fasta.html", {"sequence":protein, "length":leg, "protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
 def genbank_view(req):
     if req.method == "GET":
         name = req.REQUEST['name'];
@@ -468,24 +469,24 @@ def genbank_view(req):
         if fmat == "gene":
             gen = tb_GeneSq.objects.get(gi=name);
             try:
-                sequence = SeqIO.read(os.path.dirname(__file__) + "/datafile/" + name + ".gb", "genbank");
+                sequence = SeqIO.read(settings.MEDIA_ROOT + "datafile/" + name + ".gb", "genbank");
                 an = sequence.annotations;
                 features = sequence.features;
             except:
-                return render_to_response("noResult.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
+                return render_to_response("newt/noResult.html", {"gene":"gene", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
             if len(sequence.features) > 4:
                 if  sequence.features[4].qualifiers.has_key("protein_id"):
                     if len(sequence.features[4].qualifiers.get('protein_id')) >= 1:
                         protein_id = sequence.features[4].qualifiers.get('protein_id')[0];
                         protein_gi = tb_Protein.objects.get(sequence_id=protein_id).gi;
-                        return render_to_response("genbank.html", {"sequence":gen, "sequence_annotations":an, "sequence_features":features, "format":fmat, "protein_id":protein_gi, "gene":"gene", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
-            return render_to_response("genbank.html", {"sequence":gen, "sequence_annotations":an, "sequence_features":features, "format":fmat, "gene":"gene", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                        return render_to_response("newt/genbank.html", {"sequence":gen, "sequence_annotations":an, "sequence_features":features, "format":fmat, "protein_id":protein_gi, "gene":"gene", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+            return render_to_response("newt/genbank.html", {"sequence":gen, "sequence_annotations":an, "sequence_features":features, "format":fmat, "gene":"gene", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
         if fmat == "protein":
             protein = tb_Protein.objects.get(gi=name)
             try:
-                sequence = SeqIO.read(os.path.dirname(__file__) + "/datafile/" + name + ".gp", "genbank");
+                sequence = SeqIO.read(settings.MEDIA_ROOT + "datafile/" + name + ".gp", "genbank");
                 an = sequence.annotations;
                 features = sequence.features;
             except:
-                return render_to_response("noResult.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
-            return render_to_response("Pgenbank.html", {"sequence":protein, "sequence_annotations":an, "sequence_features":features, "format":fmat, "protein":"protein", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+                return render_to_response("newt/noResult.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
+            return render_to_response("newt/Pgenbank.html", {"sequence":protein, "sequence_annotations":an, "sequence_features":features, "format":fmat, "protein":"protein", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});

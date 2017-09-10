@@ -2,7 +2,8 @@
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
-
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
 )
@@ -49,7 +50,7 @@ USE_L10N = True
 
 # Absolute filesystem path to the directory that will hold user-uploaded files.
 # Example: "/home/media/media.lawrence.com/media/"
-MEDIA_ROOT = ''
+MEDIA_ROOT = '/Users/zhangyapo/develope/code/bioinformation/media/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash.
@@ -76,6 +77,7 @@ STATICFILES_DIRS = (
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
+    os.path.join(BASE_DIR, "static"),
 )
 
 # List of finder classes that know how to find static files in
@@ -115,8 +117,7 @@ ROOT_URLCONF = 'bioinformation.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
+    os.path.join(BASE_DIR, 'templates').replace('\\','/'),
 )
 
 INSTALLED_APPS = (
