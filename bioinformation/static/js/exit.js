@@ -20,4 +20,10 @@ $(function(){
 		}
 		return true;
 	});
+	$("#index").click(function() {
+	    refresh();
+	});
+	function refresh(){
+	    window.location.reload();
+	}
 });

@@ -1,3 +1,4 @@
+# coding:utf-8
 # Django settings for Test project.
 
 DEBUG = True
@@ -129,6 +130,8 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'django.contrib.admindocs',
+    'rest_framework',
+    'rest_framework_swagger',
     'bioinformation.apps.newt',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
@@ -136,6 +139,27 @@ INSTALLED_APPS = (
     # 'django.contrib.admindocs',
 )
 
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAdminUser',
+    ],
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+    ),
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
+    ),
+    'DEFAULT_PERMISSION_CLASSES': [  
+        'rest_framework.permissions.AllowAny',
+    ],  
+  
+    #这里是关键  
+    'DEFAULT_AUTHENTICATION_CLASSES': (  
+        'rest_framework.authentication.BasicAuthentication',  
+        'rest_framework.authentication.SessionAuthentication',  
+    ),
+    'PAGE_SIZE': 10,
+}
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to
 # the site admins on every HTTP 500 error.

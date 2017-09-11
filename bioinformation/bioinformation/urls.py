@@ -1,18 +1,23 @@
+# coding:utf-8
 # Uncomment the next two lines to enable the admin:
 from django.contrib import admin
-from django.conf.urls import patterns, include, url  # @UnresolvedImport
+from django.conf.urls import patterns, include, url
+from rest_framework_swagger.views import get_swagger_view
 admin.autodiscover()
-
+schema_view = get_swagger_view(title='可用的Restful API')
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'Test.views.home', name='home'),
     # url(r'^Test/', include('Test.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
-    # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-
+    
     # Uncomment the next line to enable the admin:
+    url(r'^api-doc/$', schema_view),
+    url(r'^getUserList/$', 'bioinformation.apps.newt.views.getUserList'),
+    url(r'^setUser/$', 'bioinformation.apps.newt.views.setUser'),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
     url(r'^$','bioinformation.apps.newt.views.index'),
     url(r'^index/$','bioinformation.apps.newt.views.index'),
     url(r'^top/$','bioinformation.apps.newt.views.top'),

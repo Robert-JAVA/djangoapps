@@ -14,6 +14,9 @@ from bioinformation.apps.newt.models import tb_Protein, tb_GeneSq, tb_user, tb_G
 from django.http import HttpResponse
 from bioinformation.util import DateUtils
 from bioinformation import settings
+from rest_framework.decorators import api_view, permission_classes
+from rest_framework.response import Response
+from rest_framework import permissions
 # from test.test_multiprocessing import _file_like
 # from test.test_codecs import RecodingTest
 # Create your views here.
@@ -490,3 +493,32 @@ def genbank_view(req):
             except:
                 return render_to_response("newt/noResult.html", {"protein":"protein", "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")})
             return render_to_response("newt/Pgenbank.html", {"sequence":protein, "sequence_annotations":an, "sequence_features":features, "format":fmat, "protein":"protein", "length":len(sequence.seq), "username":req.session.get("username"), "addr":req.session.get("IP"), "ipcount":req.session.get("count")});
+
+@api_view(http_method_names=['GET'])
+def getUserList(request):
+    '''
+        获取用户列表
+        
+    '''
+    return Response([  
+        {"name":"admin","password":"123"},  
+        {"name":"auditor","password":"456"},  
+])  
+ 
+@api_view(http_method_names=['POST'])
+def setUser(request):
+    '''
+        设置用户
+      parameters:
+              name: source
+              description: file
+              required: True
+             type: file
+    Response Messages:
+             code: 201
+             message: Created
+    '''
+    return Response({
+        "data":request.data,  
+        "test":"111"  
+    })  
